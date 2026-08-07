@@ -1,7 +1,7 @@
 # PA Journal Digest
 
 매일 미국 동부시간 오전 7:30에 주요 행정학 저널의 최근 온라인 출간 논문을 확인하고,
-새 논문이 있을 때만 영문 초록과 한국어 1–2문장 요약을 이메일로 보냅니다.
+새 논문이 있을 때만 저자·공개 소속 정보, 영문 초록, 한국어 1–2문장 요약을 이메일로 보냅니다.
 
 ## Monitored journals
 
@@ -24,7 +24,7 @@
 ## How it works
 
 1. Crossref에서 각 저널의 ISSN과 최근 7일 출간일을 기준으로 논문을 찾습니다.
-2. Crossref에 초록이 없으면 Semantic Scholar와 OpenAlex에서 공개 초록을 확인합니다.
+2. Crossref에 초록이나 저자 소속이 없으면 Semantic Scholar와 OpenAlex의 공개 메타데이터를 확인합니다.
 3. 명백한 서평, 정정, 철회, 목차, 편집자 서문은 제외합니다.
 4. OpenAI가 초록에 근거한 한국어 요약을 생성합니다. 초록이 없으면 제목 기반임을 명시합니다.
 5. Resend가 HTML 및 일반 텍스트 뉴스레터를 발송합니다.
@@ -98,4 +98,3 @@ pytest
 ```bash
 pa-digest prepare --dry-run --lookback-days 7
 ```
-

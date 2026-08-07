@@ -28,6 +28,7 @@ class Article(BaseModel):
     journal: str
     journal_short: str
     authors: list[str] = Field(default_factory=list)
+    author_affiliations: dict[str, list[str]] = Field(default_factory=dict)
     publication_date: date
     url: str
     abstract: str | None = None
@@ -49,6 +50,7 @@ class Article(BaseModel):
             "journal": self.journal,
             "journal_short": self.journal_short,
             "authors": self.authors,
+            "author_affiliations": self.author_affiliations,
             "publication_date": self.publication_date.isoformat(),
             "url": self.url,
         }
@@ -62,4 +64,3 @@ class PreparedBatch(BaseModel):
     subject: str
     html: str
     text: str
-

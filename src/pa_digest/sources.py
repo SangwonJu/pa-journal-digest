@@ -64,13 +64,21 @@ def publication_date(message: dict[str, Any]) -> date | None:
     return None
 
 
-def author_names(message: dict[str, Any]) -> list[str]:
+def author_details(message: dict[str, Any]) -> tuple[list[str], dict[str, list[str]]]:
     names: list[str] = []
+    affiliations: dict[str, list[str]] = {}
     for author in message.get("author", []):
         name = " ".join(filter(None, [author.get("given"), author.get("family")])).strip()
         if name:
             names.append(name)
-    return names
+            institutions = [
+                " ".join(str(item.get("name", "")).split())
+                for item in author.get("affiliation", [])
+                if item.get("name")
+            ]
+            if institutions:
+                affiliations[name] = list(dict.fromkeys(institutions))
+    return names, affiliations
 
 
 class MetadataClient:
@@ -105,8 +113,11 @@ class MetadataClient:
                 found.setdefault(article.stable_id, article)
         articles = sorted(found.values(), key=lambda item: (item.journal, item.publication_date, item.title))
         for article in articles:
-            if not article.abstract and article.doi:
-                self.enrich_abstract(article)
+            if article.doi and (
+                not article.abstract
+                or any(author not in article.author_affiliations for author in article.authors)
+            ):
+                self.enrich_metadata(article)
         return articles
 
     def _crossref_journal(self, journal: Journal, start: date, end: date) -> list[Article]:
@@ -144,14 +155,19 @@ class MetadataClient:
                 journal = JOURNAL_BY_NAME.get(str(record["journal"]))
                 article = self._article_from_crossref(response.json()["message"], expected_journal=journal)
                 if article:
-                    if not article.abstract:
-                        self.enrich_abstract(article)
+                    if not article.abstract or any(
+                        author not in article.author_affiliations for author in article.authors
+                    ):
+                        self.enrich_metadata(article)
                     return article
             except (httpx.HTTPError, KeyError, ValueError):
                 pass
         article = Article.model_validate(record)
-        if not article.abstract and article.doi:
-            self.enrich_abstract(article)
+        if article.doi and (
+            not article.abstract
+            or any(author not in article.author_affiliations for author in article.authors)
+        ):
+            self.enrich_metadata(article)
         return article
 
     def _article_from_crossref(
@@ -169,29 +185,31 @@ class MetadataClient:
             return None
         doi = normalize_doi(item.get("DOI"))
         url = item.get("URL") or (f"https://doi.org/{doi}" if doi else "")
+        authors, author_affiliations = author_details(item)
         return Article(
             doi=doi,
             title=clean_markup(str(titles[0])) or str(titles[0]),
             journal=journal.name,
             journal_short=journal.short_name,
-            authors=author_names(item),
+            authors=authors,
+            author_affiliations=author_affiliations,
             publication_date=pub_date,
             url=url,
             abstract=clean_markup(item.get("abstract")),
             abstract_source="Crossref" if item.get("abstract") else None,
         )
 
-    def enrich_abstract(self, article: Article) -> None:
+    def enrich_metadata(self, article: Article) -> None:
         if not article.doi:
             return
-        abstract = self._semantic_scholar_abstract(article.doi)
-        source = "Semantic Scholar"
-        if not abstract:
-            abstract = self._openalex_abstract(article.doi)
-            source = "OpenAlex"
+        abstract = self._semantic_scholar_abstract(article.doi) if not article.abstract else None
         if abstract:
             article.abstract = clean_markup(abstract)
-            article.abstract_source = source
+            article.abstract_source = "Semantic Scholar"
+        if not article.abstract or any(
+            author not in article.author_affiliations for author in article.authors
+        ):
+            self._apply_openalex_metadata(article)
 
     def _semantic_scholar_abstract(self, doi: str) -> str | None:
         try:
@@ -203,20 +221,62 @@ class MetadataClient:
         except (httpx.HTTPError, KeyError, ValueError):
             return None
 
-    def _openalex_abstract(self, doi: str) -> str | None:
-        params = {"select": "abstract_inverted_index"}
+    def _apply_openalex_metadata(self, article: Article) -> None:
+        if not article.doi:
+            return
+        params = {"select": "abstract_inverted_index,authorships"}
         api_key = os.getenv("OPENALEX_API_KEY")
         if api_key:
             params["api_key"] = api_key
         try:
-            response = self._get(f"{OPENALEX_API}/works/doi:{quote(doi, safe='')}", params=params)
-            inverted = response.json().get("abstract_inverted_index")
-            if not inverted:
-                return None
-            positioned = sorted(
-                ((position, word) for word, positions in inverted.items() for position in positions),
-                key=lambda item: item[0],
+            response = self._get(
+                f"{OPENALEX_API}/works/doi:{quote(article.doi, safe='')}", params=params
             )
-            return " ".join(word for _, word in positioned)
+            payload = response.json()
+            if not article.abstract:
+                abstract = abstract_from_inverted_index(payload.get("abstract_inverted_index"))
+                if abstract:
+                    article.abstract = abstract
+                    article.abstract_source = "OpenAlex"
+            apply_openalex_affiliations(article, payload.get("authorships") or [])
         except (httpx.HTTPError, KeyError, TypeError, ValueError):
-            return None
+            return
+
+
+def abstract_from_inverted_index(inverted: dict[str, list[int]] | None) -> str | None:
+    if not inverted:
+        return None
+    positioned = sorted(
+        ((position, word) for word, positions in inverted.items() for position in positions),
+        key=lambda item: item[0],
+    )
+    return " ".join(word for _, word in positioned)
+
+
+def _normalized_person_name(value: str) -> str:
+    return re.sub(r"[^a-z0-9]", "", value.casefold())
+
+
+def apply_openalex_affiliations(article: Article, authorships: list[dict[str, Any]]) -> None:
+    exact = {_normalized_person_name(author): author for author in article.authors}
+    by_family: dict[str, list[str]] = {}
+    for author in article.authors:
+        family = _normalized_person_name(author.split()[-1])
+        by_family.setdefault(family, []).append(author)
+    for authorship in authorships:
+        openalex_name = str(authorship.get("author", {}).get("display_name", "")).strip()
+        if not openalex_name:
+            continue
+        matched = exact.get(_normalized_person_name(openalex_name))
+        if not matched:
+            candidates = by_family.get(_normalized_person_name(openalex_name.split()[-1]), [])
+            matched = candidates[0] if len(candidates) == 1 else None
+        if not matched or article.author_affiliations.get(matched):
+            continue
+        institutions = [
+            " ".join(str(institution.get("display_name", "")).split())
+            for institution in authorship.get("institutions", [])
+            if institution.get("display_name")
+        ]
+        if institutions:
+            article.author_affiliations[matched] = list(dict.fromkeys(institutions))
