@@ -32,26 +32,27 @@ SUMMARY_SCHEMA = {
         "method": {
             "type": "string",
             "enum": [
-                "현장실험",
-                "설문실험",
-                "실험(기타)",
+                "서베이",
+                "실험",
                 "준실험",
-                "정량 관찰연구",
-                "정성연구",
-                "혼합방법",
-                "비교·사례연구",
-                "이론·개념연구",
-                "문헌검토",
+                "질적연구",
+                "혼합방법론",
+                "이론/개념",
                 "방법 미상",
             ],
+        },
+        "method_detail": {
+            "type": "string",
+            "maxLength": 30,
         },
         "constructs": {
             "type": "array",
             "items": {"type": "string"},
+            "minItems": 1,
             "maxItems": 2,
         },
     },
-    "required": ["summary_ko", "topic_area", "method", "constructs"],
+    "required": ["summary_ko", "topic_area", "method", "method_detail", "constructs"],
     "additionalProperties": False,
 }
 
@@ -68,7 +69,11 @@ class ArticleSummarizer:
                 "Write a faithful Korean summary in one or two concise sentences. "
                 "State the research question, approach, and principal finding only when the abstract supports them. "
                 "Do not add facts, evaluation, or background knowledge. Classify one primary topic area and one "
-                "research method using the schema labels. Extract zero to two short, established constructs or "
+                "research method using exactly one schema label. Use Survey only when survey data are explicit. "
+                "Use Theory/Concept for theoretical, conceptual, or review articles. In method_detail, give the "
+                "specific design or analytic approach in two or three short Korean words (examples: 패널 설문, "
+                "설문 실험, 이중차분, 심층 인터뷰, 순차 혼합, 개념적 모형). Do not repeat the broad method label. "
+                "Extract one or two short, established constructs or "
                 "theories (for example PSM, bureaucracy, governance, accountability), preserving common English "
                 "terms or acronyms. Do not use generic words such as public administration, study, or performance "
                 "as constructs unless performance is itself the focal theoretical construct."
@@ -79,7 +84,8 @@ class ArticleSummarizer:
             instruction = (
                 "Write exactly one short Korean sentence describing only the apparent topic from the title. "
                 "Begin with '제목 기준:' and do not claim any method, evidence, or finding. Infer only the primary "
-                "topic and up to two constructs that are explicit in the title. Set method to '방법 미상'."
+                "topic and one or two constructs that are explicit in the title. Set method to '방법 미상' and "
+                "method_detail to an empty string."
             )
             article.summary_basis = "title"
         prompt = (
@@ -117,6 +123,7 @@ class ArticleSummarizer:
         article.summary_ko = summary
         article.topic_area = parsed["topic_area"]
         article.method = parsed["method"]
+        article.method_detail = " ".join(parsed["method_detail"].split()) or None
         article.constructs = [" ".join(item.split()) for item in parsed["constructs"] if item.strip()][:2]
 
 

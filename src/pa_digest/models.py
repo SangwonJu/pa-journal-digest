@@ -37,6 +37,7 @@ class Article(BaseModel):
     summary_basis: str | None = None
     topic_area: str | None = None
     method: str | None = None
+    method_detail: str | None = None
     constructs: list[str] = Field(default_factory=list)
 
     @computed_field
