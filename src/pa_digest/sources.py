@@ -25,6 +25,9 @@ EXCLUDED_TITLE_PATTERNS = (
     r"^(editorial|editor['’]s introduction|introduction to the (special )?issue)(?::|\s|$)",
     r"^(contents|table of contents|front matter|back matter)$",
     r"^obituary(?::|\s|$)",
+    r"\bisbn\b",
+    r"\b\d+\s*pp\.\s*(?:[$£€]|\()",
+    r"\((?:hardcover|paperback|cloth|ebook)\)",
 )
 
 
@@ -217,4 +220,3 @@ class MetadataClient:
             return " ".join(word for _, word in positioned)
         except (httpx.HTTPError, KeyError, TypeError, ValueError):
             return None
-
