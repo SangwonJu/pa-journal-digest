@@ -41,3 +41,29 @@ def test_render_contains_english_abstract() -> None:
     _, html, text = render_newsletter([article], date(2026, 8, 7))
     assert "This study tests an argument." in html
     assert "English abstract" in text
+
+
+def test_render_orders_journals_by_field_rank() -> None:
+    lower_ranked = Article(
+        title="An ARPA Article",
+        journal="The American Review of Public Administration",
+        journal_short="ARPA",
+        publication_date=date(2026, 8, 5),
+        url="https://example.test/arpa",
+        summary_ko="요약",
+    )
+    higher_ranked = Article(
+        title="A JPART Article",
+        journal="Journal of Public Administration Research and Theory",
+        journal_short="JPART",
+        publication_date=date(2026, 8, 5),
+        url="https://example.test/jpart",
+        summary_ko="요약",
+    )
+    _, html, text = render_newsletter([lower_ranked, higher_ranked], date(2026, 8, 7))
+    assert html.index("Journal of Public Administration Research and Theory") < html.index(
+        "The American Review of Public Administration"
+    )
+    assert text.index("Journal of Public Administration Research and Theory") < text.index(
+        "The American Review of Public Administration"
+    )

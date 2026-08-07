@@ -4,6 +4,7 @@ from collections import OrderedDict
 from datetime import date
 from html import escape
 
+from .config import JOURNAL_RANK
 from .models import Article
 
 
@@ -42,7 +43,10 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
     count = len(articles)
     subject = f"[PA Journal Digest] {digest_date.isoformat()} · 신규 {count}편"
     grouped: OrderedDict[str, list[Article]] = OrderedDict()
-    for article in sorted(articles, key=lambda item: (item.journal, item.title.casefold())):
+    for article in sorted(
+        articles,
+        key=lambda item: (JOURNAL_RANK.get(item.journal, 999), item.title.casefold()),
+    ):
         grouped.setdefault(article.journal, []).append(article)
 
     sections: list[str] = []

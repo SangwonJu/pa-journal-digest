@@ -9,17 +9,20 @@
 |---|---|
 | JPART | Journal of Public Administration Research and Theory |
 | PAR | Public Administration Review |
-| ARPA | The American Review of Public Administration |
-| PMR | Public Management Review |
-| IPMJ | International Public Management Journal |
-| PA | Public Administration |
 | Governance | Governance |
-| A&S | Administration & Society |
-| PPMG | Perspectives on Public Management and Governance |
-| PPMR | Public Performance & Management Review |
-| GIQ | Government Information Quarterly |
+| PA | Public Administration |
+| PMR | Public Management Review |
 | PSJ | Policy Studies Journal |
+| GIQ | Government Information Quarterly |
+| ARPA | The American Review of Public Administration |
+| IPMJ | International Public Management Journal |
+| PPMG | Perspectives on Public Management and Governance |
+| A&S | Administration & Society |
+| PPMR | Public Performance & Management Review |
 | ROPPA | Review of Public Personnel Administration |
+
+뉴스레터에서는 위 표의 순서대로, 행정학 분야의 일반적인 저널 위상과 최신 영향력 지표를 반영해
+섹션을 배치합니다. 특정 날짜에 신규 논문이 없는 저널은 표시하지 않습니다.
 
 ## How it works
 
