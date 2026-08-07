@@ -47,7 +47,7 @@ SUMMARY_SCHEMA = {
         },
         "constructs": {
             "type": "array",
-            "items": {"type": "string"},
+            "items": {"type": "string", "maxLength": 40},
             "minItems": 1,
             "maxItems": 2,
         },
@@ -73,10 +73,11 @@ class ArticleSummarizer:
                 "Use Theory/Concept for theoretical, conceptual, or review articles. In method_detail, give the "
                 "specific design or analytic approach in two or three short Korean words (examples: 패널 설문, "
                 "설문 실험, 이중차분, 심층 인터뷰, 순차 혼합, 개념적 모형). Do not repeat the broad method label. "
-                "Extract one or two short, established constructs or "
-                "theories (for example PSM, bureaucracy, governance, accountability), preserving common English "
-                "terms or acronyms. Do not use generic words such as public administration, study, or performance "
-                "as constructs unless performance is itself the focal theoretical construct."
+                "Extract one or two canonical constructs or theories. Each array item must contain exactly one "
+                "distinct concept in one to three English words (for example PSM, bureaucracy, governance, policy "
+                "diffusion, or political market framework). Never combine two concepts in one item. Preserve common "
+                "acronyms and use consistent title case for multiword terms. Do not use generic words such as public "
+                "administration or study. Use performance only when it is itself the focal theoretical construct."
             )
             article.summary_basis = "abstract"
         else:

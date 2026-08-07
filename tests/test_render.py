@@ -36,12 +36,37 @@ def test_render_includes_escaped_content_and_fallback_notice() -> None:
     assert ">분야</strong>" not in html
     assert ">방법</strong>" not in html
     assert ">개념</strong>" not in html
+    assert "<span" not in html
+    assert "white-space:nowrap" in html
+    assert "2026-08-05 &nbsp;·&nbsp; Jane Doe" not in html
     assert "https://doi.org/10.1234/example" in html
     assert "-ms-text-size-adjust:100%" in html
     assert '<table role="presentation"' in html
     assert 'width="900"' in html
     assert "max-width:900px" in html
     assert "01" in html
+
+
+def test_render_decodes_affiliation_entities_once() -> None:
+    article = Article(
+        title="A Study",
+        journal="Public Administration Review",
+        journal_short="PAR",
+        authors=["Jane Doe"],
+        author_affiliations={"Jane Doe": ["Policy &amp; Governance Lab"]},
+        publication_date=date(2026, 8, 5),
+        url="https://example.test",
+        summary_ko="요약",
+        topic_area="거버넌스·협력",
+        method="이론/개념",
+        method_detail="개념적 모형",
+        constructs=["Governance"],
+    )
+
+    _, html, _ = render_newsletter([article], date(2026, 8, 7))
+
+    assert "Policy &amp; Governance Lab" in html
+    assert "Policy &amp;amp; Governance Lab" not in html
 
 
 def test_render_contains_english_abstract() -> None:

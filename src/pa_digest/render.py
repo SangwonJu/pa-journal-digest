@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from collections import OrderedDict
 from datetime import date
-from html import escape
+from html import escape, unescape
 
 from .config import JOURNAL_RANK, JOURNAL_TIER
 from .models import Article
@@ -11,38 +11,36 @@ from .models import Article
 FONT_STACK = "'Times New Roman', Times, serif"
 
 
-def _authors(article: Article) -> str:
-    if not article.authors:
-        return "Authors unavailable"
-    if len(article.authors) <= 4:
-        return ", ".join(article.authors)
-    return ", ".join(article.authors[:3]) + " et al."
-
-
 def _affiliations_html(article: Article) -> str:
+    if not article.authors:
+        return '<div style="margin-top:5px;color:#737373;font-style:italic">Authors unavailable</div>'
     rows: list[str] = []
     for author in article.authors:
         affiliations = article.author_affiliations.get(author, [])
         if affiliations:
             rows.append(
                 f'<div style="margin:3px 0;text-align:left"><strong>{escape(author)}</strong> — '
-                f'{escape("; ".join(affiliations))}</div>'
+                f'{escape(unescape("; ".join(affiliations)))}</div>'
             )
-    if not rows:
-        return (
-            '<div style="margin-top:5px;color:#737373;font-style:italic;text-align:left">'
-            'Affiliation information unavailable</div>'
-        )
+        else:
+            rows.append(
+                f'<div style="margin:3px 0;text-align:left"><strong>{escape(author)}</strong> — '
+                '<span style="color:#737373;font-style:italic">Affiliation unavailable</span></div>'
+            )
     return "".join(rows)
 
 
 def _affiliations_text(article: Article) -> str:
+    if not article.authors:
+        return "Authors unavailable"
     rows = []
     for author in article.authors:
         affiliations = article.author_affiliations.get(author, [])
         if affiliations:
-            rows.append(f"{author} — {'; '.join(affiliations)}")
-    return "\n".join(rows) if rows else "Affiliation information unavailable"
+            rows.append(f"{author} — {unescape('; '.join(affiliations))}")
+        else:
+            rows.append(f"{author} — Affiliation unavailable")
+    return "\n".join(rows)
 
 
 def _tags_html(article: Article) -> str:
@@ -54,11 +52,18 @@ def _tags_html(article: Article) -> str:
         (method, "#eaf1f4", "#315b70", "#b8cbd4"),
     ]
     tags.extend((construct, "#f1eff5", "#574a6d", "#cbc3d8") for construct in article.constructs[:2])
-    return "".join(
-        f'<span style="display:inline-block;margin:0 5px 6px 0;padding:5px 8px;border:1px solid {border};'
-        f'background:{background};font-family:{FONT_STACK};font-size:12px;line-height:1.2;color:{color};'
-        f'text-align:left"><strong>{escape(value)}</strong></span>'
+    cells = "".join(
+        '<td valign="top" style="padding:0 5px 6px 0">'
+        '<table role="presentation" border="0" cellspacing="0" cellpadding="0"><tr>'
+        f'<td style="padding:5px 8px;border:1px solid {border};background:{background};'
+        f'font-family:{FONT_STACK};font-size:12px;line-height:1.2;color:{color};text-align:left;'
+        f'white-space:nowrap"><strong>{escape(value)}</strong></td>'
+        '</tr></table></td>'
         for value, background, color, border in tags
+    )
+    return (
+        '<table role="presentation" border="0" cellspacing="0" cellpadding="0" '
+        f'style="margin:0 0 2px;font-family:{FONT_STACK}"><tr>{cells}</tr></table>'
     )
 
 
@@ -104,10 +109,8 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
                 f'font-size:14px;line-height:1;color:#9a7b45;text-align:left">{number}</td>'
                 f'<td valign="top" style="font-family:{FONT_STACK};text-align:left">'
                 f'<div style="margin:0 0 7px;font-family:{FONT_STACK};font-size:13px;line-height:1.4;'
-                f'color:#74706a;text-align:left">{escape(article.publication_date.isoformat())} &nbsp;·&nbsp; '
-                f'{escape(_authors(article))}</div>'
-                f'<div style="margin:0 0 8px;font-family:{FONT_STACK};font-size:0;line-height:1;text-align:left">'
-                f'{_tags_html(article)}</div>'
+                f'color:#74706a;text-align:left">{escape(article.publication_date.isoformat())}</div>'
+                f'{_tags_html(article)}'
                 f'<h3 style="margin:0 0 13px;font-family:{FONT_STACK};font-size:21px;line-height:1.32;'
                 f'font-weight:bold;color:#172c42;text-align:left"><a href="{escape(article.url, quote=True)}" '
                 f'style="color:#172c42;text-decoration:none">{escape(article.title)}</a></h3>'
@@ -129,7 +132,7 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
             )
             abstract_text = article.abstract or "Abstract unavailable (Korean note is title-based)."
             text_entries.append(
-                f"{number}. {article.title}\n{_authors(article)} · {article.publication_date.isoformat()}\n"
+                f"{number}. {article.title}\n{article.publication_date.isoformat()}\n"
                 f"[{article.topic_area or '분야 미상'}] "
                 f"[{article.method or '방법 미상'}"
                 f"{f' ({article.method_detail})' if article.method_detail else ''}] "
