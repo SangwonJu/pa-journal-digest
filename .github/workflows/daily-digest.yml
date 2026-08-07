@@ -16,6 +16,11 @@ on:
         required: true
         default: "7"
         type: string
+      resend_latest:
+        description: Explicitly resend the latest delivered batch using the current template
+        required: true
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -56,6 +61,9 @@ jobs:
           if [[ "${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}" == "true" ]]; then
             args+=(--dry-run)
           fi
+          if [[ "${{ github.event_name == 'workflow_dispatch' && inputs.resend_latest }}" == "true" ]]; then
+            args+=(--resend-latest)
+          fi
           pa-digest "${args[@]}"
 
       - name: Upload preview
@@ -93,4 +101,3 @@ jobs:
           git add data/state.json
           git commit -m "Record digest ${{ steps.prepare.outputs.batch_id }}"
           git push
-

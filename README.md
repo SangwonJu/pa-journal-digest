@@ -9,20 +9,21 @@
 |---|---|
 | JPART | Journal of Public Administration Research and Theory |
 | PAR | Public Administration Review |
-| Governance | Governance |
-| PA | Public Administration |
-| PMR | Public Management Review |
-| PSJ | Policy Studies Journal |
-| GIQ | Government Information Quarterly |
-| ARPA | The American Review of Public Administration |
-| IPMJ | International Public Management Journal |
 | PPMG | Perspectives on Public Management and Governance |
-| A&S | Administration & Society |
+| PMR | Public Management Review |
+| PA | Public Administration |
+| ARPA | The American Review of Public Administration |
+| PSJ | Policy Studies Journal |
+| IPMJ | International Public Management Journal |
 | PPMR | Public Performance & Management Review |
+| GIQ | Government Information Quarterly |
+| Governance | Governance |
+| A&S | Administration & Society |
 | ROPPA | Review of Public Personnel Administration |
 
-뉴스레터에서는 위 표의 순서대로, 행정학 분야의 일반적인 저널 위상과 최신 영향력 지표를 반영해
-섹션을 배치합니다. 특정 날짜에 신규 논문이 없는 저널은 표시하지 않습니다.
+뉴스레터에서는 위 표의 순서대로 섹션을 배치합니다. JPART·PAR·PPMG는 Tier 1, PMR·PA·ARPA·
+PSJ·IPMJ는 Tier 2, PPMR·GIQ·Governance·Administration & Society·ROPPA는 Tier 3으로
+표시합니다. 특정 날짜에 신규 논문이 없는 저널은 표시하지 않습니다.
 
 ## How it works
 
@@ -69,6 +70,9 @@ API 키를 코드, 커밋, Issue, 채팅에 붙여 넣지 마세요. 노출된 �
 4. 문제가 없으면 `dry_run=false`로 다시 실행합니다. 최초 실발송에는 최근 7일 논문이 포함됩니다.
 
 새 논문이 없으면 메일을 보내지 않습니다. 예약 실행은 GitHub Actions 부하에 따라 다소 늦어질 수 있습니다.
+
+이미 발송한 최신 배치를 현재 디자인으로 다시 보내야 할 때만 수동 실행의 `resend_latest`를 켭니다.
+예약 실행에서는 이 옵션이 항상 꺼져 있어 일상적인 중복 발송에는 영향을 주지 않습니다.
 
 ## Duplicate-safety recovery
 

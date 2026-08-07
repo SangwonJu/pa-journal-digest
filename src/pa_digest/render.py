@@ -4,7 +4,7 @@ from collections import OrderedDict
 from datetime import date
 from html import escape
 
-from .config import JOURNAL_RANK
+from .config import JOURNAL_RANK, JOURNAL_TIER
 from .models import Article
 
 
@@ -99,15 +99,28 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
         sections.append(
             f'<section style="margin:32px 0"><h2 style="margin:0 0 16px;color:#173f67;font-size:25px;'
             f'line-height:1.4;text-align:justify">'
-            f'{escape(journal)} <span style="font-size:13px;color:#6b7280">({len(journal_articles)})</span>'
+            f'{escape(journal)} <span style="font-size:14px;color:#6b7280">'
+            f'Tier {JOURNAL_TIER.get(journal, 3)} · {len(journal_articles)}편</span>'
             f'</h2>{"".join(cards)}</section>'
         )
         text_sections.append(f"## {journal} ({len(journal_articles)})\n\n" + "\n\n".join(text_cards))
 
     html_body = f"""<!doctype html>
-<html><body style="margin:0;background:#f3f4f6;font-family:'Times New Roman',Times,serif;font-size:17px;line-height:1.75;color:#111827;text-align:justify">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  html, body, table, td, a {{ -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }}
+  table, td {{ mso-table-lspace:0pt; mso-table-rspace:0pt; }}
+  table {{ border-collapse:collapse !important; }}
+  @media only screen and (max-width:680px) {{ .digest-shell {{ width:100% !important; }} .digest-pad {{ padding:16px 10px !important; }} }}
+</style>
+<!--[if mso]><style>body,table,td,a,h1,h2,h3,div,span {{font-family:'Times New Roman',Times,serif !important;}}</style><![endif]-->
+</head><body style="width:100%;margin:0;padding:0;background:#f3f4f6;font-family:'Times New Roman',Times,serif;font-size:17px;line-height:1.75;color:#111827;text-align:justify;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%">
 <div style="display:none;max-height:0;overflow:hidden">최근 행정학 탑저널 신규 논문 {count}편</div>
-<main style="max-width:720px;margin:0 auto;padding:28px 16px">
+<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%;background:#f3f4f6"><tr><td align="center" class="digest-pad" style="padding:28px 16px">
+<!--[if mso]><table role="presentation" width="640" border="0" cellspacing="0" cellpadding="0"><tr><td width="640"><![endif]-->
+<div class="digest-shell" style="width:100%;max-width:640px;margin:0 auto;font-family:'Times New Roman',Times,serif">
   <header style="padding:30px;background:#173f67;color:white;border-radius:14px;font-family:'Times New Roman',Times,serif;text-align:left">
     <div style="font-size:15px;letter-spacing:.08em;text-transform:uppercase;opacity:.8">Daily research briefing</div>
     <h1 style="margin:8px 0 4px;font-size:34px;line-height:1.3">PA Journal Digest</h1>
@@ -117,7 +130,9 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
   <footer style="padding:22px 4px;color:#4b5563;font-size:15px;line-height:1.7;text-align:justify">
     Crossref와 공개 학술 메타데이터를 기반으로 자동 생성되었습니다. 요약은 원문 초록을 대체하지 않습니다.
   </footer>
-</main></body></html>"""
+</div>
+<!--[if mso]></td></tr></table><![endif]-->
+</td></tr></table></body></html>"""
     text_body = (
         f"PA Journal Digest\n{digest_date.isoformat()} · 신규 논문 {count}편\n\n"
         + "\n\n".join(text_sections)

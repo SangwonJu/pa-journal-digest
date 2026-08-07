@@ -26,6 +26,10 @@ def test_render_includes_escaped_content_and_fallback_notice() -> None:
     assert "Times New Roman" in html
     assert "text-align:justify" in html
     assert "https://doi.org/10.1234/example" in html
+    assert "-ms-text-size-adjust:100%" in html
+    assert '<table role="presentation"' in html
+    assert 'width="640"' in html
+    assert "max-width:640px" in html
 
 
 def test_render_contains_english_abstract() -> None:
@@ -67,3 +71,5 @@ def test_render_orders_journals_by_field_rank() -> None:
     assert text.index("Journal of Public Administration Research and Theory") < text.index(
         "The American Review of Public Administration"
     )
+    assert "Tier 1" in html
+    assert "Tier 2" in html
