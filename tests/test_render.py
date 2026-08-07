@@ -17,7 +17,8 @@ def test_render_includes_escaped_content_and_fallback_notice() -> None:
         summary_ko="제목 기준: 정부 신뢰를 다룬다.",
         summary_basis="title",
         topic_area="시민·민주성",
-        method="방법 미상",
+        method="서베이",
+        method_detail="패널 설문",
         constructs=["Trust", "Bureaucracy"],
     )
     subject, html, text = render_newsletter([article], date(2026, 8, 7))
@@ -29,14 +30,17 @@ def test_render_includes_escaped_content_and_fallback_notice() -> None:
     assert "Times New Roman" in html
     assert "text-align:justify" not in html
     assert "font-size:15px" in html
-    assert "분야</strong>&nbsp;·&nbsp;시민·민주성" in html
-    assert "방법</strong>&nbsp;·&nbsp;방법 미상" in html
-    assert "개념</strong>&nbsp;·&nbsp;Bureaucracy" in html
+    assert ">시민·민주성</strong>" in html
+    assert ">서베이 (패널 설문)</strong>" in html
+    assert ">Bureaucracy</strong>" in html
+    assert ">분야</strong>" not in html
+    assert ">방법</strong>" not in html
+    assert ">개념</strong>" not in html
     assert "https://doi.org/10.1234/example" in html
     assert "-ms-text-size-adjust:100%" in html
     assert '<table role="presentation"' in html
-    assert 'width="600"' in html
-    assert "max-width:600px" in html
+    assert 'width="900"' in html
+    assert "max-width:900px" in html
     assert "01" in html
 
 

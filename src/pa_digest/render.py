@@ -46,16 +46,19 @@ def _affiliations_text(article: Article) -> str:
 
 
 def _tags_html(article: Article) -> str:
+    method = article.method or "방법 미상"
+    if article.method_detail and method != "방법 미상":
+        method = f"{method} ({article.method_detail})"
     tags = [
-        ("분야", article.topic_area or "분야 미상", "#f5eee3", "#795b2f", "#d9c39e"),
-        ("방법", article.method or "방법 미상", "#eaf1f4", "#315b70", "#b8cbd4"),
+        (article.topic_area or "분야 미상", "#f5eee3", "#795b2f", "#d9c39e"),
+        (method, "#eaf1f4", "#315b70", "#b8cbd4"),
     ]
-    tags.extend(("개념", construct, "#f1eff5", "#574a6d", "#cbc3d8") for construct in article.constructs[:2])
+    tags.extend((construct, "#f1eff5", "#574a6d", "#cbc3d8") for construct in article.constructs[:2])
     return "".join(
         f'<span style="display:inline-block;margin:0 5px 6px 0;padding:5px 8px;border:1px solid {border};'
         f'background:{background};font-family:{FONT_STACK};font-size:12px;line-height:1.2;color:{color};'
-        f'text-align:left"><strong>{escape(label)}</strong>&nbsp;·&nbsp;{escape(value)}</span>'
-        for label, value, background, color, border in tags
+        f'text-align:left"><strong>{escape(value)}</strong></span>'
+        for value, background, color, border in tags
     )
 
 
@@ -127,8 +130,10 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
             abstract_text = article.abstract or "Abstract unavailable (Korean note is title-based)."
             text_entries.append(
                 f"{number}. {article.title}\n{_authors(article)} · {article.publication_date.isoformat()}\n"
-                f"분야: {article.topic_area or '분야 미상'} · 방법: {article.method or '방법 미상'}"
-                f" · 핵심 개념: {', '.join(article.constructs) or '없음'}\n"
+                f"[{article.topic_area or '분야 미상'}] "
+                f"[{article.method or '방법 미상'}"
+                f"{f' ({article.method_detail})' if article.method_detail else ''}] "
+                f"{' '.join(f'[{construct}]' for construct in article.constructs)}\n"
                 f"Authors & affiliations:\n{_affiliations_text(article)}\n"
                 f"한국어 요약: {article.summary_ko}\nEnglish abstract: {abstract_text}\n{doi_url}"
             )
@@ -156,14 +161,14 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
   html, body, table, td, a {{ -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }}
   table, td {{ mso-table-lspace:0pt; mso-table-rspace:0pt; }}
   table {{ border-collapse:collapse !important; }}
-  @media only screen and (max-width:640px) {{ .digest-shell {{ width:100% !important; }} .digest-pad {{ padding:12px 8px !important; }} .content-pad {{ padding-left:20px !important; padding-right:20px !important; }} }}
+  @media only screen and (max-width:940px) {{ .digest-shell {{ width:100% !important; }} .digest-pad {{ padding:12px 8px !important; }} .content-pad {{ padding-left:20px !important; padding-right:20px !important; }} }}
 </style>
 <!--[if mso]><style>body,table,td,a,h1,h2,h3,div,span {{font-family:'Times New Roman',Times,serif !important;}}</style><![endif]-->
 </head><body style="width:100%;margin:0;padding:0;background:#efede8;font-family:{FONT_STACK};font-size:16px;line-height:1.65;color:#242424;text-align:left;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%">
 <div style="display:none;max-height:0;overflow:hidden">최근 행정학 탑저널 신규 논문 {count}편</div>
 <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%;background:#efede8"><tr><td align="center" class="digest-pad" style="padding:28px 12px">
-<!--[if mso]><table role="presentation" width="600" border="0" cellspacing="0" cellpadding="0"><tr><td width="600"><![endif]-->
-<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="digest-shell" style="width:100%;max-width:600px;background:#ffffff;border-top:5px solid #172c42;font-family:{FONT_STACK}">
+<!--[if mso]><table role="presentation" width="900" border="0" cellspacing="0" cellpadding="0"><tr><td width="900"><![endif]-->
+<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="digest-shell" style="width:100%;max-width:900px;background:#ffffff;border-top:5px solid #172c42;font-family:{FONT_STACK}">
   <tr><td class="content-pad" style="padding:30px 36px 27px;border-bottom:1px solid #d9d6cf;font-family:{FONT_STACK};text-align:left">
     <div style="font-family:{FONT_STACK};font-size:12px;line-height:1.2;letter-spacing:1.5px;text-transform:uppercase;color:#8a6b38;text-align:left">Daily research briefing</div>
     <h1 style="margin:8px 0 7px;font-family:{FONT_STACK};font-size:30px;line-height:1.15;color:#172c42;text-align:left">PA Journal Digest</h1>
