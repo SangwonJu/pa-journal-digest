@@ -11,6 +11,7 @@ def test_render_includes_escaped_content_and_fallback_notice() -> None:
         journal="Governance",
         journal_short="Governance",
         authors=["Jane Doe"],
+        author_affiliations={"Jane Doe": ["Example University"]},
         publication_date=date(2026, 8, 5),
         url="https://doi.org/10.1234/example?a=1&b=2",
         summary_ko="제목 기준: 정부 신뢰를 다룬다.",
@@ -21,6 +22,10 @@ def test_render_includes_escaped_content_and_fallback_notice() -> None:
     assert "Trust &amp; &lt;Government&gt;" in html
     assert "Abstract unavailable" in html
     assert "제목 기준" in text
+    assert "Example University" in html
+    assert "Times New Roman" in html
+    assert "text-align:justify" in html
+    assert "https://doi.org/10.1234/example" in html
 
 
 def test_render_contains_english_abstract() -> None:
@@ -36,4 +41,3 @@ def test_render_contains_english_abstract() -> None:
     _, html, text = render_newsletter([article], date(2026, 8, 7))
     assert "This study tests an argument." in html
     assert "English abstract" in text
-

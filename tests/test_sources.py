@@ -1,6 +1,13 @@
 from datetime import date
 
-from pa_digest.sources import clean_markup, is_scholarly_article, publication_date
+from pa_digest.models import Article
+from pa_digest.sources import (
+    apply_openalex_affiliations,
+    author_details,
+    clean_markup,
+    is_scholarly_article,
+    publication_date,
+)
 
 
 def test_clean_crossref_jats_abstract() -> None:
@@ -25,3 +32,43 @@ def test_publication_date_prefers_online() -> None:
         "published-print": {"date-parts": [[2027, 1]]},
     }
     assert publication_date(message) == date(2026, 8, 2)
+
+
+def test_author_details_include_deduplicated_affiliations() -> None:
+    message = {
+        "author": [
+            {
+                "given": "Jane",
+                "family": "Doe",
+                "affiliation": [
+                    {"name": "School of Public Affairs, Example University"},
+                    {"name": "School of Public Affairs, Example University"},
+                ],
+            },
+            {"given": "John", "family": "Roe", "affiliation": []},
+        ]
+    }
+    names, affiliations = author_details(message)
+    assert names == ["Jane Doe", "John Roe"]
+    assert affiliations == {"Jane Doe": ["School of Public Affairs, Example University"]}
+
+
+def test_openalex_backfills_missing_affiliation() -> None:
+    article = Article(
+        title="A Study",
+        journal="Governance",
+        journal_short="Governance",
+        authors=["Jane Doe", "John Roe"],
+        publication_date=date(2026, 8, 7),
+        url="https://example.test",
+    )
+    apply_openalex_affiliations(
+        article,
+        [
+            {
+                "author": {"display_name": "Jane Doe"},
+                "institutions": [{"display_name": "Example University"}],
+            }
+        ],
+    )
+    assert article.author_affiliations == {"Jane Doe": ["Example University"]}

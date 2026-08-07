@@ -15,6 +15,29 @@ def _authors(article: Article) -> str:
     return ", ".join(article.authors[:3]) + " et al."
 
 
+def _affiliations_html(article: Article) -> str:
+    rows: list[str] = []
+    for author in article.authors:
+        affiliations = article.author_affiliations.get(author, [])
+        if affiliations:
+            rows.append(
+                f'<div style="margin:4px 0;text-align:justify"><strong>{escape(author)}</strong> — '
+                f'{escape("; ".join(affiliations))}</div>'
+            )
+    if not rows:
+        return '<div style="margin-top:8px;color:#6b7280;font-style:italic">Affiliation information unavailable</div>'
+    return "".join(rows)
+
+
+def _affiliations_text(article: Article) -> str:
+    rows = []
+    for author in article.authors:
+        affiliations = article.author_affiliations.get(author, [])
+        if affiliations:
+            rows.append(f"{author} — {'; '.join(affiliations)}")
+    return "\n".join(rows) if rows else "Affiliation information unavailable"
+
+
 def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, str, str]:
     count = len(articles)
     subject = f"[PA Journal Digest] {digest_date.isoformat()} · 신규 {count}편"
@@ -29,55 +52,65 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
         text_cards: list[str] = []
         for article in journal_articles:
             abstract_html = (
-                f'<div style="margin-top:14px;padding:12px 14px;background:#f7f8fa;border-radius:8px;'
-                f'font-size:13px;line-height:1.55;color:#4b5563"><strong>English abstract</strong><br>'
+                f'<div style="margin-top:18px;padding:18px 20px;background:#f7f8fa;border-radius:10px;'
+                f'font-size:17px;line-height:1.8;color:#374151;text-align:justify"><strong style="font-size:18px">English abstract</strong><br>'
                 f'{escape(article.abstract)}</div>'
                 if article.abstract
                 else (
-                    '<div style="margin-top:14px;padding:12px 14px;background:#fff7ed;border-radius:8px;'
-                    'font-size:13px;color:#9a3412"><strong>Abstract unavailable</strong> — '
+                    '<div style="margin-top:18px;padding:18px 20px;background:#fff7ed;border-radius:10px;'
+                    'font-size:17px;line-height:1.7;color:#9a3412;text-align:justify"><strong>Abstract unavailable</strong> — '
                     'The Korean note below is based on the title only.</div>'
                 )
             )
             cards.append(
-                f'<article style="margin:0 0 18px;padding:20px;border:1px solid #e5e7eb;border-radius:12px;'
-                f'background:#ffffff">'
-                f'<div style="font-size:12px;color:#6b7280;margin-bottom:8px">'
+                f'<article style="margin:0 0 24px;padding:26px;border:1px solid #d1d5db;border-radius:12px;'
+                f'background:#ffffff;font-family:\'Times New Roman\',Times,serif;font-size:17px;line-height:1.75;'
+                f'text-align:justify">'
+                f'<div style="font-size:15px;color:#4b5563;margin-bottom:10px;text-align:justify">'
                 f'{escape(article.publication_date.isoformat())} · {escape(_authors(article))}</div>'
-                f'<h3 style="margin:0 0 12px;font-size:18px;line-height:1.35;color:#111827">'
+                f'<h3 style="margin:0 0 16px;font-size:23px;line-height:1.45;color:#111827;text-align:justify">'
                 f'<a href="{escape(article.url, quote=True)}" style="color:#173f67;text-decoration:none">'
                 f'{escape(article.title)}</a></h3>'
-                f'<div style="padding:14px 16px;background:#eef6ff;border-left:4px solid #2563eb;'
-                f'border-radius:6px;line-height:1.65;color:#172033"><strong>한국어 요약</strong><br>'
+                f'<div style="margin-bottom:18px;padding:14px 16px;background:#fafafa;border:1px solid #e5e7eb;'
+                f'border-radius:8px;font-size:15px;line-height:1.65;color:#374151;text-align:justify">'
+                f'<strong style="font-size:16px;color:#111827">Authors &amp; affiliations</strong>'
+                f'{_affiliations_html(article)}</div>'
+                f'<div style="padding:18px 20px;background:#eef6ff;border-left:5px solid #2563eb;'
+                f'border-radius:8px;font-size:18px;line-height:1.8;color:#172033;text-align:justify">'
+                f'<strong style="font-size:19px">한국어 요약</strong><br>'
                 f'{escape(article.summary_ko or "요약을 생성하지 못했습니다.")}</div>'
                 f'{abstract_html}'
-                f'<div style="margin-top:12px;font-size:12px"><a href="{escape(article.url, quote=True)}" '
-                f'style="color:#2563eb">DOI / publisher page →</a></div>'
+                f'<div style="margin-top:18px;padding:14px 16px;background:#173f67;border-radius:8px;'
+                f'font-size:17px;line-height:1.5;text-align:left;color:#ffffff"><strong>DOI</strong><br>'
+                f'<a href="{escape(article.url, quote=True)}" style="color:#ffffff;text-decoration:underline;'
+                f'word-break:break-all">{escape("https://doi.org/" + article.doi if article.doi else article.url)}</a></div>'
                 f'</article>'
             )
             abstract_text = article.abstract or "Abstract unavailable (Korean note is title-based)."
             text_cards.append(
                 f"{article.title}\n{_authors(article)} · {article.publication_date.isoformat()}\n"
+                f"Authors & affiliations:\n{_affiliations_text(article)}\n"
                 f"한국어 요약: {article.summary_ko}\nEnglish abstract: {abstract_text}\n{article.url}"
             )
         sections.append(
-            f'<section style="margin:28px 0"><h2 style="margin:0 0 14px;color:#173f67;font-size:21px">'
+            f'<section style="margin:32px 0"><h2 style="margin:0 0 16px;color:#173f67;font-size:25px;'
+            f'line-height:1.4;text-align:justify">'
             f'{escape(journal)} <span style="font-size:13px;color:#6b7280">({len(journal_articles)})</span>'
             f'</h2>{"".join(cards)}</section>'
         )
         text_sections.append(f"## {journal} ({len(journal_articles)})\n\n" + "\n\n".join(text_cards))
 
     html_body = f"""<!doctype html>
-<html><body style="margin:0;background:#f3f4f6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;color:#111827">
+<html><body style="margin:0;background:#f3f4f6;font-family:'Times New Roman',Times,serif;font-size:17px;line-height:1.75;color:#111827;text-align:justify">
 <div style="display:none;max-height:0;overflow:hidden">최근 행정학 탑저널 신규 논문 {count}편</div>
 <main style="max-width:720px;margin:0 auto;padding:28px 16px">
-  <header style="padding:28px;background:#173f67;color:white;border-radius:14px">
-    <div style="font-size:13px;letter-spacing:.08em;text-transform:uppercase;opacity:.8">Daily research briefing</div>
-    <h1 style="margin:8px 0 4px;font-size:29px">PA Journal Digest</h1>
-    <div style="opacity:.88">{escape(digest_date.isoformat())} · 신규 논문 {count}편 · {len(grouped)}개 저널</div>
+  <header style="padding:30px;background:#173f67;color:white;border-radius:14px;font-family:'Times New Roman',Times,serif;text-align:left">
+    <div style="font-size:15px;letter-spacing:.08em;text-transform:uppercase;opacity:.8">Daily research briefing</div>
+    <h1 style="margin:8px 0 4px;font-size:34px;line-height:1.3">PA Journal Digest</h1>
+    <div style="font-size:18px;opacity:.9">{escape(digest_date.isoformat())} · 신규 논문 {count}편 · {len(grouped)}개 저널</div>
   </header>
   {''.join(sections)}
-  <footer style="padding:20px 4px;color:#6b7280;font-size:12px;line-height:1.5">
+  <footer style="padding:22px 4px;color:#4b5563;font-size:15px;line-height:1.7;text-align:justify">
     Crossref와 공개 학술 메타데이터를 기반으로 자동 생성되었습니다. 요약은 원문 초록을 대체하지 않습니다.
   </footer>
 </main></body></html>"""
@@ -87,4 +120,3 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
         + "\n\n자동 생성 요약은 원문 초록을 대체하지 않습니다."
     )
     return subject, html_body, text_body
-
