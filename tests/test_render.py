@@ -16,6 +16,9 @@ def test_render_includes_escaped_content_and_fallback_notice() -> None:
         url="https://doi.org/10.1234/example?a=1&b=2",
         summary_ko="제목 기준: 정부 신뢰를 다룬다.",
         summary_basis="title",
+        topic_area="시민·민주성",
+        method="방법 미상",
+        constructs=["Trust", "Bureaucracy"],
     )
     subject, html, text = render_newsletter([article], date(2026, 8, 7))
     assert "신규 1편" in subject
@@ -24,12 +27,17 @@ def test_render_includes_escaped_content_and_fallback_notice() -> None:
     assert "제목 기준" in text
     assert "Example University" in html
     assert "Times New Roman" in html
-    assert "text-align:justify" in html
+    assert "text-align:justify" not in html
+    assert "font-size:15px" in html
+    assert "분야</strong>&nbsp;·&nbsp;시민·민주성" in html
+    assert "방법</strong>&nbsp;·&nbsp;방법 미상" in html
+    assert "개념</strong>&nbsp;·&nbsp;Bureaucracy" in html
     assert "https://doi.org/10.1234/example" in html
     assert "-ms-text-size-adjust:100%" in html
     assert '<table role="presentation"' in html
-    assert 'width="640"' in html
-    assert "max-width:640px" in html
+    assert 'width="600"' in html
+    assert "max-width:600px" in html
+    assert "01" in html
 
 
 def test_render_contains_english_abstract() -> None:
@@ -45,6 +53,7 @@ def test_render_contains_english_abstract() -> None:
     _, html, text = render_newsletter([article], date(2026, 8, 7))
     assert "This study tests an argument." in html
     assert "English abstract" in text
+    assert ">Abstract</div>" in html
 
 
 def test_render_orders_journals_by_field_rank() -> None:
@@ -71,5 +80,5 @@ def test_render_orders_journals_by_field_rank() -> None:
     assert text.index("Journal of Public Administration Research and Theory") < text.index(
         "The American Review of Public Administration"
     )
-    assert "Tier 1" in html
-    assert "Tier 2" in html
+    assert "TIER 1" in html
+    assert "TIER 2" in html
