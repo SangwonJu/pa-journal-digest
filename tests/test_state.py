@@ -33,6 +33,7 @@ def test_prepare_and_mark_sent(tmp_path) -> None:
     final = StateStore(path)
     assert final.is_batch_sent("batch")
     assert article().stable_id in final.sent_ids
+    assert final.latest_sent_batch()[0] == "batch"
 
 
 def test_stale_prepared_batch_stops_automatic_retry(tmp_path) -> None:
@@ -42,4 +43,3 @@ def test_stale_prepared_batch_stops_automatic_retry(tmp_path) -> None:
     store.prepare("batch", "key", [article()], (now - timedelta(hours=24)).isoformat())
     with pytest.raises(AmbiguousBatchError):
         store.active_prepared_batch(now)
-

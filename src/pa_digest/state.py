@@ -81,9 +81,18 @@ class StateStore:
     def is_batch_sent(self, batch_id: str) -> bool:
         return self.data.get("batches", {}).get(batch_id, {}).get("status") == "sent"
 
+    def latest_sent_batch(self) -> tuple[str, dict[str, Any]] | None:
+        sent = [
+            (batch_id, batch)
+            for batch_id, batch in self.data.get("batches", {}).items()
+            if batch.get("status") == "sent"
+        ]
+        if not sent:
+            return None
+        return max(sent, key=lambda item: item[1].get("sent_at", item[1]["created_at"]))
+
 
 def normalize_nullable(value: str | None) -> str | None:
     from .models import normalize_doi
 
     return normalize_doi(value)
-

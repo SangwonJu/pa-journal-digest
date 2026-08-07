@@ -52,6 +52,19 @@ def prepare(args: argparse.Namespace) -> int:
             idempotency_key = batch_state["idempotency_key"]
             created_at = batch_state["created_at"]
             resumed = True
+            resent = "-resend-" in batch_id
+        elif args.resend_latest:
+            latest = state.latest_sent_batch()
+            if not latest:
+                raise RuntimeError("There is no sent batch to resend")
+            original_batch_id, batch_state = latest
+            articles = [metadata.by_public_record(record) for record in batch_state["items"]]
+            suffix = now.strftime("%Y%m%dT%H%M%SZ")
+            batch_id = f"{original_batch_id}-resend-{suffix}"
+            idempotency_key = f"pa-journal-digest-{batch_id}"
+            created_at = now.isoformat()
+            resumed = False
+            resent = True
         else:
             start = local_today - timedelta(days=args.lookback_days - 1)
             discovered = metadata.discover(start, local_today)
@@ -63,6 +76,7 @@ def prepare(args: argparse.Namespace) -> int:
             batch_id, idempotency_key = _batch_identity(articles, local_today.isoformat())
             created_at = now.isoformat()
             resumed = False
+            resent = False
     finally:
         metadata.close()
 
@@ -70,6 +84,8 @@ def prepare(args: argparse.Namespace) -> int:
     for article in articles:
         summarizer.summarize(article)
     subject, html, text = render_newsletter(articles, local_today)
+    if resent:
+        subject = subject.replace("[PA Journal Digest]", "[PA Journal Digest 재발송]", 1)
     prepared = PreparedBatch(
         batch_id=batch_id,
         idempotency_key=idempotency_key,
@@ -95,6 +111,7 @@ def prepare(args: argparse.Namespace) -> int:
                 "batch_id": batch_id,
                 "articles": len(articles),
                 "resumed": resumed,
+                "resent": resent,
                 "dry_run": args.dry_run,
             }
         )
@@ -159,6 +176,11 @@ def build_parser() -> argparse.ArgumentParser:
     prepare_parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
     prepare_parser.add_argument("--lookback-days", type=int, default=7)
     prepare_parser.add_argument("--dry-run", action="store_true")
+    prepare_parser.add_argument(
+        "--resend-latest",
+        action="store_true",
+        help="Explicitly resend the most recent sent batch with a new delivery id",
+    )
     prepare_parser.set_defaults(func=prepare)
 
     deliver_parser = subparsers.add_parser("deliver", help="Send a persisted prepared batch")
@@ -188,4 +210,3 @@ def main(argv: list[str] | None = None) -> int:
     except Exception as error:
         print(f"ERROR: {error}", file=sys.stderr)
         return 1
-
