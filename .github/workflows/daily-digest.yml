@@ -1,0 +1,96 @@
+name: Daily PA Journal Digest
+
+on:
+  schedule:
+    - cron: "30 7 * * *"
+      timezone: "America/New_York"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Render a preview without changing state or sending email
+        required: true
+        default: true
+        type: boolean
+      lookback_days:
+        description: Publication lookback window
+        required: true
+        default: "7"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pa-journal-digest-delivery
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
+      NEWSLETTER_TO: ${{ secrets.NEWSLETTER_TO }}
+      NEWSLETTER_FROM: ${{ vars.NEWSLETTER_FROM || 'PA Journal Digest <onboarding@resend.dev>' }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5.6-luna' }}
+      RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: python -m pip install .
+
+      - name: Prepare newsletter
+        id: prepare
+        shell: bash
+        run: |
+          args=(prepare --lookback-days "${{ inputs.lookback_days || '7' }}")
+          if [[ "${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}" == "true" ]]; then
+            args+=(--dry-run)
+          fi
+          pa-digest "${args[@]}"
+
+      - name: Upload preview
+        if: steps.prepare.outputs.has_batch == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: newsletter-${{ steps.prepare.outputs.batch_id }}
+          path: |
+            build/newsletter.html
+            build/newsletter.txt
+          retention-days: 7
+
+      - name: Persist prepared outbox
+        if: steps.prepare.outputs.has_batch == 'true' && !(github.event_name == 'workflow_dispatch' && inputs.dry_run)
+        shell: bash
+        run: |
+          if git diff --quiet -- data/state.json; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/state.json
+          git commit -m "Prepare digest ${{ steps.prepare.outputs.batch_id }}"
+          git push
+
+      - name: Deliver newsletter
+        if: steps.prepare.outputs.has_batch == 'true' && !(github.event_name == 'workflow_dispatch' && inputs.dry_run)
+        run: pa-digest deliver
+
+      - name: Persist delivery ledger
+        if: steps.prepare.outputs.has_batch == 'true' && !(github.event_name == 'workflow_dispatch' && inputs.dry_run)
+        shell: bash
+        run: |
+          if git diff --quiet -- data/state.json; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/state.json
+          git commit -m "Record digest ${{ steps.prepare.outputs.batch_id }}"
+          git push
+
