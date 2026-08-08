@@ -156,6 +156,21 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
         )
         text_sections.append(f"## {journal} ({len(journal_articles)})\n\n" + "\n\n".join(text_entries))
 
+    if sections:
+        content_html = "".join(sections)
+        content_text = "\n\n".join(text_sections)
+    else:
+        content_html = (
+            '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">'
+            f'<tr><td style="padding:52px 0 56px;font-family:{FONT_STACK};text-align:center">'
+            f'<div style="font-family:{FONT_STACK};font-size:22px;line-height:1.35;color:#172c42;'
+            f'font-weight:bold;text-align:center">오늘은 새로 확인된 논문이 없습니다.</div>'
+            f'<div style="margin-top:10px;font-family:{FONT_STACK};font-size:15px;line-height:1.55;'
+            f'color:#77716a;text-align:center">다음 예약 실행에서 다시 확인하겠습니다.</div>'
+            '</td></tr></table>'
+        )
+        content_text = "오늘은 새로 확인된 논문이 없습니다. 다음 예약 실행에서 다시 확인하겠습니다."
+
     html_body = f"""<!doctype html>
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -177,7 +192,7 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
     <h1 style="margin:8px 0 7px;font-family:{FONT_STACK};font-size:30px;line-height:1.15;color:#172c42;text-align:left">PA Journal Digest</h1>
     <div style="font-family:{FONT_STACK};font-size:15px;line-height:1.5;color:#68635c;text-align:left">{escape(digest_date.strftime('%B %d, %Y'))} &nbsp;·&nbsp; 신규 논문 {count}편 &nbsp;·&nbsp; {len(grouped)}개 저널</div>
   </td></tr>
-  <tr><td class="content-pad" style="padding:0 36px;font-family:{FONT_STACK};text-align:left">{''.join(sections)}</td></tr>
+  <tr><td class="content-pad" style="padding:0 36px;font-family:{FONT_STACK};text-align:left">{content_html}</td></tr>
   <tr><td class="content-pad" style="padding:23px 36px 27px;font-family:{FONT_STACK};font-size:13px;line-height:1.55;color:#77716a;text-align:left">
     Crossref와 공개 학술 메타데이터를 기반으로 자동 생성되었습니다. 요약은 원문 초록을 대체하지 않습니다.
   </td></tr>
@@ -186,7 +201,7 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
 </td></tr></table></body></html>"""
     text_body = (
         f"PA Journal Digest\n{digest_date.isoformat()} · 신규 논문 {count}편\n\n"
-        + "\n\n".join(text_sections)
+        + content_text
         + "\n\n자동 생성 요약은 원문 초록을 대체하지 않습니다."
     )
     return subject, html_body, text_body
