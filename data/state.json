@@ -1177,6 +1177,283 @@
       ],
       "sent_at": "2026-08-07T09:26:57.459384+00:00",
       "status": "sent"
+    },
+    "2026-08-08-2d7215eaa0cc04f8": {
+      "created_at": "2026-08-08T07:01:25.888429+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-08-2d7215eaa0cc04f8",
+      "items": [
+        {
+          "author_affiliations": {
+            "Justice Nyigmah Bawole": [
+              "King Fahd University of Petroleum and Minerals"
+            ],
+            "Kelvin Omari Mintah": [
+              "University of Ghana",
+              "University of Ghana Business School"
+            ],
+            "Zechariah Langnel": [
+              "University of Ghana Business School"
+            ]
+          },
+          "authors": [
+            "Justice Nyigmah Bawole",
+            "Kelvin Omari Mintah",
+            "Zechariah Langnel"
+          ],
+          "doi": "10.1080/01900692.2026.2683248",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "publication_date": "2026-08-03",
+          "stable_id": "doi:10.1080/01900692.2026.2683248",
+          "title": "Youth and Corruption in Ghana: Perspectives from University Student Leaders",
+          "url": "https://doi.org/10.1080/01900692.2026.2683248"
+        },
+        {
+          "author_affiliations": {},
+          "authors": [
+            "Lie Philip Santoso"
+          ],
+          "doi": "10.1007/s11109-026-10191-2",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "publication_date": "2026-08-07",
+          "stable_id": "doi:10.1007/s11109-026-10191-2",
+          "title": "Elite Interactions and Social Bonds: How Partisan Cooperation Shapes Perceptions of Cross-Party Friendships",
+          "url": "https://doi.org/10.1007/s11109-026-10191-2"
+        },
+        {
+          "author_affiliations": {
+            "Celina Kacperski": [
+              "University of Konstanz",
+              "Seeburg Castle University, Austria"
+            ],
+            "Leonard Tiedemann": [
+              "University of Konstanz"
+            ],
+            "Peter Selb": [
+              "University of Konstanz"
+            ],
+            "Roberto Ulloa": [
+              "University of Konstanz",
+              "Humboldt University of Berlin, Germany"
+            ]
+          },
+          "authors": [
+            "Roberto Ulloa",
+            "Leonard Tiedemann",
+            "Peter Selb",
+            "Celina Kacperski"
+          ],
+          "doi": "10.1080/10584609.2026.2708131",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "publication_date": "2026-08-06",
+          "stable_id": "doi:10.1080/10584609.2026.2708131",
+          "title": "The Knowledge Gap in a High-Choice Media Environment: Experimental Evidence from Online Search",
+          "url": "https://doi.org/10.1080/10584609.2026.2708131"
+        },
+        {
+          "author_affiliations": {
+            "Ida Bruun Nørregaard": [
+              "Geschwister‐Scholl‐Institute of Political Science, LMU Munich Germany",
+              "Department of Political Science Aarhus University Aarhus C Denmark"
+            ]
+          },
+          "authors": [
+            "Ida Bruun Nørregaard"
+          ],
+          "doi": "10.1111/pops.70184",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "publication_date": "2026-08-02",
+          "stable_id": "doi:10.1111/pops.70184",
+          "title": "How moral values underpin and affect attitudes on ethnic discrimination",
+          "url": "https://doi.org/10.1111/pops.70184"
+        },
+        {
+          "author_affiliations": {},
+          "authors": [],
+          "doi": "10.1111/pops.70155",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "publication_date": "2026-08-02",
+          "stable_id": "doi:10.1111/pops.70155",
+          "title": "Issue Information",
+          "url": "https://doi.org/10.1111/pops.70155"
+        },
+        {
+          "author_affiliations": {
+            "Xiaoxiao Shen": [
+              "Department of Political Science Northeastern University Boston Massachusetts USA"
+            ]
+          },
+          "authors": [
+            "Xiaoxiao Shen"
+          ],
+          "doi": "10.1111/pops.70181",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "publication_date": "2026-08-02",
+          "stable_id": "doi:10.1111/pops.70181",
+          "title": "When propaganda resonates",
+          "url": "https://doi.org/10.1111/pops.70181"
+        },
+        {
+          "author_affiliations": {
+            "Naomi Head": [
+              "School of Social and Political Sciences University of Glasgow Glasgow UK"
+            ]
+          },
+          "authors": [
+            "Naomi Head"
+          ],
+          "doi": "10.1111/pops.70183",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "publication_date": "2026-08-04",
+          "stable_id": "doi:10.1111/pops.70183",
+          "title": "Affective regimes and ontological security: When empathy threatens the state",
+          "url": "https://doi.org/10.1111/pops.70183"
+        },
+        {
+          "author_affiliations": {
+            "Felicia Pratto": [
+              "Department of Psychological Sciences University of Connecticut Storrs CT USA"
+            ]
+          },
+          "authors": [
+            "Felicia Pratto"
+          ],
+          "doi": "10.1111/pops.70126",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "publication_date": "2026-08-05",
+          "stable_id": "doi:10.1111/pops.70126",
+          "title": "Social dominance orientation",
+          "url": "https://doi.org/10.1111/pops.70126"
+        },
+        {
+          "author_affiliations": {
+            "Lena Brogaard": [
+              "Department of Social Sciences and Business, Centre for Research on Public‐Private Collaboration Roskilde University Roskilde Denmark"
+            ],
+            "Matthew Potoski": [
+              "Bren School of Environmental Science and Management University of California – Santa Barbara Santa Barbara California USA"
+            ],
+            "Ole Helby Petersen": [
+              "Department of Social Sciences and Business, Centre for Research on Public‐Private Collaboration Roskilde University Roskilde Denmark"
+            ]
+          },
+          "authors": [
+            "Ole Helby Petersen",
+            "Matthew Potoski",
+            "Lena Brogaard"
+          ],
+          "doi": "10.1111/puar.70176",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "publication_date": "2026-08-07",
+          "stable_id": "doi:10.1111/puar.70176",
+          "title": "Improving Cooperation in Government Purchasing Through Formal‐Relational Contracting",
+          "url": "https://doi.org/10.1111/puar.70176"
+        },
+        {
+          "author_affiliations": {
+            "Guangdong Wu": [
+              "Chongqing University"
+            ],
+            "Jiawen Li": [
+              "Chongqing University"
+            ],
+            "Yanlu Zha": [
+              "Chongqing University"
+            ]
+          },
+          "authors": [
+            "Guangdong Wu",
+            "Jiawen Li",
+            "Yanlu Zha"
+          ],
+          "doi": "10.1080/14719037.2026.2714119",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "publication_date": "2026-08-07",
+          "stable_id": "doi:10.1080/14719037.2026.2714119",
+          "title": "Navigating the digital transformation: unravelling the dynamic evolution of smart city collaborative governance networks",
+          "url": "https://doi.org/10.1080/14719037.2026.2714119"
+        },
+        {
+          "author_affiliations": {
+            "Bert George": [
+              "City University of Hong Kong"
+            ],
+            "Jiasheng Zhang": [
+              "The Chinese University of Hong Kong"
+            ],
+            "Richard M. Walker": [
+              "Lingnan University"
+            ]
+          },
+          "authors": [
+            "Richard M. Walker",
+            "Jiasheng Zhang",
+            "Bert George"
+          ],
+          "doi": "10.1080/14719037.2026.2708842",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "publication_date": "2026-08-07",
+          "stable_id": "doi:10.1080/14719037.2026.2708842",
+          "title": "Reference points, negativity bias and citizens’ performance evaluations: a replication and extension",
+          "url": "https://doi.org/10.1080/14719037.2026.2708842"
+        },
+        {
+          "author_affiliations": {
+            "Jordon Peugh": [
+              "Chief Business Officer, SSRS , Glen Mills, PA,"
+            ]
+          },
+          "authors": [
+            "Jordon Peugh"
+          ],
+          "doi": "10.1093/poq/nfag060",
+          "journal": "Public Opinion Quarterly",
+          "journal_short": "POQ",
+          "publication_date": "2026-08-07",
+          "stable_id": "doi:10.1093/poq/nfag060",
+          "title": "AAPOR Presidential Address AAPOR Presidential Address 2026: Bearing Witness to This Moment",
+          "url": "https://doi.org/10.1093/poq/nfag060"
+        },
+        {
+          "author_affiliations": {
+            "Gemma Dipoppa": [
+              "Brown University",
+              "Stanford University"
+            ],
+            "Gianmarco Daniele": [
+              "University of Milan",
+              "Bocconi University"
+            ],
+            "Massimo Pulejo": [
+              "Roma Tre University",
+              "University of Milan"
+            ]
+          },
+          "authors": [
+            "Gianmarco Daniele",
+            "Gemma Dipoppa",
+            "Massimo Pulejo"
+          ],
+          "doi": "10.1086/743456",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "publication_date": "2026-08-03",
+          "stable_id": "doi:10.1086/743456",
+          "title": "Attacking Women or their Policies? Understanding Violence against Women in Politics",
+          "url": "https://doi.org/10.1086/743456"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "version": 1
