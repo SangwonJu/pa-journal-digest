@@ -69,11 +69,11 @@ def prepare(args: argparse.Namespace) -> int:
             start = local_today - timedelta(days=args.lookback_days - 1)
             discovered = metadata.discover(start, local_today)
             articles = [article for article in discovered if article.stable_id not in state.sent_ids]
-            if not articles:
-                _set_github_output("has_batch", "false")
-                print(json.dumps({"status": "empty", "date": local_today.isoformat()}))
-                return 0
             batch_id, idempotency_key = _batch_identity(articles, local_today.isoformat())
+            if not articles and state.is_batch_sent(batch_id):
+                _set_github_output("has_batch", "false")
+                print(json.dumps({"status": "empty_already_sent", "date": local_today.isoformat()}))
+                return 0
             created_at = now.isoformat()
             resumed = False
             resent = False

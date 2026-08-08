@@ -111,3 +111,12 @@ def test_render_orders_journals_by_field_rank() -> None:
     )
     assert "TIER 1" in html
     assert "TIER 2" in html
+
+
+def test_render_empty_digest_includes_daily_confirmation() -> None:
+    subject, html, text = render_newsletter([], date(2026, 8, 8))
+
+    assert "신규 0편" in subject
+    assert "오늘은 새로 확인된 논문이 없습니다." in html
+    assert "오늘은 새로 확인된 논문이 없습니다." in text
+    assert "max-width:900px" in html
