@@ -1,10 +1,13 @@
 from __future__ import annotations
 
 import html
+import json
 import os
 import re
+import textwrap
 import time
 from datetime import date
+from html.parser import HTMLParser
 from typing import Any
 from urllib.parse import quote
 
@@ -17,6 +20,45 @@ from .models import Article, normalize_doi
 CROSSREF_API = "https://api.crossref.org"
 SEMANTIC_SCHOLAR_API = "https://api.semanticscholar.org/graph/v1"
 OPENALEX_API = "https://api.openalex.org"
+PUBLISHER_READER_API = "https://r.jina.ai/http://"
+
+PUBLISHER_ABSTRACT_META_NAMES = {
+    "citation_abstract",
+    "dc.description",
+    "dcterms.abstract",
+    "eprints.abstract",
+    "prism.abstract",
+}
+
+
+class PublisherMetadataParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.abstract_candidates: list[str] = []
+        self._in_json_ld = False
+        self._json_ld_parts: list[str] = []
+        self.json_ld_blocks: list[str] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        attributes = {key.casefold(): value for key, value in attrs if value is not None}
+        if tag.casefold() == "meta":
+            name = (attributes.get("name") or attributes.get("property") or "").casefold()
+            content = attributes.get("content")
+            if name in PUBLISHER_ABSTRACT_META_NAMES and content:
+                self.abstract_candidates.append(content)
+        elif tag.casefold() == "script" and "ld+json" in attributes.get("type", "").casefold():
+            self._in_json_ld = True
+            self._json_ld_parts = []
+
+    def handle_data(self, data: str) -> None:
+        if self._in_json_ld:
+            self._json_ld_parts.append(data)
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag.casefold() == "script" and self._in_json_ld:
+            self.json_ld_blocks.append("".join(self._json_ld_parts))
+            self._in_json_ld = False
+            self._json_ld_parts = []
 
 EXCLUDED_TITLE_PATTERNS = (
     r"^book review(?::|$)",
@@ -93,9 +135,15 @@ class MetadataClient:
     def close(self) -> None:
         self.client.close()
 
-    def _get(self, url: str, *, params: dict[str, str] | None = None) -> httpx.Response:
+    def _get(
+        self,
+        url: str,
+        *,
+        params: dict[str, str] | None = None,
+        headers: dict[str, str] | None = None,
+    ) -> httpx.Response:
         for attempt in range(4):
-            response = self.client.get(url, params=params)
+            response = self.client.get(url, params=params, headers=headers)
             if response.status_code not in {429, 500, 502, 503, 504}:
                 response.raise_for_status()
                 return response
@@ -210,6 +258,11 @@ class MetadataClient:
             author not in article.author_affiliations for author in article.authors
         ):
             self._apply_openalex_metadata(article)
+        if not article.abstract:
+            abstract = self._publisher_abstract(article.doi, article.title)
+            if abstract:
+                article.abstract = abstract
+                article.abstract_source = "Publisher"
 
     def _semantic_scholar_abstract(self, doi: str) -> str | None:
         try:
@@ -241,6 +294,138 @@ class MetadataClient:
             apply_openalex_affiliations(article, payload.get("authorships") or [])
         except (httpx.HTTPError, KeyError, TypeError, ValueError):
             return
+
+    def _publisher_abstract(self, doi: str, title: str) -> str | None:
+        publisher_url = self._resolve_publisher_url(doi)
+        if not publisher_url:
+            return None
+        try:
+            response = self._get(
+                publisher_url,
+                headers={
+                    "Accept": "text/html,application/xhtml+xml",
+                    "User-Agent": (
+                        "Mozilla/5.0 (compatible; pa-journal-digest/0.1; "
+                        f"mailto:{self.mailto})"
+                    ),
+                },
+            )
+            content_type = response.headers.get("content-type", "").casefold()
+            if "html" not in content_type:
+                return None
+            abstract = publisher_abstract_from_html(response.text, title)
+            if abstract:
+                return abstract
+        except (httpx.HTTPError, UnicodeError, ValueError):
+            pass
+        return self._publisher_reader_abstract(publisher_url, title)
+
+    def _resolve_publisher_url(self, doi: str) -> str | None:
+        try:
+            response = self.client.get(
+                f"https://doi.org/{quote(doi, safe='/')}",
+                follow_redirects=False,
+                headers={"Accept": "text/html"},
+            )
+            location = response.headers.get("location")
+            if not location:
+                return None
+            resolved = str(response.url.join(location))
+            if not resolved.startswith(("http://", "https://")):
+                return None
+            return resolved
+        except (httpx.HTTPError, ValueError):
+            return None
+
+    def _publisher_reader_abstract(self, publisher_url: str, title: str) -> str | None:
+        target = re.sub(r"^https?://", "", publisher_url, flags=re.IGNORECASE)
+        try:
+            response = self._get(
+                f"{PUBLISHER_READER_API}{target}",
+                headers={"Accept": "text/plain"},
+            )
+            return publisher_abstract_from_markdown(response.text, title)
+        except (httpx.HTTPError, UnicodeError, ValueError):
+            return None
+
+
+def _json_ld_articles(value: Any) -> list[dict[str, Any]]:
+    if isinstance(value, list):
+        return [article for item in value for article in _json_ld_articles(item)]
+    if not isinstance(value, dict):
+        return []
+    articles: list[dict[str, Any]] = []
+    graph = value.get("@graph")
+    if graph is not None:
+        articles.extend(_json_ld_articles(graph))
+    raw_types = value.get("@type", [])
+    types = [raw_types] if isinstance(raw_types, str) else raw_types
+    normalized_types = {str(item).casefold() for item in types}
+    if normalized_types & {"article", "scholarlyarticle"}:
+        articles.append(value)
+    return articles
+
+
+def _valid_abstract_candidate(value: Any, title: str) -> str | None:
+    if not isinstance(value, str):
+        return None
+    candidate = clean_markup(value)
+    if not candidate or len(candidate) < 80:
+        return None
+    normalized_candidate = re.sub(r"\W+", "", candidate).casefold()
+    normalized_title = re.sub(r"\W+", "", title).casefold()
+    if normalized_candidate == normalized_title:
+        return None
+    return candidate
+
+
+def publisher_abstract_from_html(document: str, title: str) -> str | None:
+    parser = PublisherMetadataParser()
+    try:
+        parser.feed(document)
+    except (UnicodeError, ValueError):
+        return None
+    for candidate in parser.abstract_candidates:
+        abstract = _valid_abstract_candidate(candidate, title)
+        if abstract:
+            return abstract
+    for block in parser.json_ld_blocks:
+        try:
+            payload = json.loads(block)
+        except (json.JSONDecodeError, TypeError):
+            continue
+        for article in _json_ld_articles(payload):
+            for field in ("abstract", "description"):
+                abstract = _valid_abstract_candidate(article.get(field), title)
+                if abstract:
+                    return abstract
+    return None
+
+
+def publisher_abstract_from_markdown(document: str, title: str) -> str | None:
+    lines = textwrap.dedent(document).replace("\r\n", "\n").splitlines()
+    heading_index = next(
+        (
+            index
+            for index, line in enumerate(lines)
+            if re.fullmatch(r"[ \t]*#{1,6}[ \t]+abstract[ \t]*", line, re.IGNORECASE)
+        ),
+        None,
+    )
+    if heading_index is None:
+        return None
+    paragraph: list[str] = []
+    for line in lines[heading_index + 1 :]:
+        if not line.strip():
+            if paragraph:
+                break
+            continue
+        paragraph.append(line.strip())
+    candidate = " ".join(paragraph)
+    candidate = re.sub(r"!\[[^]]*]\([^)]*\)", " ", candidate)
+    candidate = re.sub(r"\[([^]]+)]\([^)]*\)", r"\1", candidate)
+    candidate = re.sub(r"(?m)^[-*]\s+", "", candidate)
+    return _valid_abstract_candidate(candidate, title)
 
 
 def abstract_from_inverted_index(inverted: dict[str, list[int]] | None) -> str | None:
