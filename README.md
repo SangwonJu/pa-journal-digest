@@ -1,6 +1,6 @@
 # PA Journal Digest
 
-매일 미국 동부시간 오전 8:30에 주요 행정학 저널의 최근 온라인 출간 논문을 확인하고,
+매일 미국 동부시간 오전 8:30에 주요 행정학·정치학 저널의 최근 온라인 출간 논문을 확인하고,
 새 논문이 있을 때만 저자·공개 소속 정보, 영문 초록, 한국어 1–2문장 요약을 이메일로 보냅니다.
 각 논문에는 연구영역·연구방법·핵심 개념을 3–4개의 간결한 태그로 함께 표시합니다. 방법 태그는
 `서베이 (패널 설문)`, `준실험 (이중차분)`, `이론/개념 (개념적 모형)`처럼 표시합니다.
@@ -8,25 +8,32 @@
 
 ## Monitored journals
 
-| Short name | Journal |
-|---|---|
-| JPART | Journal of Public Administration Research and Theory |
-| PAR | Public Administration Review |
-| PPMG | Perspectives on Public Management and Governance |
-| PMR | Public Management Review |
-| PA | Public Administration |
-| ARPA | The American Review of Public Administration |
-| PSJ | Policy Studies Journal |
-| IPMJ | International Public Management Journal |
-| PPMR | Public Performance & Management Review |
-| GIQ | Government Information Quarterly |
-| Governance | Governance |
-| A&S | Administration & Society |
-| ROPPA | Review of Public Personnel Administration |
+| Short name | Journal | Tier |
+|---|---|---:|
+| JPART | Journal of Public Administration Research and Theory | 1 |
+| PAR | Public Administration Review | 1 |
+| PPMG | Perspectives on Public Management and Governance | 1 |
+| AJPS | American Journal of Political Science | 1 |
+| APSR | American Political Science Review | 1 |
+| JOP | The Journal of Politics | 1 |
+| PMR | Public Management Review | 2 |
+| PA | Public Administration | 2 |
+| ARPA | The American Review of Public Administration | 2 |
+| PSJ | Policy Studies Journal | 2 |
+| IPMJ | International Public Management Journal | 2 |
+| IJPA | International Journal of Public Administration | 2 |
+| PolBeh | Political Behavior | 2 |
+| PolPsych | Political Psychology | 2 |
+| POQ | Public Opinion Quarterly | 2 |
+| PolComm | Political Communication | 2 |
+| PPMR | Public Performance & Management Review | 3 |
+| GIQ | Government Information Quarterly | 3 |
+| Governance | Governance | 3 |
+| A&S | Administration & Society | 3 |
+| ROPPA | Review of Public Personnel Administration | 3 |
 
-뉴스레터에서는 위 표의 순서대로 섹션을 배치합니다. JPART·PAR·PPMG는 Tier 1, PMR·PA·ARPA·
-PSJ·IPMJ는 Tier 2, PPMR·GIQ·Governance·Administration & Society·ROPPA는 Tier 3으로
-표시합니다. 특정 날짜에 신규 논문이 없는 저널은 표시하지 않습니다.
+뉴스레터에서는 위 표의 순서대로 섹션을 배치하며, 특정 날짜에 신규 논문이 없는 저널은
+해당 날짜의 메일에 표시하지 않습니다. 신규 논문이 전혀 없는 날에는 확인 완료 안내만 보냅니다.
 
 ## How it works
 
