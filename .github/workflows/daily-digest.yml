@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "30 8 * * *"
       timezone: "America/New_York"
+    - cron: "47 8 * * *"
+      timezone: "America/New_York"
+    - cron: "7 9 * * *"
+      timezone: "America/New_York"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -63,6 +67,9 @@ jobs:
           fi
           if [[ "${{ github.event_name == 'workflow_dispatch' && inputs.resend_latest }}" == "true" ]]; then
             args+=(--resend-latest)
+          fi
+          if [[ "${{ github.event_name }}" == "schedule" ]]; then
+            args+=(--daily-once)
           fi
           pa-digest "${args[@]}"
 

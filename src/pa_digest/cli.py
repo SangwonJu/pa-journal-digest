@@ -40,6 +40,10 @@ def prepare(args: argparse.Namespace) -> int:
     state = StateStore(args.state)
     now = datetime.now(UTC)
     local_today = now.astimezone(NEW_YORK).date()
+    if getattr(args, "daily_once", False) and state.has_daily_delivery(local_today.isoformat()):
+        _set_github_output("has_batch", "false")
+        print(json.dumps({"status": "daily_already_sent", "date": local_today.isoformat()}))
+        return 0
     mailto = os.getenv("CROSSREF_MAILTO")
     if not mailto:
         raise RuntimeError("CROSSREF_MAILTO is required")
@@ -176,6 +180,11 @@ def build_parser() -> argparse.ArgumentParser:
     prepare_parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
     prepare_parser.add_argument("--lookback-days", type=int, default=7)
     prepare_parser.add_argument("--dry-run", action="store_true")
+    prepare_parser.add_argument(
+        "--daily-once",
+        action="store_true",
+        help="Skip when a non-resend delivery already succeeded on the New York calendar date",
+    )
     prepare_parser.add_argument(
         "--resend-latest",
         action="store_true",

@@ -81,6 +81,15 @@ class StateStore:
     def is_batch_sent(self, batch_id: str) -> bool:
         return self.data.get("batches", {}).get(batch_id, {}).get("status") == "sent"
 
+    def has_daily_delivery(self, digest_date: str) -> bool:
+        prefix = f"{digest_date}-"
+        return any(
+            batch_id.startswith(prefix)
+            and "-resend-" not in batch_id
+            and batch.get("status") == "sent"
+            for batch_id, batch in self.data.get("batches", {}).items()
+        )
+
     def latest_sent_batch(self) -> tuple[str, dict[str, Any]] | None:
         sent = [
             (batch_id, batch)
