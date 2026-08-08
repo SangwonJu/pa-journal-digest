@@ -104,6 +104,14 @@
       "sent_at": "2026-08-07T09:26:57.459384+00:00",
       "title": "Institutional Pressures or Organizational Capacity? Antecedents of Digital Maturity in Local Governments"
     },
+    "doi:10.1111/padm.70078": {
+      "batch_id": "2026-08-08-f0a85e1f5bd376f6",
+      "doi": "10.1111/padm.70078",
+      "journal": "Public Administration",
+      "publication_date": "2026-08-08",
+      "sent_at": "2026-08-08T12:40:01.552819+00:00",
+      "title": "Getting the Priorities Straight: Public Values in AI Adoption"
+    },
     "doi:10.1111/pops.70126": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
       "doi": "10.1111/pops.70126",
@@ -143,6 +151,14 @@
       "publication_date": "2026-08-02",
       "sent_at": "2026-08-08T07:27:21.078868+00:00",
       "title": "How moral values underpin and affect attitudes on ethnic discrimination"
+    },
+    "doi:10.1111/pops.70185": {
+      "batch_id": "2026-08-08-f0a85e1f5bd376f6",
+      "doi": "10.1111/pops.70185",
+      "journal": "Political Psychology",
+      "publication_date": "2026-08-08",
+      "sent_at": "2026-08-08T12:40:01.552819+00:00",
+      "title": "Consistency, not waste aversion, explains apparent sunk‐cost effects in politics"
     },
     "doi:10.1111/psj.70144": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -1889,7 +1905,8 @@
           "url": "https://doi.org/10.1111/padm.70078"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-08T12:40:01.552819+00:00",
+      "status": "sent"
     }
   },
   "version": 1
