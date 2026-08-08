@@ -1,5 +1,37 @@
 {
   "articles": {
+    "doi:10.1007/s11109-026-10191-2": {
+      "batch_id": "2026-08-08-2d7215eaa0cc04f8",
+      "doi": "10.1007/s11109-026-10191-2",
+      "journal": "Political Behavior",
+      "publication_date": "2026-08-07",
+      "sent_at": "2026-08-08T07:02:57.758034+00:00",
+      "title": "Elite Interactions and Social Bonds: How Partisan Cooperation Shapes Perceptions of Cross-Party Friendships"
+    },
+    "doi:10.1080/01900692.2026.2683248": {
+      "batch_id": "2026-08-08-2d7215eaa0cc04f8",
+      "doi": "10.1080/01900692.2026.2683248",
+      "journal": "International Journal of Public Administration",
+      "publication_date": "2026-08-03",
+      "sent_at": "2026-08-08T07:02:57.758034+00:00",
+      "title": "Youth and Corruption in Ghana: Perspectives from University Student Leaders"
+    },
+    "doi:10.1080/10584609.2026.2708131": {
+      "batch_id": "2026-08-08-2d7215eaa0cc04f8",
+      "doi": "10.1080/10584609.2026.2708131",
+      "journal": "Political Communication",
+      "publication_date": "2026-08-06",
+      "sent_at": "2026-08-08T07:02:57.758034+00:00",
+      "title": "The Knowledge Gap in a High-Choice Media Environment: Experimental Evidence from Online Search"
+    },
+    "doi:10.1080/14719037.2026.2708842": {
+      "batch_id": "2026-08-08-2d7215eaa0cc04f8",
+      "doi": "10.1080/14719037.2026.2708842",
+      "journal": "Public Management Review",
+      "publication_date": "2026-08-07",
+      "sent_at": "2026-08-08T07:02:57.758034+00:00",
+      "title": "Reference points, negativity bias and citizens’ performance evaluations: a replication and extension"
+    },
     "doi:10.1080/14719037.2026.2711106": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1080/14719037.2026.2711106",
@@ -7,6 +39,14 @@
       "publication_date": "2026-08-01",
       "sent_at": "2026-08-07T09:26:57.459384+00:00",
       "title": "Accountability systems and coping in the bureaucratic environment"
+    },
+    "doi:10.1080/14719037.2026.2714119": {
+      "batch_id": "2026-08-08-2d7215eaa0cc04f8",
+      "doi": "10.1080/14719037.2026.2714119",
+      "journal": "Public Management Review",
+      "publication_date": "2026-08-07",
+      "sent_at": "2026-08-08T07:02:57.758034+00:00",
+      "title": "Navigating the digital transformation: unravelling the dynamic evolution of smart city collaborative governance networks"
     },
     "doi:10.1080/15309576.2026.2700771": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -24,6 +64,14 @@
       "sent_at": "2026-08-07T09:26:57.459384+00:00",
       "title": "How Do Clear Equity Goals Affect Citizens’ Assessment of Agency Performance? Evidence from a Survey Experiment"
     },
+    "doi:10.1086/743456": {
+      "batch_id": "2026-08-08-2d7215eaa0cc04f8",
+      "doi": "10.1086/743456",
+      "journal": "The Journal of Politics",
+      "publication_date": "2026-08-03",
+      "sent_at": "2026-08-08T07:02:57.758034+00:00",
+      "title": "Attacking Women or their Policies? Understanding Violence against Women in Politics"
+    },
     "doi:10.1093/jopart/muag020": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1093/jopart/muag020",
@@ -31,6 +79,14 @@
       "publication_date": "2026-08-05",
       "sent_at": "2026-08-07T09:26:57.459384+00:00",
       "title": "Large Language Models and Conversational Counter-Arguments to Anti-Public Sector Bias"
+    },
+    "doi:10.1093/poq/nfag060": {
+      "batch_id": "2026-08-08-2d7215eaa0cc04f8",
+      "doi": "10.1093/poq/nfag060",
+      "journal": "Public Opinion Quarterly",
+      "publication_date": "2026-08-07",
+      "sent_at": "2026-08-08T07:02:57.758034+00:00",
+      "title": "AAPOR Presidential Address AAPOR Presidential Address 2026: Bearing Witness to This Moment"
     },
     "doi:10.1111/gove.70148": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -47,6 +103,46 @@
       "publication_date": "2026-08-06",
       "sent_at": "2026-08-07T09:26:57.459384+00:00",
       "title": "Institutional Pressures or Organizational Capacity? Antecedents of Digital Maturity in Local Governments"
+    },
+    "doi:10.1111/pops.70126": {
+      "batch_id": "2026-08-08-2d7215eaa0cc04f8",
+      "doi": "10.1111/pops.70126",
+      "journal": "Political Psychology",
+      "publication_date": "2026-08-05",
+      "sent_at": "2026-08-08T07:02:57.758034+00:00",
+      "title": "Social dominance orientation"
+    },
+    "doi:10.1111/pops.70155": {
+      "batch_id": "2026-08-08-2d7215eaa0cc04f8",
+      "doi": "10.1111/pops.70155",
+      "journal": "Political Psychology",
+      "publication_date": "2026-08-02",
+      "sent_at": "2026-08-08T07:02:57.758034+00:00",
+      "title": "Issue Information"
+    },
+    "doi:10.1111/pops.70181": {
+      "batch_id": "2026-08-08-2d7215eaa0cc04f8",
+      "doi": "10.1111/pops.70181",
+      "journal": "Political Psychology",
+      "publication_date": "2026-08-02",
+      "sent_at": "2026-08-08T07:02:57.758034+00:00",
+      "title": "When propaganda resonates"
+    },
+    "doi:10.1111/pops.70183": {
+      "batch_id": "2026-08-08-2d7215eaa0cc04f8",
+      "doi": "10.1111/pops.70183",
+      "journal": "Political Psychology",
+      "publication_date": "2026-08-04",
+      "sent_at": "2026-08-08T07:02:57.758034+00:00",
+      "title": "Affective regimes and ontological security: When empathy threatens the state"
+    },
+    "doi:10.1111/pops.70184": {
+      "batch_id": "2026-08-08-2d7215eaa0cc04f8",
+      "doi": "10.1111/pops.70184",
+      "journal": "Political Psychology",
+      "publication_date": "2026-08-02",
+      "sent_at": "2026-08-08T07:02:57.758034+00:00",
+      "title": "How moral values underpin and affect attitudes on ethnic discrimination"
     },
     "doi:10.1111/psj.70144": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -87,6 +183,14 @@
       "publication_date": "2026-08-02",
       "sent_at": "2026-08-07T09:26:57.459384+00:00",
       "title": "Does Political Decoupling Through Fair Market Privatization Improve Managerial and Political Outcomes? Insights From Water Utility Sales"
+    },
+    "doi:10.1111/puar.70176": {
+      "batch_id": "2026-08-08-2d7215eaa0cc04f8",
+      "doi": "10.1111/puar.70176",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-08-07",
+      "sent_at": "2026-08-08T07:02:57.758034+00:00",
+      "title": "Improving Cooperation in Government Purchasing Through Formal‐Relational Contracting"
     },
     "doi:10.1177/00953997261469540": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -1453,7 +1557,8 @@
           "url": "https://doi.org/10.1086/743456"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-08T07:02:57.758034+00:00",
+      "status": "sent"
     }
   },
   "version": 1
