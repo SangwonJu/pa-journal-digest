@@ -36,6 +36,21 @@ def test_prepare_and_mark_sent(tmp_path) -> None:
     assert final.latest_sent_batch()[0] == "batch"
 
 
+def test_daily_delivery_ignores_explicit_resends(tmp_path) -> None:
+    path = tmp_path / "state.json"
+    store = StateStore(path)
+    now = datetime(2026, 8, 7, tzinfo=UTC)
+    resend_id = "2026-08-07-original-resend-20260807T120000Z"
+    store.prepare(resend_id, "resend-key", [], now.isoformat())
+    store.mark_sent(resend_id, [], now.isoformat())
+    assert not store.has_daily_delivery("2026-08-07")
+
+    daily_id = "2026-08-07-daily"
+    store.prepare(daily_id, "daily-key", [], now.isoformat())
+    store.mark_sent(daily_id, [], now.isoformat())
+    assert store.has_daily_delivery("2026-08-07")
+
+
 def test_stale_prepared_batch_stops_automatic_retry(tmp_path) -> None:
     path = tmp_path / "state.json"
     store = StateStore(path)

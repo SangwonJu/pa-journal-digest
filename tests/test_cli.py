@@ -1,4 +1,5 @@
 from argparse import Namespace
+from datetime import UTC, datetime
 from pathlib import Path
 
 from pa_digest import cli
@@ -34,6 +35,7 @@ def test_prepare_creates_deliverable_batch_when_no_articles(tmp_path, monkeypatc
         lookback_days=7,
         resend_latest=False,
         dry_run=False,
+        daily_once=False,
     )
 
     assert cli.prepare(args) == 0
@@ -45,3 +47,25 @@ def test_prepare_creates_deliverable_batch_when_no_articles(tmp_path, monkeypatc
     stored = StateStore(state_path).data["batches"][batch.batch_id]
     assert stored["status"] == "prepared"
     assert stored["items"] == []
+
+
+def test_daily_once_skips_after_successful_delivery(tmp_path) -> None:
+    state_path = tmp_path / "state.json"
+    output_path = tmp_path / "build" / "batch.json"
+    digest_date = datetime.now(UTC).astimezone(cli.NEW_YORK).date().isoformat()
+    store = StateStore(state_path)
+    batch_id = f"{digest_date}-existing"
+    store.prepare(batch_id, f"key-{batch_id}", [], datetime.now(UTC).isoformat())
+    store.mark_sent(batch_id, [], datetime.now(UTC).isoformat())
+    store.save()
+    args = Namespace(
+        state=state_path,
+        output=output_path,
+        lookback_days=7,
+        resend_latest=False,
+        dry_run=False,
+        daily_once=True,
+    )
+
+    assert cli.prepare(args) == 0
+    assert not output_path.exists()
