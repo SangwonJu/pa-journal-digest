@@ -1837,6 +1837,59 @@
       ],
       "sent_at": "2026-08-08T07:27:21.078868+00:00",
       "status": "sent"
+    },
+    "2026-08-08-f0a85e1f5bd376f6": {
+      "created_at": "2026-08-08T12:38:19.703597+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-08-f0a85e1f5bd376f6",
+      "items": [
+        {
+          "author_affiliations": {
+            "John Michael": [
+              "Cognition in Action Lab, Department of Philosophy University of Milan Milan Italy"
+            ],
+            "Marco Mattei": [
+              "Cognition in Action Lab, Department of Philosophy University of Milan Milan Italy"
+            ]
+          },
+          "authors": [
+            "Marco Mattei",
+            "John Michael"
+          ],
+          "doi": "10.1111/pops.70185",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "publication_date": "2026-08-08",
+          "stable_id": "doi:10.1111/pops.70185",
+          "title": "Consistency, not waste aversion, explains apparent sunk‐cost effects in politics",
+          "url": "https://doi.org/10.1111/pops.70185"
+        },
+        {
+          "author_affiliations": {
+            "Bram Klievink": [
+              "Faculty of Governance and Global Affairs Leiden University Leiden the Netherlands"
+            ],
+            "Jinke M. Oostvogel": [
+              "Faculty of Governance and Global Affairs Leiden University Leiden the Netherlands"
+            ],
+            "Matthew M. Young": [
+              "Faculty of Governance and Global Affairs Leiden University Leiden the Netherlands"
+            ]
+          },
+          "authors": [
+            "Jinke M. Oostvogel",
+            "Matthew M. Young",
+            "Bram Klievink"
+          ],
+          "doi": "10.1111/padm.70078",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "publication_date": "2026-08-08",
+          "stable_id": "doi:10.1111/padm.70078",
+          "title": "Getting the Priorities Straight: Public Values in AI Adoption",
+          "url": "https://doi.org/10.1111/padm.70078"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "version": 1
