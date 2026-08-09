@@ -96,6 +96,14 @@
       "sent_at": "2026-08-07T09:26:57.459384+00:00",
       "title": "Senior Bureaucrats, Coalitions and the Quality of Government: Accounting for Effective Governance in Fragmented Settings"
     },
+    "doi:10.1111/gove.70149": {
+      "batch_id": "2026-08-09-e006abca497a924f",
+      "doi": "10.1111/gove.70149",
+      "journal": "Governance",
+      "publication_date": "2026-08-08",
+      "sent_at": "2026-08-09T13:32:17.004634+00:00",
+      "title": "The Bureaucratic Paradox of Citizen Agency: Institutional Crowding‐Out in Government‐Catalyzed Co‐Production in Shanghai, China"
+    },
     "doi:10.1111/padm.70076": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1111/padm.70076",
@@ -1938,7 +1946,8 @@
           "url": "https://doi.org/10.1111/gove.70149"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-09T13:32:17.004634+00:00",
+      "status": "sent"
     }
   },
   "version": 1
