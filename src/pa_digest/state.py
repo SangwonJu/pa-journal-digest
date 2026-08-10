@@ -33,6 +33,34 @@ class StateStore:
     def sent_ids(self) -> set[str]:
         return set(self.data.get("articles", {}))
 
+    @property
+    def pending_records(self) -> list[dict[str, Any]]:
+        return [
+            entry["item"]
+            for entry in self.data.get("pending", {}).values()
+            if isinstance(entry, dict) and isinstance(entry.get("item"), dict)
+        ]
+
+    def update_pending(
+        self,
+        waiting: list[Article],
+        resolved_ids: set[str],
+        checked_at: str,
+    ) -> bool:
+        pending = self.data.setdefault("pending", {})
+        before = json.dumps(pending, ensure_ascii=False, sort_keys=True)
+        for stable_id in resolved_ids | self.sent_ids:
+            pending.pop(stable_id, None)
+        for article in waiting:
+            existing = pending.get(article.stable_id, {})
+            pending[article.stable_id] = {
+                "first_seen_at": existing.get("first_seen_at", checked_at),
+                "last_checked_at": checked_at,
+                "item": article.public_record(),
+            }
+        after = json.dumps(pending, ensure_ascii=False, sort_keys=True)
+        return before != after
+
     def active_prepared_batch(self, now: datetime | None = None) -> tuple[str, dict[str, Any]] | None:
         now = now or datetime.now(UTC)
         prepared = [
@@ -77,6 +105,7 @@ class StateStore:
                 "journal": article.journal,
                 "publication_date": article.publication_date.isoformat(),
             }
+            self.data.setdefault("pending", {}).pop(article.stable_id, None)
 
     def is_batch_sent(self, batch_id: str) -> bool:
         return self.data.get("batches", {}).get(batch_id, {}).get("status") == "sent"

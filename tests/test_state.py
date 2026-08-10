@@ -58,3 +58,17 @@ def test_stale_prepared_batch_stops_automatic_retry(tmp_path) -> None:
     store.prepare("batch", "key", [article()], (now - timedelta(hours=24)).isoformat())
     with pytest.raises(AmbiguousBatchError):
         store.active_prepared_batch(now)
+
+
+def test_pending_articles_survive_until_resolved(tmp_path) -> None:
+    path = tmp_path / "state.json"
+    store = StateStore(path)
+    now = datetime(2026, 8, 7, tzinfo=UTC).isoformat()
+    waiting = article()
+    assert store.update_pending([waiting], set(), now)
+    store.save()
+
+    reloaded = StateStore(path)
+    assert reloaded.pending_records == [waiting.public_record()]
+    assert reloaded.update_pending([], {waiting.stable_id}, now)
+    assert reloaded.pending_records == []
