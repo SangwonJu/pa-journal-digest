@@ -1948,6 +1948,44 @@
       ],
       "sent_at": "2026-08-09T13:32:17.004634+00:00",
       "status": "sent"
+    },
+    "2026-08-10-379897b0e0907946": {
+      "created_at": "2026-08-10T13:55:44.029173+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-10-379897b0e0907946",
+      "items": [
+        {
+          "author_affiliations": {},
+          "authors": [
+            "STUART J. TURNBULL-DUGARTE",
+            "ALBERTO LÓPEZ ORTEGA"
+          ],
+          "doi": "10.1017/s000305542610197x",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "publication_date": "2026-08-10",
+          "stable_id": "doi:10.1017/s000305542610197x",
+          "title": "Instrumentally Inclusive: The Political Psychology of Homonationalism – CORRIGENDUM",
+          "url": "https://doi.org/10.1017/s000305542610197x"
+        },
+        {
+          "author_affiliations": {
+            "Niva Golan-Nadir": [
+              "Reichman University"
+            ]
+          },
+          "authors": [
+            "Niva Golan-Nadir"
+          ],
+          "doi": "10.1177/02750740261473616",
+          "journal": "The American Review of Public Administration",
+          "journal_short": "ARPA",
+          "publication_date": "2026-08-10",
+          "stable_id": "doi:10.1177/02750740261473616",
+          "title": "Navigating Ambiguity: Street-Level Managers Discretion in the Implementation of Religious Policy in Divided Societies",
+          "url": "https://doi.org/10.1177/02750740261473616"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "version": 1
