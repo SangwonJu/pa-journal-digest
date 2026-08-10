@@ -83,15 +83,16 @@ jobs:
             build/newsletter.txt
           retention-days: 7
 
-      - name: Persist prepared outbox
-        if: steps.prepare.outputs.has_batch == 'true' && !(github.event_name == 'workflow_dispatch' && inputs.dry_run)
+      - name: Persist prepared state
+        if: (steps.prepare.outputs.has_batch == 'true' || steps.prepare.outputs.state_changed == 'true') && !(github.event_name == 'workflow_dispatch' && inputs.dry_run)
         shell: bash
         run: |
           if git diff --quiet -- data/state.json; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/state.json
-          git commit -m "Prepare digest ${{ steps.prepare.outputs.batch_id }}"
+          batch_id="${{ steps.prepare.outputs.batch_id }}"
+          git commit -m "Prepare digest ${batch_id:-pending-abstracts}"
           git push
 
       - name: Deliver newsletter

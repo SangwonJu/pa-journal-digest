@@ -48,6 +48,7 @@ def prepare(args: argparse.Namespace) -> int:
     if not mailto:
         raise RuntimeError("CROSSREF_MAILTO is required")
     metadata = MetadataClient(mailto)
+    pending_changed = False
     try:
         active = state.active_prepared_batch(now)
         if active:
@@ -72,17 +73,44 @@ def prepare(args: argparse.Namespace) -> int:
         else:
             start = local_today - timedelta(days=args.lookback_days - 1)
             discovered = metadata.discover(start, local_today)
-            articles = [article for article in discovered if article.stable_id not in state.sent_ids]
+            candidates = {article.stable_id: article for article in discovered}
+            for record in state.pending_records:
+                pending_article = metadata.by_public_record(record)
+                candidates[pending_article.stable_id] = pending_article
+            unsent = [
+                article for article in candidates.values() if article.stable_id not in state.sent_ids
+            ]
+            waiting = [article for article in unsent if not article.abstract]
+            articles = [article for article in unsent if article.abstract]
+            if not args.dry_run:
+                pending_changed = state.update_pending(
+                    waiting,
+                    {article.stable_id for article in articles},
+                    now.isoformat(),
+                )
+                if pending_changed:
+                    state.save()
+                    _set_github_output("state_changed", "true")
             batch_id, idempotency_key = _batch_identity(articles, local_today.isoformat())
             if not articles and state.is_batch_sent(batch_id):
                 _set_github_output("has_batch", "false")
-                print(json.dumps({"status": "empty_already_sent", "date": local_today.isoformat()}))
+                print(
+                    json.dumps(
+                        {
+                            "status": "empty_already_sent",
+                            "date": local_today.isoformat(),
+                            "awaiting_abstract": len(waiting),
+                        }
+                    )
+                )
                 return 0
             created_at = now.isoformat()
             resumed = False
             resent = False
     finally:
         metadata.close()
+
+    articles = [article for article in articles if article.abstract]
 
     summarizer = ArticleSummarizer()
     for article in articles:
@@ -114,6 +142,7 @@ def prepare(args: argparse.Namespace) -> int:
                 "status": "prepared",
                 "batch_id": batch_id,
                 "articles": len(articles),
+                "awaiting_abstract": len(waiting) if not resumed and not resent else 0,
                 "resumed": resumed,
                 "resent": resent,
                 "dry_run": args.dry_run,
