@@ -8,6 +8,14 @@
       "sent_at": "2026-08-08T07:27:21.078868+00:00",
       "title": "Elite Interactions and Social Bonds: How Partisan Cooperation Shapes Perceptions of Cross-Party Friendships"
     },
+    "doi:10.1017/s000305542610197x": {
+      "batch_id": "2026-08-10-379897b0e0907946",
+      "doi": "10.1017/s000305542610197x",
+      "journal": "American Political Science Review",
+      "publication_date": "2026-08-10",
+      "sent_at": "2026-08-10T13:57:29.002543+00:00",
+      "title": "Instrumentally Inclusive: The Political Psychology of Homonationalism – CORRIGENDUM"
+    },
     "doi:10.1080/01900692.2026.2683248": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
       "doi": "10.1080/01900692.2026.2683248",
@@ -247,6 +255,14 @@
       "publication_date": "2026-08-03",
       "sent_at": "2026-08-07T09:26:57.459384+00:00",
       "title": "Telemedicine Use in a Fragmented Federal System: State Policy Variation and Access to Digital Health Services in the United States"
+    },
+    "doi:10.1177/02750740261473616": {
+      "batch_id": "2026-08-10-379897b0e0907946",
+      "doi": "10.1177/02750740261473616",
+      "journal": "The American Review of Public Administration",
+      "publication_date": "2026-08-10",
+      "sent_at": "2026-08-10T13:57:29.002543+00:00",
+      "title": "Navigating Ambiguity: Street-Level Managers Discretion in the Implementation of Religious Policy in Divided Societies"
     }
   },
   "batches": {
@@ -1985,7 +2001,8 @@
           "url": "https://doi.org/10.1177/02750740261473616"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-10T13:57:29.002543+00:00",
+      "status": "sent"
     }
   },
   "version": 1
