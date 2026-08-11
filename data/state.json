@@ -2003,7 +2003,160 @@
       ],
       "sent_at": "2026-08-10T13:57:29.002543+00:00",
       "status": "sent"
+    },
+    "2026-08-11-eedb0a6c11d5680f": {
+      "created_at": "2026-08-11T13:14:28.612739+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-11-eedb0a6c11d5680f",
+      "items": [
+        {
+          "author_affiliations": {
+            "Benjamin Schneer": [
+              "Associate Professor, Harvard Kennedy School Cambridge Massachusetts USA"
+            ],
+            "Maxwell Palmer": [
+              "Associate Professor, Department of Political Science Boston University Boston Massachusetts USA"
+            ]
+          },
+          "authors": [
+            "Maxwell Palmer",
+            "Benjamin Schneer"
+          ],
+          "doi": "10.1111/ajps.70074",
+          "journal": "American Journal of Political Science",
+          "journal_short": "AJPS",
+          "publication_date": "2026-08-10",
+          "stable_id": "doi:10.1111/ajps.70074",
+          "title": "Durable majority gerrymanders: Where partisan gerrymandering can displace democracy",
+          "url": "https://doi.org/10.1111/ajps.70074"
+        },
+        {
+          "author_affiliations": {
+            "Laurence Brandenberger": [
+              "Institute of Political Science University of Zurich Zurich Switzerland"
+            ],
+            "Philip Leifeld": [
+              "Department of Social Statistics University of Manchester Manchester UK"
+            ]
+          },
+          "authors": [
+            "Philip Leifeld",
+            "Laurence Brandenberger"
+          ],
+          "doi": "10.1111/ajps.70079",
+          "journal": "American Journal of Political Science",
+          "journal_short": "AJPS",
+          "publication_date": "2026-08-10",
+          "stable_id": "doi:10.1111/ajps.70079",
+          "title": "Endogenous coalition formation in policy debates",
+          "url": "https://doi.org/10.1111/ajps.70079"
+        },
+        {
+          "author_affiliations": {
+            "Marcy Shieh": [
+              "University of Wisconsin-Whitewater"
+            ]
+          },
+          "authors": [
+            "Marcy Shieh"
+          ],
+          "doi": "10.1080/10584609.2026.2716378",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "publication_date": "2026-08-10",
+          "stable_id": "doi:10.1080/10584609.2026.2716378",
+          "title": "Examining the Influence of Media Coverage on Information-Seeking of Judicial Candidates",
+          "url": "https://doi.org/10.1080/10584609.2026.2716378"
+        },
+        {
+          "author_affiliations": {
+            "Cato Waeterloos": [
+              "KU Leuven"
+            ],
+            "Desirée Schmuck": [
+              "KU Leuven",
+              "University of Vienna"
+            ],
+            "Laura Vandenbosch": [
+              "KU Leuven"
+            ],
+            "Margot Lissens": [
+              "KU Leuven",
+              "University of Vienna"
+            ]
+          },
+          "authors": [
+            "Margot Lissens",
+            "Cato Waeterloos",
+            "Laura Vandenbosch",
+            "Desirée Schmuck"
+          ],
+          "doi": "10.1080/10584609.2026.2708127",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "publication_date": "2026-08-10",
+          "stable_id": "doi:10.1080/10584609.2026.2708127",
+          "title": "Trending Topics, Growing Knowledge? How Curating Actors’ Political Social Media Content Affects Youth’s Political Knowledge",
+          "url": "https://doi.org/10.1080/10584609.2026.2708127"
+        },
+        {
+          "author_affiliations": {
+            "Oscar Nowlan": [
+              "Department of Government London School of Economics and Political Science London UK"
+            ]
+          },
+          "authors": [
+            "Oscar Nowlan"
+          ],
+          "doi": "10.1111/puar.70173",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "publication_date": "2026-08-10",
+          "stable_id": "doi:10.1111/puar.70173",
+          "title": "Public Service Delegation and the Mechanisms of Blame Attribution: Evidence From a Survey Experiment on Public Service Failure",
+          "url": "https://doi.org/10.1111/puar.70173"
+        },
+        {
+          "author_affiliations": {
+            "Alexander L. Q. Chen‐Florea": [
+              "Department of Social Sciences and Business Roskilde University Roskilde Denmark"
+            ]
+          },
+          "authors": [
+            "Alexander L. Q. Chen‐Florea"
+          ],
+          "doi": "10.1111/puar.70179",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "publication_date": "2026-08-10",
+          "stable_id": "doi:10.1111/puar.70179",
+          "title": "Putting Democratic Theory and Principles of Justice in the Right Place: Ethical Pluralism in Collaborative and Participatory Governance",
+          "url": "https://doi.org/10.1111/puar.70179"
+        },
+        {
+          "author_affiliations": {
+            "Martin Lodge": [
+              "London School of Economics and Political Science"
+            ],
+            "Paolo Belardinelli": [
+              "Indiana University Bloomington"
+            ]
+          },
+          "authors": [
+            "Paolo Belardinelli",
+            "Martin Lodge"
+          ],
+          "doi": "10.1080/14719037.2026.2711108",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "publication_date": "2026-08-11",
+          "stable_id": "doi:10.1080/14719037.2026.2711108",
+          "title": "Citizens’ support for behavioural public policy and trust in government: evidence from two online experiments",
+          "url": "https://doi.org/10.1080/14719037.2026.2711108"
+        }
+      ],
+      "status": "prepared"
     }
   },
+  "pending": {},
   "version": 1
 }
