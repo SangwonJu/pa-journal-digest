@@ -24,6 +24,14 @@
       "sent_at": "2026-08-08T07:27:21.078868+00:00",
       "title": "Youth and Corruption in Ghana: Perspectives from University Student Leaders"
     },
+    "doi:10.1080/10584609.2026.2708127": {
+      "batch_id": "2026-08-11-eedb0a6c11d5680f",
+      "doi": "10.1080/10584609.2026.2708127",
+      "journal": "Political Communication",
+      "publication_date": "2026-08-10",
+      "sent_at": "2026-08-11T13:16:09.399192+00:00",
+      "title": "Trending Topics, Growing Knowledge? How Curating Actors’ Political Social Media Content Affects Youth’s Political Knowledge"
+    },
     "doi:10.1080/10584609.2026.2708131": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
       "doi": "10.1080/10584609.2026.2708131",
@@ -31,6 +39,14 @@
       "publication_date": "2026-08-06",
       "sent_at": "2026-08-08T07:27:21.078868+00:00",
       "title": "The Knowledge Gap in a High-Choice Media Environment: Experimental Evidence from Online Search"
+    },
+    "doi:10.1080/10584609.2026.2716378": {
+      "batch_id": "2026-08-11-eedb0a6c11d5680f",
+      "doi": "10.1080/10584609.2026.2716378",
+      "journal": "Political Communication",
+      "publication_date": "2026-08-10",
+      "sent_at": "2026-08-11T13:16:09.399192+00:00",
+      "title": "Examining the Influence of Media Coverage on Information-Seeking of Judicial Candidates"
     },
     "doi:10.1080/14719037.2026.2708842": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
@@ -47,6 +63,14 @@
       "publication_date": "2026-08-01",
       "sent_at": "2026-08-07T09:26:57.459384+00:00",
       "title": "Accountability systems and coping in the bureaucratic environment"
+    },
+    "doi:10.1080/14719037.2026.2711108": {
+      "batch_id": "2026-08-11-eedb0a6c11d5680f",
+      "doi": "10.1080/14719037.2026.2711108",
+      "journal": "Public Management Review",
+      "publication_date": "2026-08-11",
+      "sent_at": "2026-08-11T13:16:09.399192+00:00",
+      "title": "Citizens’ support for behavioural public policy and trust in government: evidence from two online experiments"
     },
     "doi:10.1080/14719037.2026.2714119": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
@@ -95,6 +119,22 @@
       "publication_date": "2026-08-07",
       "sent_at": "2026-08-08T07:27:21.078868+00:00",
       "title": "AAPOR Presidential Address AAPOR Presidential Address 2026: Bearing Witness to This Moment"
+    },
+    "doi:10.1111/ajps.70074": {
+      "batch_id": "2026-08-11-eedb0a6c11d5680f",
+      "doi": "10.1111/ajps.70074",
+      "journal": "American Journal of Political Science",
+      "publication_date": "2026-08-10",
+      "sent_at": "2026-08-11T13:16:09.399192+00:00",
+      "title": "Durable majority gerrymanders: Where partisan gerrymandering can displace democracy"
+    },
+    "doi:10.1111/ajps.70079": {
+      "batch_id": "2026-08-11-eedb0a6c11d5680f",
+      "doi": "10.1111/ajps.70079",
+      "journal": "American Journal of Political Science",
+      "publication_date": "2026-08-10",
+      "sent_at": "2026-08-11T13:16:09.399192+00:00",
+      "title": "Endogenous coalition formation in policy debates"
     },
     "doi:10.1111/gove.70148": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -208,6 +248,14 @@
       "sent_at": "2026-08-07T09:26:57.459384+00:00",
       "title": "A Race to the Top: The Adoption of Net‐Zero City Pledges in Large US Cities"
     },
+    "doi:10.1111/puar.70173": {
+      "batch_id": "2026-08-11-eedb0a6c11d5680f",
+      "doi": "10.1111/puar.70173",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-08-10",
+      "sent_at": "2026-08-11T13:16:09.399192+00:00",
+      "title": "Public Service Delegation and the Mechanisms of Blame Attribution: Evidence From a Survey Experiment on Public Service Failure"
+    },
     "doi:10.1111/puar.70174": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1111/puar.70174",
@@ -223,6 +271,14 @@
       "publication_date": "2026-08-07",
       "sent_at": "2026-08-08T07:27:21.078868+00:00",
       "title": "Improving Cooperation in Government Purchasing Through Formal‐Relational Contracting"
+    },
+    "doi:10.1111/puar.70179": {
+      "batch_id": "2026-08-11-eedb0a6c11d5680f",
+      "doi": "10.1111/puar.70179",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-08-10",
+      "sent_at": "2026-08-11T13:16:09.399192+00:00",
+      "title": "Putting Democratic Theory and Principles of Justice in the Right Place: Ethical Pluralism in Collaborative and Participatory Governance"
     },
     "doi:10.1177/00953997261469540": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -2154,7 +2210,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2711108"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-11T13:16:09.399192+00:00",
+      "status": "sent"
     }
   },
   "pending": {},
