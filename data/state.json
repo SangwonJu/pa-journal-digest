@@ -2212,8 +2212,146 @@
       ],
       "sent_at": "2026-08-11T13:16:09.399192+00:00",
       "status": "sent"
+    },
+    "2026-08-12-3d2315f5bf77bcd6": {
+      "created_at": "2026-08-12T11:57:06.455809+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-12-3d2315f5bf77bcd6",
+      "items": [
+        {
+          "author_affiliations": {
+            "Alastair Stark": [
+              "University of Queensland School of Political Science and International Studies, , St Lucia Campus, Brisbane, Australia, 4172"
+            ],
+            "Dennis C Grube": [
+              "University of Cambridge Dept of Politics and International Relations, , 7 West Road, Cambridge, United Kingdom, CB3 9DP"
+            ],
+            "Heather Lovell": [
+              "University of Tasmania , School of Geography, Planning, and Spatial Sciences, Sandy Bay Campus, Tasmania, Australia, 7005"
+            ],
+            "Hridesh Gajural": [
+              "Australian National University School of Regulation and Global Governance, , 130 Garran Road, Canberra, Australia, 2601"
+            ],
+            "Jack Corbett": [
+              "Monash University School of Social Sciences, , 900 Dandenong Road, Victoria, Australia, 3145"
+            ],
+            "Rodney Scott": [
+              "RMIT School of Law, , 124 La Trobe Street, Melbourne, Australia, 3000"
+            ]
+          },
+          "authors": [
+            "Alastair Stark",
+            "Hridesh Gajural",
+            "Jack Corbett",
+            "Dennis C Grube",
+            "Heather Lovell",
+            "Rodney Scott"
+          ],
+          "doi": "10.1093/jopart/muag025",
+          "journal": "Journal of Public Administration Research and Theory",
+          "journal_short": "JPART",
+          "publication_date": "2026-08-11",
+          "stable_id": "doi:10.1093/jopart/muag025",
+          "title": "Institutional Amnesia and Public Administration: Does History Repeat?",
+          "url": "https://doi.org/10.1093/jopart/muag025"
+        },
+        {
+          "author_affiliations": {
+            "Elliott Edsall": [
+              "University of Minnesota – Twin Cities"
+            ]
+          },
+          "authors": [
+            "Elliott Edsall"
+          ],
+          "doi": "10.1080/10584609.2026.2715700",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "publication_date": "2026-08-12",
+          "stable_id": "doi:10.1080/10584609.2026.2715700",
+          "title": "Policing the Political Boundary: How the r/BarstoolSports Audience Confronts Politicization",
+          "url": "https://doi.org/10.1080/10584609.2026.2715700"
+        },
+        {
+          "author_affiliations": {
+            "Erin Hartman": [
+              "Department of Political Science, University of California, Berkeley Associate Professor, , Berkeley, CA,"
+            ],
+            "Melody Huang": [
+              "Department of Political Science, Yale University Assistant Professor, , New Haven, CT,"
+            ]
+          },
+          "authors": [
+            "Melody Huang",
+            "Erin Hartman"
+          ],
+          "doi": "10.1093/poq/nfag061",
+          "journal": "Public Opinion Quarterly",
+          "journal_short": "POQ",
+          "publication_date": "2026-08-12",
+          "stable_id": "doi:10.1093/poq/nfag061",
+          "title": "Assessing Nonignorable Response: Sensitivity Analysis for Survey Weighting, with Applications to Survey Estimates of COVID-19 Vaccination Uptake",
+          "url": "https://doi.org/10.1093/poq/nfag061"
+        },
+        {
+          "author_affiliations": {
+            "Craig R. Smith": [
+              "University of Arizona"
+            ]
+          },
+          "authors": [
+            "Craig R. Smith"
+          ],
+          "doi": "10.1177/02750740261473618",
+          "journal": "The American Review of Public Administration",
+          "journal_short": "ARPA",
+          "publication_date": "2026-08-11",
+          "stable_id": "doi:10.1177/02750740261473618",
+          "title": "Civic Embeddedness and Public Employment: How Institutional Proximity Structures Civic Participation",
+          "url": "https://doi.org/10.1177/02750740261473618"
+        },
+        {
+          "author_affiliations": {
+            "Petter Gullmark": [
+              "UiT The Arctic University of Norway, School of Business and Economics, Tromsø, Norway"
+            ]
+          },
+          "authors": [
+            "Petter Gullmark"
+          ],
+          "doi": "10.1177/02750740261477406",
+          "journal": "The American Review of Public Administration",
+          "journal_short": "ARPA",
+          "publication_date": "2026-08-11",
+          "stable_id": "doi:10.1177/02750740261477406",
+          "title": "How Front-Line Public Managers Become Institutional Entrepreneurs",
+          "url": "https://doi.org/10.1177/02750740261477406"
+        }
+      ],
+      "status": "prepared"
     }
   },
-  "pending": {},
+  "pending": {
+    "doi:10.1111/puar.70170": {
+      "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
+      "item": {
+        "author_affiliations": {
+          "Krishna K. Tummala": [
+            "Kansas State University Manhattan Kansas USA"
+          ]
+        },
+        "authors": [
+          "Krishna K. Tummala"
+        ],
+        "doi": "10.1111/puar.70170",
+        "journal": "Public Administration Review",
+        "journal_short": "PAR",
+        "publication_date": "2026-08-12",
+        "stable_id": "doi:10.1111/puar.70170",
+        "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
+        "url": "https://doi.org/10.1111/puar.70170"
+      },
+      "last_checked_at": "2026-08-12T11:57:06.455809+00:00"
+    }
+  },
   "version": 1
 }
