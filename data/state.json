@@ -2369,6 +2369,106 @@
       ],
       "sent_at": "2026-08-12T12:00:34.926503+00:00",
       "status": "sent"
+    },
+    "2026-08-13-b1e7ea78f82cb711": {
+      "created_at": "2026-08-13T11:58:36.236403+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-13-b1e7ea78f82cb711",
+      "items": [
+        {
+          "author_affiliations": {
+            "Chiara Leardini": [
+              "University of Verona, Italy"
+            ],
+            "Enrico Zaninotto": [
+              "University of Trento, Italy"
+            ],
+            "Gianluca Maistri": [
+              "University of Verona, Italy"
+            ],
+            "Gianluca Veronesi": [
+              "University of Verona, Italy",
+              "The University of Bristol, UK"
+            ]
+          },
+          "authors": [
+            "Gianluca Maistri",
+            "Chiara Leardini",
+            "Gianluca Veronesi",
+            "Enrico Zaninotto"
+          ],
+          "doi": "10.1177/00953997261476329",
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "publication_date": "2026-08-12",
+          "stable_id": "doi:10.1177/00953997261476329",
+          "title": "“Old Habits Die Hard”: Formal Politicization and the Turnover of Public Hospital CEOs",
+          "url": "https://doi.org/10.1177/00953997261476329"
+        },
+        {
+          "author_affiliations": {
+            "Brittany Houston": [
+              "School of Public Policy, University of Massachusetts Amherst , Amherst, MA 01003-9277,"
+            ],
+            "James E Wright II": [
+              "School of Public Affairs & School of Criminology and Criminal Justice, Watts College of Public Service, Arizona State University , Phoenix, AZ 85004,"
+            ]
+          },
+          "authors": [
+            "James E Wright II",
+            "Brittany Houston"
+          ],
+          "doi": "10.1093/ppmgov/gvag008",
+          "journal": "Perspectives on Public Management and Governance",
+          "journal_short": "PPMG",
+          "publication_date": "2026-08-12",
+          "stable_id": "doi:10.1093/ppmgov/gvag008",
+          "title": "Beyond neutrality: QuantCrit as a methodological corrective in quantitative public administration research",
+          "url": "https://doi.org/10.1093/ppmgov/gvag008"
+        },
+        {
+          "author_affiliations": {
+            "Laura Cervi": [
+              "Autonomous University of Barcelona"
+            ],
+            "Sarah J. Jackson": [
+              "University of Pennsylvania"
+            ]
+          },
+          "authors": [
+            "Laura Cervi",
+            "Sarah J. Jackson"
+          ],
+          "doi": "10.1080/10584609.2026.2715697",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "publication_date": "2026-08-12",
+          "stable_id": "doi:10.1080/10584609.2026.2715697",
+          "title": "Kamala is Brat: TikTok and the Affective Politics of Memes",
+          "url": "https://doi.org/10.1080/10584609.2026.2715697"
+        },
+        {
+          "author_affiliations": {
+            "Koen Migchelbrink": [
+              "Erasmus University Rotterdam"
+            ],
+            "Warda Belabas": [
+              "Erasmus University Rotterdam"
+            ]
+          },
+          "authors": [
+            "Warda Belabas",
+            "Koen Migchelbrink"
+          ],
+          "doi": "10.1080/14719037.2026.2715612",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "publication_date": "2026-08-12",
+          "stable_id": "doi:10.1080/14719037.2026.2715612",
+          "title": "Should we stay or should we go? Implications of trust in the municipality for second-generation migrants’ behavioural intentions towards the municipality",
+          "url": "https://doi.org/10.1080/14719037.2026.2715612"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -2391,7 +2491,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-08-12T11:57:06.455809+00:00"
+      "last_checked_at": "2026-08-13T11:58:36.236403+00:00"
     }
   },
   "version": 1
