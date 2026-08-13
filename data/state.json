@@ -40,6 +40,14 @@
       "sent_at": "2026-08-08T07:27:21.078868+00:00",
       "title": "The Knowledge Gap in a High-Choice Media Environment: Experimental Evidence from Online Search"
     },
+    "doi:10.1080/10584609.2026.2715697": {
+      "batch_id": "2026-08-13-b1e7ea78f82cb711",
+      "doi": "10.1080/10584609.2026.2715697",
+      "journal": "Political Communication",
+      "publication_date": "2026-08-12",
+      "sent_at": "2026-08-13T12:01:13.476252+00:00",
+      "title": "Kamala is Brat: TikTok and the Affective Politics of Memes"
+    },
     "doi:10.1080/10584609.2026.2715700": {
       "batch_id": "2026-08-12-3d2315f5bf77bcd6",
       "doi": "10.1080/10584609.2026.2715700",
@@ -87,6 +95,14 @@
       "publication_date": "2026-08-07",
       "sent_at": "2026-08-08T07:27:21.078868+00:00",
       "title": "Navigating the digital transformation: unravelling the dynamic evolution of smart city collaborative governance networks"
+    },
+    "doi:10.1080/14719037.2026.2715612": {
+      "batch_id": "2026-08-13-b1e7ea78f82cb711",
+      "doi": "10.1080/14719037.2026.2715612",
+      "journal": "Public Management Review",
+      "publication_date": "2026-08-12",
+      "sent_at": "2026-08-13T12:01:13.476252+00:00",
+      "title": "Should we stay or should we go? Implications of trust in the municipality for second-generation migrants’ behavioural intentions towards the municipality"
     },
     "doi:10.1080/15309576.2026.2700771": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -143,6 +159,14 @@
       "publication_date": "2026-08-12",
       "sent_at": "2026-08-12T12:00:34.926503+00:00",
       "title": "Assessing Nonignorable Response: Sensitivity Analysis for Survey Weighting, with Applications to Survey Estimates of COVID-19 Vaccination Uptake"
+    },
+    "doi:10.1093/ppmgov/gvag008": {
+      "batch_id": "2026-08-13-b1e7ea78f82cb711",
+      "doi": "10.1093/ppmgov/gvag008",
+      "journal": "Perspectives on Public Management and Governance",
+      "publication_date": "2026-08-12",
+      "sent_at": "2026-08-13T12:01:13.476252+00:00",
+      "title": "Beyond neutrality: QuantCrit as a methodological corrective in quantitative public administration research"
     },
     "doi:10.1111/ajps.70074": {
       "batch_id": "2026-08-11-eedb0a6c11d5680f",
@@ -335,6 +359,14 @@
       "publication_date": "2026-08-03",
       "sent_at": "2026-08-07T09:26:57.459384+00:00",
       "title": "Telemedicine Use in a Fragmented Federal System: State Policy Variation and Access to Digital Health Services in the United States"
+    },
+    "doi:10.1177/00953997261476329": {
+      "batch_id": "2026-08-13-b1e7ea78f82cb711",
+      "doi": "10.1177/00953997261476329",
+      "journal": "Administration & Society",
+      "publication_date": "2026-08-12",
+      "sent_at": "2026-08-13T12:01:13.476252+00:00",
+      "title": "“Old Habits Die Hard”: Formal Politicization and the Turnover of Public Hospital CEOs"
     },
     "doi:10.1177/02750740261473616": {
       "batch_id": "2026-08-10-379897b0e0907946",
@@ -2468,7 +2500,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2715612"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-13T12:01:13.476252+00:00",
+      "status": "sent"
     }
   },
   "pending": {
