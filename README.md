@@ -13,9 +13,11 @@
 | JPART | Journal of Public Administration Research and Theory | 1 |
 | PAR | Public Administration Review | 1 |
 | PPMG | Perspectives on Public Management and Governance | 1 |
+| JPAM | Journal of Policy Analysis and Management | 1 |
 | AJPS | American Journal of Political Science | 1 |
 | APSR | American Political Science Review | 1 |
 | JOP | The Journal of Politics | 1 |
+| PolAnalysis | Political Analysis | 1 |
 | PMR | Public Management Review | 2 |
 | PA | Public Administration | 2 |
 | ARPA | The American Review of Public Administration | 2 |
