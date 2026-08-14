@@ -2543,6 +2543,115 @@
       ],
       "sent_at": "2026-08-13T14:23:51.433492+00:00",
       "status": "sent"
+    },
+    "2026-08-14-8fbfacbd92e8e048": {
+      "created_at": "2026-08-14T11:56:11.063089+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-14-8fbfacbd92e8e048",
+      "items": [
+        {
+          "author_affiliations": {
+            "Yuna Blajer de la Garza": [
+              "Assistant Professor Department of Political Science Loyola University Chicago Chicago Illinois USA"
+            ]
+          },
+          "authors": [
+            "Yuna Blajer de la Garza"
+          ],
+          "doi": "10.1111/ajps.70081",
+          "journal": "American Journal of Political Science",
+          "journal_short": "AJPS",
+          "publication_date": "2026-08-13",
+          "stable_id": "doi:10.1111/ajps.70081",
+          "title": "(Non)belonging and (un)freedom",
+          "url": "https://doi.org/10.1111/ajps.70081"
+        },
+        {
+          "author_affiliations": {
+            "Paula Rettl": [
+              "Assistant Professor, Business, Government, and the International Economy Unit Harvard Business School Boston Massachusetts USA"
+            ],
+            "Silvia Pianta": [
+              "Junior Scientist, RFF‐CMCC European Institute on Economics and the Environment Milan Italy",
+              "CMCC Foundation—Euro‐Mediterranean Center on Climate Change Lecce Italy"
+            ]
+          },
+          "authors": [
+            "Silvia Pianta",
+            "Paula Rettl"
+          ],
+          "doi": "10.1111/ajps.70078",
+          "journal": "American Journal of Political Science",
+          "journal_short": "AJPS",
+          "publication_date": "2026-08-13",
+          "stable_id": "doi:10.1111/ajps.70078",
+          "title": "Global harms, local profits: How the uneven costs of natural disasters affect support for green political platforms",
+          "url": "https://doi.org/10.1111/ajps.70078"
+        },
+        {
+          "author_affiliations": {
+            "Antonio Amuza": [
+              "University of Bucharest"
+            ],
+            "Vasile Dîncu": [
+              "University of Bucharest"
+            ]
+          },
+          "authors": [
+            "Antonio Amuza",
+            "Vasile Dîncu"
+          ],
+          "doi": "10.1080/10584609.2026.2714818",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "publication_date": "2026-08-13",
+          "stable_id": "doi:10.1080/10584609.2026.2714818",
+          "title": "Affective Legitimacy and Digital Populism: Evidence from Romania’s Annulled Presidential Elections",
+          "url": "https://doi.org/10.1080/10584609.2026.2714818"
+        },
+        {
+          "author_affiliations": {
+            "Hanzhang Liu": [
+              "Florida State University"
+            ],
+            "Linan Yao": [
+              "Vanderbilt University"
+            ]
+          },
+          "authors": [
+            "Hanzhang Liu",
+            "Linan Yao"
+          ],
+          "doi": "10.1080/10584609.2026.2701201",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "publication_date": "2026-08-13",
+          "stable_id": "doi:10.1080/10584609.2026.2701201",
+          "title": "Entertainment as Trojan Horse: Voluntary Consumption of Propaganda in China",
+          "url": "https://doi.org/10.1080/10584609.2026.2701201"
+        },
+        {
+          "author_affiliations": {
+            "ChiaKo Hung": [
+              "University of Pennsylvania"
+            ],
+            "David Lee": [
+              "Sungkyunkwan University"
+            ]
+          },
+          "authors": [
+            "David Lee",
+            "ChiaKo Hung"
+          ],
+          "doi": "10.1080/15309576.2026.2713526",
+          "journal": "Public Performance & Management Review",
+          "journal_short": "PPMR",
+          "publication_date": "2026-08-13",
+          "stable_id": "doi:10.1080/15309576.2026.2713526",
+          "title": "The Cost Savings in Inter-Organizational Cooperation: A Meta-Analytic Review and Extension",
+          "url": "https://doi.org/10.1080/15309576.2026.2713526"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -2565,7 +2674,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-08-13T14:20:58.677075+00:00"
+      "last_checked_at": "2026-08-14T11:56:11.063089+00:00"
     }
   },
   "version": 1
