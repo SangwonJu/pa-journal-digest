@@ -24,6 +24,14 @@
       "sent_at": "2026-08-08T07:27:21.078868+00:00",
       "title": "Youth and Corruption in Ghana: Perspectives from University Student Leaders"
     },
+    "doi:10.1080/10584609.2026.2701201": {
+      "batch_id": "2026-08-14-8fbfacbd92e8e048",
+      "doi": "10.1080/10584609.2026.2701201",
+      "journal": "Political Communication",
+      "publication_date": "2026-08-13",
+      "sent_at": "2026-08-14T11:58:19.972994+00:00",
+      "title": "Entertainment as Trojan Horse: Voluntary Consumption of Propaganda in China"
+    },
     "doi:10.1080/10584609.2026.2708127": {
       "batch_id": "2026-08-11-eedb0a6c11d5680f",
       "doi": "10.1080/10584609.2026.2708127",
@@ -39,6 +47,14 @@
       "publication_date": "2026-08-06",
       "sent_at": "2026-08-08T07:27:21.078868+00:00",
       "title": "The Knowledge Gap in a High-Choice Media Environment: Experimental Evidence from Online Search"
+    },
+    "doi:10.1080/10584609.2026.2714818": {
+      "batch_id": "2026-08-14-8fbfacbd92e8e048",
+      "doi": "10.1080/10584609.2026.2714818",
+      "journal": "Political Communication",
+      "publication_date": "2026-08-13",
+      "sent_at": "2026-08-14T11:58:19.972994+00:00",
+      "title": "Affective Legitimacy and Digital Populism: Evidence from Romania’s Annulled Presidential Elections"
     },
     "doi:10.1080/10584609.2026.2715697": {
       "batch_id": "2026-08-13-b1e7ea78f82cb711",
@@ -120,6 +136,14 @@
       "sent_at": "2026-08-07T09:26:57.459384+00:00",
       "title": "How Do Clear Equity Goals Affect Citizens’ Assessment of Agency Performance? Evidence from a Survey Experiment"
     },
+    "doi:10.1080/15309576.2026.2713526": {
+      "batch_id": "2026-08-14-8fbfacbd92e8e048",
+      "doi": "10.1080/15309576.2026.2713526",
+      "journal": "Public Performance & Management Review",
+      "publication_date": "2026-08-13",
+      "sent_at": "2026-08-14T11:58:19.972994+00:00",
+      "title": "The Cost Savings in Inter-Organizational Cooperation: A Meta-Analytic Review and Extension"
+    },
     "doi:10.1086/743456": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
       "doi": "10.1086/743456",
@@ -176,6 +200,14 @@
       "sent_at": "2026-08-11T13:16:09.399192+00:00",
       "title": "Durable majority gerrymanders: Where partisan gerrymandering can displace democracy"
     },
+    "doi:10.1111/ajps.70078": {
+      "batch_id": "2026-08-14-8fbfacbd92e8e048",
+      "doi": "10.1111/ajps.70078",
+      "journal": "American Journal of Political Science",
+      "publication_date": "2026-08-13",
+      "sent_at": "2026-08-14T11:58:19.972994+00:00",
+      "title": "Global harms, local profits: How the uneven costs of natural disasters affect support for green political platforms"
+    },
     "doi:10.1111/ajps.70079": {
       "batch_id": "2026-08-11-eedb0a6c11d5680f",
       "doi": "10.1111/ajps.70079",
@@ -183,6 +215,14 @@
       "publication_date": "2026-08-10",
       "sent_at": "2026-08-11T13:16:09.399192+00:00",
       "title": "Endogenous coalition formation in policy debates"
+    },
+    "doi:10.1111/ajps.70081": {
+      "batch_id": "2026-08-14-8fbfacbd92e8e048",
+      "doi": "10.1111/ajps.70081",
+      "journal": "American Journal of Political Science",
+      "publication_date": "2026-08-13",
+      "sent_at": "2026-08-14T11:58:19.972994+00:00",
+      "title": "(Non)belonging and (un)freedom"
     },
     "doi:10.1111/gove.70148": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -2651,7 +2691,8 @@
           "url": "https://doi.org/10.1080/15309576.2026.2713526"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-14T11:58:19.972994+00:00",
+      "status": "sent"
     }
   },
   "pending": {
