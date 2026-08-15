@@ -2693,6 +2693,38 @@
       ],
       "sent_at": "2026-08-14T11:58:19.972994+00:00",
       "status": "sent"
+    },
+    "2026-08-15-99706853cfaa4a22": {
+      "created_at": "2026-08-15T11:33:08.198872+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-15-99706853cfaa4a22",
+      "items": [
+        {
+          "author_affiliations": {
+            "Mariusz Baranowski": [
+              "Adam Mickiewicz University Associate Professor, Faculty of Sociology, , Poznan,"
+            ],
+            "Piotr Cichocki": [
+              "Assistant Professor, Faculty of Sociology, Adam Mickiewicz University , Poznan,"
+            ],
+            "Piotr Jabkowski": [
+              "Associate Professor, Faculty of Sociology, Adam Mickiewicz University , Poznan,"
+            ]
+          },
+          "authors": [
+            "Piotr Jabkowski",
+            "Mariusz Baranowski",
+            "Piotr Cichocki"
+          ],
+          "doi": "10.1093/poq/nfag064",
+          "journal": "Public Opinion Quarterly",
+          "journal_short": "POQ",
+          "publication_date": "2026-08-14",
+          "stable_id": "doi:10.1093/poq/nfag064",
+          "title": "Attitudes Toward Energy Across European Union Member States (2006–2024)",
+          "url": "https://doi.org/10.1093/poq/nfag064"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -2715,7 +2747,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-08-14T11:56:11.063089+00:00"
+      "last_checked_at": "2026-08-15T11:33:08.198872+00:00"
     }
   },
   "version": 1
