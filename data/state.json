@@ -184,6 +184,14 @@
       "sent_at": "2026-08-12T12:00:34.926503+00:00",
       "title": "Assessing Nonignorable Response: Sensitivity Analysis for Survey Weighting, with Applications to Survey Estimates of COVID-19 Vaccination Uptake"
     },
+    "doi:10.1093/poq/nfag064": {
+      "batch_id": "2026-08-15-99706853cfaa4a22",
+      "doi": "10.1093/poq/nfag064",
+      "journal": "Public Opinion Quarterly",
+      "publication_date": "2026-08-14",
+      "sent_at": "2026-08-15T11:34:44.889134+00:00",
+      "title": "Attitudes Toward Energy Across European Union Member States (2006–2024)"
+    },
     "doi:10.1093/ppmgov/gvag008": {
       "batch_id": "2026-08-13-b1e7ea78f82cb711",
       "doi": "10.1093/ppmgov/gvag008",
@@ -2724,7 +2732,8 @@
           "url": "https://doi.org/10.1093/poq/nfag064"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-15T11:34:44.889134+00:00",
+      "status": "sent"
     }
   },
   "pending": {
