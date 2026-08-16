@@ -2734,6 +2734,12 @@
       ],
       "sent_at": "2026-08-15T11:34:44.889134+00:00",
       "status": "sent"
+    },
+    "2026-08-16-e3b0c44298fc1c14": {
+      "created_at": "2026-08-16T11:33:03.102987+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-16-e3b0c44298fc1c14",
+      "items": [],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -2756,7 +2762,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-08-15T11:33:08.198872+00:00"
+      "last_checked_at": "2026-08-16T11:33:03.102987+00:00"
     }
   },
   "version": 1
