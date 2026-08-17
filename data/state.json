@@ -2741,6 +2741,167 @@
       "items": [],
       "sent_at": "2026-08-16T11:34:27.199865+00:00",
       "status": "sent"
+    },
+    "2026-08-17-92d20fbd959228aa": {
+      "created_at": "2026-08-17T11:38:31.741123+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-17-92d20fbd959228aa",
+      "items": [
+        {
+          "author_affiliations": {
+            "Amanda J. Stewart": [
+              "North Carolina State University, Raleigh, USA"
+            ],
+            "Jessica L. Berrett": [
+              "University of Colorado Colorado Springs, USA"
+            ],
+            "Kerry Kuenzi": [
+              "University of Wisconsin-Green Bay, USA"
+            ]
+          },
+          "authors": [
+            "Jessica L. Berrett",
+            "Amanda J. Stewart",
+            "Kerry Kuenzi"
+          ],
+          "doi": "10.1177/00953997261467698",
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "publication_date": "2026-08-17",
+          "stable_id": "doi:10.1177/00953997261467698",
+          "title": "More Than the Sum of Its Parts? Bridging Research-to-Practice Gaps to Explain Local Nonprofit Sector Health",
+          "url": "https://doi.org/10.1177/00953997261467698"
+        },
+        {
+          "author_affiliations": {
+            "Siyu Liang": [
+              "University of California"
+            ]
+          },
+          "authors": [
+            "Siyu Liang"
+          ],
+          "doi": "10.1080/10584609.2026.2714816",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "publication_date": "2026-08-16",
+          "stable_id": "doi:10.1080/10584609.2026.2714816",
+          "title": "Enemies Abroad, Animosity at Home: Media Influence on U.S.-China Policy and Anti-Asian Sentiment",
+          "url": "https://doi.org/10.1080/10584609.2026.2714816"
+        },
+        {
+          "author_affiliations": {
+            "Insyirah Mujtahid": [
+              "National University of Singapore",
+              "NUS Centre for Trusted Internet & Community"
+            ],
+            "Kokil Jaidka": [
+              "National University of Singapore",
+              "NUS Centre for Trusted Internet & Community"
+            ],
+            "Nurul Huda Rashid": [
+              "National University of Singapore",
+              "Leiden University"
+            ]
+          },
+          "authors": [
+            "Insyirah Mujtahid",
+            "Nurul Huda Rashid",
+            "Kokil Jaidka"
+          ],
+          "doi": "10.1080/10584609.2026.2715694",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "publication_date": "2026-08-16",
+          "stable_id": "doi:10.1080/10584609.2026.2715694",
+          "title": "Reclaiming Place Through Symbolic Geographies: Visual Resistance on Palestinian Instagram",
+          "url": "https://doi.org/10.1080/10584609.2026.2715694"
+        },
+        {
+          "author_affiliations": {
+            "Can Chen": [
+              "Andrew Young School of Policy Studies Georgia State University Georgia USA"
+            ],
+            "Herong Gao": [
+              "School of Public Affairs Xiamen University Xiamen China"
+            ],
+            "Rui Wang": [
+              "School of Public Administration and Policy Shanghai University of Finance and Economics Shanghai China"
+            ],
+            "Tingzhong Huang": [
+              "Institute for Global Public Policy Fudan University Shanghai China",
+              "LSE‐Fudan Research Centre for Global Public Policy Fudan University Shanghai China"
+            ]
+          },
+          "authors": [
+            "Tingzhong Huang",
+            "Rui Wang",
+            "Can Chen",
+            "Herong Gao"
+          ],
+          "doi": "10.1111/padm.70083",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "publication_date": "2026-08-16",
+          "stable_id": "doi:10.1111/padm.70083",
+          "title": "From Social Equity Budgeting to Revenue Equity: Minority Leadership and Local Governments' Exploitative Revenues",
+          "url": "https://doi.org/10.1111/padm.70083"
+        },
+        {
+          "author_affiliations": {
+            "Claire Connolly Knox": [
+              "University of Central Florida Orlando Florida USA"
+            ],
+            "Clinton McNair": [
+              "Department of Public Policy and Administration Rutgers University Camden New York USA"
+            ],
+            "Jason D. Rivera": [
+              "John Jay College of Criminal Justice City University of New York (CUNY) New York New York USA"
+            ],
+            "Joseph T. Ripberger": [
+              "Institute for Public Policy Research and Analysis University of Oklahoma Norman Oklahoma USA"
+            ]
+          },
+          "authors": [
+            "Jason D. Rivera",
+            "Claire Connolly Knox",
+            "Clinton McNair",
+            "Joseph T. Ripberger"
+          ],
+          "doi": "10.1111/padm.70084",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "publication_date": "2026-08-16",
+          "stable_id": "doi:10.1111/padm.70084",
+          "title": "Organizational Capacity to Implement Social Equity in Emergency Management: A Local Government Perspective",
+          "url": "https://doi.org/10.1111/padm.70084"
+        },
+        {
+          "author_affiliations": {
+            "Gary Johnson": [
+              "Weber State University Ogden Utah USA"
+            ],
+            "Jake Yoder": [
+              "Weber State University Ogden Utah USA"
+            ],
+            "Spencer Cragun": [
+              "Weber State University Ogden Utah USA"
+            ]
+          },
+          "authors": [
+            "Gary Johnson",
+            "Spencer Cragun",
+            "Jake Yoder"
+          ],
+          "doi": "10.1111/puar.70172",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "publication_date": "2026-08-16",
+          "stable_id": "doi:10.1111/puar.70172",
+          "title": "Under Pressure: Analyzing LEO Turnover in America's Swing and Pivot Counties for 2016, 2020, 2024",
+          "url": "https://doi.org/10.1111/puar.70172"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -2763,7 +2924,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-08-16T11:33:03.102987+00:00"
+      "last_checked_at": "2026-08-17T11:38:31.741123+00:00"
     }
   },
   "version": 1
