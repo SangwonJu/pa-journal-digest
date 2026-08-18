@@ -2951,6 +2951,105 @@
       ],
       "sent_at": "2026-08-17T11:40:57.431728+00:00",
       "status": "sent"
+    },
+    "2026-08-18-5e76877b1b7df1bc": {
+      "created_at": "2026-08-18T11:39:10.022494+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-18-5e76877b1b7df1bc",
+      "items": [
+        {
+          "author_affiliations": {
+            "Joshua P. Darr": [
+              "Syracuse University"
+            ],
+            "Susan Robinson": [
+              "University of Wisconsin"
+            ]
+          },
+          "authors": [
+            "Joshua P. Darr",
+            "Susan Robinson"
+          ],
+          "doi": "10.1080/10584609.2026.2715698",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "publication_date": "2026-08-18",
+          "stable_id": "doi:10.1080/10584609.2026.2715698",
+          "title": "Assessing Civic Journalism Training: A Mixed-Method Applied Research Study",
+          "url": "https://doi.org/10.1080/10584609.2026.2715698"
+        },
+        {
+          "author_affiliations": {
+            "Shirley Kempeneer": [
+              "Tilburg University Tilburg Law School Tilburg the Netherlands"
+            ]
+          },
+          "authors": [
+            "Shirley Kempeneer"
+          ],
+          "doi": "10.1111/padm.70082",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "publication_date": "2026-08-17",
+          "stable_id": "doi:10.1111/padm.70082",
+          "title": "Agile Digital Transformation and the Rule of Law: Perks and Perils in a Belgian and a Dutch Public Sector Organization",
+          "url": "https://doi.org/10.1111/padm.70082"
+        },
+        {
+          "author_affiliations": {
+            "Dede Setiono": [
+              "Department of Public Policy and Management, Faculty of Social and Political Sciences Universitas Gadjah Mada Yogyakarta Indonesia"
+            ]
+          },
+          "authors": [
+            "Dede Setiono"
+          ],
+          "doi": "10.1111/puar.70184",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "publication_date": "2026-08-18",
+          "stable_id": "doi:10.1111/puar.70184",
+          "title": "Governing Before the State: Indigenous Javanese Administrative Theory",
+          "url": "https://doi.org/10.1111/puar.70184"
+        },
+        {
+          "author_affiliations": {
+            "Amanda Austin": [
+              "PhD Candidate, Department of Political Science, University of Houston , Houston, TX,"
+            ],
+            "Edward Hohe": [
+              "PhD Candidate, Department of Political Science, The Ohio State University , Columbus, OH,"
+            ],
+            "Laura Moses": [
+              "Institute for Democratic Engagement and Accountability (IDEA), The Ohio State University Research Director, , Columbus, OH,"
+            ],
+            "Leib Litman": [
+              "Lander College, Kew Gardens Hills, NY, US Professor, Department of Psychology, , and Chief Research Officer, Cloud Research , New York, NY,"
+            ],
+            "Ryan Kennedy": [
+              "Department of Political Science, The Ohio State University Professor, , Columbus, OH,"
+            ],
+            "William Minozzi": [
+              "Department of Political Science, The Ohio State University Professor, , Columbus, OH,"
+            ]
+          },
+          "authors": [
+            "Amanda Austin",
+            "Edward Hohe",
+            "Ryan Kennedy",
+            "Leib Litman",
+            "William Minozzi",
+            "Laura Moses"
+          ],
+          "doi": "10.1093/poq/nfag063",
+          "journal": "Public Opinion Quarterly",
+          "journal_short": "POQ",
+          "publication_date": "2026-08-17",
+          "stable_id": "doi:10.1093/poq/nfag063",
+          "title": "An Experimental Comparison of AI-Enabled Semi-Structured Interviews and Fixed Surveys: Respondent Satisfaction, Response Patterns, Quality, and Representation",
+          "url": "https://doi.org/10.1093/poq/nfag063"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -2973,7 +3072,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-08-17T11:38:31.741123+00:00"
+      "last_checked_at": "2026-08-18T11:39:10.022494+00:00"
     }
   },
   "version": 1
