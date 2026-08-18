@@ -80,6 +80,14 @@
       "sent_at": "2026-08-13T12:01:13.476252+00:00",
       "title": "Kamala is Brat: TikTok and the Affective Politics of Memes"
     },
+    "doi:10.1080/10584609.2026.2715698": {
+      "batch_id": "2026-08-18-5e76877b1b7df1bc",
+      "doi": "10.1080/10584609.2026.2715698",
+      "journal": "Political Communication",
+      "publication_date": "2026-08-18",
+      "sent_at": "2026-08-18T11:41:06.296268+00:00",
+      "title": "Assessing Civic Journalism Training: A Mixed-Method Applied Research Study"
+    },
     "doi:10.1080/10584609.2026.2715700": {
       "batch_id": "2026-08-12-3d2315f5bf77bcd6",
       "doi": "10.1080/10584609.2026.2715700",
@@ -200,6 +208,14 @@
       "sent_at": "2026-08-12T12:00:34.926503+00:00",
       "title": "Assessing Nonignorable Response: Sensitivity Analysis for Survey Weighting, with Applications to Survey Estimates of COVID-19 Vaccination Uptake"
     },
+    "doi:10.1093/poq/nfag063": {
+      "batch_id": "2026-08-18-5e76877b1b7df1bc",
+      "doi": "10.1093/poq/nfag063",
+      "journal": "Public Opinion Quarterly",
+      "publication_date": "2026-08-17",
+      "sent_at": "2026-08-18T11:41:06.296268+00:00",
+      "title": "An Experimental Comparison of AI-Enabled Semi-Structured Interviews and Fixed Surveys: Respondent Satisfaction, Response Patterns, Quality, and Representation"
+    },
     "doi:10.1093/poq/nfag064": {
       "batch_id": "2026-08-15-99706853cfaa4a22",
       "doi": "10.1093/poq/nfag064",
@@ -279,6 +295,14 @@
       "publication_date": "2026-08-08",
       "sent_at": "2026-08-08T12:40:01.552819+00:00",
       "title": "Getting the Priorities Straight: Public Values in AI Adoption"
+    },
+    "doi:10.1111/padm.70082": {
+      "batch_id": "2026-08-18-5e76877b1b7df1bc",
+      "doi": "10.1111/padm.70082",
+      "journal": "Public Administration",
+      "publication_date": "2026-08-17",
+      "sent_at": "2026-08-18T11:41:06.296268+00:00",
+      "title": "Agile Digital Transformation and the Rule of Law: Perks and Perils in a Belgian and a Dutch Public Sector Organization"
     },
     "doi:10.1111/padm.70083": {
       "batch_id": "2026-08-17-92d20fbd959228aa",
@@ -423,6 +447,14 @@
       "publication_date": "2026-08-13",
       "sent_at": "2026-08-13T14:23:51.433492+00:00",
       "title": "The Gendered Path of Least Resistance: First Entry and Exit Behaviors of Public and Nonprofit Employees"
+    },
+    "doi:10.1111/puar.70184": {
+      "batch_id": "2026-08-18-5e76877b1b7df1bc",
+      "doi": "10.1111/puar.70184",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-08-18",
+      "sent_at": "2026-08-18T11:41:06.296268+00:00",
+      "title": "Governing Before the State: Indigenous Javanese Administrative Theory"
     },
     "doi:10.1177/00953997261467698": {
       "batch_id": "2026-08-17-92d20fbd959228aa",
@@ -3049,7 +3081,8 @@
           "url": "https://doi.org/10.1093/poq/nfag063"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-18T11:41:06.296268+00:00",
+      "status": "sent"
     }
   },
   "pending": {
