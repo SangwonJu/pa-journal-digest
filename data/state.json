@@ -240,6 +240,14 @@
       "sent_at": "2026-08-11T13:16:09.399192+00:00",
       "title": "Durable majority gerrymanders: Where partisan gerrymandering can displace democracy"
     },
+    "doi:10.1111/ajps.70077": {
+      "batch_id": "2026-08-19-3bcdb2e6069e350c",
+      "doi": "10.1111/ajps.70077",
+      "journal": "American Journal of Political Science",
+      "publication_date": "2026-08-18",
+      "sent_at": "2026-08-19T11:39:16.357528+00:00",
+      "title": "Captured participatory institutions: Theory and evidence from Venezuela's Consejos Comunales"
+    },
     "doi:10.1111/ajps.70078": {
       "batch_id": "2026-08-14-8fbfacbd92e8e048",
       "doi": "10.1111/ajps.70078",
@@ -3110,7 +3118,8 @@
           "url": "https://doi.org/10.1111/ajps.70077"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-19T11:39:16.357528+00:00",
+      "status": "sent"
     }
   },
   "pending": {
