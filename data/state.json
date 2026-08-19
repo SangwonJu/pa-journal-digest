@@ -3083,6 +3083,34 @@
       ],
       "sent_at": "2026-08-18T11:41:06.296268+00:00",
       "status": "sent"
+    },
+    "2026-08-19-3bcdb2e6069e350c": {
+      "created_at": "2026-08-19T11:38:04.418385+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-19-3bcdb2e6069e350c",
+      "items": [
+        {
+          "author_affiliations": {
+            "Jared Abbott": [
+              "Department of Political Science California State University‐Los Angeles Los Angeles California USA"
+            ],
+            "Jose Morales‐Arilla": [
+              "Escuela de Gobierno y Transformación Pública Tecnologico de Monterrey Ciudad de México Mexico"
+            ]
+          },
+          "authors": [
+            "Jared Abbott",
+            "Jose Morales‐Arilla"
+          ],
+          "doi": "10.1111/ajps.70077",
+          "journal": "American Journal of Political Science",
+          "journal_short": "AJPS",
+          "publication_date": "2026-08-18",
+          "stable_id": "doi:10.1111/ajps.70077",
+          "title": "Captured participatory institutions: Theory and evidence from Venezuela's Consejos Comunales",
+          "url": "https://doi.org/10.1111/ajps.70077"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -3105,7 +3133,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-08-18T11:39:10.022494+00:00"
+      "last_checked_at": "2026-08-19T11:38:04.418385+00:00"
     }
   },
   "version": 1
