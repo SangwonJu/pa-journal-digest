@@ -3351,6 +3351,201 @@
       ],
       "sent_at": "2026-08-20T11:42:07.652953+00:00",
       "status": "sent"
+    },
+    "2026-08-21-37a61e5e7496e1ae": {
+      "created_at": "2026-08-21T11:40:18.326644+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-21-37a61e5e7496e1ae",
+      "items": [
+        {
+          "author_affiliations": {
+            "Clair Yang": [
+              "The Henry M. Jackson School of International Studies, College of Arts and Sciences, University of Washington Seattle Washington USA"
+            ]
+          },
+          "authors": [
+            "Clair Yang"
+          ],
+          "doi": "10.1111/ajps.70084",
+          "journal": "American Journal of Political Science",
+          "journal_short": "AJPS",
+          "publication_date": "2026-08-20",
+          "stable_id": "doi:10.1111/ajps.70084",
+          "title": "A theory of political divergence and gradual institutional change",
+          "url": "https://doi.org/10.1111/ajps.70084"
+        },
+        {
+          "author_affiliations": {
+            "Isabella Rebasso": [
+              "University of Vienna"
+            ],
+            "Yanna Krupnikov": [
+              "University of Michigan"
+            ]
+          },
+          "authors": [
+            "Isabella Rebasso",
+            "Yanna Krupnikov"
+          ],
+          "doi": "10.1080/10584609.2026.2715701",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "publication_date": "2026-08-21",
+          "stable_id": "doi:10.1080/10584609.2026.2715701",
+          "title": "Rethinking Assumptions About Moral Content Selection: Moral-Emotional Content May Be Less Appealing Than Assumed",
+          "url": "https://doi.org/10.1080/10584609.2026.2715701"
+        },
+        {
+          "author_affiliations": {
+            "Björn Boman": [
+              "Department of Political Science Stockholm University Stockholm Sweden"
+            ],
+            "Johan Wejryd": [
+              "Institute for Housing and Urban Research Uppsala University Uppsala Sweden"
+            ],
+            "Jonas Hultin Rosenberg": [
+              "School of Business, Society and Engineering Mälardalen University Västerås Sweden"
+            ]
+          },
+          "authors": [
+            "Björn Boman",
+            "Jonas Hultin Rosenberg",
+            "Johan Wejryd"
+          ],
+          "doi": "10.1111/pops.70187",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "publication_date": "2026-08-21",
+          "stable_id": "doi:10.1111/pops.70187",
+          "title": "Does disability trump family background? Determinants of electoral participation among young individuals with intellectual disability",
+          "url": "https://doi.org/10.1111/pops.70187"
+        },
+        {
+          "author_affiliations": {
+            "Eran Halperin": [
+              "Department of Psychology Hebrew University of Jerusalem Jerusalem Israel"
+            ],
+            "Garrett L. Brady": [
+              "Department of Management and Technology Bocconi University Milan Italy"
+            ],
+            "Gerben A. van Kleef": [
+              "Department of Social Psychology University of Amsterdam Amsterdam The Netherlands"
+            ],
+            "Smadar Cohen‐Chen": [
+              "Department of Management, Sussex Business School University of Sussex Brighton UK"
+            ]
+          },
+          "authors": [
+            "Smadar Cohen‐Chen",
+            "Garrett L. Brady",
+            "Gerben A. van Kleef",
+            "Eran Halperin"
+          ],
+          "doi": "10.1111/pops.70189",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "publication_date": "2026-08-21",
+          "stable_id": "doi:10.1111/pops.70189",
+          "title": "Not‐so‐great expectations: Outgroup indifference facilitates conflict resolution in negatively interdependent contexts",
+          "url": "https://doi.org/10.1111/pops.70189"
+        },
+        {
+          "author_affiliations": {
+            "David Hensel": [
+              "Statistical Office for Hamburg and Schleswig‐Holstein Hamburg Germany"
+            ],
+            "Donald Moynihan": [
+              "University of Michigan Ann Arbor Michigan USA"
+            ],
+            "Fabian Hattke": [
+              "University of Bergen Bergen Norway",
+              "University of Hamburg Hamburg Germany"
+            ],
+            "Janne Kalucza": [
+              "University of Hamburg Hamburg Germany"
+            ],
+            "Judith Hattke": [
+              "Helmut‐Schmidt‐University/University of the Armed Forces Hamburg Germany"
+            ],
+            "Pamela Herd": [
+              "University of Michigan Ann Arbor Michigan USA"
+            ],
+            "Rick Vogel": [
+              "University of Hamburg Hamburg Germany"
+            ]
+          },
+          "authors": [
+            "Fabian Hattke",
+            "Judith Hattke",
+            "David Hensel",
+            "Pamela Herd",
+            "Janne Kalucza",
+            "Donald Moynihan",
+            "Rick Vogel"
+          ],
+          "doi": "10.1111/padm.70085",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "publication_date": "2026-08-20",
+          "stable_id": "doi:10.1111/padm.70085",
+          "title": "Face‐to‐Face With Administrative Burdens: Design Simplification, Emotional Costs, and Procedural Outcomes in Digital Welfare Applications",
+          "url": "https://doi.org/10.1111/padm.70085"
+        },
+        {
+          "author_affiliations": {
+            "Ana Maria Peredo": [
+              "University of Ottawa"
+            ],
+            "Barbara Allen": [
+              "Victoria University of Wellington"
+            ],
+            "Christian Eva": [
+              "The Australian National University"
+            ],
+            "Irene Henriques": [
+              "York University"
+            ],
+            "Jesse Pirini": [
+              "Victoria University of Wellington"
+            ],
+            "Rick Colbourne": [
+              "Carleton University"
+            ]
+          },
+          "authors": [
+            "Irene Henriques",
+            "Rick Colbourne",
+            "Christian Eva",
+            "Jesse Pirini",
+            "Barbara Allen",
+            "Ana Maria Peredo"
+          ],
+          "doi": "10.1080/14719037.2026.2720045",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "publication_date": "2026-08-21",
+          "stable_id": "doi:10.1080/14719037.2026.2720045",
+          "title": "Towards inclusive prosperity: comparative analysis of Indigenous procurement policies in Canada, Australia, and New Zealand",
+          "url": "https://doi.org/10.1080/14719037.2026.2720045"
+        },
+        {
+          "author_affiliations": {
+            "Eric S. Zeemering": [
+              "University of Georgia"
+            ]
+          },
+          "authors": [
+            "Eric S. Zeemering"
+          ],
+          "doi": "10.1177/02750740261478911",
+          "journal": "The American Review of Public Administration",
+          "journal_short": "ARPA",
+          "publication_date": "2026-08-20",
+          "stable_id": "doi:10.1177/02750740261478911",
+          "title": "Partisanship, Public Service Values, and Public Service Recognition Week Proclamations",
+          "url": "https://doi.org/10.1177/02750740261478911"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -3373,7 +3568,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-08-20T11:40:45.354630+00:00"
+      "last_checked_at": "2026-08-21T11:40:18.326644+00:00"
     }
   },
   "version": 1
