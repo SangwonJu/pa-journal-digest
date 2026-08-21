@@ -96,6 +96,14 @@
       "sent_at": "2026-08-12T12:00:34.926503+00:00",
       "title": "Policing the Political Boundary: How the r/BarstoolSports Audience Confronts Politicization"
     },
+    "doi:10.1080/10584609.2026.2715701": {
+      "batch_id": "2026-08-21-37a61e5e7496e1ae",
+      "doi": "10.1080/10584609.2026.2715701",
+      "journal": "Political Communication",
+      "publication_date": "2026-08-21",
+      "sent_at": "2026-08-21T11:42:27.574271+00:00",
+      "title": "Rethinking Assumptions About Moral Content Selection: Moral-Emotional Content May Be Less Appealing Than Assumed"
+    },
     "doi:10.1080/10584609.2026.2716378": {
       "batch_id": "2026-08-11-eedb0a6c11d5680f",
       "doi": "10.1080/10584609.2026.2716378",
@@ -151,6 +159,14 @@
       "publication_date": "2026-08-12",
       "sent_at": "2026-08-13T12:01:13.476252+00:00",
       "title": "Should we stay or should we go? Implications of trust in the municipality for second-generation migrants’ behavioural intentions towards the municipality"
+    },
+    "doi:10.1080/14719037.2026.2720045": {
+      "batch_id": "2026-08-21-37a61e5e7496e1ae",
+      "doi": "10.1080/14719037.2026.2720045",
+      "journal": "Public Management Review",
+      "publication_date": "2026-08-21",
+      "sent_at": "2026-08-21T11:42:27.574271+00:00",
+      "title": "Towards inclusive prosperity: comparative analysis of Indigenous procurement policies in Canada, Australia, and New Zealand"
     },
     "doi:10.1080/14719037.2026.2720049": {
       "batch_id": "2026-08-20-bc528655b9ef5ca7",
@@ -296,6 +312,14 @@
       "sent_at": "2026-08-14T11:58:19.972994+00:00",
       "title": "(Non)belonging and (un)freedom"
     },
+    "doi:10.1111/ajps.70084": {
+      "batch_id": "2026-08-21-37a61e5e7496e1ae",
+      "doi": "10.1111/ajps.70084",
+      "journal": "American Journal of Political Science",
+      "publication_date": "2026-08-20",
+      "sent_at": "2026-08-21T11:42:27.574271+00:00",
+      "title": "A theory of political divergence and gradual institutional change"
+    },
     "doi:10.1111/gove.70148": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1111/gove.70148",
@@ -360,6 +384,14 @@
       "sent_at": "2026-08-17T11:40:57.431728+00:00",
       "title": "Organizational Capacity to Implement Social Equity in Emergency Management: A Local Government Perspective"
     },
+    "doi:10.1111/padm.70085": {
+      "batch_id": "2026-08-21-37a61e5e7496e1ae",
+      "doi": "10.1111/padm.70085",
+      "journal": "Public Administration",
+      "publication_date": "2026-08-20",
+      "sent_at": "2026-08-21T11:42:27.574271+00:00",
+      "title": "Face‐to‐Face With Administrative Burdens: Design Simplification, Emotional Costs, and Procedural Outcomes in Digital Welfare Applications"
+    },
     "doi:10.1111/pops.70126": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
       "doi": "10.1111/pops.70126",
@@ -407,6 +439,22 @@
       "publication_date": "2026-08-08",
       "sent_at": "2026-08-08T12:40:01.552819+00:00",
       "title": "Consistency, not waste aversion, explains apparent sunk‐cost effects in politics"
+    },
+    "doi:10.1111/pops.70187": {
+      "batch_id": "2026-08-21-37a61e5e7496e1ae",
+      "doi": "10.1111/pops.70187",
+      "journal": "Political Psychology",
+      "publication_date": "2026-08-21",
+      "sent_at": "2026-08-21T11:42:27.574271+00:00",
+      "title": "Does disability trump family background? Determinants of electoral participation among young individuals with intellectual disability"
+    },
+    "doi:10.1111/pops.70189": {
+      "batch_id": "2026-08-21-37a61e5e7496e1ae",
+      "doi": "10.1111/pops.70189",
+      "journal": "Political Psychology",
+      "publication_date": "2026-08-21",
+      "sent_at": "2026-08-21T11:42:27.574271+00:00",
+      "title": "Not‐so‐great expectations: Outgroup indifference facilitates conflict resolution in negatively interdependent contexts"
     },
     "doi:10.1111/psj.70144": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -591,6 +639,14 @@
       "publication_date": "2026-08-11",
       "sent_at": "2026-08-12T12:00:34.926503+00:00",
       "title": "How Front-Line Public Managers Become Institutional Entrepreneurs"
+    },
+    "doi:10.1177/02750740261478911": {
+      "batch_id": "2026-08-21-37a61e5e7496e1ae",
+      "doi": "10.1177/02750740261478911",
+      "journal": "The American Review of Public Administration",
+      "publication_date": "2026-08-20",
+      "sent_at": "2026-08-21T11:42:27.574271+00:00",
+      "title": "Partisanship, Public Service Values, and Public Service Recognition Week Proclamations"
     }
   },
   "batches": {
@@ -3545,7 +3601,8 @@
           "url": "https://doi.org/10.1177/02750740261478911"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-21T11:42:27.574271+00:00",
+      "status": "sent"
     }
   },
   "pending": {
