@@ -112,6 +112,14 @@
       "sent_at": "2026-08-11T13:16:09.399192+00:00",
       "title": "Examining the Influence of Media Coverage on Information-Seeking of Judicial Candidates"
     },
+    "doi:10.1080/10584609.2026.2716761": {
+      "batch_id": "2026-08-22-8b3eefaefaf6f8e2",
+      "doi": "10.1080/10584609.2026.2716761",
+      "journal": "Political Communication",
+      "publication_date": "2026-08-21",
+      "sent_at": "2026-08-22T11:35:25.886255+00:00",
+      "title": "Hold That Thought: Enhancing the Durability of Fact-Checking Effects Through Low-Cost Accuracy Reminders"
+    },
     "doi:10.1080/10967494.2026.2701849": {
       "batch_id": "2026-08-20-bc528655b9ef5ca7",
       "doi": "10.1080/10967494.2026.2701849",
@@ -271,6 +279,14 @@
       "publication_date": "2026-08-12",
       "sent_at": "2026-08-13T12:01:13.476252+00:00",
       "title": "Beyond neutrality: QuantCrit as a methodological corrective in quantitative public administration research"
+    },
+    "doi:10.1093/ppmgov/gvag009": {
+      "batch_id": "2026-08-22-8b3eefaefaf6f8e2",
+      "doi": "10.1093/ppmgov/gvag009",
+      "journal": "Perspectives on Public Management and Governance",
+      "publication_date": "2026-08-22",
+      "sent_at": "2026-08-22T11:35:25.886255+00:00",
+      "title": "Power circuit alignment and reform trajectories: a dynamic framework for public management research"
     },
     "doi:10.1111/ajps.70074": {
       "batch_id": "2026-08-11-eedb0a6c11d5680f",
@@ -568,6 +584,30 @@
       "sent_at": "2026-08-20T11:42:07.652953+00:00",
       "title": "Democratic Backsliding and Governance Outcomes: Measuring Administrative and Political Channels of Decline"
     },
+    "doi:10.1111/puar.70187": {
+      "batch_id": "2026-08-22-8b3eefaefaf6f8e2",
+      "doi": "10.1111/puar.70187",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-08-21",
+      "sent_at": "2026-08-22T11:35:25.886255+00:00",
+      "title": "Sifting Through: Federal Separations in 2025 and Their Implications for Knowledge Loss and Agency Capacity"
+    },
+    "doi:10.1111/puar.70188": {
+      "batch_id": "2026-08-22-8b3eefaefaf6f8e2",
+      "doi": "10.1111/puar.70188",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-08-21",
+      "sent_at": "2026-08-22T11:35:25.886255+00:00",
+      "title": "Tax Mobilization in Africa: Is the Secret Hidden in Women's Political Empowerment?"
+    },
+    "doi:10.1111/puar.70190": {
+      "batch_id": "2026-08-22-8b3eefaefaf6f8e2",
+      "doi": "10.1111/puar.70190",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-08-21",
+      "sent_at": "2026-08-22T11:35:25.886255+00:00",
+      "title": "Informal Authority, Legitimacy Transition, and Institutional Change: A Theory of Advisory Capture"
+    },
     "doi:10.1177/00953997261467698": {
       "batch_id": "2026-08-17-92d20fbd959228aa",
       "doi": "10.1177/00953997261467698",
@@ -639,6 +679,14 @@
       "publication_date": "2026-08-11",
       "sent_at": "2026-08-12T12:00:34.926503+00:00",
       "title": "How Front-Line Public Managers Become Institutional Entrepreneurs"
+    },
+    "doi:10.1177/02750740261478901": {
+      "batch_id": "2026-08-22-8b3eefaefaf6f8e2",
+      "doi": "10.1177/02750740261478901",
+      "journal": "The American Review of Public Administration",
+      "publication_date": "2026-08-21",
+      "sent_at": "2026-08-22T11:35:25.886255+00:00",
+      "title": "Why Street-Level Bureaucrats Leave: The Effects of Organizational Transparency and Role Conflict"
     },
     "doi:10.1177/02750740261478911": {
       "batch_id": "2026-08-21-37a61e5e7496e1ae",
@@ -3745,7 +3793,8 @@
           "url": "https://doi.org/10.1177/02750740261478901"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-22T11:35:25.886255+00:00",
+      "status": "sent"
     }
   },
   "pending": {
