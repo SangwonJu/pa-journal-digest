@@ -3603,6 +3603,149 @@
       ],
       "sent_at": "2026-08-21T11:42:27.574271+00:00",
       "status": "sent"
+    },
+    "2026-08-22-8b3eefaefaf6f8e2": {
+      "created_at": "2026-08-22T11:33:49.731599+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-22-8b3eefaefaf6f8e2",
+      "items": [
+        {
+          "author_affiliations": {
+            "Mhamed Biygautane": [
+              "Faculty of Arts, School of Social and Political Sciences, The University of Melbourne , Melbourne,"
+            ],
+            "Stewart Clegg": [
+              "Faculty of Engineering, School of Project Management, John Grill Institute for Project Leadership, The University of Sydney , Sydney,"
+            ]
+          },
+          "authors": [
+            "Mhamed Biygautane",
+            "Stewart Clegg"
+          ],
+          "doi": "10.1093/ppmgov/gvag009",
+          "journal": "Perspectives on Public Management and Governance",
+          "journal_short": "PPMG",
+          "publication_date": "2026-08-22",
+          "stable_id": "doi:10.1093/ppmgov/gvag009",
+          "title": "Power circuit alignment and reform trajectories: a dynamic framework for public management research",
+          "url": "https://doi.org/10.1093/ppmgov/gvag009"
+        },
+        {
+          "author_affiliations": {
+            "Hyunjin (Jin) Song": [
+              "Yonsei University"
+            ],
+            "Je Hoon Chae": [
+              "University of California"
+            ],
+            "Tim Groeling": [
+              "University of California"
+            ]
+          },
+          "authors": [
+            "Je Hoon Chae",
+            "Tim Groeling",
+            "Hyunjin (Jin) Song"
+          ],
+          "doi": "10.1080/10584609.2026.2716761",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "publication_date": "2026-08-21",
+          "stable_id": "doi:10.1080/10584609.2026.2716761",
+          "title": "Hold That Thought: Enhancing the Durability of Fact-Checking Effects Through Low-Cost Accuracy Reminders",
+          "url": "https://doi.org/10.1080/10584609.2026.2716761"
+        },
+        {
+          "author_affiliations": {
+            "Byunggeor Moon": [
+              "Department of Public Policy and Management Yonsei University Seoul Republic of Korea"
+            ]
+          },
+          "authors": [
+            "Byunggeor Moon"
+          ],
+          "doi": "10.1111/puar.70190",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "publication_date": "2026-08-21",
+          "stable_id": "doi:10.1111/puar.70190",
+          "title": "Informal Authority, Legitimacy Transition, and Institutional Change: A Theory of Advisory Capture",
+          "url": "https://doi.org/10.1111/puar.70190"
+        },
+        {
+          "author_affiliations": {
+            "Anmol Soni": [
+              "Department of Public Administration, E. J. Ourso College of Business Louisiana State University Baton Rouge Louisiana USA"
+            ],
+            "Evan Mistur": [
+              "Department of Public Affairs and Planning, College of Architecture, Planning, and Public Affairs University of Texas at Arlington Arlington Texas USA"
+            ],
+            "M. Blake Emidy": [
+              "Department of Public Service and Administration, Bush School of Government and Public Service Texas A&amp;M University College Station Texas USA"
+            ]
+          },
+          "authors": [
+            "M. Blake Emidy",
+            "Anmol Soni",
+            "Evan Mistur"
+          ],
+          "doi": "10.1111/puar.70187",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "publication_date": "2026-08-21",
+          "stable_id": "doi:10.1111/puar.70187",
+          "title": "Sifting Through: Federal Separations in 2025 and Their Implications for Knowledge Loss and Agency Capacity",
+          "url": "https://doi.org/10.1111/puar.70187"
+        },
+        {
+          "author_affiliations": {
+            "Donald Ferdinand Okere Atanga": [
+              "University of Ebolowa Ebolowa Cameroon"
+            ],
+            "Gaston Brice Nkoumou Ngoa": [
+              "University of Ebolowa Ebolowa Cameroon"
+            ],
+            "Marie Laure Belomo Onguene": [
+              "University of Yaoundé II Yaoundé Cameroon"
+            ]
+          },
+          "authors": [
+            "Gaston Brice Nkoumou Ngoa",
+            "Donald Ferdinand Okere Atanga",
+            "Marie Laure Belomo Onguene"
+          ],
+          "doi": "10.1111/puar.70188",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "publication_date": "2026-08-21",
+          "stable_id": "doi:10.1111/puar.70188",
+          "title": "Tax Mobilization in Africa: Is the Secret Hidden in Women's Political Empowerment?",
+          "url": "https://doi.org/10.1111/puar.70188"
+        },
+        {
+          "author_affiliations": {
+            "Tingzhong Huang": [
+              "Institute for Global Public Policy, Fudan University, Shanghai, China",
+              "LSE-Fudan Research Centre for Global Public Policy, Fudan University, Shanghai, China"
+            ],
+            "Wenyan Tu": [
+              "Institute for Global Public Policy, Fudan University, Shanghai, China",
+              "LSE-Fudan Research Centre for Global Public Policy, Fudan University, Shanghai, China"
+            ]
+          },
+          "authors": [
+            "Tingzhong Huang",
+            "Wenyan Tu"
+          ],
+          "doi": "10.1177/02750740261478901",
+          "journal": "The American Review of Public Administration",
+          "journal_short": "ARPA",
+          "publication_date": "2026-08-21",
+          "stable_id": "doi:10.1177/02750740261478901",
+          "title": "Why Street-Level Bureaucrats Leave: The Effects of Organizational Transparency and Role Conflict",
+          "url": "https://doi.org/10.1177/02750740261478901"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -3625,7 +3768,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-08-21T11:40:18.326644+00:00"
+      "last_checked_at": "2026-08-22T11:33:49.731599+00:00"
     }
   },
   "version": 1
