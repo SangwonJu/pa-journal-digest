@@ -3795,6 +3795,38 @@
       ],
       "sent_at": "2026-08-22T11:35:25.886255+00:00",
       "status": "sent"
+    },
+    "2026-08-23-2973996b909bcb76": {
+      "created_at": "2026-08-23T11:33:34.258557+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-23-2973996b909bcb76",
+      "items": [
+        {
+          "author_affiliations": {
+            "Carla Flink": [
+              "University of South Carolina"
+            ],
+            "Chan Hyeon Hur": [
+              "Florida State University"
+            ],
+            "Sun Gue (Susan) Yang": [
+              "University of South Carolina"
+            ]
+          },
+          "authors": [
+            "Sun Gue (Susan) Yang",
+            "Chan Hyeon Hur",
+            "Carla Flink"
+          ],
+          "doi": "10.1080/15309576.2026.2718938",
+          "journal": "Public Performance & Management Review",
+          "journal_short": "PPMR",
+          "publication_date": "2026-08-22",
+          "stable_id": "doi:10.1080/15309576.2026.2718938",
+          "title": "Gender-Responsive Budgeting in Higher Education: An Examination of Collegiate Athletics Student Aid",
+          "url": "https://doi.org/10.1080/15309576.2026.2718938"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -3817,7 +3849,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-08-22T11:33:49.731599+00:00"
+      "last_checked_at": "2026-08-23T11:33:34.258557+00:00"
     }
   },
   "version": 1
