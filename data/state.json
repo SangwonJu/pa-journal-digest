@@ -208,6 +208,14 @@
       "sent_at": "2026-08-14T11:58:19.972994+00:00",
       "title": "The Cost Savings in Inter-Organizational Cooperation: A Meta-Analytic Review and Extension"
     },
+    "doi:10.1080/15309576.2026.2718938": {
+      "batch_id": "2026-08-23-2973996b909bcb76",
+      "doi": "10.1080/15309576.2026.2718938",
+      "journal": "Public Performance & Management Review",
+      "publication_date": "2026-08-22",
+      "sent_at": "2026-08-23T11:34:38.952295+00:00",
+      "title": "Gender-Responsive Budgeting in Higher Education: An Examination of Collegiate Athletics Student Aid"
+    },
     "doi:10.1086/743456": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
       "doi": "10.1086/743456",
@@ -3826,7 +3834,8 @@
           "url": "https://doi.org/10.1080/15309576.2026.2718938"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-23T11:34:38.952295+00:00",
+      "status": "sent"
     }
   },
   "pending": {
