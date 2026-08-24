@@ -3836,6 +3836,68 @@
       ],
       "sent_at": "2026-08-23T11:34:38.952295+00:00",
       "status": "sent"
+    },
+    "2026-08-24-bd767f1f7a0b80ae": {
+      "created_at": "2026-08-24T11:43:08.567089+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-24-bd767f1f7a0b80ae",
+      "items": [
+        {
+          "author_affiliations": {
+            "Marjorie De la Cruz": [
+              "Department of Public Policy and Administration, School of International and Public Affairs Florida International University Miami Florida USA"
+            ],
+            "Milena I. Neshkova": [
+              "Department of Public Policy and Administration, School of International and Public Affairs Florida International University Miami Florida USA"
+            ],
+            "Yoon‐Jung Choi": [
+              "Department of Public Policy and Administration, School of International and Public Affairs Florida International University Miami Florida USA"
+            ]
+          },
+          "authors": [
+            "Marjorie De la Cruz",
+            "Milena I. Neshkova",
+            "Yoon‐Jung Choi"
+          ],
+          "doi": "10.1111/padm.70077",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "publication_date": "2026-08-23",
+          "stable_id": "doi:10.1111/padm.70077",
+          "title": "Does Gender Budgeting Improve Women's Well‐Being, Equality, and Empowerment?",
+          "url": "https://doi.org/10.1111/padm.70077"
+        },
+        {
+          "author_affiliations": {
+            "Constanza Faune": [
+              "Centre for Public Systems, Industrial Engineering Department University of Chile Santiago Chile"
+            ],
+            "Javier Fuenzalida": [
+              "Centre for Public Systems, Industrial Engineering Department University of Chile Santiago Chile",
+              "School of Social and Political Sciences University of Melbourne Melbourne Victoria Australia"
+            ],
+            "Norma M. Riccucci": [
+              "School of Public Affairs and Administration Rutgers University Newark New Jersey USA"
+            ],
+            "Ximena Pizarro‐Bore": [
+              "Centre for Public Systems, Industrial Engineering Department University of Chile Santiago Chile"
+            ]
+          },
+          "authors": [
+            "Ximena Pizarro‐Bore",
+            "Javier Fuenzalida",
+            "Norma M. Riccucci",
+            "Constanza Faune"
+          ],
+          "doi": "10.1111/padm.70087",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "publication_date": "2026-08-23",
+          "stable_id": "doi:10.1111/padm.70087",
+          "title": "Rethinking Top Public Management Through Relational Dynamics: A Systems‐Informed Study of Senior Executives",
+          "url": "https://doi.org/10.1111/padm.70087"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -3858,7 +3920,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-08-23T11:33:34.258557+00:00"
+      "last_checked_at": "2026-08-24T11:43:08.567089+00:00"
     }
   },
   "version": 1
