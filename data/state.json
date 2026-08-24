@@ -376,6 +376,14 @@
       "sent_at": "2026-08-07T09:26:57.459384+00:00",
       "title": "Institutional Pressures or Organizational Capacity? Antecedents of Digital Maturity in Local Governments"
     },
+    "doi:10.1111/padm.70077": {
+      "batch_id": "2026-08-24-bd767f1f7a0b80ae",
+      "doi": "10.1111/padm.70077",
+      "journal": "Public Administration",
+      "publication_date": "2026-08-23",
+      "sent_at": "2026-08-24T11:44:01.595279+00:00",
+      "title": "Does Gender Budgeting Improve Women's Well‐Being, Equality, and Empowerment?"
+    },
     "doi:10.1111/padm.70078": {
       "batch_id": "2026-08-08-f0a85e1f5bd376f6",
       "doi": "10.1111/padm.70078",
@@ -415,6 +423,14 @@
       "publication_date": "2026-08-20",
       "sent_at": "2026-08-21T11:42:27.574271+00:00",
       "title": "Face‐to‐Face With Administrative Burdens: Design Simplification, Emotional Costs, and Procedural Outcomes in Digital Welfare Applications"
+    },
+    "doi:10.1111/padm.70087": {
+      "batch_id": "2026-08-24-bd767f1f7a0b80ae",
+      "doi": "10.1111/padm.70087",
+      "journal": "Public Administration",
+      "publication_date": "2026-08-23",
+      "sent_at": "2026-08-24T11:44:01.595279+00:00",
+      "title": "Rethinking Top Public Management Through Relational Dynamics: A Systems‐Informed Study of Senior Executives"
     },
     "doi:10.1111/pops.70126": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
@@ -3897,7 +3913,8 @@
           "url": "https://doi.org/10.1111/padm.70087"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-24T11:44:01.595279+00:00",
+      "status": "sent"
     }
   },
   "pending": {
