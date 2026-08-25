@@ -3915,6 +3915,38 @@
       ],
       "sent_at": "2026-08-24T11:44:01.595279+00:00",
       "status": "sent"
+    },
+    "2026-08-25-b874ac4a9fc82e85": {
+      "created_at": "2026-08-25T11:42:22.601277+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-25-b874ac4a9fc82e85",
+      "items": [
+        {
+          "author_affiliations": {
+            "Emily Mee": [
+              "Wichita State University"
+            ],
+            "Matthew C. Nowlin": [
+              "The University of Texas at Arlington"
+            ],
+            "Thomas Rabovsky": [
+              "Indiana University Bloomington"
+            ]
+          },
+          "authors": [
+            "Thomas Rabovsky",
+            "Matthew C. Nowlin",
+            "Emily Mee"
+          ],
+          "doi": "10.1177/02750740261478906",
+          "journal": "The American Review of Public Administration",
+          "journal_short": "ARPA",
+          "publication_date": "2026-08-24",
+          "stable_id": "doi:10.1177/02750740261478906",
+          "title": "Cultural Theory, Political Ideology, and Burden Tolerance: The Role of Core Beliefs in Shaping Support for Administrative Burdens",
+          "url": "https://doi.org/10.1177/02750740261478906"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -3937,7 +3969,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-08-24T11:43:08.567089+00:00"
+      "last_checked_at": "2026-08-25T11:42:22.601277+00:00"
     }
   },
   "version": 1
