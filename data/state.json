@@ -712,6 +712,14 @@
       "sent_at": "2026-08-22T11:35:25.886255+00:00",
       "title": "Why Street-Level Bureaucrats Leave: The Effects of Organizational Transparency and Role Conflict"
     },
+    "doi:10.1177/02750740261478906": {
+      "batch_id": "2026-08-25-b874ac4a9fc82e85",
+      "doi": "10.1177/02750740261478906",
+      "journal": "The American Review of Public Administration",
+      "publication_date": "2026-08-24",
+      "sent_at": "2026-08-25T11:43:10.228618+00:00",
+      "title": "Cultural Theory, Political Ideology, and Burden Tolerance: The Role of Core Beliefs in Shaping Support for Administrative Burdens"
+    },
     "doi:10.1177/02750740261478911": {
       "batch_id": "2026-08-21-37a61e5e7496e1ae",
       "doi": "10.1177/02750740261478911",
@@ -3946,7 +3954,8 @@
           "url": "https://doi.org/10.1177/02750740261478906"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-25T11:43:10.228618+00:00",
+      "status": "sent"
     }
   },
   "pending": {
