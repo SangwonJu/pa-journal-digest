@@ -24,6 +24,14 @@
       "sent_at": "2026-08-08T07:27:21.078868+00:00",
       "title": "Youth and Corruption in Ghana: Perspectives from University Student Leaders"
     },
+    "doi:10.1080/01900692.2026.2721472": {
+      "batch_id": "2026-08-26-28e83ec62ba179a9",
+      "doi": "10.1080/01900692.2026.2721472",
+      "journal": "International Journal of Public Administration",
+      "publication_date": "2026-08-25",
+      "sent_at": "2026-08-26T11:45:39.190604+00:00",
+      "title": "Implicit-Explicit Incongruence: The Dual Structure of Public Value Preferences in Civil Servants"
+    },
     "doi:10.1080/10584609.2026.2701201": {
       "batch_id": "2026-08-14-8fbfacbd92e8e048",
       "doi": "10.1080/10584609.2026.2701201",
@@ -168,6 +176,14 @@
       "sent_at": "2026-08-13T12:01:13.476252+00:00",
       "title": "Should we stay or should we go? Implications of trust in the municipality for second-generation migrants’ behavioural intentions towards the municipality"
     },
+    "doi:10.1080/14719037.2026.2720043": {
+      "batch_id": "2026-08-26-28e83ec62ba179a9",
+      "doi": "10.1080/14719037.2026.2720043",
+      "journal": "Public Management Review",
+      "publication_date": "2026-08-25",
+      "sent_at": "2026-08-26T11:45:39.190604+00:00",
+      "title": "Contingent capacity: navigating organizational dependency in Dutch municipal energy transitions"
+    },
     "doi:10.1080/14719037.2026.2720045": {
       "batch_id": "2026-08-21-37a61e5e7496e1ae",
       "doi": "10.1080/14719037.2026.2720045",
@@ -183,6 +199,14 @@
       "publication_date": "2026-08-19",
       "sent_at": "2026-08-20T11:42:07.652953+00:00",
       "title": "Public sector innovation management in the shadow: why the overlooked sibling still matters"
+    },
+    "doi:10.1080/14719037.2026.2723226": {
+      "batch_id": "2026-08-26-28e83ec62ba179a9",
+      "doi": "10.1080/14719037.2026.2723226",
+      "journal": "Public Management Review",
+      "publication_date": "2026-08-25",
+      "sent_at": "2026-08-26T11:45:39.190604+00:00",
+      "title": "Gender inequality at the street level explained: redoing gender through informal practices"
     },
     "doi:10.1080/15309576.2026.2700771": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -423,6 +447,14 @@
       "publication_date": "2026-08-20",
       "sent_at": "2026-08-21T11:42:27.574271+00:00",
       "title": "Face‐to‐Face With Administrative Burdens: Design Simplification, Emotional Costs, and Procedural Outcomes in Digital Welfare Applications"
+    },
+    "doi:10.1111/padm.70086": {
+      "batch_id": "2026-08-26-28e83ec62ba179a9",
+      "doi": "10.1111/padm.70086",
+      "journal": "Public Administration",
+      "publication_date": "2026-08-25",
+      "sent_at": "2026-08-26T11:45:39.190604+00:00",
+      "title": "Negotiating Presence: The Dynamics of Passive Representation Among Ultra‐Orthodox Women in Public Organizations"
     },
     "doi:10.1111/padm.70087": {
       "batch_id": "2026-08-24-bd767f1f7a0b80ae",
@@ -4050,7 +4082,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2723226"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-26T11:45:39.190604+00:00",
+      "status": "sent"
     }
   },
   "pending": {
