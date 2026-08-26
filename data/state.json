@@ -3956,9 +3956,159 @@
       ],
       "sent_at": "2026-08-25T11:43:10.228618+00:00",
       "status": "sent"
+    },
+    "2026-08-26-28e83ec62ba179a9": {
+      "created_at": "2026-08-26T11:43:25.342869+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-26-28e83ec62ba179a9",
+      "items": [
+        {
+          "author_affiliations": {
+            "Haoyun Ma": [
+              "Sun Yat-Sen University"
+            ],
+            "Xu Zou": [
+              "Lanzhou University"
+            ],
+            "Xuede Gao": [
+              "Lanzhou University"
+            ]
+          },
+          "authors": [
+            "Xuede Gao",
+            "Haoyun Ma",
+            "Xu Zou"
+          ],
+          "doi": "10.1080/01900692.2026.2721472",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "publication_date": "2026-08-25",
+          "stable_id": "doi:10.1080/01900692.2026.2721472",
+          "title": "Implicit-Explicit Incongruence: The Dual Structure of Public Value Preferences in Civil Servants",
+          "url": "https://doi.org/10.1080/01900692.2026.2721472"
+        },
+        {
+          "author_affiliations": {
+            "Maayan Davidovitz": [
+              "The Lester and Sally Entin Faculty of Humanities, School of Education Tel Aviv University Tel Aviv Israel"
+            ],
+            "Rachel Gali Cinamon": [
+              "The Lester and Sally Entin Faculty of Humanities, School of Education Tel Aviv University Tel Aviv Israel"
+            ]
+          },
+          "authors": [
+            "Maayan Davidovitz",
+            "Rachel Gali Cinamon"
+          ],
+          "doi": "10.1111/padm.70086",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "publication_date": "2026-08-25",
+          "stable_id": "doi:10.1111/padm.70086",
+          "title": "Negotiating Presence: The Dynamics of Passive Representation Among Ultra‐Orthodox Women in Public Organizations",
+          "url": "https://doi.org/10.1111/padm.70086"
+        },
+        {
+          "author_affiliations": {
+            "Negin Salimi": [
+              "Wageningen University and Research"
+            ],
+            "Stijn van Hiele": [
+              "Wageningen University and Research"
+            ]
+          },
+          "authors": [
+            "Negin Salimi",
+            "Stijn van Hiele"
+          ],
+          "doi": "10.1080/14719037.2026.2720043",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "publication_date": "2026-08-25",
+          "stable_id": "doi:10.1080/14719037.2026.2720043",
+          "title": "Contingent capacity: navigating organizational dependency in Dutch municipal energy transitions",
+          "url": "https://doi.org/10.1080/14719037.2026.2720043"
+        },
+        {
+          "author_affiliations": {
+            "Einat Lavee": [
+              "University of Haifa"
+            ],
+            "Ofri Shalev Greenman": [
+              "University of Haifa"
+            ]
+          },
+          "authors": [
+            "Ofri Shalev Greenman",
+            "Einat Lavee"
+          ],
+          "doi": "10.1080/14719037.2026.2723226",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "publication_date": "2026-08-25",
+          "stable_id": "doi:10.1080/14719037.2026.2723226",
+          "title": "Gender inequality at the street level explained: redoing gender through informal practices",
+          "url": "https://doi.org/10.1080/14719037.2026.2723226"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
+    "doi:10.1002/pam.70126": {
+      "first_seen_at": "2026-08-26T11:43:25.342869+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [],
+        "doi": "10.1002/pam.70126",
+        "journal": "Journal of Policy Analysis and Management",
+        "journal_short": "JPAM",
+        "publication_date": "2026-08-25",
+        "stable_id": "doi:10.1002/pam.70126",
+        "title": "Referee Acknowledgments",
+        "url": "https://doi.org/10.1002/pam.70126"
+      },
+      "last_checked_at": "2026-08-26T11:43:25.342869+00:00"
+    },
+    "doi:10.1002/pam.70127": {
+      "first_seen_at": "2026-08-26T11:43:25.342869+00:00",
+      "item": {
+        "author_affiliations": {
+          "Nadine Lehrer": [
+            "Food Studies, Chatham University Pittsburgh Pennsylvania USA"
+          ]
+        },
+        "authors": [
+          "Nadine Lehrer"
+        ],
+        "doi": "10.1002/pam.70127",
+        "journal": "Journal of Policy Analysis and Management",
+        "journal_short": "JPAM",
+        "publication_date": "2026-08-25",
+        "stable_id": "doi:10.1002/pam.70127",
+        "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
+        "url": "https://doi.org/10.1002/pam.70127"
+      },
+      "last_checked_at": "2026-08-26T11:43:25.342869+00:00"
+    },
+    "doi:10.1007/s11109-026-10192-1": {
+      "first_seen_at": "2026-08-26T11:43:25.342869+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Cigdem V. Sirin",
+          "Nicholas A. Valentino",
+          "José D. Villalobos"
+        ],
+        "doi": "10.1007/s11109-026-10192-1",
+        "journal": "Political Behavior",
+        "journal_short": "PolBeh",
+        "publication_date": "2026-08-26",
+        "stable_id": "doi:10.1007/s11109-026-10192-1",
+        "title": "Outgroup Empathy and Opposition to Restrictive Voting Laws",
+        "url": "https://doi.org/10.1007/s11109-026-10192-1"
+      },
+      "last_checked_at": "2026-08-26T11:43:25.342869+00:00"
+    },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
       "item": {
@@ -3978,7 +4128,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-08-25T11:42:22.601277+00:00"
+      "last_checked_at": "2026-08-26T11:43:25.342869+00:00"
     }
   },
   "version": 1
