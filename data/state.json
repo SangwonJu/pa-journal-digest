@@ -4084,6 +4084,223 @@
       ],
       "sent_at": "2026-08-26T11:45:39.190604+00:00",
       "status": "sent"
+    },
+    "2026-08-27-5640af3b3889d675": {
+      "created_at": "2026-08-27T21:01:23.767507+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-27-5640af3b3889d675",
+      "items": [
+        {
+          "author_affiliations": {
+            "Jae-Moo Lee": [
+              "The Korea Institute of Network Governance, Seoul, Republic of Korea"
+            ],
+            "Kyung-Seu Cho": [
+              "Eulji University, Seongnam-si, Gyeonggi-do, Republic of Korea"
+            ]
+          },
+          "authors": [
+            "Jae-Moo Lee",
+            "Kyung-Seu Cho"
+          ],
+          "doi": "10.1177/00953997261477425",
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "publication_date": "2026-08-26",
+          "stable_id": "doi:10.1177/00953997261477425",
+          "title": "South Korea’s Three Kindergarten Laws: A Revision Process Analysis Using a Complex Policy Change Analytical Model",
+          "url": "https://doi.org/10.1177/00953997261477425"
+        },
+        {
+          "author_affiliations": {
+            "Justin Pottle": [
+              "Department of Political Science Loyola University Chicago Chicago Illinois USA"
+            ]
+          },
+          "authors": [
+            "Justin Pottle"
+          ],
+          "doi": "10.1111/ajps.70086",
+          "journal": "American Journal of Political Science",
+          "journal_short": "AJPS",
+          "publication_date": "2026-08-26",
+          "stable_id": "doi:10.1111/ajps.70086",
+          "title": "Partisan bias in a sorted party system: A problem of epistemic inequality",
+          "url": "https://doi.org/10.1111/ajps.70086"
+        },
+        {
+          "author_affiliations": {
+            "Alisa Moldavanova": [
+              "University of Delaware"
+            ],
+            "Mirae Kim": [
+              "George Mason University"
+            ]
+          },
+          "authors": [
+            "Mirae Kim",
+            "Alisa Moldavanova"
+          ],
+          "doi": "10.1080/01900692.2026.2720097",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "publication_date": "2026-08-26",
+          "stable_id": "doi:10.1080/01900692.2026.2720097",
+          "title": "Connected for Survival: How Organizational Networks with Government Strengthen Nonprofit Resilience in Delivering Public Services",
+          "url": "https://doi.org/10.1080/01900692.2026.2720097"
+        },
+        {
+          "author_affiliations": {
+            "Annett Arntzen": [
+              "University of South-Eastern Norway"
+            ],
+            "Tor Erik Nyberg": [
+              "University of South-Eastern Norway"
+            ],
+            "Trond Løyning": [
+              "University of South-Eastern Norway"
+            ]
+          },
+          "authors": [
+            "Tor Erik Nyberg",
+            "Trond Løyning",
+            "Annett Arntzen"
+          ],
+          "doi": "10.1080/01900692.2026.2705352",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "publication_date": "2026-08-27",
+          "stable_id": "doi:10.1080/01900692.2026.2705352",
+          "title": "Cross-Sectoral Collaboration for Work Inclusion and the Governance Perspective: A Systematic Literature Review and Research Directions",
+          "url": "https://doi.org/10.1080/01900692.2026.2705352"
+        },
+        {
+          "author_affiliations": {
+            "Benny Geys": [
+              "BI Norwegian Business School (Campus Bergen) Department of Economics, , Kong Christian Frederiks Plass 5, 5006 Bergen, Norway"
+            ],
+            "Mads Pieter van Luttervelt": [
+              "Aarhus University Department of Political Science, , Bartholins Allé 7, 8000 Aarhus C, Denmark"
+            ],
+            "Martin Bækgaard": [
+              "Aarhus University Department of Political Science, , Bartholins Allé 7, 8000 Aarhus C, Denmark"
+            ],
+            "Mathias Rask Østergaard-Nielsen": [
+              "Aarhus University Department of Political Science, , Bartholins Allé 7, 8000 Aarhus C, Denmark"
+            ],
+            "Zuzana Murdoch": [
+              "University of Bergen Department of Government, , Christiesgate 19, 5007 Bergen, Norway"
+            ]
+          },
+          "authors": [
+            "Mads Pieter van Luttervelt",
+            "Mathias Rask Østergaard-Nielsen",
+            "Martin Bækgaard",
+            "Zuzana Murdoch",
+            "Benny Geys"
+          ],
+          "doi": "10.1093/jopart/muag027",
+          "journal": "Journal of Public Administration Research and Theory",
+          "journal_short": "JPART",
+          "publication_date": "2026-08-27",
+          "stable_id": "doi:10.1093/jopart/muag027",
+          "title": "Civil Servants and Democratic Backsliding: The Role of Managerial Signals",
+          "url": "https://doi.org/10.1093/jopart/muag027"
+        },
+        {
+          "author_affiliations": {
+            "José D. Villalobos": [
+              "The University of Texas at El Paso"
+            ],
+            "Nicholas A. Valentino": [
+              "University of Michigan"
+            ]
+          },
+          "authors": [
+            "Cigdem V. Sirin",
+            "Nicholas A. Valentino",
+            "José D. Villalobos"
+          ],
+          "doi": "10.1007/s11109-026-10192-1",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "publication_date": "2026-08-26",
+          "stable_id": "doi:10.1007/s11109-026-10192-1",
+          "title": "Outgroup Empathy and Opposition to Restrictive Voting Laws",
+          "url": "https://doi.org/10.1007/s11109-026-10192-1"
+        },
+        {
+          "author_affiliations": {
+            "Anna-Katharina Wurst": [
+              "Ludwig-Maximilians-Universität München"
+            ],
+            "Christoph Ivanusch": [
+              "Ludwig-Maximilians-Universität München"
+            ],
+            "Jörg Haßler": [
+              "University of Oslo"
+            ],
+            "Simon M. Luebke": [
+              "Leipzig University"
+            ]
+          },
+          "authors": [
+            "Christoph Ivanusch",
+            "Simon M. Luebke",
+            "Anna-Katharina Wurst",
+            "Jörg Haßler"
+          ],
+          "doi": "10.1080/10584609.2026.2715702",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "publication_date": "2026-08-26",
+          "stable_id": "doi:10.1080/10584609.2026.2715702",
+          "title": "Social Media Savvy? The Use and Effectiveness of Political Parties’ Issue Strategies Across Platforms in the German Federal Election Campaign 2025",
+          "url": "https://doi.org/10.1080/10584609.2026.2715702"
+        },
+        {
+          "author_affiliations": {
+            "W. G. Will Zhao": [
+              "University of Waterloo"
+            ]
+          },
+          "authors": [
+            "W. G. Will Zhao"
+          ],
+          "doi": "10.1080/14719037.2026.2720755",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "publication_date": "2026-08-26",
+          "stable_id": "doi:10.1080/14719037.2026.2720755",
+          "title": "Beyond monolithic state logic: how top-down accountability shapes policy implementation",
+          "url": "https://doi.org/10.1080/14719037.2026.2720755"
+        },
+        {
+          "author_affiliations": {
+            "Courtney Hahm": [
+              "Indiana University"
+            ],
+            "Jill Nicholson-Crotty": [
+              "Indiana University"
+            ],
+            "Sean Nicholson-Crotty": [
+              "Indiana University"
+            ]
+          },
+          "authors": [
+            "Jill Nicholson-Crotty",
+            "Courtney Hahm",
+            "Sean Nicholson-Crotty"
+          ],
+          "doi": "10.1177/02750740261478910",
+          "journal": "The American Review of Public Administration",
+          "journal_short": "ARPA",
+          "publication_date": "2026-08-26",
+          "stable_id": "doi:10.1177/02750740261478910",
+          "title": "Disparity in Police Disciplinary Outcomes: The Mediating Effect of Complaint Disposition for Organizational Outgroups",
+          "url": "https://doi.org/10.1177/02750740261478910"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -4100,7 +4317,7 @@
         "title": "Referee Acknowledgments",
         "url": "https://doi.org/10.1002/pam.70126"
       },
-      "last_checked_at": "2026-08-26T11:43:25.342869+00:00"
+      "last_checked_at": "2026-08-27T21:01:23.767507+00:00"
     },
     "doi:10.1002/pam.70127": {
       "first_seen_at": "2026-08-26T11:43:25.342869+00:00",
@@ -4121,26 +4338,28 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-08-26T11:43:25.342869+00:00"
+      "last_checked_at": "2026-08-27T21:01:23.767507+00:00"
     },
-    "doi:10.1007/s11109-026-10192-1": {
-      "first_seen_at": "2026-08-26T11:43:25.342869+00:00",
+    "doi:10.1093/poq/nfag065": {
+      "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
       "item": {
-        "author_affiliations": {},
+        "author_affiliations": {
+          "Emily Wager": [
+            "Western Carolina University"
+          ]
+        },
         "authors": [
-          "Cigdem V. Sirin",
-          "Nicholas A. Valentino",
-          "José D. Villalobos"
+          "Emily Wager"
         ],
-        "doi": "10.1007/s11109-026-10192-1",
-        "journal": "Political Behavior",
-        "journal_short": "PolBeh",
-        "publication_date": "2026-08-26",
-        "stable_id": "doi:10.1007/s11109-026-10192-1",
-        "title": "Outgroup Empathy and Opposition to Restrictive Voting Laws",
-        "url": "https://doi.org/10.1007/s11109-026-10192-1"
+        "doi": "10.1093/poq/nfag065",
+        "journal": "Public Opinion Quarterly",
+        "journal_short": "POQ",
+        "publication_date": "2026-08-27",
+        "stable_id": "doi:10.1093/poq/nfag065",
+        "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
+        "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-08-26T11:43:25.342869+00:00"
+      "last_checked_at": "2026-08-27T21:01:23.767507+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -4161,7 +4380,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-08-26T11:43:25.342869+00:00"
+      "last_checked_at": "2026-08-27T21:01:23.767507+00:00"
     }
   },
   "version": 1
