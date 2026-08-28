@@ -248,6 +248,14 @@
       "sent_at": "2026-08-26T11:45:39.190604+00:00",
       "title": "Gender inequality at the street level explained: redoing gender through informal practices"
     },
+    "doi:10.1080/14719037.2026.2724517": {
+      "batch_id": "2026-08-28-6b966d2d7636d2d0",
+      "doi": "10.1080/14719037.2026.2724517",
+      "journal": "Public Management Review",
+      "publication_date": "2026-08-28",
+      "sent_at": "2026-08-28T21:23:52.597536+00:00",
+      "title": "Can cooperation between a city and a region lead to a robust solution during a polycrisis? – the case of Czechia"
+    },
     "doi:10.1080/15309576.2026.2700771": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1080/15309576.2026.2700771",
@@ -639,6 +647,14 @@
       "publication_date": "2026-08-02",
       "sent_at": "2026-08-07T09:26:57.459384+00:00",
       "title": "Does Political Decoupling Through Fair Market Privatization Improve Managerial and Political Outcomes? Insights From Water Utility Sales"
+    },
+    "doi:10.1111/puar.70175": {
+      "batch_id": "2026-08-28-6b966d2d7636d2d0",
+      "doi": "10.1111/puar.70175",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-08-28",
+      "sent_at": "2026-08-28T21:23:52.597536+00:00",
+      "title": "Toward a Gender Sensitive and Locally Rooted co‐Production Approach: Insights From Implementing Child Stunting Eradication Program in Indonesia"
     },
     "doi:10.1111/puar.70176": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
@@ -4450,7 +4466,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2724517"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-28T21:23:52.597536+00:00",
+      "status": "sent"
     }
   },
   "pending": {
