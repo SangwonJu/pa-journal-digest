@@ -4468,6 +4468,74 @@
       ],
       "sent_at": "2026-08-28T21:23:52.597536+00:00",
       "status": "sent"
+    },
+    "2026-08-29-b60581d3a4a3b1c6": {
+      "created_at": "2026-08-29T15:37:50.345702+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-29-b60581d3a4a3b1c6",
+      "items": [
+        {
+          "author_affiliations": {
+            "Alejandro Espinosa‐Rada": [
+              "Institute of Sociology, Pontificia Universidad Católica de Chile Santiago Chile"
+            ],
+            "Karina Arias‐Yurisch": [
+              "School of Government Pontificia Universidad Católica de Chile Santiago Chile"
+            ],
+            "Karina Retamal‐Soto": [
+              "Department of Public Administration and Management Universidad de Chile Santiago Chile"
+            ]
+          },
+          "authors": [
+            "Karina Arias‐Yurisch",
+            "Karina Retamal‐Soto",
+            "Alejandro Espinosa‐Rada"
+          ],
+          "doi": "10.1111/psj.70157",
+          "journal": "Policy Studies Journal",
+          "journal_short": "PSJ",
+          "publication_date": "2026-08-29",
+          "stable_id": "doi:10.1111/psj.70157",
+          "title": "Disclosing Power Dynamics in Metropolitan Governance: An Analysis of Network Micro‐Mechanisms of Change in an Evolving Inter‐Municipal Network",
+          "url": "https://doi.org/10.1111/psj.70157"
+        },
+        {
+          "author_affiliations": {},
+          "authors": [
+            "Peter Luca Versteegen",
+            "Joseph B. Phillips",
+            "Lilliana Mason"
+          ],
+          "doi": "10.1007/s11109-026-10190-3",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "publication_date": "2026-08-29",
+          "stable_id": "doi:10.1007/s11109-026-10190-3",
+          "title": "Cool Citizens? How Affectively Unpolarized Citizens View and Participate in Democracy",
+          "url": "https://doi.org/10.1007/s11109-026-10190-3"
+        },
+        {
+          "author_affiliations": {
+            "Edmund Poku Adu": [
+              "Department of Government, Law, and Policy Arkansas State University Jonesboro Arkansas USA"
+            ],
+            "Julius A. Nukpezah": [
+              "Department of Political Science and Public Administration Mississippi State University Starkville Mississippi USA"
+            ]
+          },
+          "authors": [
+            "Edmund Poku Adu",
+            "Julius A. Nukpezah"
+          ],
+          "doi": "10.1111/puar.70191",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "publication_date": "2026-08-28",
+          "stable_id": "doi:10.1111/puar.70191",
+          "title": "Coordination Costs and Homelessness Housing Form Choice",
+          "url": "https://doi.org/10.1111/puar.70191"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -4484,7 +4552,7 @@
         "title": "Referee Acknowledgments",
         "url": "https://doi.org/10.1002/pam.70126"
       },
-      "last_checked_at": "2026-08-28T21:21:22.563180+00:00"
+      "last_checked_at": "2026-08-29T15:37:50.345702+00:00"
     },
     "doi:10.1002/pam.70127": {
       "first_seen_at": "2026-08-26T11:43:25.342869+00:00",
@@ -4505,7 +4573,24 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-08-28T21:21:22.563180+00:00"
+      "last_checked_at": "2026-08-29T15:37:50.345702+00:00"
+    },
+    "doi:10.1007/s11109-026-10195-y": {
+      "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Ruben B. Mathisen"
+        ],
+        "doi": "10.1007/s11109-026-10195-y",
+        "journal": "Political Behavior",
+        "journal_short": "PolBeh",
+        "publication_date": "2026-08-29",
+        "stable_id": "doi:10.1007/s11109-026-10195-y",
+        "title": "Coincidental Representation: How Congruence and Influence shape Public Satisfaction with Government",
+        "url": "https://doi.org/10.1007/s11109-026-10195-y"
+      },
+      "last_checked_at": "2026-08-29T15:37:50.345702+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -4526,7 +4611,22 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-08-28T21:21:22.563180+00:00"
+      "last_checked_at": "2026-08-29T15:37:50.345702+00:00"
+    },
+    "doi:10.1111/psj.70163": {
+      "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [],
+        "doi": "10.1111/psj.70163",
+        "journal": "Policy Studies Journal",
+        "journal_short": "PSJ",
+        "publication_date": "2026-08-29",
+        "stable_id": "doi:10.1111/psj.70163",
+        "title": "Issue Information",
+        "url": "https://doi.org/10.1111/psj.70163"
+      },
+      "last_checked_at": "2026-08-29T15:37:50.345702+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -4547,7 +4647,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-08-28T21:21:22.563180+00:00"
+      "last_checked_at": "2026-08-29T15:37:50.345702+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -4562,7 +4662,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-08-28T21:21:22.563180+00:00"
+      "last_checked_at": "2026-08-29T15:37:50.345702+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -4577,7 +4677,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-08-28T21:21:22.563180+00:00"
+      "last_checked_at": "2026-08-29T15:37:50.345702+00:00"
     },
     "doi:10.1111/puar.70194": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -4592,7 +4692,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/puar.70194"
       },
-      "last_checked_at": "2026-08-28T21:21:22.563180+00:00"
+      "last_checked_at": "2026-08-29T15:37:50.345702+00:00"
     }
   },
   "version": 1
