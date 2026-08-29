@@ -1,5 +1,13 @@
 {
   "articles": {
+    "doi:10.1007/s11109-026-10190-3": {
+      "batch_id": "2026-08-29-b60581d3a4a3b1c6",
+      "doi": "10.1007/s11109-026-10190-3",
+      "journal": "Political Behavior",
+      "publication_date": "2026-08-29",
+      "sent_at": "2026-08-29T15:41:45.102971+00:00",
+      "title": "Cool Citizens? How Affectively Unpolarized Citizens View and Participate in Democracy"
+    },
     "doi:10.1007/s11109-026-10191-2": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
       "doi": "10.1007/s11109-026-10191-2",
@@ -616,6 +624,14 @@
       "sent_at": "2026-08-07T09:26:57.459384+00:00",
       "title": "Transparency and Responsibility Attribution: A Field Experiment in Western Uganda"
     },
+    "doi:10.1111/psj.70157": {
+      "batch_id": "2026-08-29-b60581d3a4a3b1c6",
+      "doi": "10.1111/psj.70157",
+      "journal": "Policy Studies Journal",
+      "publication_date": "2026-08-29",
+      "sent_at": "2026-08-29T15:41:45.102971+00:00",
+      "title": "Disclosing Power Dynamics in Metropolitan Governance: An Analysis of Network Micro‐Mechanisms of Change in an Evolving Inter‐Municipal Network"
+    },
     "doi:10.1111/puar.70165": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1111/puar.70165",
@@ -735,6 +751,14 @@
       "publication_date": "2026-08-21",
       "sent_at": "2026-08-22T11:35:25.886255+00:00",
       "title": "Informal Authority, Legitimacy Transition, and Institutional Change: A Theory of Advisory Capture"
+    },
+    "doi:10.1111/puar.70191": {
+      "batch_id": "2026-08-29-b60581d3a4a3b1c6",
+      "doi": "10.1111/puar.70191",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-08-28",
+      "sent_at": "2026-08-29T15:41:45.102971+00:00",
+      "title": "Coordination Costs and Homelessness Housing Form Choice"
     },
     "doi:10.1177/00953997261467698": {
       "batch_id": "2026-08-17-92d20fbd959228aa",
@@ -4535,7 +4559,8 @@
           "url": "https://doi.org/10.1111/puar.70191"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-29T15:41:45.102971+00:00",
+      "status": "sent"
     }
   },
   "pending": {
