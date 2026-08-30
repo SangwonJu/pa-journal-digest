@@ -24,6 +24,14 @@
       "sent_at": "2026-08-27T21:04:09.603803+00:00",
       "title": "Outgroup Empathy and Opposition to Restrictive Voting Laws"
     },
+    "doi:10.1007/s11109-026-10195-y": {
+      "batch_id": "2026-08-30-2bf97979f25ff644",
+      "doi": "10.1007/s11109-026-10195-y",
+      "journal": "Political Behavior",
+      "publication_date": "2026-08-29",
+      "sent_at": "2026-08-30T15:22:53.674829+00:00",
+      "title": "Coincidental Representation: How Congruence and Influence shape Public Satisfaction with Government"
+    },
     "doi:10.1017/s000305542610197x": {
       "batch_id": "2026-08-10-379897b0e0907946",
       "doi": "10.1017/s000305542610197x",
@@ -4584,7 +4592,8 @@
           "url": "https://doi.org/10.1007/s11109-026-10195-y"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-30T15:22:53.674829+00:00",
+      "status": "sent"
     }
   },
   "pending": {
