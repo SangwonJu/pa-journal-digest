@@ -4561,6 +4561,30 @@
       ],
       "sent_at": "2026-08-29T15:41:45.102971+00:00",
       "status": "sent"
+    },
+    "2026-08-30-2bf97979f25ff644": {
+      "created_at": "2026-08-30T15:19:38.084840+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-30-2bf97979f25ff644",
+      "items": [
+        {
+          "author_affiliations": {
+            "Ruben B. Mathisen": [
+              "University of Bergen"
+            ]
+          },
+          "authors": [
+            "Ruben B. Mathisen"
+          ],
+          "doi": "10.1007/s11109-026-10195-y",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "publication_date": "2026-08-29",
+          "stable_id": "doi:10.1007/s11109-026-10195-y",
+          "title": "Coincidental Representation: How Congruence and Influence shape Public Satisfaction with Government",
+          "url": "https://doi.org/10.1007/s11109-026-10195-y"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -4577,7 +4601,7 @@
         "title": "Referee Acknowledgments",
         "url": "https://doi.org/10.1002/pam.70126"
       },
-      "last_checked_at": "2026-08-29T15:37:50.345702+00:00"
+      "last_checked_at": "2026-08-30T15:19:38.084840+00:00"
     },
     "doi:10.1002/pam.70127": {
       "first_seen_at": "2026-08-26T11:43:25.342869+00:00",
@@ -4598,24 +4622,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-08-29T15:37:50.345702+00:00"
-    },
-    "doi:10.1007/s11109-026-10195-y": {
-      "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
-      "item": {
-        "author_affiliations": {},
-        "authors": [
-          "Ruben B. Mathisen"
-        ],
-        "doi": "10.1007/s11109-026-10195-y",
-        "journal": "Political Behavior",
-        "journal_short": "PolBeh",
-        "publication_date": "2026-08-29",
-        "stable_id": "doi:10.1007/s11109-026-10195-y",
-        "title": "Coincidental Representation: How Congruence and Influence shape Public Satisfaction with Government",
-        "url": "https://doi.org/10.1007/s11109-026-10195-y"
-      },
-      "last_checked_at": "2026-08-29T15:37:50.345702+00:00"
+      "last_checked_at": "2026-08-30T15:19:38.084840+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -4636,7 +4643,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-08-29T15:37:50.345702+00:00"
+      "last_checked_at": "2026-08-30T15:19:38.084840+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -4651,7 +4658,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-08-29T15:37:50.345702+00:00"
+      "last_checked_at": "2026-08-30T15:19:38.084840+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -4672,7 +4679,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-08-29T15:37:50.345702+00:00"
+      "last_checked_at": "2026-08-30T15:19:38.084840+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -4687,7 +4694,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-08-29T15:37:50.345702+00:00"
+      "last_checked_at": "2026-08-30T15:19:38.084840+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -4702,7 +4709,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-08-29T15:37:50.345702+00:00"
+      "last_checked_at": "2026-08-30T15:19:38.084840+00:00"
     },
     "doi:10.1111/puar.70194": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -4717,7 +4724,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/puar.70194"
       },
-      "last_checked_at": "2026-08-29T15:37:50.345702+00:00"
+      "last_checked_at": "2026-08-30T15:19:38.084840+00:00"
     }
   },
   "version": 1
