@@ -4594,6 +4594,179 @@
       ],
       "sent_at": "2026-08-30T15:22:53.674829+00:00",
       "status": "sent"
+    },
+    "2026-08-31-16eaf574577d5f58": {
+      "created_at": "2026-08-31T18:00:06.600986+00:00",
+      "idempotency_key": "pa-journal-digest-2026-08-31-16eaf574577d5f58",
+      "items": [
+        {
+          "author_affiliations": {
+            "Feng Yang": [
+              "Center for Social Research Guanghua School of Management, and Yenching Academy Peking University Beijing China"
+            ],
+            "Lin Zhu": [
+              "Center for Chinese Public Administration Research and School of Government Sun Yat‐sen University Guangzhou China"
+            ]
+          },
+          "authors": [
+            "Feng Yang",
+            "Lin Zhu"
+          ],
+          "doi": "10.1111/gove.70151",
+          "journal": "Governance",
+          "journal_short": "Governance",
+          "publication_date": "2026-08-30",
+          "stable_id": "doi:10.1111/gove.70151",
+          "title": "Social Norms, State Punishment, and Motivation Crowding in Anti‐Corruption Messaging: Experimental Evidence From China",
+          "url": "https://doi.org/10.1111/gove.70151"
+        },
+        {
+          "author_affiliations": {
+            "Koh Iwabuchi": [
+              "Waseda University"
+            ],
+            "Osbern Huang": [
+              "Griffith University"
+            ],
+            "Sunkyoung Park": [
+              "Korea University"
+            ],
+            "Tetsuro Kobayashi": [
+              "Waseda University"
+            ],
+            "Woo Chang Kang": [
+              "Korea University"
+            ]
+          },
+          "authors": [
+            "Woo Chang Kang",
+            "Sunkyoung Park",
+            "Osbern Huang",
+            "Koh Iwabuchi",
+            "Tetsuro Kobayashi"
+          ],
+          "doi": "10.1080/10584609.2026.2721665",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "publication_date": "2026-08-31",
+          "stable_id": "doi:10.1080/10584609.2026.2721665",
+          "title": "Democratic Accountability in East Asia: A Comparative Experimental Study of Voter Responses to Norm Violations",
+          "url": "https://doi.org/10.1080/10584609.2026.2721665"
+        },
+        {
+          "author_affiliations": {
+            "Dongdong Yang": [
+              "University of Connecticut"
+            ],
+            "Emma Bennett": [
+              "University at Buffalo"
+            ],
+            "Jiyoun Suk": [
+              "University of Connecticut"
+            ],
+            "Junwan Seo": [
+              "University at Buffalo"
+            ],
+            "Matt Chen": [
+              "University of Connecticut"
+            ],
+            "Rui Wang": [
+              "University at Buffalo"
+            ],
+            "Sara Holland Levin": [
+              "University of Connecticut"
+            ],
+            "Yi Yin Leong": [
+              "University at Buffalo"
+            ],
+            "Yini Zhang": [
+              "University at Buffalo"
+            ],
+            "Zhuohui Yang": [
+              "University at Buffalo"
+            ]
+          },
+          "authors": [
+            "Sara Holland Levin",
+            "Rui Wang",
+            "Junwan Seo",
+            "Yi Yin Leong",
+            "Emma Bennett",
+            "Dongdong Yang",
+            "Zhuohui Yang",
+            "Matt Chen",
+            "Yini Zhang",
+            "Jiyoun Suk"
+          ],
+          "doi": "10.1080/10584609.2026.2717428",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "publication_date": "2026-08-31",
+          "stable_id": "doi:10.1080/10584609.2026.2717428",
+          "title": "From #StayWoke to “Culture Wars”: How Social Justice Discourse is Separately and Synergistically Politicized on Twitter and YouTube",
+          "url": "https://doi.org/10.1080/10584609.2026.2717428"
+        },
+        {
+          "author_affiliations": {
+            "Imane Hijal-Moghrabi": [
+              "The University of Texas Permian Basin, Odessa, USA"
+            ]
+          },
+          "authors": [
+            "Imane Hijal-Moghrabi"
+          ],
+          "doi": "10.1177/0734371x261478777",
+          "journal": "Review of Public Personnel Administration",
+          "journal_short": "ROPPA",
+          "publication_date": "2026-08-31",
+          "stable_id": "doi:10.1177/0734371x261478777",
+          "title": "Advancing the Sustainability Development Goals Through Workforce Professionalization in Public Procurement: The Case of Lebanon",
+          "url": "https://doi.org/10.1177/0734371x261478777"
+        },
+        {
+          "author_affiliations": {
+            "Tipeng Chen": [
+              "Arizona State University, Phoenix, USA"
+            ]
+          },
+          "authors": [
+            "Tipeng Chen"
+          ],
+          "doi": "10.1177/0734371x261481363",
+          "journal": "Review of Public Personnel Administration",
+          "journal_short": "ROPPA",
+          "publication_date": "2026-08-31",
+          "stable_id": "doi:10.1177/0734371x261481363",
+          "title": "Serving the Public as Civil Servants or Citizens? Public Employees’ Exposure to Public Participation, Job Satisfaction, and Volunteering",
+          "url": "https://doi.org/10.1177/0734371x261481363"
+        },
+        {
+          "author_affiliations": {
+            "Jaclyn Piatak": [
+              "University of North Carolina Charlotte"
+            ],
+            "Suzanne Leland": [
+              "University of North Carolina Charlotte"
+            ],
+            "Zachary Mohr": [
+              "University of Kansas"
+            ]
+          },
+          "authors": [
+            "Suzanne Leland",
+            "Jaclyn Piatak",
+            "Zachary Mohr"
+          ],
+          "doi": "10.1177/02750740261477408",
+          "journal": "The American Review of Public Administration",
+          "journal_short": "ARPA",
+          "publication_date": "2026-08-30",
+          "stable_id": "doi:10.1177/02750740261477408",
+          "title": "Credit Attribution for Public Service Providers and Their Employees: Implications from Contracting Out",
+          "url": "https://doi.org/10.1177/02750740261477408"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -4610,7 +4783,7 @@
         "title": "Referee Acknowledgments",
         "url": "https://doi.org/10.1002/pam.70126"
       },
-      "last_checked_at": "2026-08-30T15:19:38.084840+00:00"
+      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
     },
     "doi:10.1002/pam.70127": {
       "first_seen_at": "2026-08-26T11:43:25.342869+00:00",
@@ -4631,7 +4804,44 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-08-30T15:19:38.084840+00:00"
+      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
+    },
+    "doi:10.1086/743911": {
+      "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Anna Dreber Almenberg",
+          "Magnus Johannesson",
+          "Jaakko Pekka Meriläinen",
+          "Janne Tukiainen"
+        ],
+        "doi": "10.1086/743911",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-08-31",
+        "stable_id": "doi:10.1086/743911",
+        "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
+        "url": "https://doi.org/10.1086/743911"
+      },
+      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
+    },
+    "doi:10.1086/743912": {
+      "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Shoufu Yin"
+        ],
+        "doi": "10.1086/743912",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-08-31",
+        "stable_id": "doi:10.1086/743912",
+        "title": "On Republican Domination: Weibo as History and Concept",
+        "url": "https://doi.org/10.1086/743912"
+      },
+      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -4652,7 +4862,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-08-30T15:19:38.084840+00:00"
+      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -4667,7 +4877,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-08-30T15:19:38.084840+00:00"
+      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -4688,7 +4898,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-08-30T15:19:38.084840+00:00"
+      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -4703,7 +4913,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-08-30T15:19:38.084840+00:00"
+      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -4718,7 +4928,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-08-30T15:19:38.084840+00:00"
+      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
     },
     "doi:10.1111/puar.70194": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -4733,7 +4943,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/puar.70194"
       },
-      "last_checked_at": "2026-08-30T15:19:38.084840+00:00"
+      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
     }
   },
   "version": 1
