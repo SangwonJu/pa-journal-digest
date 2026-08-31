@@ -176,6 +176,22 @@
       "sent_at": "2026-08-22T11:35:25.886255+00:00",
       "title": "Hold That Thought: Enhancing the Durability of Fact-Checking Effects Through Low-Cost Accuracy Reminders"
     },
+    "doi:10.1080/10584609.2026.2717428": {
+      "batch_id": "2026-08-31-16eaf574577d5f58",
+      "doi": "10.1080/10584609.2026.2717428",
+      "journal": "Political Communication",
+      "publication_date": "2026-08-31",
+      "sent_at": "2026-08-31T18:04:07.030379+00:00",
+      "title": "From #StayWoke to “Culture Wars”: How Social Justice Discourse is Separately and Synergistically Politicized on Twitter and YouTube"
+    },
+    "doi:10.1080/10584609.2026.2721665": {
+      "batch_id": "2026-08-31-16eaf574577d5f58",
+      "doi": "10.1080/10584609.2026.2721665",
+      "journal": "Political Communication",
+      "publication_date": "2026-08-31",
+      "sent_at": "2026-08-31T18:04:07.030379+00:00",
+      "title": "Democratic Accountability in East Asia: A Comparative Experimental Study of Voter Responses to Norm Violations"
+    },
     "doi:10.1080/10967494.2026.2701849": {
       "batch_id": "2026-08-20-bc528655b9ef5ca7",
       "doi": "10.1080/10967494.2026.2701849",
@@ -471,6 +487,14 @@
       "publication_date": "2026-08-20",
       "sent_at": "2026-08-20T11:42:07.652953+00:00",
       "title": "Three Configurations of In‐House Government Consulting: Public‐Value Purpose and Organizational Viability"
+    },
+    "doi:10.1111/gove.70151": {
+      "batch_id": "2026-08-31-16eaf574577d5f58",
+      "doi": "10.1111/gove.70151",
+      "journal": "Governance",
+      "publication_date": "2026-08-30",
+      "sent_at": "2026-08-31T18:04:07.030379+00:00",
+      "title": "Social Norms, State Punishment, and Motivation Crowding in Anti‐Corruption Messaging: Experimental Evidence From China"
     },
     "doi:10.1111/padm.70076": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -848,6 +872,14 @@
       "sent_at": "2026-08-12T12:00:34.926503+00:00",
       "title": "How Front-Line Public Managers Become Institutional Entrepreneurs"
     },
+    "doi:10.1177/02750740261477408": {
+      "batch_id": "2026-08-31-16eaf574577d5f58",
+      "doi": "10.1177/02750740261477408",
+      "journal": "The American Review of Public Administration",
+      "publication_date": "2026-08-30",
+      "sent_at": "2026-08-31T18:04:07.030379+00:00",
+      "title": "Credit Attribution for Public Service Providers and Their Employees: Implications from Contracting Out"
+    },
     "doi:10.1177/02750740261478901": {
       "batch_id": "2026-08-22-8b3eefaefaf6f8e2",
       "doi": "10.1177/02750740261478901",
@@ -879,6 +911,22 @@
       "publication_date": "2026-08-20",
       "sent_at": "2026-08-21T11:42:27.574271+00:00",
       "title": "Partisanship, Public Service Values, and Public Service Recognition Week Proclamations"
+    },
+    "doi:10.1177/0734371x261478777": {
+      "batch_id": "2026-08-31-16eaf574577d5f58",
+      "doi": "10.1177/0734371x261478777",
+      "journal": "Review of Public Personnel Administration",
+      "publication_date": "2026-08-31",
+      "sent_at": "2026-08-31T18:04:07.030379+00:00",
+      "title": "Advancing the Sustainability Development Goals Through Workforce Professionalization in Public Procurement: The Case of Lebanon"
+    },
+    "doi:10.1177/0734371x261481363": {
+      "batch_id": "2026-08-31-16eaf574577d5f58",
+      "doi": "10.1177/0734371x261481363",
+      "journal": "Review of Public Personnel Administration",
+      "publication_date": "2026-08-31",
+      "sent_at": "2026-08-31T18:04:07.030379+00:00",
+      "title": "Serving the Public as Civil Servants or Citizens? Public Employees’ Exposure to Public Participation, Job Satisfaction, and Volunteering"
     }
   },
   "batches": {
@@ -4766,7 +4814,8 @@
           "url": "https://doi.org/10.1177/02750740261477408"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-08-31T18:04:07.030379+00:00",
+      "status": "sent"
     }
   },
   "pending": {
