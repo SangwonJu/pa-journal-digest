@@ -4816,24 +4816,386 @@
       ],
       "sent_at": "2026-08-31T18:04:07.030379+00:00",
       "status": "sent"
+    },
+    "2026-09-01-1560b88b8d2d7127": {
+      "created_at": "2026-09-01T15:27:42.583028+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-01-1560b88b8d2d7127",
+      "items": [
+        {
+          "author_affiliations": {
+            "Pablo P. Castello": [
+              "Sturm College of Law, University of Denver Denver Colorado USA"
+            ]
+          },
+          "authors": [
+            "Pablo P. Castello"
+          ],
+          "doi": "10.1111/ajps.70087",
+          "journal": "American Journal of Political Science",
+          "journal_short": "AJPS",
+          "publication_date": "2026-08-31",
+          "stable_id": "doi:10.1111/ajps.70087",
+          "title": "The territorial rights of wild animals: Justification",
+          "url": "https://doi.org/10.1111/ajps.70087"
+        },
+        {
+          "author_affiliations": {
+            "MARKUS PRIOR": [
+              "Princeton University"
+            ],
+            "TALBOT M. ANDREWS": [
+              "Cornell University"
+            ]
+          },
+          "authors": [
+            "MARKUS PRIOR",
+            "TALBOT M. ANDREWS"
+          ],
+          "doi": "10.1017/s0003055426101853",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1017/s0003055426101853",
+          "title": "Are Voters Myopic or Looking for Improvement?",
+          "url": "https://doi.org/10.1017/s0003055426101853"
+        },
+        {
+          "author_affiliations": {
+            "ELIZABETH SIMAS": [
+              "Texas A&M University"
+            ],
+            "LUCAS LOTHAMER": [
+              "University of Texas at Tyler"
+            ],
+            "MAYA FITCH": [
+              "University of Houston"
+            ],
+            "MICHAEL HESELTINE": [
+              "University of Oxford"
+            ],
+            "MICHAEL KISTNER": [
+              "University of Houston"
+            ],
+            "ROBERT ALVAREZ": [
+              "Sam Houston State University"
+            ]
+          },
+          "authors": [
+            "MICHAEL KISTNER",
+            "MICHAEL HESELTINE",
+            "ROBERT ALVAREZ",
+            "MAYA FITCH",
+            "LUCAS LOTHAMER",
+            "ELIZABETH SIMAS"
+          ],
+          "doi": "10.1017/s0003055426101841",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1017/s0003055426101841",
+          "title": "Measuring Partisanship and Representation in Online Congressional Communications",
+          "url": "https://doi.org/10.1017/s0003055426101841"
+        },
+        {
+          "author_affiliations": {
+            "Katrine Skagen": [
+              "CICERO—Center for International Climate Research Oslo Norway",
+              "Department of Political Science University of Oslo Oslo Norway"
+            ]
+          },
+          "authors": [
+            "Katrine Skagen"
+          ],
+          "doi": "10.1111/gove.70152",
+          "journal": "Governance",
+          "journal_short": "Governance",
+          "publication_date": "2026-08-31",
+          "stable_id": "doi:10.1111/gove.70152",
+          "title": "Why Some Critical Junctures Lead Nowhere: Exploring Dynamic and Static Policy Paths",
+          "url": "https://doi.org/10.1111/gove.70152"
+        },
+        {
+          "author_affiliations": {
+            "Jurgen Willems": [
+              "Vienna University of Economics and Business"
+            ],
+            "Moritz Schmid": [
+              "Vienna University of Economics and Business"
+            ]
+          },
+          "authors": [
+            "Moritz Schmid",
+            "Jurgen Willems"
+          ],
+          "doi": "10.1016/j.giq.2026.102158",
+          "journal": "Government Information Quarterly",
+          "journal_short": "GIQ",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1016/j.giq.2026.102158",
+          "title": "AI for integrity: Predicting public servants' susceptibility to corruption via supervised machine learning",
+          "url": "https://doi.org/10.1016/j.giq.2026.102158"
+        },
+        {
+          "author_affiliations": {
+            "Luca Mora": [
+              "Tallinn University of Technology",
+              "Edinburgh Napier University"
+            ],
+            "Mahardika Fadmastuti": [
+              "Tallinn University of Technology"
+            ],
+            "Sara Thabit": [
+              "Tallinn University of Technology",
+              "Joint Research Centre"
+            ],
+            "Till Degkwitz": [
+              "HafenCity University Hamburg"
+            ]
+          },
+          "authors": [
+            "Sara Thabit",
+            "Till Degkwitz",
+            "Mahardika Fadmastuti",
+            "Luca Mora"
+          ],
+          "doi": "10.1016/j.giq.2026.102149",
+          "journal": "Government Information Quarterly",
+          "journal_short": "GIQ",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1016/j.giq.2026.102149",
+          "title": "Decentralisation in public sector data platforms: A pathway to enhancing public value?",
+          "url": "https://doi.org/10.1016/j.giq.2026.102149"
+        },
+        {
+          "author_affiliations": {
+            "Johan Eklund": [
+              "National Library of Sweden",
+              "University of Borås"
+            ],
+            "Johan Magnusson": [
+              "University of Gothenburg"
+            ],
+            "Jonathan Crusoe": [
+              "National Library of Sweden",
+              "University of Gothenburg",
+              "University of Borås"
+            ]
+          },
+          "authors": [
+            "Jonathan Crusoe",
+            "Johan Magnusson",
+            "Johan Eklund"
+          ],
+          "doi": "10.1016/j.giq.2026.102160",
+          "journal": "Government Information Quarterly",
+          "journal_short": "GIQ",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1016/j.giq.2026.102160",
+          "title": "Digital maturity: Testing an existing framework through scale development",
+          "url": "https://doi.org/10.1016/j.giq.2026.102160"
+        },
+        {
+          "author_affiliations": {
+            "Edward Kei Fung Chan": [
+              "University of Cambridge",
+              "University of Hong Kong"
+            ],
+            "Jung Eun Kim": [
+              "Seoul National University"
+            ],
+            "Kwan Nok Chan": [
+              "University of Cambridge",
+              "University of Hong Kong"
+            ],
+            "Wai Fung Lam": [
+              "Chinese University of Hong Kong",
+              "University of Hong Kong"
+            ]
+          },
+          "authors": [
+            "Jung Eun Kim",
+            "Kwan Nok Chan",
+            "Wai Fung Lam",
+            "Edward Kei Fung Chan"
+          ],
+          "doi": "10.1016/j.giq.2026.102169",
+          "journal": "Government Information Quarterly",
+          "journal_short": "GIQ",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1016/j.giq.2026.102169",
+          "title": "Government institutions and data custodianship over personal information: Comparing citizen preferences in Hong Kong and South Korea",
+          "url": "https://doi.org/10.1016/j.giq.2026.102169"
+        },
+        {
+          "author_affiliations": {
+            "Christian Østergaard Madsen": [
+              "IT University of Copenhagen"
+            ],
+            "Karl Kristian Larsson": [
+              "Simula Metropolitan Center for Digital Engineering"
+            ],
+            "Ulf Melin": [
+              "Linköping University"
+            ]
+          },
+          "authors": [
+            "Christian Østergaard Madsen",
+            "Ulf Melin",
+            "Karl Kristian Larsson"
+          ],
+          "doi": "10.1016/j.giq.2026.102166",
+          "journal": "Government Information Quarterly",
+          "journal_short": "GIQ",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1016/j.giq.2026.102166",
+          "title": "Hybrid bureaucracy: The relationship between digital technologies and institutional arrangements in public welfare agencies",
+          "url": "https://doi.org/10.1016/j.giq.2026.102166"
+        },
+        {
+          "author_affiliations": {
+            "Efpraxia D. Zamani": [
+              "Durham University"
+            ],
+            "Oliver George Kayas": [
+              "Liverpool John Moores University"
+            ]
+          },
+          "authors": [
+            "Oliver George Kayas",
+            "Efpraxia D. Zamani"
+          ],
+          "doi": "10.1016/j.giq.2026.102162",
+          "journal": "Government Information Quarterly",
+          "journal_short": "GIQ",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1016/j.giq.2026.102162",
+          "title": "Managerial resistance to digital workplace surveillance in a local government authority",
+          "url": "https://doi.org/10.1016/j.giq.2026.102162"
+        },
+        {
+          "author_affiliations": {
+            "Christian Fieseler": [
+              "BI Norwegian Business School"
+            ],
+            "Eliane Bucher": [
+              "BI Norwegian Business School"
+            ],
+            "Itziar Castelló": [
+              "St George's, University of London",
+              "City, University of London"
+            ]
+          },
+          "authors": [
+            "Eliane Bucher",
+            "Itziar Castelló",
+            "Christian Fieseler"
+          ],
+          "doi": "10.1016/j.giq.2026.102164",
+          "journal": "Government Information Quarterly",
+          "journal_short": "GIQ",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1016/j.giq.2026.102164",
+          "title": "Normative entrainment through affect in national artificial intelligence strategies",
+          "url": "https://doi.org/10.1016/j.giq.2026.102164"
+        },
+        {
+          "author_affiliations": {
+            "Flávia Cristina Bernardini": [
+              "Universidade Federal Fluminense"
+            ],
+            "Igor Garcia Ballhausen Sampaio": [
+              "Universidade Federal Fluminense"
+            ],
+            "José Viterbo": [
+              "Universidade Federal Fluminense"
+            ]
+          },
+          "authors": [
+            "Igor Garcia Ballhausen Sampaio",
+            "Eduardo de Oliveira Andrade",
+            "Sérgio de Souza Barbosa Fontes",
+            "Flávia Cristina Bernardini",
+            "José Viterbo"
+          ],
+          "doi": "10.1016/j.giq.2026.102157",
+          "journal": "Government Information Quarterly",
+          "journal_short": "GIQ",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1016/j.giq.2026.102157",
+          "title": "Trustworthy AI in public administration: The PRO-Trust pipeline for ethical fraud detection in public procurement",
+          "url": "https://doi.org/10.1016/j.giq.2026.102157"
+        },
+        {
+          "author_affiliations": {
+            "Jonny Holmström": [
+              "Umeå University"
+            ]
+          },
+          "authors": [
+            "Jonny Holmström"
+          ],
+          "doi": "10.1016/j.giq.2026.102168",
+          "journal": "Government Information Quarterly",
+          "journal_short": "GIQ",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1016/j.giq.2026.102168",
+          "title": "Working with semantic machines: The role of semantic reconciliation in public sector data governance",
+          "url": "https://doi.org/10.1016/j.giq.2026.102168"
+        },
+        {
+          "author_affiliations": {
+            "Michelle Allgood": [
+              "School of Politics, Public Affairs, and International Studies, University of Wyoming Laramie Wyoming USA"
+            ]
+          },
+          "authors": [
+            "Michelle Allgood"
+          ],
+          "doi": "10.1111/puar.70196",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1111/puar.70196",
+          "title": "Increasing Equitable Access in Public Service: A Descriptive Study About Accessible Materials",
+          "url": "https://doi.org/10.1111/puar.70196"
+        },
+        {
+          "author_affiliations": {
+            "Eva Sørensen": [
+              "Department of Social Sciences and Business Roskilde University Roskilde Denmark"
+            ],
+            "Jacob Torfing": [
+              "Department of Social Sciences and Business Roskilde University Roskilde Denmark"
+            ]
+          },
+          "authors": [
+            "Eva Sørensen",
+            "Jacob Torfing"
+          ],
+          "doi": "10.1111/puar.70192",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1111/puar.70192",
+          "title": "The Role of Public Administrators in Building a Robust Liberal Democracy",
+          "url": "https://doi.org/10.1111/puar.70192"
+        },
+        {
+          "author_affiliations": {},
+          "authors": [],
+          "doi": "10.1002/pam.70126",
+          "journal": "Journal of Policy Analysis and Management",
+          "journal_short": "JPAM",
+          "publication_date": "2026-08-25",
+          "stable_id": "doi:10.1002/pam.70126",
+          "title": "Referee Acknowledgments",
+          "url": "https://doi.org/10.1002/pam.70126"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
-    "doi:10.1002/pam.70126": {
-      "first_seen_at": "2026-08-26T11:43:25.342869+00:00",
-      "item": {
-        "author_affiliations": {},
-        "authors": [],
-        "doi": "10.1002/pam.70126",
-        "journal": "Journal of Policy Analysis and Management",
-        "journal_short": "JPAM",
-        "publication_date": "2026-08-25",
-        "stable_id": "doi:10.1002/pam.70126",
-        "title": "Referee Acknowledgments",
-        "url": "https://doi.org/10.1002/pam.70126"
-      },
-      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
-    },
     "doi:10.1002/pam.70127": {
       "first_seen_at": "2026-08-26T11:43:25.342869+00:00",
       "item": {
@@ -4853,7 +5215,182 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
+      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+    },
+    "doi:10.1016/j.giq.2026.102159": {
+      "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
+      "item": {
+        "author_affiliations": {
+          "Anne Goldmann": [
+            "Zuse Institute Berlin"
+          ],
+          "Sandra Plümer": [
+            "University of Duisburg-Essen"
+          ]
+        },
+        "authors": [
+          "Anne Goldmann",
+          "Sandra Plümer"
+        ],
+        "doi": "10.1016/j.giq.2026.102159",
+        "journal": "Government Information Quarterly",
+        "journal_short": "GIQ",
+        "publication_date": "2026-09-01",
+        "stable_id": "doi:10.1016/j.giq.2026.102159",
+        "title": "Narrating the AI Act: Policy narratives on artificial intelligence, their construction, and evolution within the European Parliament",
+        "url": "https://doi.org/10.1016/j.giq.2026.102159"
+      },
+      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+    },
+    "doi:10.1016/j.giq.2026.102161": {
+      "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
+      "item": {
+        "author_affiliations": {
+          "Alisa Zomer": [
+            "Massachusetts Institute of Technology"
+          ],
+          "Leonard Waweru": [
+            "Busara Center for Behavioral Economics"
+          ],
+          "Lily L. Tsai": [
+            "Massachusetts Institute of Technology"
+          ],
+          "Nathaniel Rabb": [
+            "Massachusetts Institute of Technology"
+          ],
+          "Nuole Chen": [
+            "Massachusetts Institute of Technology"
+          ],
+          "Salim Kombo": [
+            "Busara Center for Behavioral Economics"
+          ]
+        },
+        "authors": [
+          "Nuole Chen",
+          "Salim Kombo",
+          "Nathaniel Rabb",
+          "Leonard Waweru",
+          "Alisa Zomer",
+          "Lily L. Tsai"
+        ],
+        "doi": "10.1016/j.giq.2026.102161",
+        "journal": "Government Information Quarterly",
+        "journal_short": "GIQ",
+        "publication_date": "2026-09-01",
+        "stable_id": "doi:10.1016/j.giq.2026.102161",
+        "title": "Building trust through messaging and new e-government services in Kenya",
+        "url": "https://doi.org/10.1016/j.giq.2026.102161"
+      },
+      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+    },
+    "doi:10.1016/j.giq.2026.102165": {
+      "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
+      "item": {
+        "author_affiliations": {
+          "Battulga Buyannemekh": [
+            "University at Albany, State University of New York"
+          ],
+          "Dolores E. Luna": [
+            "Universidad de las Américas Puebla"
+          ],
+          "Luis F. Luna-Reyes": [
+            "University at Albany, State University of New York",
+            "Universidad de las Américas Puebla"
+          ],
+          "Sergio Picazo-Vela": [
+            "Universidad de las Américas Puebla"
+          ]
+        },
+        "authors": [
+          "Battulga Buyannemekh",
+          "Dolores E. Luna",
+          "Sergio Picazo-Vela",
+          "Luis F. Luna-Reyes"
+        ],
+        "doi": "10.1016/j.giq.2026.102165",
+        "journal": "Government Information Quarterly",
+        "journal_short": "GIQ",
+        "publication_date": "2026-09-01",
+        "stable_id": "doi:10.1016/j.giq.2026.102165",
+        "title": "Citizens' perspectives on administrative burden in digital government services",
+        "url": "https://doi.org/10.1016/j.giq.2026.102165"
+      },
+      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+    },
+    "doi:10.1016/j.giq.2026.102167": {
+      "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Munsu Kim",
+          "Wonik Park"
+        ],
+        "doi": "10.1016/j.giq.2026.102167",
+        "journal": "Government Information Quarterly",
+        "journal_short": "GIQ",
+        "publication_date": "2026-09-01",
+        "stable_id": "doi:10.1016/j.giq.2026.102167",
+        "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
+        "url": "https://doi.org/10.1016/j.giq.2026.102167"
+      },
+      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+    },
+    "doi:10.1016/j.giq.2026.102170": {
+      "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Wu Chen",
+          "Haibo Zhang"
+        ],
+        "doi": "10.1016/j.giq.2026.102170",
+        "journal": "Government Information Quarterly",
+        "journal_short": "GIQ",
+        "publication_date": "2026-09-01",
+        "stable_id": "doi:10.1016/j.giq.2026.102170",
+        "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
+        "url": "https://doi.org/10.1016/j.giq.2026.102170"
+      },
+      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+    },
+    "doi:10.1016/j.giq.2026.102171": {
+      "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Sudong Kim"
+        ],
+        "doi": "10.1016/j.giq.2026.102171",
+        "journal": "Government Information Quarterly",
+        "journal_short": "GIQ",
+        "publication_date": "2026-09-01",
+        "stable_id": "doi:10.1016/j.giq.2026.102171",
+        "title": "AI ambivalence and digital civic engagement: Dual pathways of hindrance and capability development",
+        "url": "https://doi.org/10.1016/j.giq.2026.102171"
+      },
+      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+    },
+    "doi:10.1016/j.giq.2026.102172": {
+      "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
+      "item": {
+        "author_affiliations": {
+          "Katarzyna Sienkiewicz-Małyjurek": [
+            "Silesian University of Technology",
+            "Institute of Medical Technology and Equipment"
+          ]
+        },
+        "authors": [
+          "Katarzyna Sienkiewicz-Małyjurek"
+        ],
+        "doi": "10.1016/j.giq.2026.102172",
+        "journal": "Government Information Quarterly",
+        "journal_short": "GIQ",
+        "publication_date": "2026-09-01",
+        "stable_id": "doi:10.1016/j.giq.2026.102172",
+        "title": "Digital resilience in delivering public services. A conceptual model",
+        "url": "https://doi.org/10.1016/j.giq.2026.102172"
+      },
+      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -4873,7 +5410,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
+      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -4890,7 +5427,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
+      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -4911,7 +5448,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
+      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -4926,7 +5463,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
+      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -4947,7 +5484,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
+      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -4962,7 +5499,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
+      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -4977,7 +5514,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
+      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
     },
     "doi:10.1111/puar.70194": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -4992,7 +5529,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/puar.70194"
       },
-      "last_checked_at": "2026-08-31T18:00:06.600986+00:00"
+      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
     }
   },
   "version": 1
