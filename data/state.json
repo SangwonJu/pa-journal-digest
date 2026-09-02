@@ -88,6 +88,14 @@
       "sent_at": "2026-09-01T15:35:08.163995+00:00",
       "title": "Normative entrainment through affect in national artificial intelligence strategies"
     },
+    "doi:10.1016/j.giq.2026.102165": {
+      "batch_id": "2026-09-02-34bfbbd7944e0731",
+      "doi": "10.1016/j.giq.2026.102165",
+      "journal": "Government Information Quarterly",
+      "publication_date": "2026-09-01",
+      "sent_at": "2026-09-02T15:13:16.383214+00:00",
+      "title": "Citizens' perspectives on administrative burden in digital government services"
+    },
     "doi:10.1016/j.giq.2026.102166": {
       "batch_id": "2026-09-01-1560b88b8d2d7127",
       "doi": "10.1016/j.giq.2026.102166",
@@ -111,6 +119,14 @@
       "publication_date": "2026-09-01",
       "sent_at": "2026-09-01T15:35:08.163995+00:00",
       "title": "Government institutions and data custodianship over personal information: Comparing citizen preferences in Hong Kong and South Korea"
+    },
+    "doi:10.1016/j.giq.2026.102171": {
+      "batch_id": "2026-09-02-34bfbbd7944e0731",
+      "doi": "10.1016/j.giq.2026.102171",
+      "journal": "Government Information Quarterly",
+      "publication_date": "2026-09-01",
+      "sent_at": "2026-09-02T15:13:16.383214+00:00",
+      "title": "AI ambivalence and digital civic engagement: Dual pathways of hindrance and capability development"
     },
     "doi:10.1017/s0003055426101841": {
       "batch_id": "2026-09-01-1560b88b8d2d7127",
@@ -143,6 +159,14 @@
       "publication_date": "2026-08-03",
       "sent_at": "2026-08-08T07:27:21.078868+00:00",
       "title": "Youth and Corruption in Ghana: Perspectives from University Student Leaders"
+    },
+    "doi:10.1080/01900692.2026.2704921": {
+      "batch_id": "2026-09-02-34bfbbd7944e0731",
+      "doi": "10.1080/01900692.2026.2704921",
+      "journal": "International Journal of Public Administration",
+      "publication_date": "2026-09-02",
+      "sent_at": "2026-09-02T15:13:16.383214+00:00",
+      "title": "Autonomy in Prison: Street-Level Bureaucrats Re-Connecting with Their Purpose"
     },
     "doi:10.1080/01900692.2026.2705352": {
       "batch_id": "2026-08-27-5640af3b3889d675",
@@ -407,6 +431,14 @@
       "publication_date": "2026-08-13",
       "sent_at": "2026-08-14T11:58:19.972994+00:00",
       "title": "The Cost Savings in Inter-Organizational Cooperation: A Meta-Analytic Review and Extension"
+    },
+    "doi:10.1080/15309576.2026.2716709": {
+      "batch_id": "2026-09-02-34bfbbd7944e0731",
+      "doi": "10.1080/15309576.2026.2716709",
+      "journal": "Public Performance & Management Review",
+      "publication_date": "2026-09-02",
+      "sent_at": "2026-09-02T15:13:16.383214+00:00",
+      "title": "Managing Through Crisis: Understanding Personnel Stability in the States During Economic Downturns"
     },
     "doi:10.1080/15309576.2026.2718938": {
       "batch_id": "2026-08-23-2973996b909bcb76",
@@ -5409,7 +5441,8 @@
           "url": "https://doi.org/10.1080/15309576.2026.2716709"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-02T15:13:16.383214+00:00",
+      "status": "sent"
     }
   },
   "pending": {
