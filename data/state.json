@@ -5322,6 +5322,94 @@
       ],
       "sent_at": "2026-09-01T15:35:08.163995+00:00",
       "status": "sent"
+    },
+    "2026-09-02-34bfbbd7944e0731": {
+      "created_at": "2026-09-02T15:05:20.018475+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-02-34bfbbd7944e0731",
+      "items": [
+        {
+          "author_affiliations": {},
+          "authors": [
+            "Sudong Kim"
+          ],
+          "doi": "10.1016/j.giq.2026.102171",
+          "journal": "Government Information Quarterly",
+          "journal_short": "GIQ",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1016/j.giq.2026.102171",
+          "title": "AI ambivalence and digital civic engagement: Dual pathways of hindrance and capability development",
+          "url": "https://doi.org/10.1016/j.giq.2026.102171"
+        },
+        {
+          "author_affiliations": {
+            "Battulga Buyannemekh": [
+              "University at Albany, State University of New York"
+            ],
+            "Dolores E. Luna": [
+              "Universidad de las Américas Puebla"
+            ],
+            "Luis F. Luna-Reyes": [
+              "University at Albany, State University of New York",
+              "Universidad de las Américas Puebla"
+            ],
+            "Sergio Picazo-Vela": [
+              "Universidad de las Américas Puebla"
+            ]
+          },
+          "authors": [
+            "Battulga Buyannemekh",
+            "Dolores E. Luna",
+            "Sergio Picazo-Vela",
+            "Luis F. Luna-Reyes"
+          ],
+          "doi": "10.1016/j.giq.2026.102165",
+          "journal": "Government Information Quarterly",
+          "journal_short": "GIQ",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1016/j.giq.2026.102165",
+          "title": "Citizens' perspectives on administrative burden in digital government services",
+          "url": "https://doi.org/10.1016/j.giq.2026.102165"
+        },
+        {
+          "author_affiliations": {
+            "Johan Sandén": [
+              "University of Gothenburg"
+            ]
+          },
+          "authors": [
+            "Johan Sandén"
+          ],
+          "doi": "10.1080/01900692.2026.2704921",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "publication_date": "2026-09-02",
+          "stable_id": "doi:10.1080/01900692.2026.2704921",
+          "title": "Autonomy in Prison: Street-Level Bureaucrats Re-Connecting with Their Purpose",
+          "url": "https://doi.org/10.1080/01900692.2026.2704921"
+        },
+        {
+          "author_affiliations": {
+            "Daniel Rudy": [
+              "University of Georgia"
+            ],
+            "Kounghun Nam": [
+              "University of Georgia"
+            ]
+          },
+          "authors": [
+            "Kounghun Nam",
+            "Daniel Rudy"
+          ],
+          "doi": "10.1080/15309576.2026.2716709",
+          "journal": "Public Performance & Management Review",
+          "journal_short": "PPMR",
+          "publication_date": "2026-09-02",
+          "stable_id": "doi:10.1080/15309576.2026.2716709",
+          "title": "Managing Through Crisis: Understanding Personnel Stability in the States During Economic Downturns",
+          "url": "https://doi.org/10.1080/15309576.2026.2716709"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -5344,7 +5432,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
     },
     "doi:10.1016/j.giq.2026.102159": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5369,7 +5457,7 @@
         "title": "Narrating the AI Act: Policy narratives on artificial intelligence, their construction, and evolution within the European Parliament",
         "url": "https://doi.org/10.1016/j.giq.2026.102159"
       },
-      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5410,41 +5498,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
-    },
-    "doi:10.1016/j.giq.2026.102165": {
-      "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
-      "item": {
-        "author_affiliations": {
-          "Battulga Buyannemekh": [
-            "University at Albany, State University of New York"
-          ],
-          "Dolores E. Luna": [
-            "Universidad de las Américas Puebla"
-          ],
-          "Luis F. Luna-Reyes": [
-            "University at Albany, State University of New York",
-            "Universidad de las Américas Puebla"
-          ],
-          "Sergio Picazo-Vela": [
-            "Universidad de las Américas Puebla"
-          ]
-        },
-        "authors": [
-          "Battulga Buyannemekh",
-          "Dolores E. Luna",
-          "Sergio Picazo-Vela",
-          "Luis F. Luna-Reyes"
-        ],
-        "doi": "10.1016/j.giq.2026.102165",
-        "journal": "Government Information Quarterly",
-        "journal_short": "GIQ",
-        "publication_date": "2026-09-01",
-        "stable_id": "doi:10.1016/j.giq.2026.102165",
-        "title": "Citizens' perspectives on administrative burden in digital government services",
-        "url": "https://doi.org/10.1016/j.giq.2026.102165"
-      },
-      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5462,7 +5516,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5480,24 +5534,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
-    },
-    "doi:10.1016/j.giq.2026.102171": {
-      "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
-      "item": {
-        "author_affiliations": {},
-        "authors": [
-          "Sudong Kim"
-        ],
-        "doi": "10.1016/j.giq.2026.102171",
-        "journal": "Government Information Quarterly",
-        "journal_short": "GIQ",
-        "publication_date": "2026-09-01",
-        "stable_id": "doi:10.1016/j.giq.2026.102171",
-        "title": "AI ambivalence and digital civic engagement: Dual pathways of hindrance and capability development",
-        "url": "https://doi.org/10.1016/j.giq.2026.102171"
-      },
-      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5519,7 +5556,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -5539,7 +5576,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -5556,7 +5593,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -5577,7 +5614,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -5592,7 +5629,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -5613,7 +5650,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -5628,7 +5665,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -5643,7 +5680,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
     },
     "doi:10.1111/puar.70194": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -5658,7 +5695,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/puar.70194"
       },
-      "last_checked_at": "2026-09-01T15:27:42.583028+00:00"
+      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
     }
   },
   "version": 1
