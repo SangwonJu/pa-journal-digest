@@ -5443,6 +5443,149 @@
       ],
       "sent_at": "2026-09-02T15:13:16.383214+00:00",
       "status": "sent"
+    },
+    "2026-09-03-73257f4db9703c6b": {
+      "created_at": "2026-09-03T14:59:12.974699+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-03-73257f4db9703c6b",
+      "items": [
+        {
+          "author_affiliations": {
+            "Elizabeth Bell": [
+              "LBJ School of Public Affairs The University of Texas at Austin Austin Texas USA"
+            ],
+            "Sebastian Jilke": [
+              "McCourt School of Public Policy Georgetown University Washington DC USA"
+            ]
+          },
+          "authors": [
+            "Elizabeth Bell",
+            "Sebastian Jilke"
+          ],
+          "doi": "10.1002/pam.70128",
+          "journal": "Journal of Policy Analysis and Management",
+          "journal_short": "JPAM",
+          "publication_date": "2026-09-03",
+          "stable_id": "doi:10.1002/pam.70128",
+          "title": "Administrative Burden and the Access–Fraud Trade‐Off",
+          "url": "https://doi.org/10.1002/pam.70128"
+        },
+        {
+          "author_affiliations": {
+            "Evangelia Petridou": [
+              "Department of Humanities and Social Sciences Mid Sweden University Östersund Sweden",
+              "NTNU Social Research Trondheim Norway"
+            ],
+            "Jörgen Sparf": [
+              "Department of Humanities and Social Sciences Mid Sweden University Östersund Sweden",
+              "NTNU Social Research Trondheim Norway"
+            ],
+            "Olivier Rubin": [
+              "Department of Social Sciences and Business Roskilde University Roskilde Denmark"
+            ],
+            "Olov Hemmingsson": [
+              "Department of Humanities and Social Sciences Mid Sweden University Östersund Sweden"
+            ]
+          },
+          "authors": [
+            "Olivier Rubin",
+            "Olov Hemmingsson",
+            "Evangelia Petridou",
+            "Jörgen Sparf"
+          ],
+          "doi": "10.1111/psj.70159",
+          "journal": "Policy Studies Journal",
+          "journal_short": "PSJ",
+          "publication_date": "2026-09-03",
+          "stable_id": "doi:10.1111/psj.70159",
+          "title": "From Policy Legitimization to Blame Avoidance—Discursive Strategies During Denmark's Mink Culling Crisis",
+          "url": "https://doi.org/10.1111/psj.70159"
+        },
+        {
+          "author_affiliations": {},
+          "authors": [
+            "Louise Halberg Nielsen"
+          ],
+          "doi": "10.1007/s11109-026-10199-8",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "publication_date": "2026-09-03",
+          "stable_id": "doi:10.1007/s11109-026-10199-8",
+          "title": "Women Politicians’ Role Model Effects: The Influence of Shared Identities Beyond Gender",
+          "url": "https://doi.org/10.1007/s11109-026-10199-8"
+        },
+        {
+          "author_affiliations": {
+            "Mengjie Yan": [
+              "Dongguan University of Technology"
+            ],
+            "Qing Li": [
+              "Renmin University of China"
+            ],
+            "Yu Shi": [
+              "University of North Texas"
+            ]
+          },
+          "authors": [
+            "Qing Li",
+            "Mengjie Yan",
+            "Yu Shi"
+          ],
+          "doi": "10.1080/15309576.2026.2723015",
+          "journal": "Public Performance & Management Review",
+          "journal_short": "PPMR",
+          "publication_date": "2026-09-02",
+          "stable_id": "doi:10.1080/15309576.2026.2723015",
+          "title": "Fiscal Competition, Intergovernmental Transfer, and Local Debt Management",
+          "url": "https://doi.org/10.1080/15309576.2026.2723015"
+        },
+        {
+          "author_affiliations": {
+            "Christa L. Remington": [
+              "School of Public Affairs University of South Florida, University of South Florida"
+            ],
+            "Kaila Witkowski": [
+              "Florida Atlantic University"
+            ],
+            "Lauren Azevedo": [
+              "Department of Political Science and Public Administration, University of North Carolina at Charlotte"
+            ],
+            "Ratna B. Dougherty": [
+              "School of Public Affairs University of South Florida, University of South Florida"
+            ]
+          },
+          "authors": [
+            "Lauren Azevedo",
+            "Ratna B. Dougherty",
+            "Kaila Witkowski",
+            "Christa L. Remington"
+          ],
+          "doi": "10.1177/02750740261481818",
+          "journal": "The American Review of Public Administration",
+          "journal_short": "ARPA",
+          "publication_date": "2026-09-02",
+          "stable_id": "doi:10.1177/02750740261481818",
+          "title": "Culture as Administrative Infrastructure: Crisis Governance and Community Recovery After the Maui Wildfires",
+          "url": "https://doi.org/10.1177/02750740261481818"
+        },
+        {
+          "author_affiliations": {
+            "Pascal D. Koenig": [
+              "VU Amsterdam"
+            ]
+          },
+          "authors": [
+            "Pascal D. Koenig"
+          ],
+          "doi": "10.1177/02750740261481775",
+          "journal": "The American Review of Public Administration",
+          "journal_short": "ARPA",
+          "publication_date": "2026-09-02",
+          "stable_id": "doi:10.1177/02750740261481775",
+          "title": "Why Government Turns to AI – What Citizens Believe and How it Matters. Survey Evidence from Germany and the Netherlands",
+          "url": "https://doi.org/10.1177/02750740261481775"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -5465,7 +5608,27 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
+      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
+    },
+    "doi:10.1007/s11109-026-10193-0": {
+      "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Pablo Barberá",
+          "Andrew Guess",
+          "Simon Munzert",
+          "JungHwan Yang"
+        ],
+        "doi": "10.1007/s11109-026-10193-0",
+        "journal": "Political Behavior",
+        "journal_short": "PolBeh",
+        "publication_date": "2026-09-03",
+        "stable_id": "doi:10.1007/s11109-026-10193-0",
+        "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
+        "url": "https://doi.org/10.1007/s11109-026-10193-0"
+      },
+      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
     },
     "doi:10.1016/j.giq.2026.102159": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5490,7 +5653,7 @@
         "title": "Narrating the AI Act: Policy narratives on artificial intelligence, their construction, and evolution within the European Parliament",
         "url": "https://doi.org/10.1016/j.giq.2026.102159"
       },
-      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
+      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5531,7 +5694,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
+      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5549,7 +5712,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
+      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5567,7 +5730,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
+      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5589,7 +5752,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
+      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -5609,7 +5772,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
+      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -5626,7 +5789,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
+      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -5647,7 +5810,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
+      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -5662,7 +5825,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
+      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -5683,7 +5846,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
+      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -5698,7 +5861,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
+      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -5713,7 +5876,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
+      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
     },
     "doi:10.1111/puar.70194": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -5728,7 +5891,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/puar.70194"
       },
-      "last_checked_at": "2026-09-02T15:05:20.018475+00:00"
+      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
     }
   },
   "version": 1
