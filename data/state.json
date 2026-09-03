@@ -8,6 +8,14 @@
       "sent_at": "2026-09-01T15:35:08.163995+00:00",
       "title": "Referee Acknowledgments"
     },
+    "doi:10.1002/pam.70128": {
+      "batch_id": "2026-09-03-73257f4db9703c6b",
+      "doi": "10.1002/pam.70128",
+      "journal": "Journal of Policy Analysis and Management",
+      "publication_date": "2026-09-03",
+      "sent_at": "2026-09-03T15:05:53.210352+00:00",
+      "title": "Administrative Burden and the Access–Fraud Trade‐Off"
+    },
     "doi:10.1007/s11109-026-10190-3": {
       "batch_id": "2026-08-29-b60581d3a4a3b1c6",
       "doi": "10.1007/s11109-026-10190-3",
@@ -39,6 +47,14 @@
       "publication_date": "2026-08-29",
       "sent_at": "2026-08-30T15:22:53.674829+00:00",
       "title": "Coincidental Representation: How Congruence and Influence shape Public Satisfaction with Government"
+    },
+    "doi:10.1007/s11109-026-10199-8": {
+      "batch_id": "2026-09-03-73257f4db9703c6b",
+      "doi": "10.1007/s11109-026-10199-8",
+      "journal": "Political Behavior",
+      "publication_date": "2026-09-03",
+      "sent_at": "2026-09-03T15:05:53.210352+00:00",
+      "title": "Women Politicians’ Role Model Effects: The Influence of Shared Identities Beyond Gender"
     },
     "doi:10.1016/j.giq.2026.102149": {
       "batch_id": "2026-09-01-1560b88b8d2d7127",
@@ -448,6 +464,14 @@
       "sent_at": "2026-08-23T11:34:38.952295+00:00",
       "title": "Gender-Responsive Budgeting in Higher Education: An Examination of Collegiate Athletics Student Aid"
     },
+    "doi:10.1080/15309576.2026.2723015": {
+      "batch_id": "2026-09-03-73257f4db9703c6b",
+      "doi": "10.1080/15309576.2026.2723015",
+      "journal": "Public Performance & Management Review",
+      "publication_date": "2026-09-02",
+      "sent_at": "2026-09-03T15:05:53.210352+00:00",
+      "title": "Fiscal Competition, Intergovernmental Transfer, and Local Debt Management"
+    },
     "doi:10.1086/743456": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
       "doi": "10.1086/743456",
@@ -808,6 +832,14 @@
       "sent_at": "2026-08-29T15:41:45.102971+00:00",
       "title": "Disclosing Power Dynamics in Metropolitan Governance: An Analysis of Network Micro‐Mechanisms of Change in an Evolving Inter‐Municipal Network"
     },
+    "doi:10.1111/psj.70159": {
+      "batch_id": "2026-09-03-73257f4db9703c6b",
+      "doi": "10.1111/psj.70159",
+      "journal": "Policy Studies Journal",
+      "publication_date": "2026-09-03",
+      "sent_at": "2026-09-03T15:05:53.210352+00:00",
+      "title": "From Policy Legitimization to Blame Avoidance—Discursive Strategies During Denmark's Mink Culling Crisis"
+    },
     "doi:10.1111/puar.70165": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1111/puar.70165",
@@ -1071,6 +1103,22 @@
       "publication_date": "2026-08-20",
       "sent_at": "2026-08-21T11:42:27.574271+00:00",
       "title": "Partisanship, Public Service Values, and Public Service Recognition Week Proclamations"
+    },
+    "doi:10.1177/02750740261481775": {
+      "batch_id": "2026-09-03-73257f4db9703c6b",
+      "doi": "10.1177/02750740261481775",
+      "journal": "The American Review of Public Administration",
+      "publication_date": "2026-09-02",
+      "sent_at": "2026-09-03T15:05:53.210352+00:00",
+      "title": "Why Government Turns to AI – What Citizens Believe and How it Matters. Survey Evidence from Germany and the Netherlands"
+    },
+    "doi:10.1177/02750740261481818": {
+      "batch_id": "2026-09-03-73257f4db9703c6b",
+      "doi": "10.1177/02750740261481818",
+      "journal": "The American Review of Public Administration",
+      "publication_date": "2026-09-02",
+      "sent_at": "2026-09-03T15:05:53.210352+00:00",
+      "title": "Culture as Administrative Infrastructure: Crisis Governance and Community Recovery After the Maui Wildfires"
     },
     "doi:10.1177/0734371x261478777": {
       "batch_id": "2026-08-31-16eaf574577d5f58",
@@ -5585,7 +5633,8 @@
           "url": "https://doi.org/10.1177/02750740261481775"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-03T15:05:53.210352+00:00",
+      "status": "sent"
     }
   },
   "pending": {
