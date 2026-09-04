@@ -144,6 +144,14 @@
       "sent_at": "2026-09-02T15:13:16.383214+00:00",
       "title": "AI ambivalence and digital civic engagement: Dual pathways of hindrance and capability development"
     },
+    "doi:10.1017/pan.2026.10055": {
+      "batch_id": "2026-09-04-c54d468a72806a69",
+      "doi": "10.1017/pan.2026.10055",
+      "journal": "Political Analysis",
+      "publication_date": "2026-09-04",
+      "sent_at": "2026-09-04T15:02:29.455389+00:00",
+      "title": "Correcting for Nonignorable Nonresponse Bias in Ordinal Observational Survey Data"
+    },
     "doi:10.1017/s0003055426101841": {
       "batch_id": "2026-09-01-1560b88b8d2d7127",
       "doi": "10.1017/s0003055426101841",
@@ -951,6 +959,14 @@
       "publication_date": "2026-08-21",
       "sent_at": "2026-08-22T11:35:25.886255+00:00",
       "title": "Tax Mobilization in Africa: Is the Secret Hidden in Women's Political Empowerment?"
+    },
+    "doi:10.1111/puar.70189": {
+      "batch_id": "2026-09-04-c54d468a72806a69",
+      "doi": "10.1111/puar.70189",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-09-03",
+      "sent_at": "2026-09-04T15:02:29.455389+00:00",
+      "title": "The Practice and Origins of Performance Measurement: Assessing the Sunnyvale Model, 1984–2023"
     },
     "doi:10.1111/puar.70190": {
       "batch_id": "2026-08-22-8b3eefaefaf6f8e2",
@@ -5692,7 +5708,8 @@
           "url": "https://doi.org/10.1111/puar.70189"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-04T15:02:29.455389+00:00",
+      "status": "sent"
     }
   },
   "pending": {
