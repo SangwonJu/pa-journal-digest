@@ -5635,6 +5635,64 @@
       ],
       "sent_at": "2026-09-03T15:05:53.210352+00:00",
       "status": "sent"
+    },
+    "2026-09-04-c54d468a72806a69": {
+      "created_at": "2026-09-04T14:56:47.174803+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-04-c54d468a72806a69",
+      "items": [
+        {
+          "author_affiliations": {
+            "Ivan Sutóris": [
+              "National Bank of Slovakia"
+            ],
+            "Jozef Michal Mintal": [
+              "Matej Bel University in Banská Bystrica"
+            ],
+            "Lukáš Lafférs": [
+              "Matej Bel University in Banská Bystrica",
+              "Norwegian School of Economics"
+            ]
+          },
+          "authors": [
+            "Lukáš Lafférs",
+            "Jozef Michal Mintal",
+            "Ivan Sutóris"
+          ],
+          "doi": "10.1017/pan.2026.10055",
+          "journal": "Political Analysis",
+          "journal_short": "PolAnalysis",
+          "publication_date": "2026-09-04",
+          "stable_id": "doi:10.1017/pan.2026.10055",
+          "title": "Correcting for Nonignorable Nonresponse Bias in Ordinal Observational Survey Data",
+          "url": "https://doi.org/10.1017/pan.2026.10055"
+        },
+        {
+          "author_affiliations": {
+            "Daniel E. Ho": [
+              "Stanford Law School Stanford California USA"
+            ],
+            "Derek Ouyang": [
+              "Stanford Law School Stanford California USA"
+            ],
+            "Joyce Kasing Tagal": [
+              "Stanford Law School Stanford California USA"
+            ]
+          },
+          "authors": [
+            "Joyce Kasing Tagal",
+            "Derek Ouyang",
+            "Daniel E. Ho"
+          ],
+          "doi": "10.1111/puar.70189",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "publication_date": "2026-09-03",
+          "stable_id": "doi:10.1111/puar.70189",
+          "title": "The Practice and Origins of Performance Measurement: Assessing the Sunnyvale Model, 1984–2023",
+          "url": "https://doi.org/10.1111/puar.70189"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -5657,12 +5715,25 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
+      "last_checked_at": "2026-09-04T14:56:47.174803+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
       "item": {
-        "author_affiliations": {},
+        "author_affiliations": {
+          "Andrew Guess": [
+            "Princeton Public Schools"
+          ],
+          "JungHwan Yang": [
+            "University of Illinois Urbana-Champaign"
+          ],
+          "Pablo Barberá": [
+            "University of Southern California"
+          ],
+          "Simon Munzert": [
+            "Hertie School"
+          ]
+        },
         "authors": [
           "Pablo Barberá",
           "Andrew Guess",
@@ -5677,7 +5748,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
+      "last_checked_at": "2026-09-04T14:56:47.174803+00:00"
     },
     "doi:10.1016/j.giq.2026.102159": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5702,7 +5773,7 @@
         "title": "Narrating the AI Act: Policy narratives on artificial intelligence, their construction, and evolution within the European Parliament",
         "url": "https://doi.org/10.1016/j.giq.2026.102159"
       },
-      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
+      "last_checked_at": "2026-09-04T14:56:47.174803+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5743,7 +5814,32 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
+      "last_checked_at": "2026-09-04T14:56:47.174803+00:00"
+    },
+    "doi:10.1016/j.giq.2026.102163": {
+      "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
+      "item": {
+        "author_affiliations": {
+          "Marijn Janssen": [
+            "Delft University of Technology"
+          ],
+          "Yiwei Gong": [
+            "Wuhan University"
+          ]
+        },
+        "authors": [
+          "Yiwei Gong",
+          "Marijn Janssen"
+        ],
+        "doi": "10.1016/j.giq.2026.102163",
+        "journal": "Government Information Quarterly",
+        "journal_short": "GIQ",
+        "publication_date": "2026-09-01",
+        "stable_id": "doi:10.1016/j.giq.2026.102163",
+        "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
+        "url": "https://doi.org/10.1016/j.giq.2026.102163"
+      },
+      "last_checked_at": "2026-09-04T14:56:47.174803+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5761,7 +5857,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
+      "last_checked_at": "2026-09-04T14:56:47.174803+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5779,7 +5875,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
+      "last_checked_at": "2026-09-04T14:56:47.174803+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5801,7 +5897,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
+      "last_checked_at": "2026-09-04T14:56:47.174803+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -5821,7 +5917,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
+      "last_checked_at": "2026-09-04T14:56:47.174803+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -5838,7 +5934,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
+      "last_checked_at": "2026-09-04T14:56:47.174803+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -5859,7 +5955,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
+      "last_checked_at": "2026-09-04T14:56:47.174803+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -5874,7 +5970,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
+      "last_checked_at": "2026-09-04T14:56:47.174803+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -5895,7 +5991,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
+      "last_checked_at": "2026-09-04T14:56:47.174803+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -5910,7 +6006,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
+      "last_checked_at": "2026-09-04T14:56:47.174803+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -5925,7 +6021,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
+      "last_checked_at": "2026-09-04T14:56:47.174803+00:00"
     },
     "doi:10.1111/puar.70194": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -5940,7 +6036,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/puar.70194"
       },
-      "last_checked_at": "2026-09-03T14:59:12.974699+00:00"
+      "last_checked_at": "2026-09-04T14:56:47.174803+00:00"
     }
   },
   "version": 1
