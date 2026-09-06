@@ -480,6 +480,14 @@
       "sent_at": "2026-09-03T15:05:53.210352+00:00",
       "title": "Fiscal Competition, Intergovernmental Transfer, and Local Debt Management"
     },
+    "doi:10.1080/15309576.2026.2728685": {
+      "batch_id": "2026-09-06-44526daab88535cd",
+      "doi": "10.1080/15309576.2026.2728685",
+      "journal": "Public Performance & Management Review",
+      "publication_date": "2026-09-05",
+      "sent_at": "2026-09-06T14:15:18.393371+00:00",
+      "title": "Digital Election Platforms, Administrative Performance, and the Accountability Squeeze: Recentralization by Design in Indonesia’s Regional Elections"
+    },
     "doi:10.1086/743456": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
       "doi": "10.1086/743456",
@@ -5807,7 +5815,8 @@
           "url": "https://doi.org/10.1080/15309576.2026.2728685"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-06T14:15:18.393371+00:00",
+      "status": "sent"
     }
   },
   "pending": {
