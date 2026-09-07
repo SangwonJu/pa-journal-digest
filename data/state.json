@@ -5817,6 +5817,218 @@
       ],
       "sent_at": "2026-09-06T14:15:18.393371+00:00",
       "status": "sent"
+    },
+    "2026-09-07-42a6062e9863389d": {
+      "created_at": "2026-09-07T16:26:29.885339+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-07-42a6062e9863389d",
+      "items": [
+        {
+          "author_affiliations": {
+            "Akhil Jain": [
+              "Indian Institute of Management, Bodh Gaya, Bihar, India"
+            ],
+            "Nidhi Mishra": [
+              "XLRI Xavier School of Management, Jamshedpur, Jharkhand, India"
+            ],
+            "Rajalaxmi Kamath": [
+              "Indian Institute of Management, Bangalore, Karnataka, India"
+            ],
+            "Teena Bharti": [
+              "Indian Institute of Management, Bodh Gaya, Bihar, India"
+            ],
+            "Vinita S. Sahay": [
+              "Indian Institute of Management, Bodh Gaya, Bihar, India"
+            ]
+          },
+          "authors": [
+            "Akhil Jain",
+            "Nidhi Mishra",
+            "Rajalaxmi Kamath",
+            "Vinita S. Sahay",
+            "Teena Bharti"
+          ],
+          "doi": "10.1177/00953997261480074",
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "publication_date": "2026-09-07",
+          "stable_id": "doi:10.1177/00953997261480074",
+          "title": "Understanding Meritocracy: From an Imagination of ‘Ideal’ to Producing ‘Myth’ and Beyond",
+          "url": "https://doi.org/10.1177/00953997261480074"
+        },
+        {
+          "author_affiliations": {
+            "Diana Da In Lee": [
+              "Center for the Study of Democratic Institutions Vanderbilt University Nashville Tennessee USA"
+            ],
+            "Naoki Egami": [
+              "Department of Political Science and Statistics and Data Science Center Massachusetts Institute of Technology Cambridge Massachusetts USA"
+            ]
+          },
+          "authors": [
+            "Naoki Egami",
+            "Diana Da In Lee"
+          ],
+          "doi": "10.1111/ajps.70070",
+          "journal": "American Journal of Political Science",
+          "journal_short": "AJPS",
+          "publication_date": "2026-09-07",
+          "stable_id": "doi:10.1111/ajps.70070",
+          "title": "Designing multi‐site studies for external validity: Site selection via synthetic purposive sampling",
+          "url": "https://doi.org/10.1111/ajps.70070"
+        },
+        {
+          "author_affiliations": {
+            "Chongmyoung Lee": [
+              "California State University at Los Angeles"
+            ]
+          },
+          "authors": [
+            "Chongmyoung Lee"
+          ],
+          "doi": "10.1080/01900692.2026.2711659",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "publication_date": "2026-09-07",
+          "stable_id": "doi:10.1080/01900692.2026.2711659",
+          "title": "Exploring the Associations Between Performance Information Use and Nonprofit Performance: The Mediating Role of Goal Clarity, Developmental Culture, and Organizational Capacity",
+          "url": "https://doi.org/10.1080/01900692.2026.2711659"
+        },
+        {
+          "author_affiliations": {
+            "Jopang Jopang": [
+              "Halu Oleo University"
+            ],
+            "La Ode Muhammad Elwan": [
+              "Halu Oleo University"
+            ],
+            "Rahman Tandi": [
+              "Halu Oleo University"
+            ],
+            "Syamsul Alam": [
+              "Halu Oleo University"
+            ]
+          },
+          "authors": [
+            "Jopang Jopang",
+            "Syamsul Alam",
+            "Rahman Tandi",
+            "La Ode Muhammad Elwan"
+          ],
+          "doi": "10.1080/01900692.2026.2721468",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "publication_date": "2026-09-07",
+          "stable_id": "doi:10.1080/01900692.2026.2721468",
+          "title": "Functionalization Without Instruments: How Local Bureaucrats Make Sense of Unfinished Reform While Managing Public Services",
+          "url": "https://doi.org/10.1080/01900692.2026.2721468"
+        },
+        {
+          "author_affiliations": {
+            "Daniel Zorrilla-Velazquez": [
+              "University of Delaware"
+            ]
+          },
+          "authors": [
+            "Daniel Zorrilla-Velazquez"
+          ],
+          "doi": "10.1080/01900692.2026.2720109",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "publication_date": "2026-09-07",
+          "stable_id": "doi:10.1080/01900692.2026.2720109",
+          "title": "NGO Selection in a Marketized Foreign Aid System: Evidence from USAID Contracts",
+          "url": "https://doi.org/10.1080/01900692.2026.2720109"
+        },
+        {
+          "author_affiliations": {
+            "Arturo Luna Cancino": [
+              "División de Administración Pública Centro de Investigación y Docencia Económicas Ciudad de México Mexico"
+            ],
+            "Javier Reyes‐Martínez": [
+              "División de Administración Pública Centro de Investigación y Docencia Económicas (Región Centro) Aguascalientes Mexico"
+            ]
+          },
+          "authors": [
+            "Arturo Luna Cancino",
+            "Javier Reyes‐Martínez"
+          ],
+          "doi": "10.1111/psj.70153",
+          "journal": "Policy Studies Journal",
+          "journal_short": "PSJ",
+          "publication_date": "2026-09-07",
+          "stable_id": "doi:10.1111/psj.70153",
+          "title": "Ethnoracial Characteristics and Police Abuse Within Mexico's Criminal Justice System",
+          "url": "https://doi.org/10.1111/psj.70153"
+        },
+        {
+          "author_affiliations": {
+            "Ben Kizel": [
+              "University of Haifa Haifa Israel"
+            ],
+            "Nissim Cohen": [
+              "University of Haifa Haifa Israel"
+            ]
+          },
+          "authors": [
+            "Ben Kizel",
+            "Nissim Cohen"
+          ],
+          "doi": "10.1111/padm.70093",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "publication_date": "2026-09-06",
+          "stable_id": "doi:10.1111/padm.70093",
+          "title": "Policy Entrepreneurs and Policy Change When Politicians Are Absent: The Inclusion of Autistic Individuals in Armed Forces",
+          "url": "https://doi.org/10.1111/padm.70093"
+        },
+        {
+          "author_affiliations": {
+            "Koen Migchelbrink": [
+              "Department of Public Administration and Sociology Erasmus University Rotterdam Rotterdam the Netherlands"
+            ],
+            "Leonie Heres": [
+              "Department of Public Administration and Sociology Erasmus University Rotterdam Rotterdam the Netherlands"
+            ],
+            "Manon Koopman": [
+              "Department of Public Administration and Sociology Erasmus University Rotterdam Rotterdam the Netherlands"
+            ]
+          },
+          "authors": [
+            "Manon Koopman",
+            "Koen Migchelbrink",
+            "Leonie Heres"
+          ],
+          "doi": "10.1111/puar.70197",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "publication_date": "2026-09-06",
+          "stable_id": "doi:10.1111/puar.70197",
+          "title": "Why Politicians Misbehave: A Systematic Review of How Attributes of Political Office Affect Moral Decision‐Making and Behavior",
+          "url": "https://doi.org/10.1111/puar.70197"
+        },
+        {
+          "author_affiliations": {
+            "Mariannunziata Liguori": [
+              "Durham University Business School"
+            ],
+            "Noel Hyndman": [
+              "Queen’s University"
+            ]
+          },
+          "authors": [
+            "Noel Hyndman",
+            "Mariannunziata Liguori"
+          ],
+          "doi": "10.1080/14719037.2026.2725795",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "publication_date": "2026-09-07",
+          "stable_id": "doi:10.1080/14719037.2026.2725795",
+          "title": "Performance-measurement systems as actors and boundary objects: a sociomaterial perspective to the provision of prison services",
+          "url": "https://doi.org/10.1080/14719037.2026.2725795"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -5839,7 +6051,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-06T14:09:31.527460+00:00"
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
@@ -5872,7 +6084,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-06T14:09:31.527460+00:00"
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
     },
     "doi:10.1016/j.giq.2026.102159": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5897,7 +6109,7 @@
         "title": "Narrating the AI Act: Policy narratives on artificial intelligence, their construction, and evolution within the European Parliament",
         "url": "https://doi.org/10.1016/j.giq.2026.102159"
       },
-      "last_checked_at": "2026-09-06T14:09:31.527460+00:00"
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5938,7 +6150,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-06T14:09:31.527460+00:00"
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -5963,7 +6175,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-09-06T14:09:31.527460+00:00"
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5981,7 +6193,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-06T14:09:31.527460+00:00"
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -5999,7 +6211,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-06T14:09:31.527460+00:00"
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -6021,7 +6233,74 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-06T14:09:31.527460+00:00"
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+    },
+    "doi:10.1080/01900692.2026.2713085": {
+      "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
+      "item": {
+        "author_affiliations": {
+          "Waldemiro Francisco Sorte Junior": [
+            "Government of Brazil"
+          ]
+        },
+        "authors": [
+          "Waldemiro Francisco Sorte Junior"
+        ],
+        "doi": "10.1080/01900692.2026.2713085",
+        "journal": "International Journal of Public Administration",
+        "journal_short": "IJPA",
+        "publication_date": "2026-09-06",
+        "stable_id": "doi:10.1080/01900692.2026.2713085",
+        "title": "Bounded Rationality and Public Policy: From Target Groups’ Behavior to Policymakers’ Constraints",
+        "url": "https://doi.org/10.1080/01900692.2026.2713085"
+      },
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+    },
+    "doi:10.1080/01900692.2026.2725001": {
+      "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
+      "item": {
+        "author_affiliations": {
+          "Rupak Biswas": [
+            "Assam Don Bosco University"
+          ],
+          "Santhosh Juvvaka": [
+            "Maris Stella College (Autonomous)"
+          ]
+        },
+        "authors": [
+          "Santhosh Juvvaka",
+          "Rupak Biswas"
+        ],
+        "doi": "10.1080/01900692.2026.2725001",
+        "journal": "International Journal of Public Administration",
+        "journal_short": "IJPA",
+        "publication_date": "2026-09-06",
+        "stable_id": "doi:10.1080/01900692.2026.2725001",
+        "title": "Connecting Philosophy and Public Administration: Directions of Inquiry—A Review",
+        "url": "https://doi.org/10.1080/01900692.2026.2725001"
+      },
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+    },
+    "doi:10.1080/01900692.2026.2725002": {
+      "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
+      "item": {
+        "author_affiliations": {
+          "Glenn Houtgraaf": [
+            "Erasmus University Rotterdam"
+          ]
+        },
+        "authors": [
+          "Glenn Houtgraaf"
+        ],
+        "doi": "10.1080/01900692.2026.2725002",
+        "journal": "International Journal of Public Administration",
+        "journal_short": "IJPA",
+        "publication_date": "2026-09-07",
+        "stable_id": "doi:10.1080/01900692.2026.2725002",
+        "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
+        "url": "https://doi.org/10.1080/01900692.2026.2725002"
+      },
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -6041,7 +6320,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-06T14:09:31.527460+00:00"
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -6058,7 +6337,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-06T14:09:31.527460+00:00"
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -6079,7 +6358,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-06T14:09:31.527460+00:00"
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -6094,7 +6373,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-06T14:09:31.527460+00:00"
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -6115,7 +6394,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-06T14:09:31.527460+00:00"
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -6130,7 +6409,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-06T14:09:31.527460+00:00"
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -6145,7 +6424,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-06T14:09:31.527460+00:00"
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
     },
     "doi:10.1111/puar.70194": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -6160,7 +6439,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/puar.70194"
       },
-      "last_checked_at": "2026-09-06T14:09:31.527460+00:00"
+      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
     }
   },
   "version": 1
