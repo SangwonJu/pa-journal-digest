@@ -6102,6 +6102,248 @@
       ],
       "sent_at": "2026-09-07T16:33:57.866728+00:00",
       "status": "sent"
+    },
+    "2026-09-08-e7544e09e6522c6c": {
+      "created_at": "2026-09-08T15:05:34.892041+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-08-e7544e09e6522c6c",
+      "items": [
+        {
+          "author_affiliations": {
+            "Waldemiro Francisco Sorte Junior": [
+              "Government of Brazil"
+            ]
+          },
+          "authors": [
+            "Waldemiro Francisco Sorte Junior"
+          ],
+          "doi": "10.1080/01900692.2026.2713085",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "publication_date": "2026-09-06",
+          "stable_id": "doi:10.1080/01900692.2026.2713085",
+          "title": "Bounded Rationality and Public Policy: From Target Groups’ Behavior to Policymakers’ Constraints",
+          "url": "https://doi.org/10.1080/01900692.2026.2713085"
+        },
+        {
+          "author_affiliations": {
+            "Rupak Biswas": [
+              "Assam Don Bosco University"
+            ],
+            "Santhosh Juvvaka": [
+              "Maris Stella College (Autonomous)"
+            ]
+          },
+          "authors": [
+            "Santhosh Juvvaka",
+            "Rupak Biswas"
+          ],
+          "doi": "10.1080/01900692.2026.2725001",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "publication_date": "2026-09-06",
+          "stable_id": "doi:10.1080/01900692.2026.2725001",
+          "title": "Connecting Philosophy and Public Administration: Directions of Inquiry—A Review",
+          "url": "https://doi.org/10.1080/01900692.2026.2725001"
+        },
+        {
+          "author_affiliations": {
+            "Ujwal Shankar": [
+              "BML Munjal University"
+            ],
+            "Vedant Kaul": [
+              "XLRI Xavier School of Management"
+            ]
+          },
+          "authors": [
+            "Vedant Kaul",
+            "Ujwal Shankar"
+          ],
+          "doi": "10.1080/01900692.2026.2690431",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "publication_date": "2026-09-07",
+          "stable_id": "doi:10.1080/01900692.2026.2690431",
+          "title": "Accountability in Public Administration: A Review and Conceptual Integration",
+          "url": "https://doi.org/10.1080/01900692.2026.2690431"
+        },
+        {
+          "author_affiliations": {
+            "Seunghyun Kim": [
+              "Sungkyunkwan University Associate Professor, School of Global Leader/ Graduate School of Governance, ,25-2, Seonggyungwan-ro, Jongno-gu, Seoul, South"
+            ]
+          },
+          "authors": [
+            "Seunghyun Kim"
+          ],
+          "doi": "10.1093/jopart/muag028",
+          "journal": "Journal of Public Administration Research and Theory",
+          "journal_short": "JPART",
+          "publication_date": "2026-09-08",
+          "stable_id": "doi:10.1093/jopart/muag028",
+          "title": "A Model of Agency Behavior in Participatory Budgeting: A Resource Dependence Perspective",
+          "url": "https://doi.org/10.1093/jopart/muag028"
+        },
+        {
+          "author_affiliations": {
+            "Ling Zhu": [
+              "Department of Political Science University of Houston Houston Texas USA"
+            ],
+            "Ping Xu": [
+              "Department of Political Science University of Rhode Island Kingston Rhode Island USA"
+            ],
+            "Sebastian Ege": [
+              "Department of Political Science University of Houston Houston Texas USA"
+            ]
+          },
+          "authors": [
+            "Ping Xu",
+            "Ling Zhu",
+            "Sebastian Ege"
+          ],
+          "doi": "10.1111/psj.70156",
+          "journal": "Policy Studies Journal",
+          "journal_short": "PSJ",
+          "publication_date": "2026-09-07",
+          "stable_id": "doi:10.1111/psj.70156",
+          "title": "Evolving Contexts and Diverging Strategies: Federalism and the Politics of Immigrant Welfare Exclusion in the US",
+          "url": "https://doi.org/10.1111/psj.70156"
+        },
+        {
+          "author_affiliations": {
+            "Xue‐Fei Yan": [
+              "Computational Communication Collaboratory, School of Journalism and Communication Nanjing University Nanjing China"
+            ],
+            "Zhihao Ma": [
+              "Computational Communication Collaboratory, School of Journalism and Communication Nanjing University Nanjing China"
+            ]
+          },
+          "authors": [
+            "Xue‐Fei Yan",
+            "Zhihao Ma"
+          ],
+          "doi": "10.1111/pops.70191",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "publication_date": "2026-09-08",
+          "stable_id": "doi:10.1111/pops.70191",
+          "title": "Revisiting the SciPop Scale: Measurement alignment, scoring rules, and cross‐context comparability",
+          "url": "https://doi.org/10.1111/pops.70191"
+        },
+        {
+          "author_affiliations": {
+            "Fei Fan": [
+              "Economics and Management School, Wuhan University Wuhan China"
+            ],
+            "Song Wang": [
+              "School of Business Administration, Northeastern University Shenyang China"
+            ],
+            "Zhennan Yang": [
+              "School of Business Administration, Northeastern University Shenyang China"
+            ],
+            "Zhuocheng Lu": [
+              "School of Public Policy and Administration, Chongqing University Chongqing China"
+            ]
+          },
+          "authors": [
+            "Zhuocheng Lu",
+            "Fei Fan",
+            "Zhennan Yang",
+            "Song Wang"
+          ],
+          "doi": "10.1111/padm.70090",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "publication_date": "2026-09-07",
+          "stable_id": "doi:10.1111/padm.70090",
+          "title": "How Artificial Intelligence Facilitates Collaborative Governance? Research on Mechanisms and Multi‐Dimensional Effects Based on Triple Entities",
+          "url": "https://doi.org/10.1111/padm.70090"
+        },
+        {
+          "author_affiliations": {
+            "Barbara Maria Piotrowska": [
+              "Department of Political Economy King's College London London UK"
+            ],
+            "Maia King": [
+              "Department of Political Economy King's College London London UK"
+            ],
+            "Rozana Himaz": [
+              "Department of Risk and Disaster Reduction University College London London UK"
+            ],
+            "Ruth Dixon": [
+              "University of Oxford Oxford UK"
+            ]
+          },
+          "authors": [
+            "Ruth Dixon",
+            "Rozana Himaz",
+            "Maia King",
+            "Barbara Maria Piotrowska"
+          ],
+          "doi": "10.1111/padm.70088",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "publication_date": "2026-09-07",
+          "stable_id": "doi:10.1111/padm.70088",
+          "title": "Strategies for Public Administration Research: Insights From the Scholarship of Christopher Hood",
+          "url": "https://doi.org/10.1111/padm.70088"
+        },
+        {
+          "author_affiliations": {
+            "Diep Nguyen": [
+              "The University of Newcastle",
+              "Honours College, University of Economics Ho Chi Minh City, Vietnam"
+            ],
+            "Dinh Cong Khai": [
+              "University of Economics (UEH)"
+            ],
+            "Luu Trong Tuan": [
+              "Sunway University"
+            ],
+            "Nhung Nguyen": [
+              "Northumbria University"
+            ],
+            "Tuyen Nguyen": [
+              "Cai Ngang Public Administrative Service Center"
+            ]
+          },
+          "authors": [
+            "Nhung Nguyen",
+            "Luu Trong Tuan",
+            "Diep Nguyen",
+            "Dinh Cong Khai",
+            "Tuyen Nguyen"
+          ],
+          "doi": "10.1080/14719037.2026.2725793",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "publication_date": "2026-09-07",
+          "stable_id": "doi:10.1080/14719037.2026.2725793",
+          "title": "When tasks feel unjustified: effects of illegitimate tasks on public servants’ citizen-oriented boundary-spanning behaviours",
+          "url": "https://doi.org/10.1080/14719037.2026.2725793"
+        },
+        {
+          "author_affiliations": {
+            "Anne Goldmann": [
+              "Zuse Institute Berlin"
+            ],
+            "Sandra Plümer": [
+              "University of Duisburg-Essen"
+            ]
+          },
+          "authors": [
+            "Anne Goldmann",
+            "Sandra Plümer"
+          ],
+          "doi": "10.1016/j.giq.2026.102159",
+          "journal": "Government Information Quarterly",
+          "journal_short": "GIQ",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1016/j.giq.2026.102159",
+          "title": "Narrating the AI Act: Policy narratives on artificial intelligence, their construction, and evolution within the European Parliament",
+          "url": "https://doi.org/10.1016/j.giq.2026.102159"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -6124,7 +6366,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
@@ -6157,32 +6399,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
-    },
-    "doi:10.1016/j.giq.2026.102159": {
-      "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
-      "item": {
-        "author_affiliations": {
-          "Anne Goldmann": [
-            "Zuse Institute Berlin"
-          ],
-          "Sandra Plümer": [
-            "University of Duisburg-Essen"
-          ]
-        },
-        "authors": [
-          "Anne Goldmann",
-          "Sandra Plümer"
-        ],
-        "doi": "10.1016/j.giq.2026.102159",
-        "journal": "Government Information Quarterly",
-        "journal_short": "GIQ",
-        "publication_date": "2026-09-01",
-        "stable_id": "doi:10.1016/j.giq.2026.102159",
-        "title": "Narrating the AI Act: Policy narratives on artificial intelligence, their construction, and evolution within the European Parliament",
-        "url": "https://doi.org/10.1016/j.giq.2026.102159"
-      },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -6223,7 +6440,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -6248,7 +6465,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -6266,7 +6483,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -6284,7 +6501,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -6306,53 +6523,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
-    },
-    "doi:10.1080/01900692.2026.2713085": {
-      "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
-      "item": {
-        "author_affiliations": {
-          "Waldemiro Francisco Sorte Junior": [
-            "Government of Brazil"
-          ]
-        },
-        "authors": [
-          "Waldemiro Francisco Sorte Junior"
-        ],
-        "doi": "10.1080/01900692.2026.2713085",
-        "journal": "International Journal of Public Administration",
-        "journal_short": "IJPA",
-        "publication_date": "2026-09-06",
-        "stable_id": "doi:10.1080/01900692.2026.2713085",
-        "title": "Bounded Rationality and Public Policy: From Target Groups’ Behavior to Policymakers’ Constraints",
-        "url": "https://doi.org/10.1080/01900692.2026.2713085"
-      },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
-    },
-    "doi:10.1080/01900692.2026.2725001": {
-      "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
-      "item": {
-        "author_affiliations": {
-          "Rupak Biswas": [
-            "Assam Don Bosco University"
-          ],
-          "Santhosh Juvvaka": [
-            "Maris Stella College (Autonomous)"
-          ]
-        },
-        "authors": [
-          "Santhosh Juvvaka",
-          "Rupak Biswas"
-        ],
-        "doi": "10.1080/01900692.2026.2725001",
-        "journal": "International Journal of Public Administration",
-        "journal_short": "IJPA",
-        "publication_date": "2026-09-06",
-        "stable_id": "doi:10.1080/01900692.2026.2725001",
-        "title": "Connecting Philosophy and Public Administration: Directions of Inquiry—A Review",
-        "url": "https://doi.org/10.1080/01900692.2026.2725001"
-      },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -6373,7 +6544,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -6393,7 +6564,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -6410,7 +6581,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -6431,7 +6602,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -6446,7 +6617,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -6467,7 +6638,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -6482,7 +6653,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -6497,7 +6668,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
     },
     "doi:10.1111/puar.70194": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -6512,7 +6683,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/puar.70194"
       },
-      "last_checked_at": "2026-09-07T16:26:29.885339+00:00"
+      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
     }
   },
   "version": 1
