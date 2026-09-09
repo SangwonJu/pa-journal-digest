@@ -6425,6 +6425,71 @@
       ],
       "sent_at": "2026-09-08T15:11:37.619420+00:00",
       "status": "sent"
+    },
+    "2026-09-09-19421c9dfd8ea28a": {
+      "created_at": "2026-09-09T15:06:06.398835+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-09-19421c9dfd8ea28a",
+      "items": [
+        {
+          "author_affiliations": {
+            "Markus Tepe": [
+              "University of Bremen"
+            ],
+            "Saja Aljuneidi-Dückino": [
+              "University of Oldenburg"
+            ],
+            "Sebastian Hemesath": [
+              "University of Bremen"
+            ],
+            "Susanne Boll": [
+              "University of Oldenburg"
+            ]
+          },
+          "authors": [
+            "Sebastian Hemesath",
+            "Markus Tepe",
+            "Saja Aljuneidi-Dückino",
+            "Susanne Boll"
+          ],
+          "doi": "10.1080/01900692.2026.2724993",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "publication_date": "2026-09-08",
+          "stable_id": "doi:10.1080/01900692.2026.2724993",
+          "title": "Let the Machine Impose the Fine! Algorithmic Discretion with Negative Outcomes. Experimental Evidence from Germany",
+          "url": "https://doi.org/10.1080/01900692.2026.2724993"
+        },
+        {
+          "author_affiliations": {
+            "Cheng Chen": [
+              "Huazhong University of Science & Technology"
+            ],
+            "Peng Wen": [
+              "Central China Normal University"
+            ],
+            "Shuwei Zhang": [
+              "Sun Yat-sen University"
+            ],
+            "Yiting Zhang": [
+              "Huazhong University of Science & Technology"
+            ]
+          },
+          "authors": [
+            "Cheng Chen",
+            "Shuwei Zhang",
+            "Peng Wen",
+            "Yiting Zhang"
+          ],
+          "doi": "10.1080/14719037.2026.2729794",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "publication_date": "2026-09-08",
+          "stable_id": "doi:10.1080/14719037.2026.2729794",
+          "title": "A fish rots from the head down: unpacking the trickle-down effect of leaders’ unethical pro-organizational behaviour (UPB) in the Chinese public sector",
+          "url": "https://doi.org/10.1080/14719037.2026.2729794"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -6447,7 +6512,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
+      "last_checked_at": "2026-09-09T15:06:06.398835+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
@@ -6480,7 +6545,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
+      "last_checked_at": "2026-09-09T15:06:06.398835+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -6521,7 +6586,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
+      "last_checked_at": "2026-09-09T15:06:06.398835+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -6546,7 +6611,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
+      "last_checked_at": "2026-09-09T15:06:06.398835+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -6564,7 +6629,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
+      "last_checked_at": "2026-09-09T15:06:06.398835+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -6582,7 +6647,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
+      "last_checked_at": "2026-09-09T15:06:06.398835+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -6604,7 +6669,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
+      "last_checked_at": "2026-09-09T15:06:06.398835+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -6625,7 +6690,40 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
+      "last_checked_at": "2026-09-09T15:06:06.398835+00:00"
+    },
+    "doi:10.1080/10584609.2026.2726266": {
+      "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
+      "item": {
+        "author_affiliations": {
+          "Alexander Coppock": [
+            "Northwestern University"
+          ],
+          "John Murphy": [
+            "University of California"
+          ],
+          "Lynn Vavreck": [
+            "University of California"
+          ],
+          "Seth J. Hill": [
+            "University of California, San Diego"
+          ]
+        },
+        "authors": [
+          "John Murphy",
+          "Alexander Coppock",
+          "Seth J. Hill",
+          "Lynn Vavreck"
+        ],
+        "doi": "10.1080/10584609.2026.2726266",
+        "journal": "Political Communication",
+        "journal_short": "PolComm",
+        "publication_date": "2026-09-09",
+        "stable_id": "doi:10.1080/10584609.2026.2726266",
+        "title": "Do Emotional Ads Persuade? Evidence from Real-Time Campaign Advertising Experiments",
+        "url": "https://doi.org/10.1080/10584609.2026.2726266"
+      },
+      "last_checked_at": "2026-09-09T15:06:06.398835+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -6645,7 +6743,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
+      "last_checked_at": "2026-09-09T15:06:06.398835+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -6662,7 +6760,28 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
+      "last_checked_at": "2026-09-09T15:06:06.398835+00:00"
+    },
+    "doi:10.1086/743970": {
+      "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Antoine Banks",
+          "Eric Groenendyk",
+          "Ja'nae Jackson",
+          "Erik Kimbrough",
+          "Mark Pickup"
+        ],
+        "doi": "10.1086/743970",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-09-08",
+        "stable_id": "doi:10.1086/743970",
+        "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
+        "url": "https://doi.org/10.1086/743970"
+      },
+      "last_checked_at": "2026-09-09T15:06:06.398835+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -6683,7 +6802,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
+      "last_checked_at": "2026-09-09T15:06:06.398835+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -6698,7 +6817,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
+      "last_checked_at": "2026-09-09T15:06:06.398835+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -6719,7 +6838,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
+      "last_checked_at": "2026-09-09T15:06:06.398835+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -6734,7 +6853,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
+      "last_checked_at": "2026-09-09T15:06:06.398835+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -6749,7 +6868,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
+      "last_checked_at": "2026-09-09T15:06:06.398835+00:00"
     },
     "doi:10.1111/puar.70194": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -6764,7 +6883,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/puar.70194"
       },
-      "last_checked_at": "2026-09-08T15:05:34.892041+00:00"
+      "last_checked_at": "2026-09-09T15:06:06.398835+00:00"
     }
   },
   "version": 1
