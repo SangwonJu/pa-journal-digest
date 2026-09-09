@@ -264,6 +264,14 @@
       "sent_at": "2026-08-26T11:45:39.190604+00:00",
       "title": "Implicit-Explicit Incongruence: The Dual Structure of Public Value Preferences in Civil Servants"
     },
+    "doi:10.1080/01900692.2026.2724993": {
+      "batch_id": "2026-09-09-19421c9dfd8ea28a",
+      "doi": "10.1080/01900692.2026.2724993",
+      "journal": "International Journal of Public Administration",
+      "publication_date": "2026-09-08",
+      "sent_at": "2026-09-09T15:12:46.922297+00:00",
+      "title": "Let the Machine Impose the Fine! Algorithmic Discretion with Negative Outcomes. Experimental Evidence from Germany"
+    },
     "doi:10.1080/01900692.2026.2725001": {
       "batch_id": "2026-09-08-e7544e09e6522c6c",
       "doi": "10.1080/01900692.2026.2725001",
@@ -503,6 +511,14 @@
       "publication_date": "2026-09-07",
       "sent_at": "2026-09-07T16:33:57.866728+00:00",
       "title": "Performance-measurement systems as actors and boundary objects: a sociomaterial perspective to the provision of prison services"
+    },
+    "doi:10.1080/14719037.2026.2729794": {
+      "batch_id": "2026-09-09-19421c9dfd8ea28a",
+      "doi": "10.1080/14719037.2026.2729794",
+      "journal": "Public Management Review",
+      "publication_date": "2026-09-08",
+      "sent_at": "2026-09-09T15:12:46.922297+00:00",
+      "title": "A fish rots from the head down: unpacking the trickle-down effect of leaders’ unethical pro-organizational behaviour (UPB) in the Chinese public sector"
     },
     "doi:10.1080/15309576.2026.2700771": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -6489,7 +6505,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2729794"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-09T15:12:46.922297+00:00",
+      "status": "sent"
     }
   },
   "pending": {
