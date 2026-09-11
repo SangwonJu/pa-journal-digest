@@ -6802,6 +6802,182 @@
       ],
       "sent_at": "2026-09-10T15:04:47.519495+00:00",
       "status": "sent"
+    },
+    "2026-09-11-d59e1a1aaaa1c7f7": {
+      "created_at": "2026-09-11T14:59:36.836439+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-11-d59e1a1aaaa1c7f7",
+      "items": [
+        {
+          "author_affiliations": {},
+          "authors": [
+            "Mike Farjam",
+            "Hendrik Meyer"
+          ],
+          "doi": "10.1007/s11109-026-10197-w",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "publication_date": "2026-09-11",
+          "stable_id": "doi:10.1007/s11109-026-10197-w",
+          "title": "From Antagonistic Talk to Cooperative Acts: The Effect of Polarization Cues on Newspaper Audiences",
+          "url": "https://doi.org/10.1007/s11109-026-10197-w"
+        },
+        {
+          "author_affiliations": {
+            "Simon Lindgren": [
+              "Umeå University, Director of DIGSUM"
+            ],
+            "Xénia Farkas": [
+              "Umeå University, Umeå, Sweden; Research Fellow at ELTE Centre for Social Sciences"
+            ]
+          },
+          "authors": [
+            "Xénia Farkas",
+            "Simon Lindgren"
+          ],
+          "doi": "10.1080/10584609.2026.2727043",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "publication_date": "2026-09-11",
+          "stable_id": "doi:10.1080/10584609.2026.2727043",
+          "title": "The Language of Democratic Resilience and Decline: A Comparative Study of Politicians’ Communication on Facebook in Sweden and Hungary",
+          "url": "https://doi.org/10.1080/10584609.2026.2727043"
+        },
+        {
+          "author_affiliations": {
+            "Alexander Wilhelm": [
+              "Department of Political Science Purdue University West Lafayette Indiana USA",
+              "School of Government and International Affairs Kennesaw State University Kennesaw Georgia"
+            ],
+            "Daniel S. Schiff": [
+              "Department of Political Science Purdue University West Lafayette Indiana USA"
+            ],
+            "Kaylyn Jackson Schiff": [
+              "Department of Political Science Purdue University West Lafayette Indiana USA"
+            ],
+            "Ogadinma Enwereazu": [
+              "Department of Political Science Purdue University West Lafayette Indiana USA"
+            ],
+            "Tyler Girard": [
+              "Department of Political Science Purdue University West Lafayette Indiana USA"
+            ]
+          },
+          "authors": [
+            "Ogadinma Enwereazu",
+            "Kaylyn Jackson Schiff",
+            "Tyler Girard",
+            "Alexander Wilhelm",
+            "Daniel S. Schiff"
+          ],
+          "doi": "10.1111/padm.70079",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "publication_date": "2026-09-11",
+          "stable_id": "doi:10.1111/padm.70079",
+          "title": "A Public Values Framework for AI Governance: Evidence From US Federal AI Policymaking",
+          "url": "https://doi.org/10.1111/padm.70079"
+        },
+        {
+          "author_affiliations": {
+            "Albert Meijer": [
+              "Utrecht University School of Governance Utrecht the Netherlands"
+            ],
+            "Isabelle Donatz‐Fest": [
+              "Vrije Universiteit Amsterdam Amsterdam the Netherlands"
+            ],
+            "Jan‐Luuk Hoff": [
+              "Productiviteitsraad Den Haag the Netherlands"
+            ],
+            "Lukas Lorenz": [
+              "Pd Berlin Germany"
+            ]
+          },
+          "authors": [
+            "Albert Meijer",
+            "Lukas Lorenz",
+            "Isabelle Donatz‐Fest",
+            "Jan‐Luuk Hoff"
+          ],
+          "doi": "10.1111/padm.70092",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "publication_date": "2026-09-11",
+          "stable_id": "doi:10.1111/padm.70092",
+          "title": "Responsible Algorithmization in the Public Sector: A “Natural Perspective” Based on Ethnographic Research in Regulation, Policing, and Healthcare",
+          "url": "https://doi.org/10.1111/padm.70092"
+        },
+        {
+          "author_affiliations": {
+            "Antonio D. R. E. Caluz": [
+              "School of Economics, Business and Accounting of Ribeirão Preto (FEA‐RP), Universidade de São Paulo (USP) Ribeirão Preto São Paulo Brazil"
+            ],
+            "Fernando D. Domingos": [
+              "Sao Paulo School of Business Administration, Fundação Getulio Vargas (FGV EAESP) São Paulo São Paulo Brazil"
+            ],
+            "Michael Gibson": [
+              "Government Outcomes Lab (GOLab), Blavatnik School of Government, University of Oxford Oxford UK"
+            ],
+            "Vinícius M. Magnani": [
+              "School of Economics, Business and Accounting of Ribeirão Preto (FEA‐RP), Universidade de São Paulo (USP) Ribeirão Preto São Paulo Brazil"
+            ]
+          },
+          "authors": [
+            "Fernando D. Domingos",
+            "Antonio D. R. E. Caluz",
+            "Michael Gibson",
+            "Vinícius M. Magnani"
+          ],
+          "doi": "10.1111/puar.70193",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "publication_date": "2026-09-10",
+          "stable_id": "doi:10.1111/puar.70193",
+          "title": "Investor Orientation and Commitment in Outcomes‐Based Public Service Contracts",
+          "url": "https://doi.org/10.1111/puar.70193"
+        },
+        {
+          "author_affiliations": {
+            "Christopher Claassen": [
+              "Professor of Political Behaviour, School of Social and Political Sciences, University of Glasgow , Glasgow,"
+            ]
+          },
+          "authors": [
+            "Christopher Claassen"
+          ],
+          "doi": "10.1093/poq/nfag066",
+          "journal": "Public Opinion Quarterly",
+          "journal_short": "POQ",
+          "publication_date": "2026-09-11",
+          "stable_id": "doi:10.1093/poq/nfag066",
+          "title": "Voting for Democracy? Testing Political-Cultural Constraints on Democratic Backsliding",
+          "url": "https://doi.org/10.1093/poq/nfag066"
+        },
+        {
+          "author_affiliations": {
+            "Ann-Kristina Løkke": [
+              "Aarhus University, Denmark"
+            ],
+            "Daniel Skov Gregersen": [
+              "Aarhus University, Denmark"
+            ],
+            "Lotte Bøgh Andersen": [
+              "Aarhus University, Denmark"
+            ]
+          },
+          "authors": [
+            "Ann-Kristina Løkke",
+            "Daniel Skov Gregersen",
+            "Lotte Bøgh Andersen"
+          ],
+          "doi": "10.1177/0734371x261479231",
+          "journal": "Review of Public Personnel Administration",
+          "journal_short": "ROPPA",
+          "publication_date": "2026-09-10",
+          "stable_id": "doi:10.1177/0734371x261479231",
+          "title": "Absenteeism and Presenteeism in Times of Change: The Role of Stress and Job Satisfaction",
+          "url": "https://doi.org/10.1177/0734371x261479231"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -6824,7 +7000,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-10T14:58:26.685486+00:00"
+      "last_checked_at": "2026-09-11T14:59:36.836439+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
@@ -6857,7 +7033,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-10T14:58:26.685486+00:00"
+      "last_checked_at": "2026-09-11T14:59:36.836439+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -6898,7 +7074,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-10T14:58:26.685486+00:00"
+      "last_checked_at": "2026-09-11T14:59:36.836439+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -6923,7 +7099,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-09-10T14:58:26.685486+00:00"
+      "last_checked_at": "2026-09-11T14:59:36.836439+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -6941,7 +7117,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-10T14:58:26.685486+00:00"
+      "last_checked_at": "2026-09-11T14:59:36.836439+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -6959,7 +7135,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-10T14:58:26.685486+00:00"
+      "last_checked_at": "2026-09-11T14:59:36.836439+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -6981,7 +7157,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-10T14:58:26.685486+00:00"
+      "last_checked_at": "2026-09-11T14:59:36.836439+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -7002,7 +7178,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-09-10T14:58:26.685486+00:00"
+      "last_checked_at": "2026-09-11T14:59:36.836439+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -7022,7 +7198,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-10T14:58:26.685486+00:00"
+      "last_checked_at": "2026-09-11T14:59:36.836439+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -7039,7 +7215,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-10T14:58:26.685486+00:00"
+      "last_checked_at": "2026-09-11T14:59:36.836439+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -7060,7 +7236,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-09-10T14:58:26.685486+00:00"
+      "last_checked_at": "2026-09-11T14:59:36.836439+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -7081,7 +7257,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-10T14:58:26.685486+00:00"
+      "last_checked_at": "2026-09-11T14:59:36.836439+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -7096,7 +7272,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-10T14:58:26.685486+00:00"
+      "last_checked_at": "2026-09-11T14:59:36.836439+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -7117,7 +7293,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-10T14:58:26.685486+00:00"
+      "last_checked_at": "2026-09-11T14:59:36.836439+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -7132,7 +7308,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-10T14:58:26.685486+00:00"
+      "last_checked_at": "2026-09-11T14:59:36.836439+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -7147,7 +7323,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-10T14:58:26.685486+00:00"
+      "last_checked_at": "2026-09-11T14:59:36.836439+00:00"
     },
     "doi:10.1111/puar.70194": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -7162,7 +7338,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/puar.70194"
       },
-      "last_checked_at": "2026-09-10T14:58:26.685486+00:00"
+      "last_checked_at": "2026-09-11T14:59:36.836439+00:00"
     }
   },
   "version": 1
