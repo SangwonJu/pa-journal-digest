@@ -2,11 +2,11 @@ name: Daily PA Journal Digest
 
 on:
   schedule:
-    - cron: "15 7 * * *"
+    - cron: "15 5 * * *"
       timezone: "America/New_York"
-    - cron: "35 7 * * *"
+    - cron: "35 5 * * *"
       timezone: "America/New_York"
-    - cron: "55 7 * * *"
+    - cron: "55 5 * * *"
       timezone: "America/New_York"
   workflow_dispatch:
     inputs:
@@ -31,7 +31,7 @@ permissions:
 
 concurrency:
   group: pa-journal-digest-delivery
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   digest:
