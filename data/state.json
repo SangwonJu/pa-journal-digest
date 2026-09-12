@@ -440,6 +440,14 @@
       "sent_at": "2026-09-11T15:06:24.604470+00:00",
       "title": "The Language of Democratic Resilience and Decline: A Comparative Study of Politicians’ Communication on Facebook in Sweden and Hungary"
     },
+    "doi:10.1080/10967494.2026.2691398": {
+      "batch_id": "2026-09-12-0323b2c4e5631bf0",
+      "doi": "10.1080/10967494.2026.2691398",
+      "journal": "International Public Management Journal",
+      "publication_date": "2026-09-11",
+      "sent_at": "2026-09-12T14:13:26.103681+00:00",
+      "title": "When police officers surrender: the effect of citizen incivility on withdrawal and turnover"
+    },
     "doi:10.1080/10967494.2026.2701849": {
       "batch_id": "2026-08-20-bc528655b9ef5ca7",
       "doi": "10.1080/10967494.2026.2701849",
@@ -447,6 +455,22 @@
       "publication_date": "2026-08-19",
       "sent_at": "2026-08-20T11:42:07.652953+00:00",
       "title": "Managers as message makers: a conjoint experiment on information framing and citizen support for local sales tax referenda"
+    },
+    "doi:10.1080/10967494.2026.2711773": {
+      "batch_id": "2026-09-12-0323b2c4e5631bf0",
+      "doi": "10.1080/10967494.2026.2711773",
+      "journal": "International Public Management Journal",
+      "publication_date": "2026-09-11",
+      "sent_at": "2026-09-12T14:13:26.103681+00:00",
+      "title": "How and When Does Negative Beneficiary Contact Relate to Service Behaviors? Unpacking the Roles of Prosocial Impact and Service-Oriented High-Performance Work Systems in Public Healthcare"
+    },
+    "doi:10.1080/10967494.2026.2712553": {
+      "batch_id": "2026-09-12-0323b2c4e5631bf0",
+      "doi": "10.1080/10967494.2026.2712553",
+      "journal": "International Public Management Journal",
+      "publication_date": "2026-09-11",
+      "sent_at": "2026-09-12T14:13:26.103681+00:00",
+      "title": "Collaborative platforms in digital government: structural and cultural barriers to coordination"
     },
     "doi:10.1080/14719037.2026.2708842": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
@@ -623,6 +647,14 @@
       "publication_date": "2026-09-05",
       "sent_at": "2026-09-06T14:15:18.393371+00:00",
       "title": "Digital Election Platforms, Administrative Performance, and the Accountability Squeeze: Recentralization by Design in Indonesia’s Regional Elections"
+    },
+    "doi:10.1080/15309576.2026.2730054": {
+      "batch_id": "2026-09-12-0323b2c4e5631bf0",
+      "doi": "10.1080/15309576.2026.2730054",
+      "journal": "Public Performance & Management Review",
+      "publication_date": "2026-09-11",
+      "sent_at": "2026-09-12T14:13:26.103681+00:00",
+      "title": "Performance Feedback and Strategic Reporting—Evidence from China’s Government Work Report"
     },
     "doi:10.1086/743456": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
@@ -960,6 +992,14 @@
       "sent_at": "2026-09-08T15:11:37.619420+00:00",
       "title": "How Artificial Intelligence Facilitates Collaborative Governance? Research on Mechanisms and Multi‐Dimensional Effects Based on Triple Entities"
     },
+    "doi:10.1111/padm.70091": {
+      "batch_id": "2026-09-12-0323b2c4e5631bf0",
+      "doi": "10.1111/padm.70091",
+      "journal": "Public Administration",
+      "publication_date": "2026-09-11",
+      "sent_at": "2026-09-12T14:13:26.103681+00:00",
+      "title": "Inspired to Serve: Exposure to Moral Models to Enhance Public Service Motivation"
+    },
     "doi:10.1111/padm.70092": {
       "batch_id": "2026-09-11-d59e1a1aaaa1c7f7",
       "doi": "10.1111/padm.70092",
@@ -1055,6 +1095,14 @@
       "publication_date": "2026-09-10",
       "sent_at": "2026-09-10T15:04:47.519495+00:00",
       "title": "Working hard to belong: Meritocratic ideology and deportation sentiments among Latino and Asian Americans"
+    },
+    "doi:10.1111/pops.70194": {
+      "batch_id": "2026-09-12-0323b2c4e5631bf0",
+      "doi": "10.1111/pops.70194",
+      "journal": "Political Psychology",
+      "publication_date": "2026-09-12",
+      "sent_at": "2026-09-12T14:13:26.103681+00:00",
+      "title": "Partisans misperceive and are influenced by dynamic norms"
     },
     "doi:10.1111/psj.70144": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -1295,6 +1343,14 @@
       "publication_date": "2026-09-06",
       "sent_at": "2026-09-07T16:33:57.866728+00:00",
       "title": "Why Politicians Misbehave: A Systematic Review of How Attributes of Political Office Affect Moral Decision‐Making and Behavior"
+    },
+    "doi:10.1111/puar.70200": {
+      "batch_id": "2026-09-12-0323b2c4e5631bf0",
+      "doi": "10.1111/puar.70200",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-09-11",
+      "sent_at": "2026-09-12T14:13:26.103681+00:00",
+      "title": "The “Professional Mortality” Problem in Early City Management: A Study of Organized Denial"
     },
     "doi:10.1177/00953997261467698": {
       "batch_id": "2026-08-17-92d20fbd959228aa",
@@ -7204,7 +7260,8 @@
           "url": "https://doi.org/10.1080/15309576.2026.2730054"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-12T14:13:26.103681+00:00",
+      "status": "sent"
     }
   },
   "pending": {
