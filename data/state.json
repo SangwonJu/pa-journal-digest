@@ -7377,6 +7377,96 @@
       ],
       "sent_at": "2026-09-13T14:29:14.342311+00:00",
       "status": "sent"
+    },
+    "2026-09-13-235569b078597a77-resend-20260913T211034Z": {
+      "created_at": "2026-09-13T21:10:34.966686+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-13-235569b078597a77-resend-20260913T211034Z",
+      "items": [
+        {
+          "author_affiliations": {
+            "Andrew Sullivan": [
+              "University of Central Florida"
+            ],
+            "Lingwei Cheng": [
+              "University of Central Florida"
+            ],
+            "Saerim Kim": [
+              "Suffolk University"
+            ]
+          },
+          "authors": [
+            "Lingwei Cheng",
+            "Saerim Kim",
+            "Andrew Sullivan"
+          ],
+          "doi": "10.1080/01900692.2026.2725004",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "publication_date": "2026-09-12",
+          "stable_id": "doi:10.1080/01900692.2026.2725004",
+          "title": "Data-Driven Collaboration in Mandated Networks: US Homelessness Services",
+          "url": "https://doi.org/10.1080/01900692.2026.2725004"
+        },
+        {
+          "author_affiliations": {
+            "Bert George": [
+              "City University of Hong Kong"
+            ],
+            "Ellen van Bueren": [
+              "Delft University of Technology"
+            ],
+            "Rowie Huijbregts": [
+              "Tilburg University",
+              "TNO"
+            ],
+            "Wouter Jan Verheul": [
+              "Delft University of Technology",
+              "Arcadis"
+            ]
+          },
+          "authors": [
+            "Rowie Huijbregts",
+            "Ellen van Bueren",
+            "Wouter Jan Verheul",
+            "Bert George"
+          ],
+          "doi": "10.1080/10967494.2026.2711769",
+          "journal": "International Public Management Journal",
+          "journal_short": "IPMJ",
+          "publication_date": "2026-09-11",
+          "stable_id": "doi:10.1080/10967494.2026.2711769",
+          "title": "How context and tensions shape public values assessment: findings from a case study of a Dutch agency",
+          "url": "https://doi.org/10.1080/10967494.2026.2711769"
+        },
+        {
+          "author_affiliations": {
+            "Kenneth J Meier": [
+              "American University",
+              "Cardiff University",
+              "Leiden University"
+            ],
+            "Seung-Ho An": [
+              "University of Arizona"
+            ],
+            "Suyeon Jo": [
+              "University of Arizona"
+            ]
+          },
+          "authors": [
+            "Seung-Ho An",
+            "Suyeon Jo",
+            "Kenneth J Meier"
+          ],
+          "doi": "10.1080/10967494.2026.2718926",
+          "journal": "International Public Management Journal",
+          "journal_short": "IPMJ",
+          "publication_date": "2026-09-11",
+          "stable_id": "doi:10.1080/10967494.2026.2718926",
+          "title": "Public service equity and stakeholder satisfaction: evidence from 56 countries on how parents, teachers, and students respond to gender gaps in education",
+          "url": "https://doi.org/10.1080/10967494.2026.2718926"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
