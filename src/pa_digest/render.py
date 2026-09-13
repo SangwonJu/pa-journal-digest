@@ -8,7 +8,13 @@ from .config import JOURNAL_RANK, JOURNAL_TIER
 from .models import Article
 
 
-FONT_STACK = "'Times New Roman', Times, serif"
+# Noto Sans KR is an open-source family with Korean and Latin glyphs designed
+# together. The system fallbacks keep the email readable where web fonts are
+# blocked, which is common in Gmail and Outlook.
+FONT_STACK = (
+    "'Noto Sans KR', 'Pretendard', 'Apple SD Gothic Neo', "
+    "'Malgun Gothic', 'Helvetica Neue', Arial, sans-serif"
+)
 
 # A restrained white editorial palette.  The tint differences preserve hierarchy
 # in email clients without returning to the former blue-and-gold treatment.
@@ -190,7 +196,7 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
   table {{ border-collapse:collapse !important; }}
   @media only screen and (max-width:940px) {{ .digest-shell {{ width:100% !important; }} .digest-pad {{ padding:12px 8px !important; }} .content-pad {{ padding-left:20px !important; padding-right:20px !important; }} }}
 </style>
-<!--[if mso]><style>body,table,td,a,h1,h2,h3,div,span {{font-family:'Times New Roman',Times,serif !important;}}</style><![endif]-->
+<!--[if mso]><style>body,table,td,a,h1,h2,h3,div,span {{font-family:'Malgun Gothic',Arial,sans-serif !important;}}</style><![endif]-->
 </head><body style="width:100%;margin:0;padding:0;background:{PAPER};font-family:{FONT_STACK};font-size:16px;line-height:1.65;color:{INK};text-align:left;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%">
 <div style="display:none;max-height:0;overflow:hidden">최근 행정학 탑저널 신규 논문 {count}편</div>
 <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%;background:{PAPER}"><tr><td align="center" class="digest-pad" style="padding:28px 12px">

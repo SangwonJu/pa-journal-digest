@@ -27,7 +27,8 @@ def test_render_includes_escaped_content_and_fallback_notice() -> None:
     assert "Abstract unavailable" in html
     assert "제목 기준" in text
     assert "Example University" in html
-    assert "Times New Roman" in html
+    assert "Noto Sans KR" in html
+    assert "Malgun Gothic" in html
     assert "background:#f6f4ef" in html
     assert "background:#fffefa" in html
     assert "border-top:5px solid #c6c0b4" in html
