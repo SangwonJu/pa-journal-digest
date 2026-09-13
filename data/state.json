@@ -7262,6 +7262,96 @@
       ],
       "sent_at": "2026-09-12T14:13:26.103681+00:00",
       "status": "sent"
+    },
+    "2026-09-13-235569b078597a77": {
+      "created_at": "2026-09-13T14:22:44.543599+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-13-235569b078597a77",
+      "items": [
+        {
+          "author_affiliations": {
+            "Andrew Sullivan": [
+              "University of Central Florida"
+            ],
+            "Lingwei Cheng": [
+              "University of Central Florida"
+            ],
+            "Saerim Kim": [
+              "Suffolk University"
+            ]
+          },
+          "authors": [
+            "Lingwei Cheng",
+            "Saerim Kim",
+            "Andrew Sullivan"
+          ],
+          "doi": "10.1080/01900692.2026.2725004",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "publication_date": "2026-09-12",
+          "stable_id": "doi:10.1080/01900692.2026.2725004",
+          "title": "Data-Driven Collaboration in Mandated Networks: US Homelessness Services",
+          "url": "https://doi.org/10.1080/01900692.2026.2725004"
+        },
+        {
+          "author_affiliations": {
+            "Bert George": [
+              "City University of Hong Kong"
+            ],
+            "Ellen van Bueren": [
+              "Delft University of Technology"
+            ],
+            "Rowie Huijbregts": [
+              "Tilburg University",
+              "TNO"
+            ],
+            "Wouter Jan Verheul": [
+              "Delft University of Technology",
+              "Arcadis"
+            ]
+          },
+          "authors": [
+            "Rowie Huijbregts",
+            "Ellen van Bueren",
+            "Wouter Jan Verheul",
+            "Bert George"
+          ],
+          "doi": "10.1080/10967494.2026.2711769",
+          "journal": "International Public Management Journal",
+          "journal_short": "IPMJ",
+          "publication_date": "2026-09-11",
+          "stable_id": "doi:10.1080/10967494.2026.2711769",
+          "title": "How context and tensions shape public values assessment: findings from a case study of a Dutch agency",
+          "url": "https://doi.org/10.1080/10967494.2026.2711769"
+        },
+        {
+          "author_affiliations": {
+            "Kenneth J Meier": [
+              "American University",
+              "Cardiff University",
+              "Leiden University"
+            ],
+            "Seung-Ho An": [
+              "University of Arizona"
+            ],
+            "Suyeon Jo": [
+              "University of Arizona"
+            ]
+          },
+          "authors": [
+            "Seung-Ho An",
+            "Suyeon Jo",
+            "Kenneth J Meier"
+          ],
+          "doi": "10.1080/10967494.2026.2718926",
+          "journal": "International Public Management Journal",
+          "journal_short": "IPMJ",
+          "publication_date": "2026-09-11",
+          "stable_id": "doi:10.1080/10967494.2026.2718926",
+          "title": "Public service equity and stakeholder satisfaction: evidence from 56 countries on how parents, teachers, and students respond to gender gaps in education",
+          "url": "https://doi.org/10.1080/10967494.2026.2718926"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -7284,7 +7374,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
+      "last_checked_at": "2026-09-13T14:22:44.543599+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
@@ -7317,7 +7407,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
+      "last_checked_at": "2026-09-13T14:22:44.543599+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -7358,7 +7448,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
+      "last_checked_at": "2026-09-13T14:22:44.543599+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -7383,7 +7473,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
+      "last_checked_at": "2026-09-13T14:22:44.543599+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -7401,7 +7491,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
+      "last_checked_at": "2026-09-13T14:22:44.543599+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -7419,7 +7509,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
+      "last_checked_at": "2026-09-13T14:22:44.543599+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -7441,7 +7531,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
+      "last_checked_at": "2026-09-13T14:22:44.543599+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -7462,73 +7552,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
-    },
-    "doi:10.1080/10967494.2026.2711769": {
-      "first_seen_at": "2026-09-12T14:05:54.981117+00:00",
-      "item": {
-        "author_affiliations": {
-          "Bert George": [
-            "City University of Hong Kong"
-          ],
-          "Ellen van Bueren": [
-            "Delft University of Technology"
-          ],
-          "Rowie Huijbregts": [
-            "Tilburg University",
-            "TNO"
-          ],
-          "Wouter Jan Verheul": [
-            "Delft University of Technology",
-            "Arcadis"
-          ]
-        },
-        "authors": [
-          "Rowie Huijbregts",
-          "Ellen van Bueren",
-          "Wouter Jan Verheul",
-          "Bert George"
-        ],
-        "doi": "10.1080/10967494.2026.2711769",
-        "journal": "International Public Management Journal",
-        "journal_short": "IPMJ",
-        "publication_date": "2026-09-11",
-        "stable_id": "doi:10.1080/10967494.2026.2711769",
-        "title": "How context and tensions shape public values assessment: findings from a case study of a Dutch agency",
-        "url": "https://doi.org/10.1080/10967494.2026.2711769"
-      },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
-    },
-    "doi:10.1080/10967494.2026.2718926": {
-      "first_seen_at": "2026-09-12T14:05:54.981117+00:00",
-      "item": {
-        "author_affiliations": {
-          "Kenneth J Meier": [
-            "American University",
-            "Cardiff University",
-            "Leiden University"
-          ],
-          "Seung-Ho An": [
-            "University of Arizona"
-          ],
-          "Suyeon Jo": [
-            "University of Arizona"
-          ]
-        },
-        "authors": [
-          "Seung-Ho An",
-          "Suyeon Jo",
-          "Kenneth J Meier"
-        ],
-        "doi": "10.1080/10967494.2026.2718926",
-        "journal": "International Public Management Journal",
-        "journal_short": "IPMJ",
-        "publication_date": "2026-09-11",
-        "stable_id": "doi:10.1080/10967494.2026.2718926",
-        "title": "Public service equity and stakeholder satisfaction: evidence from 56 countries on how parents, teachers, and students respond to gender gaps in education",
-        "url": "https://doi.org/10.1080/10967494.2026.2718926"
-      },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
+      "last_checked_at": "2026-09-13T14:22:44.543599+00:00"
     },
     "doi:10.1080/14719037.2026.2725790": {
       "first_seen_at": "2026-09-12T14:05:54.981117+00:00",
@@ -7557,7 +7581,7 @@
         "title": "Introducing public management and global sporting mega-events: public value, ecosystems, learning and temporality",
         "url": "https://doi.org/10.1080/14719037.2026.2725790"
       },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
+      "last_checked_at": "2026-09-13T14:22:44.543599+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -7577,7 +7601,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
+      "last_checked_at": "2026-09-13T14:22:44.543599+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -7594,7 +7618,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
+      "last_checked_at": "2026-09-13T14:22:44.543599+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -7615,7 +7639,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
+      "last_checked_at": "2026-09-13T14:22:44.543599+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -7636,7 +7660,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
+      "last_checked_at": "2026-09-13T14:22:44.543599+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -7651,7 +7675,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
+      "last_checked_at": "2026-09-13T14:22:44.543599+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -7672,7 +7696,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
+      "last_checked_at": "2026-09-13T14:22:44.543599+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -7687,7 +7711,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
+      "last_checked_at": "2026-09-13T14:22:44.543599+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -7702,7 +7726,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
+      "last_checked_at": "2026-09-13T14:22:44.543599+00:00"
     },
     "doi:10.1111/puar.70194": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -7717,7 +7741,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/puar.70194"
       },
-      "last_checked_at": "2026-09-12T14:05:54.981117+00:00"
+      "last_checked_at": "2026-09-13T14:22:44.543599+00:00"
     }
   },
   "version": 1
