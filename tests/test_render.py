@@ -28,6 +28,10 @@ def test_render_includes_escaped_content_and_fallback_notice() -> None:
     assert "제목 기준" in text
     assert "Example University" in html
     assert "Times New Roman" in html
+    assert "background:#f6f4ef" in html
+    assert "background:#fffefa" in html
+    assert "border-top:5px solid #c6c0b4" in html
+    assert "#172c42" not in html
     assert "text-align:justify" not in html
     assert "font-size:15px" in html
     assert ">시민·민주성</strong>" in html

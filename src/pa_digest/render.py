@@ -10,6 +10,15 @@ from .models import Article
 
 FONT_STACK = "'Times New Roman', Times, serif"
 
+# A restrained white editorial palette.  The tint differences preserve hierarchy
+# in email clients without returning to the former blue-and-gold treatment.
+PAPER = "#f6f4ef"
+SURFACE = "#fffefa"
+INK = "#302f2b"
+MUTED = "#716d65"
+RULE = "#ddd8ce"
+ACCENT = "#8d8578"
+
 
 def _affiliations_html(article: Article) -> str:
     if not article.authors:
@@ -48,10 +57,10 @@ def _tags_html(article: Article) -> str:
     if article.method_detail and method != "방법 미상":
         method = f"{method} ({article.method_detail})"
     tags = [
-        (article.topic_area or "분야 미상", "#f5eee3", "#795b2f", "#d9c39e"),
-        (method, "#eaf1f4", "#315b70", "#b8cbd4"),
+        (article.topic_area or "분야 미상", "#f6f1e5", "#625d53", "#ded6c4"),
+        (method, "#f1f2ed", "#58605a", "#d5d8d0"),
     ]
-    tags.extend((construct, "#f1eff5", "#574a6d", "#cbc3d8") for construct in article.constructs[:2])
+    tags.extend((construct, "#f4f1ec", "#625a51", "#ddd6cd") for construct in article.constructs[:2])
     cells = "".join(
         '<td valign="top" style="padding:0 5px 6px 0">'
         '<table role="presentation" border="0" cellspacing="0" cellpadding="0"><tr>'
@@ -88,45 +97,45 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
             number = f"{article_number:02d}"
             abstract_html = (
                 f'<div style="margin-top:20px;font-family:{FONT_STACK};font-size:16px;line-height:1.65;'
-                f'color:#343434;text-align:left"><div style="margin-bottom:7px;font-size:12px;'
-                f'line-height:1.2;letter-spacing:1.2px;color:#6b7280;text-transform:uppercase;'
+                f'color:{INK};text-align:left"><div style="margin-bottom:7px;font-size:12px;'
+                f'line-height:1.2;letter-spacing:1.2px;color:{MUTED};text-transform:uppercase;'
                 f'font-weight:bold">Abstract</div>{escape(article.abstract)}</div>'
                 if article.abstract
                 else (
-                    f'<div style="margin-top:20px;padding:12px 14px;background:#fff8ed;'
-                    f'border-left:3px solid #b7791f;font-family:{FONT_STACK};font-size:15px;'
-                    'line-height:1.6;color:#714b12;text-align:left"><strong>Abstract unavailable.</strong> '
+                    f'<div style="margin-top:20px;padding:12px 14px;background:#faf7ef;'
+                    f'border-left:3px solid #c7bda9;font-family:{FONT_STACK};font-size:15px;'
+                    'line-height:1.6;color:#625b4f;text-align:left"><strong>Abstract unavailable.</strong> '
                     'The Korean note below is based on the title only.</div>'
                 )
             )
             doi_url = "https://doi.org/" + article.doi if article.doi else article.url
             entries.append(
-                '<tr><td style="padding:27px 0 29px;border-bottom:1px solid #d9d6cf;'
+                f'<tr><td style="padding:27px 0 29px;border-bottom:1px solid {RULE};'
                 f'font-family:{FONT_STACK};text-align:left">'
                 '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">'
                 '<tr>'
                 f'<td width="42" valign="top" style="width:42px;padding:3px 10px 0 0;font-family:{FONT_STACK};'
-                f'font-size:14px;line-height:1;color:#9a7b45;text-align:left">{number}</td>'
+                f'font-size:14px;line-height:1;color:{ACCENT};text-align:left">{number}</td>'
                 f'<td valign="top" style="font-family:{FONT_STACK};text-align:left">'
                 f'<div style="margin:0 0 7px;font-family:{FONT_STACK};font-size:13px;line-height:1.4;'
-                f'color:#74706a;text-align:left">{escape(article.publication_date.isoformat())}</div>'
+                f'color:{MUTED};text-align:left">{escape(article.publication_date.isoformat())}</div>'
                 f'{_tags_html(article)}'
                 f'<h3 style="margin:0 0 13px;font-family:{FONT_STACK};font-size:21px;line-height:1.32;'
-                f'font-weight:bold;color:#172c42;text-align:left"><a href="{escape(article.url, quote=True)}" '
-                f'style="color:#172c42;text-decoration:none">{escape(article.title)}</a></h3>'
+                f'font-weight:bold;color:{INK};text-align:left"><a href="{escape(article.url, quote=True)}" '
+                f'style="color:{INK};text-decoration:none">{escape(article.title)}</a></h3>'
                 f'<div style="margin:0 0 19px;font-family:{FONT_STACK};font-size:14px;line-height:1.55;'
-                f'color:#55514b;text-align:left"><div style="margin-bottom:5px;font-size:12px;line-height:1.2;'
-                f'letter-spacing:1.1px;color:#6b7280;text-transform:uppercase;font-weight:bold">'
+                f'color:#595650;text-align:left"><div style="margin-bottom:5px;font-size:12px;line-height:1.2;'
+                f'letter-spacing:1.1px;color:{MUTED};text-transform:uppercase;font-weight:bold">'
                 f'Authors &amp; affiliations</div>{_affiliations_html(article)}</div>'
-                f'<div style="padding:13px 15px;background:#f3f6f7;border-left:3px solid #315b70;'
-                f'font-family:{FONT_STACK};font-size:15px;line-height:1.65;color:#202d34;text-align:left">'
-                f'<div style="margin-bottom:5px;font-size:13px;line-height:1.25;font-weight:bold;color:#315b70">'
+                f'<div style="padding:13px 15px;background:#f5f4f0;border-left:3px solid #b7b0a4;'
+                f'font-family:{FONT_STACK};font-size:15px;line-height:1.65;color:{INK};text-align:left">'
+                f'<div style="margin-bottom:5px;font-size:13px;line-height:1.25;font-weight:bold;color:#625d54">'
                 f'한국어 요약</div>{escape(article.summary_ko or "요약을 생성하지 못했습니다.")}</div>'
                 f'{abstract_html}'
-                f'<div style="margin-top:19px;padding-top:10px;border-top:1px dotted #c9c5bd;'
+                f'<div style="margin-top:19px;padding-top:10px;border-top:1px dotted #cfc9be;'
                 f'font-family:{FONT_STACK};font-size:13px;line-height:1.5;color:#5f5a53;text-align:left">'
-                f'<strong style="color:#172c42">DOI</strong>&nbsp;&nbsp;'
-                f'<a href="{escape(article.url, quote=True)}" style="color:#315b70;text-decoration:underline;'
+                f'<strong style="color:{INK}">DOI</strong>&nbsp;&nbsp;'
+                f'<a href="{escape(article.url, quote=True)}" style="color:#625d54;text-decoration:underline;'
                 f'word-break:break-all">{escape(doi_url)}</a></div>'
                 '</td></tr></table></td></tr>'
             )
@@ -147,10 +156,10 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
             f'{FONT_STACK};text-align:left">'
             '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">'
             '<tr>'
-            f'<td valign="bottom" style="padding:0 0 10px;border-bottom:2px solid #172c42;font-family:{FONT_STACK};'
-            f'font-size:22px;line-height:1.25;font-weight:bold;color:#172c42;text-align:left">{escape(journal)}</td>'
-            f'<td width="82" valign="bottom" style="width:82px;padding:0 0 11px;border-bottom:2px solid #172c42;'
-            f'font-family:{FONT_STACK};font-size:12px;line-height:1.2;letter-spacing:.6px;color:#74706a;'
+            f'<td valign="bottom" style="padding:0 0 10px;border-bottom:2px solid #b8b1a6;font-family:{FONT_STACK};'
+            f'font-size:22px;line-height:1.25;font-weight:bold;color:{INK};text-align:left">{escape(journal)}</td>'
+            f'<td width="82" valign="bottom" style="width:82px;padding:0 0 11px;border-bottom:2px solid #b8b1a6;'
+            f'font-family:{FONT_STACK};font-size:12px;line-height:1.2;letter-spacing:.6px;color:{MUTED};'
             f'text-align:right">TIER {JOURNAL_TIER.get(journal, 3)} · {len(journal_articles)}편</td>'
             f'</tr></table></td></tr>{"".join(entries)}</table>'
         )
@@ -163,10 +172,10 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
         content_html = (
             '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">'
             f'<tr><td style="padding:52px 0 56px;font-family:{FONT_STACK};text-align:center">'
-            f'<div style="font-family:{FONT_STACK};font-size:22px;line-height:1.35;color:#172c42;'
+            f'<div style="font-family:{FONT_STACK};font-size:22px;line-height:1.35;color:{INK};'
             f'font-weight:bold;text-align:center">오늘은 새로 확인된 논문이 없습니다.</div>'
             f'<div style="margin-top:10px;font-family:{FONT_STACK};font-size:15px;line-height:1.55;'
-            f'color:#77716a;text-align:center">다음 예약 실행에서 다시 확인하겠습니다.</div>'
+            f'color:{MUTED};text-align:center">다음 예약 실행에서 다시 확인하겠습니다.</div>'
             '</td></tr></table>'
         )
         content_text = "오늘은 새로 확인된 논문이 없습니다. 다음 예약 실행에서 다시 확인하겠습니다."
@@ -182,18 +191,18 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
   @media only screen and (max-width:940px) {{ .digest-shell {{ width:100% !important; }} .digest-pad {{ padding:12px 8px !important; }} .content-pad {{ padding-left:20px !important; padding-right:20px !important; }} }}
 </style>
 <!--[if mso]><style>body,table,td,a,h1,h2,h3,div,span {{font-family:'Times New Roman',Times,serif !important;}}</style><![endif]-->
-</head><body style="width:100%;margin:0;padding:0;background:#efede8;font-family:{FONT_STACK};font-size:16px;line-height:1.65;color:#242424;text-align:left;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%">
+</head><body style="width:100%;margin:0;padding:0;background:{PAPER};font-family:{FONT_STACK};font-size:16px;line-height:1.65;color:{INK};text-align:left;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%">
 <div style="display:none;max-height:0;overflow:hidden">최근 행정학 탑저널 신규 논문 {count}편</div>
-<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%;background:#efede8"><tr><td align="center" class="digest-pad" style="padding:28px 12px">
+<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%;background:{PAPER}"><tr><td align="center" class="digest-pad" style="padding:28px 12px">
 <!--[if mso]><table role="presentation" width="900" border="0" cellspacing="0" cellpadding="0"><tr><td width="900"><![endif]-->
-<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="digest-shell" style="width:100%;max-width:900px;background:#ffffff;border-top:5px solid #172c42;font-family:{FONT_STACK}">
-  <tr><td class="content-pad" style="padding:30px 36px 27px;border-bottom:1px solid #d9d6cf;font-family:{FONT_STACK};text-align:left">
-    <div style="font-family:{FONT_STACK};font-size:12px;line-height:1.2;letter-spacing:1.5px;text-transform:uppercase;color:#8a6b38;text-align:left">Daily research briefing</div>
-    <h1 style="margin:8px 0 7px;font-family:{FONT_STACK};font-size:30px;line-height:1.15;color:#172c42;text-align:left">PA Journal Digest</h1>
-    <div style="font-family:{FONT_STACK};font-size:15px;line-height:1.5;color:#68635c;text-align:left">{escape(digest_date.strftime('%B %d, %Y'))} &nbsp;·&nbsp; 신규 논문 {count}편 &nbsp;·&nbsp; {len(grouped)}개 저널</div>
+<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="digest-shell" style="width:100%;max-width:900px;background:{SURFACE};border-top:5px solid #c6c0b4;font-family:{FONT_STACK}">
+  <tr><td class="content-pad" style="padding:30px 36px 27px;border-bottom:1px solid {RULE};font-family:{FONT_STACK};text-align:left">
+    <div style="font-family:{FONT_STACK};font-size:12px;line-height:1.2;letter-spacing:1.5px;text-transform:uppercase;color:#81796d;text-align:left">Daily research briefing</div>
+    <h1 style="margin:8px 0 7px;font-family:{FONT_STACK};font-size:30px;line-height:1.15;color:{INK};text-align:left">PA Journal Digest</h1>
+    <div style="font-family:{FONT_STACK};font-size:15px;line-height:1.5;color:{MUTED};text-align:left">{escape(digest_date.strftime('%B %d, %Y'))} &nbsp;·&nbsp; 신규 논문 {count}편 &nbsp;·&nbsp; {len(grouped)}개 저널</div>
   </td></tr>
   <tr><td class="content-pad" style="padding:0 36px;font-family:{FONT_STACK};text-align:left">{content_html}</td></tr>
-  <tr><td class="content-pad" style="padding:23px 36px 27px;font-family:{FONT_STACK};font-size:13px;line-height:1.55;color:#77716a;text-align:left">
+  <tr><td class="content-pad" style="padding:23px 36px 27px;font-family:{FONT_STACK};font-size:13px;line-height:1.55;color:{MUTED};text-align:left">
     Crossref와 공개 학술 메타데이터를 기반으로 자동 생성되었습니다. 요약은 원문 초록을 대체하지 않습니다.
   </td></tr>
 </table>
