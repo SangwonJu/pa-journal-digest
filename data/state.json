@@ -305,11 +305,11 @@
       "title": "Connecting Philosophy and Public Administration: Directions of Inquiry—A Review"
     },
     "doi:10.1080/01900692.2026.2725004": {
-      "batch_id": "2026-09-13-235569b078597a77",
+      "batch_id": "2026-09-13-235569b078597a77-resend-20260913T211034Z",
       "doi": "10.1080/01900692.2026.2725004",
       "journal": "International Journal of Public Administration",
       "publication_date": "2026-09-12",
-      "sent_at": "2026-09-13T14:29:14.342311+00:00",
+      "sent_at": "2026-09-13T21:11:27.583467+00:00",
       "title": "Data-Driven Collaboration in Mandated Networks: US Homelessness Services"
     },
     "doi:10.1080/10584609.2026.2701201": {
@@ -465,11 +465,11 @@
       "title": "Managers as message makers: a conjoint experiment on information framing and citizen support for local sales tax referenda"
     },
     "doi:10.1080/10967494.2026.2711769": {
-      "batch_id": "2026-09-13-235569b078597a77",
+      "batch_id": "2026-09-13-235569b078597a77-resend-20260913T211034Z",
       "doi": "10.1080/10967494.2026.2711769",
       "journal": "International Public Management Journal",
       "publication_date": "2026-09-11",
-      "sent_at": "2026-09-13T14:29:14.342311+00:00",
+      "sent_at": "2026-09-13T21:11:27.583467+00:00",
       "title": "How context and tensions shape public values assessment: findings from a case study of a Dutch agency"
     },
     "doi:10.1080/10967494.2026.2711773": {
@@ -489,11 +489,11 @@
       "title": "Collaborative platforms in digital government: structural and cultural barriers to coordination"
     },
     "doi:10.1080/10967494.2026.2718926": {
-      "batch_id": "2026-09-13-235569b078597a77",
+      "batch_id": "2026-09-13-235569b078597a77-resend-20260913T211034Z",
       "doi": "10.1080/10967494.2026.2718926",
       "journal": "International Public Management Journal",
       "publication_date": "2026-09-11",
-      "sent_at": "2026-09-13T14:29:14.342311+00:00",
+      "sent_at": "2026-09-13T21:11:27.583467+00:00",
       "title": "Public service equity and stakeholder satisfaction: evidence from 56 countries on how parents, teachers, and students respond to gender gaps in education"
     },
     "doi:10.1080/14719037.2026.2708842": {
@@ -7466,7 +7466,8 @@
           "url": "https://doi.org/10.1080/10967494.2026.2718926"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-13T21:11:27.583467+00:00",
+      "status": "sent"
     }
   },
   "pending": {
