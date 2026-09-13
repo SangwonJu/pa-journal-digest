@@ -2,11 +2,11 @@ name: Daily PA Journal Digest
 
 on:
   schedule:
-    - cron: "15 6 * * *"
+    - cron: "15 2 * * *"
       timezone: "America/New_York"
-    - cron: "35 6 * * *"
+    - cron: "35 2 * * *"
       timezone: "America/New_York"
-    - cron: "55 6 * * *"
+    - cron: "55 2 * * *"
       timezone: "America/New_York"
   workflow_dispatch:
     inputs:
