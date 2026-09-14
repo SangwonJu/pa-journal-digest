@@ -584,6 +584,14 @@
       "sent_at": "2026-08-28T21:23:52.597536+00:00",
       "title": "Can cooperation between a city and a region lead to a robust solution during a polycrisis? – the case of Czechia"
     },
+    "doi:10.1080/14719037.2026.2725790": {
+      "batch_id": "2026-09-14-609325141f7bd7b1",
+      "doi": "10.1080/14719037.2026.2725790",
+      "journal": "Public Management Review",
+      "publication_date": "2026-09-12",
+      "sent_at": "2026-09-14T12:47:23.837018+00:00",
+      "title": "Introducing public management and global sporting mega-events: public value, ecosystems, learning and temporality"
+    },
     "doi:10.1080/14719037.2026.2725793": {
       "batch_id": "2026-09-08-e7544e09e6522c6c",
       "doi": "10.1080/14719037.2026.2725793",
@@ -1351,6 +1359,14 @@
       "publication_date": "2026-09-10",
       "sent_at": "2026-09-11T15:06:24.604470+00:00",
       "title": "Investor Orientation and Commitment in Outcomes‐Based Public Service Contracts"
+    },
+    "doi:10.1111/puar.70194": {
+      "batch_id": "2026-09-14-609325141f7bd7b1",
+      "doi": "10.1111/puar.70194",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-08-27",
+      "sent_at": "2026-09-14T12:47:23.837018+00:00",
+      "title": "Issue Information"
     },
     "doi:10.1111/puar.70196": {
       "batch_id": "2026-09-01-1560b88b8d2d7127",
@@ -7510,7 +7526,8 @@
           "url": "https://doi.org/10.1111/puar.70194"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-14T12:47:23.837018+00:00",
+      "status": "sent"
     }
   },
   "pending": {
