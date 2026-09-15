@@ -64,6 +64,14 @@
       "sent_at": "2026-09-03T15:05:53.210352+00:00",
       "title": "Women Politicians’ Role Model Effects: The Influence of Shared Identities Beyond Gender"
     },
+    "doi:10.1007/s11109-026-10203-1": {
+      "batch_id": "2026-09-15-ab693daac4e307cb",
+      "doi": "10.1007/s11109-026-10203-1",
+      "journal": "Political Behavior",
+      "publication_date": "2026-09-15",
+      "sent_at": "2026-09-15T11:47:52.748208+00:00",
+      "title": "The Limits of Incumbent Blame Games in Times of Crisis: Experimental Evidence from Electoral Autocracy"
+    },
     "doi:10.1016/j.giq.2026.102149": {
       "batch_id": "2026-09-01-1560b88b8d2d7127",
       "doi": "10.1016/j.giq.2026.102149",
@@ -448,6 +456,14 @@
       "sent_at": "2026-09-11T15:06:24.604470+00:00",
       "title": "The Language of Democratic Resilience and Decline: A Comparative Study of Politicians’ Communication on Facebook in Sweden and Hungary"
     },
+    "doi:10.1080/10584609.2026.2729428": {
+      "batch_id": "2026-09-15-ab693daac4e307cb",
+      "doi": "10.1080/10584609.2026.2729428",
+      "journal": "Political Communication",
+      "publication_date": "2026-09-14",
+      "sent_at": "2026-09-15T11:47:52.748208+00:00",
+      "title": "Do Your Own Research: What Skepticism of Expertise Means for the News Media in the U.S."
+    },
     "doi:10.1080/10967494.2026.2691398": {
       "batch_id": "2026-09-12-0323b2c4e5631bf0",
       "doi": "10.1080/10967494.2026.2691398",
@@ -695,6 +711,14 @@
       "publication_date": "2026-08-03",
       "sent_at": "2026-08-08T07:27:21.078868+00:00",
       "title": "Attacking Women or their Policies? Understanding Violence against Women in Politics"
+    },
+    "doi:10.1086/744066": {
+      "batch_id": "2026-09-15-ab693daac4e307cb",
+      "doi": "10.1086/744066",
+      "journal": "The Journal of Politics",
+      "publication_date": "2026-09-14",
+      "sent_at": "2026-09-15T11:47:52.748208+00:00",
+      "title": "The seniority ceiling: Why some immigrants struggle to rise in political office"
     },
     "doi:10.1093/jopart/muag020": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -1199,6 +1223,14 @@
       "publication_date": "2026-09-09",
       "sent_at": "2026-09-10T15:04:47.519495+00:00",
       "title": "Balancing Particularism and Universalism in Welfare Policy: Insights From China's Hukou Reform"
+    },
+    "doi:10.1111/psj.70161": {
+      "batch_id": "2026-09-15-ab693daac4e307cb",
+      "doi": "10.1111/psj.70161",
+      "journal": "Policy Studies Journal",
+      "publication_date": "2026-09-14",
+      "sent_at": "2026-09-15T11:47:52.748208+00:00",
+      "title": "Evaluating the Effectiveness of Open‐Source LLMs for Automated Analysis of Multilingual Consultation Feedback: A Swiss Case Study"
     },
     "doi:10.1111/puar.70165": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -7604,7 +7636,8 @@
           "url": "https://doi.org/10.1086/744066"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-15T11:47:52.748208+00:00",
+      "status": "sent"
     }
   },
   "pending": {
