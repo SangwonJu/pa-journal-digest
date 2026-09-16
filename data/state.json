@@ -184,6 +184,14 @@
       "sent_at": "2026-09-04T15:02:29.455389+00:00",
       "title": "Correcting for Nonignorable Nonresponse Bias in Ordinal Observational Survey Data"
     },
+    "doi:10.1017/pan.2026.10056": {
+      "batch_id": "2026-09-16-3de6e0119190eec2",
+      "doi": "10.1017/pan.2026.10056",
+      "journal": "Political Analysis",
+      "publication_date": "2026-09-15",
+      "sent_at": "2026-09-16T11:36:21.141999+00:00",
+      "title": "Turning Hazard Models Inside Out"
+    },
     "doi:10.1017/s0003055426101841": {
       "batch_id": "2026-09-01-1560b88b8d2d7127",
       "doi": "10.1017/s0003055426101841",
@@ -584,6 +592,14 @@
       "sent_at": "2026-08-27T21:04:09.603803+00:00",
       "title": "Beyond monolithic state logic: how top-down accountability shapes policy implementation"
     },
+    "doi:10.1080/14719037.2026.2720763": {
+      "batch_id": "2026-09-16-3de6e0119190eec2",
+      "doi": "10.1080/14719037.2026.2720763",
+      "journal": "Public Management Review",
+      "publication_date": "2026-09-16",
+      "sent_at": "2026-09-16T11:36:21.141999+00:00",
+      "title": "Welfare State Convergence or Robustness? Comparing Nonprofit Marketization Patterns Across Belgium, Sweden and the United States"
+    },
     "doi:10.1080/14719037.2026.2723226": {
       "batch_id": "2026-08-26-28e83ec62ba179a9",
       "doi": "10.1080/14719037.2026.2723226",
@@ -624,6 +640,22 @@
       "sent_at": "2026-09-07T16:33:57.866728+00:00",
       "title": "Performance-measurement systems as actors and boundary objects: a sociomaterial perspective to the provision of prison services"
     },
+    "doi:10.1080/14719037.2026.2726494": {
+      "batch_id": "2026-09-16-3de6e0119190eec2",
+      "doi": "10.1080/14719037.2026.2726494",
+      "journal": "Public Management Review",
+      "publication_date": "2026-09-15",
+      "sent_at": "2026-09-16T11:36:21.141999+00:00",
+      "title": "Insider or outsider: negative performance feedback and top manager succession in the public sector"
+    },
+    "doi:10.1080/14719037.2026.2729793": {
+      "batch_id": "2026-09-16-3de6e0119190eec2",
+      "doi": "10.1080/14719037.2026.2729793",
+      "journal": "Public Management Review",
+      "publication_date": "2026-09-15",
+      "sent_at": "2026-09-16T11:36:21.141999+00:00",
+      "title": "Brake or bridge? The dual impact of clientelism on hospital corporatization in Iran"
+    },
     "doi:10.1080/14719037.2026.2729794": {
       "batch_id": "2026-09-09-19421c9dfd8ea28a",
       "doi": "10.1080/14719037.2026.2729794",
@@ -639,6 +671,22 @@
       "publication_date": "2026-09-09",
       "sent_at": "2026-09-10T15:04:47.519495+00:00",
       "title": "Unlocking the transformative potential of design: reflections from practice on navigating barriers to designing for societal transformation"
+    },
+    "doi:10.1080/14719037.2026.2733934": {
+      "batch_id": "2026-09-16-3de6e0119190eec2",
+      "doi": "10.1080/14719037.2026.2733934",
+      "journal": "Public Management Review",
+      "publication_date": "2026-09-16",
+      "sent_at": "2026-09-16T11:36:21.141999+00:00",
+      "title": "From co-production to value co-creation: NGOs as catalysts of cyclical public value in rural China"
+    },
+    "doi:10.1080/14719037.2026.2733942": {
+      "batch_id": "2026-09-16-3de6e0119190eec2",
+      "doi": "10.1080/14719037.2026.2733942",
+      "journal": "Public Management Review",
+      "publication_date": "2026-09-15",
+      "sent_at": "2026-09-16T11:36:21.141999+00:00",
+      "title": "Revisiting the political-social dimension of public value"
     },
     "doi:10.1080/15309576.2026.2700771": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -1071,6 +1119,14 @@
       "publication_date": "2026-09-06",
       "sent_at": "2026-09-07T16:33:57.866728+00:00",
       "title": "Policy Entrepreneurs and Policy Change When Politicians Are Absent: The Inclusion of Autistic Individuals in Armed Forces"
+    },
+    "doi:10.1111/padm.70094": {
+      "batch_id": "2026-09-16-3de6e0119190eec2",
+      "doi": "10.1111/padm.70094",
+      "journal": "Public Administration",
+      "publication_date": "2026-09-15",
+      "sent_at": "2026-09-16T11:36:21.141999+00:00",
+      "title": "From Civic Tech to DOGE : The Role of Tech Movements in the American Administrative State"
     },
     "doi:10.1111/pops.70126": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
@@ -7810,7 +7866,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2720763"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-16T11:36:21.141999+00:00",
+      "status": "sent"
     }
   },
   "pending": {
