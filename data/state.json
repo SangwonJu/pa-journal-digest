@@ -7638,6 +7638,179 @@
       ],
       "sent_at": "2026-09-15T11:47:52.748208+00:00",
       "status": "sent"
+    },
+    "2026-09-16-3de6e0119190eec2": {
+      "created_at": "2026-09-16T11:28:33.782988+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-16-3de6e0119190eec2",
+      "items": [
+        {
+          "author_affiliations": {
+            "David Melamed": [
+              "Ohio State University"
+            ],
+            "Eric W. Schoon": [
+              "Ohio State University"
+            ],
+            "Jack G. R. Wippell": [
+              "Ohio State University"
+            ],
+            "Ronald L. Breiger": [
+              "University of Arizona"
+            ]
+          },
+          "authors": [
+            "David Melamed",
+            "Jack G. R. Wippell",
+            "Eric W. Schoon",
+            "Ronald L. Breiger"
+          ],
+          "doi": "10.1017/pan.2026.10056",
+          "journal": "Political Analysis",
+          "journal_short": "PolAnalysis",
+          "publication_date": "2026-09-15",
+          "stable_id": "doi:10.1017/pan.2026.10056",
+          "title": "Turning Hazard Models Inside Out",
+          "url": "https://doi.org/10.1017/pan.2026.10056"
+        },
+        {
+          "author_affiliations": {
+            "Donald Moynihan": [
+              "Ford School of Public Policy University of Michigan Ann Arbor Michigan USA"
+            ]
+          },
+          "authors": [
+            "Donald Moynihan"
+          ],
+          "doi": "10.1111/padm.70094",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "publication_date": "2026-09-15",
+          "stable_id": "doi:10.1111/padm.70094",
+          "title": "From Civic Tech to DOGE : The Role of Tech Movements in the American Administrative State",
+          "url": "https://doi.org/10.1111/padm.70094"
+        },
+        {
+          "author_affiliations": {
+            "Ian Kirkpatrick": [
+              "York University"
+            ],
+            "Maryam Zahmatkesh": [
+              "University of London (RHUL)"
+            ]
+          },
+          "authors": [
+            "Maryam Zahmatkesh",
+            "Ian Kirkpatrick"
+          ],
+          "doi": "10.1080/14719037.2026.2729793",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "publication_date": "2026-09-15",
+          "stable_id": "doi:10.1080/14719037.2026.2729793",
+          "title": "Brake or bridge? The dual impact of clientelism on hospital corporatization in Iran",
+          "url": "https://doi.org/10.1080/14719037.2026.2729793"
+        },
+        {
+          "author_affiliations": {
+            "Jiaheng Ling": [
+              "School of Public Policy & Management, Tsinghua University, Beijing, China"
+            ],
+            "Siqi Chen": [
+              "University of Chinese Academy of Sciences, Beijing, China",
+              "Institutes of Science and Development, Chinese Academy of Sciences, Beijing, China"
+            ]
+          },
+          "authors": [
+            "Siqi Chen",
+            "Jiaheng Ling"
+          ],
+          "doi": "10.1080/14719037.2026.2726494",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "publication_date": "2026-09-15",
+          "stable_id": "doi:10.1080/14719037.2026.2726494",
+          "title": "Insider or outsider: negative performance feedback and top manager succession in the public sector",
+          "url": "https://doi.org/10.1080/14719037.2026.2726494"
+        },
+        {
+          "author_affiliations": {
+            "Ana Luiza Terra Costa Mathias": [
+              "University of São Paulo"
+            ],
+            "Rosa Maria Fischer": [
+              "University of São Paulo"
+            ]
+          },
+          "authors": [
+            "Ana Luiza Terra Costa Mathias",
+            "Rosa Maria Fischer"
+          ],
+          "doi": "10.1080/14719037.2026.2733942",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "publication_date": "2026-09-15",
+          "stable_id": "doi:10.1080/14719037.2026.2733942",
+          "title": "Revisiting the political-social dimension of public value",
+          "url": "https://doi.org/10.1080/14719037.2026.2733942"
+        },
+        {
+          "author_affiliations": {
+            "Jingjing Cai": [
+              "Nankai University"
+            ],
+            "Kaisar Kaher": [
+              "Xiamen University"
+            ]
+          },
+          "authors": [
+            "Jingjing Cai",
+            "Kaisar Kaher"
+          ],
+          "doi": "10.1080/14719037.2026.2733934",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "publication_date": "2026-09-16",
+          "stable_id": "doi:10.1080/14719037.2026.2733934",
+          "title": "From co-production to value co-creation: NGOs as catalysts of cyclical public value in rural China",
+          "url": "https://doi.org/10.1080/14719037.2026.2733934"
+        },
+        {
+          "author_affiliations": {
+            "Aaron Van Steenlandt": [
+              "Ghent University"
+            ],
+            "Ben Suykens": [
+              "Ghent University",
+              "Marie Cederschiöld University",
+              "University of Oxford"
+            ],
+            "Bram Verschuere": [
+              "Ghent University"
+            ],
+            "ChiaKo Hung": [
+              "University of Pennsylvania"
+            ],
+            "Johan Hvenmark": [
+              "Marie Cederschiöld University"
+            ]
+          },
+          "authors": [
+            "Ben Suykens",
+            "Johan Hvenmark",
+            "ChiaKo Hung",
+            "Aaron Van Steenlandt",
+            "Bram Verschuere"
+          ],
+          "doi": "10.1080/14719037.2026.2720763",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "publication_date": "2026-09-16",
+          "stable_id": "doi:10.1080/14719037.2026.2720763",
+          "title": "Welfare State Convergence or Robustness? Comparing Nonprofit Marketization Patterns Across Belgium, Sweden and the United States",
+          "url": "https://doi.org/10.1080/14719037.2026.2720763"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -7660,7 +7833,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -7677,7 +7850,7 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
@@ -7710,7 +7883,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -7751,7 +7924,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -7776,7 +7949,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -7794,7 +7967,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -7812,7 +7985,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -7834,7 +8007,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -7855,7 +8028,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -7875,7 +8048,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -7892,7 +8065,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -7913,7 +8086,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -7930,7 +8103,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -7948,7 +8121,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -7968,7 +8141,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -7989,7 +8162,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -8004,7 +8177,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -8025,7 +8198,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -8040,7 +8213,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -8055,7 +8228,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-15T11:41:33.512995+00:00"
+      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
     }
   },
   "version": 1
