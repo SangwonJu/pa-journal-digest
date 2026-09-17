@@ -16,6 +16,14 @@
       "sent_at": "2026-09-03T15:05:53.210352+00:00",
       "title": "Administrative Burden and the Access–Fraud Trade‐Off"
     },
+    "doi:10.1007/s11109-026-10188-x": {
+      "batch_id": "2026-09-17-b2ed10bee1f959a8",
+      "doi": "10.1007/s11109-026-10188-x",
+      "journal": "Political Behavior",
+      "publication_date": "2026-09-17",
+      "sent_at": "2026-09-17T11:46:18.095768+00:00",
+      "title": "Do Political Discussion Partners Share Policy Priorities and Policy Frames?"
+    },
     "doi:10.1007/s11109-026-10190-3": {
       "batch_id": "2026-08-29-b60581d3a4a3b1c6",
       "doi": "10.1007/s11109-026-10190-3",
@@ -63,6 +71,14 @@
       "publication_date": "2026-09-03",
       "sent_at": "2026-09-03T15:05:53.210352+00:00",
       "title": "Women Politicians’ Role Model Effects: The Influence of Shared Identities Beyond Gender"
+    },
+    "doi:10.1007/s11109-026-10201-3": {
+      "batch_id": "2026-09-17-b2ed10bee1f959a8",
+      "doi": "10.1007/s11109-026-10201-3",
+      "journal": "Political Behavior",
+      "publication_date": "2026-09-17",
+      "sent_at": "2026-09-17T11:46:18.095768+00:00",
+      "title": "Credible Prejudice? When and Why Mainstream Party Adoption of Far-Right Rhetoric Weakens Anti-Prejudice Norms"
     },
     "doi:10.1007/s11109-026-10203-1": {
       "batch_id": "2026-09-15-ab693daac4e307cb",
@@ -472,6 +488,14 @@
       "sent_at": "2026-09-15T11:47:52.748208+00:00",
       "title": "Do Your Own Research: What Skepticism of Expertise Means for the News Media in the U.S."
     },
+    "doi:10.1080/10584609.2026.2733316": {
+      "batch_id": "2026-09-17-b2ed10bee1f959a8",
+      "doi": "10.1080/10584609.2026.2733316",
+      "journal": "Political Communication",
+      "publication_date": "2026-09-16",
+      "sent_at": "2026-09-17T11:46:18.095768+00:00",
+      "title": "The Democratic Cost of Pursuing Virality: A Study into Parliamentary Communications"
+    },
     "doi:10.1080/10967494.2026.2691398": {
       "batch_id": "2026-09-12-0323b2c4e5631bf0",
       "doi": "10.1080/10967494.2026.2691398",
@@ -519,6 +543,14 @@
       "publication_date": "2026-09-11",
       "sent_at": "2026-09-13T21:11:27.583467+00:00",
       "title": "Public service equity and stakeholder satisfaction: evidence from 56 countries on how parents, teachers, and students respond to gender gaps in education"
+    },
+    "doi:10.1080/10967494.2026.2719908": {
+      "batch_id": "2026-09-17-b2ed10bee1f959a8",
+      "doi": "10.1080/10967494.2026.2719908",
+      "journal": "International Public Management Journal",
+      "publication_date": "2026-09-16",
+      "sent_at": "2026-09-17T11:46:18.095768+00:00",
+      "title": "Fairness and equity in hybrid work: insights from the Ontario Public Service"
     },
     "doi:10.1080/14719037.2026.2708842": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
@@ -711,6 +743,14 @@
       "publication_date": "2026-08-13",
       "sent_at": "2026-08-14T11:58:19.972994+00:00",
       "title": "The Cost Savings in Inter-Organizational Cooperation: A Meta-Analytic Review and Extension"
+    },
+    "doi:10.1080/15309576.2026.2716626": {
+      "batch_id": "2026-09-17-b2ed10bee1f959a8",
+      "doi": "10.1080/15309576.2026.2716626",
+      "journal": "Public Performance & Management Review",
+      "publication_date": "2026-09-16",
+      "sent_at": "2026-09-17T11:46:18.095768+00:00",
+      "title": "How Citizens Perceive Public Service Performance: Do Reference Points Really Matter?"
     },
     "doi:10.1080/15309576.2026.2716709": {
       "batch_id": "2026-09-02-34bfbbd7944e0731",
@@ -1127,6 +1167,14 @@
       "publication_date": "2026-09-15",
       "sent_at": "2026-09-16T11:36:21.141999+00:00",
       "title": "From Civic Tech to DOGE : The Role of Tech Movements in the American Administrative State"
+    },
+    "doi:10.1111/padm.70095": {
+      "batch_id": "2026-09-17-b2ed10bee1f959a8",
+      "doi": "10.1111/padm.70095",
+      "journal": "Public Administration",
+      "publication_date": "2026-09-17",
+      "sent_at": "2026-09-17T11:46:18.095768+00:00",
+      "title": "The Right Key for the Right Lock: How Government Response Methods and Demand Types Affect Citizen Satisfaction"
     },
     "doi:10.1111/pops.70126": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
@@ -7982,7 +8030,8 @@
           "url": "https://doi.org/10.1080/15309576.2026.2716626"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-17T11:46:18.095768+00:00",
+      "status": "sent"
     }
   },
   "pending": {
