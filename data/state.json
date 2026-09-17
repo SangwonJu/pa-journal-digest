@@ -7868,6 +7868,121 @@
       ],
       "sent_at": "2026-09-16T11:36:21.141999+00:00",
       "status": "sent"
+    },
+    "2026-09-17-b2ed10bee1f959a8": {
+      "created_at": "2026-09-17T11:38:33.246009+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-17-b2ed10bee1f959a8",
+      "items": [
+        {
+          "author_affiliations": {
+            "Maria Gintova": [
+              "McMaster University"
+            ]
+          },
+          "authors": [
+            "Maria Gintova"
+          ],
+          "doi": "10.1080/10967494.2026.2719908",
+          "journal": "International Public Management Journal",
+          "journal_short": "IPMJ",
+          "publication_date": "2026-09-16",
+          "stable_id": "doi:10.1080/10967494.2026.2719908",
+          "title": "Fairness and equity in hybrid work: insights from the Ontario Public Service",
+          "url": "https://doi.org/10.1080/10967494.2026.2719908"
+        },
+        {
+          "author_affiliations": {},
+          "authors": [
+            "Ali Karčić"
+          ],
+          "doi": "10.1007/s11109-026-10201-3",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "publication_date": "2026-09-17",
+          "stable_id": "doi:10.1007/s11109-026-10201-3",
+          "title": "Credible Prejudice? When and Why Mainstream Party Adoption of Far-Right Rhetoric Weakens Anti-Prejudice Norms",
+          "url": "https://doi.org/10.1007/s11109-026-10201-3"
+        },
+        {
+          "author_affiliations": {},
+          "authors": [
+            "Matthew T. Pietryka",
+            "Amber E. Boydstun",
+            "Taylor N. Carlson"
+          ],
+          "doi": "10.1007/s11109-026-10188-x",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "publication_date": "2026-09-17",
+          "stable_id": "doi:10.1007/s11109-026-10188-x",
+          "title": "Do Political Discussion Partners Share Policy Priorities and Policy Frames?",
+          "url": "https://doi.org/10.1007/s11109-026-10188-x"
+        },
+        {
+          "author_affiliations": {
+            "André K. Rodarte": [
+              "University of Southern Denmark"
+            ]
+          },
+          "authors": [
+            "André K. Rodarte"
+          ],
+          "doi": "10.1080/10584609.2026.2733316",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "publication_date": "2026-09-16",
+          "stable_id": "doi:10.1080/10584609.2026.2733316",
+          "title": "The Democratic Cost of Pursuing Virality: A Study into Parliamentary Communications",
+          "url": "https://doi.org/10.1080/10584609.2026.2733316"
+        },
+        {
+          "author_affiliations": {
+            "Mengyao Zhang": [
+              "College of Public Administration, Huazhong University of Science and Technology Wuhan China"
+            ],
+            "Na Tang": [
+              "College of Public Administration, Huazhong University of Science and Technology Wuhan China"
+            ],
+            "Nana Huang": [
+              "College of Public Administration, Huazhong University of Science and Technology Wuhan China"
+            ],
+            "Wenjia Huang": [
+              "College of Public Administration, Huazhong University of Science and Technology Wuhan China"
+            ]
+          },
+          "authors": [
+            "Na Tang",
+            "Wenjia Huang",
+            "Nana Huang",
+            "Mengyao Zhang"
+          ],
+          "doi": "10.1111/padm.70095",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "publication_date": "2026-09-17",
+          "stable_id": "doi:10.1111/padm.70095",
+          "title": "The Right Key for the Right Lock: How Government Response Methods and Demand Types Affect Citizen Satisfaction",
+          "url": "https://doi.org/10.1111/padm.70095"
+        },
+        {
+          "author_affiliations": {
+            "Jinah Yoo": [
+              "Rutgers, The State University of New Jersey"
+            ]
+          },
+          "authors": [
+            "Jinah Yoo"
+          ],
+          "doi": "10.1080/15309576.2026.2716626",
+          "journal": "Public Performance & Management Review",
+          "journal_short": "PPMR",
+          "publication_date": "2026-09-16",
+          "stable_id": "doi:10.1080/15309576.2026.2716626",
+          "title": "How Citizens Perceive Public Service Performance: Do Reference Points Really Matter?",
+          "url": "https://doi.org/10.1080/15309576.2026.2716626"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -7890,12 +8005,16 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
       "item": {
-        "author_affiliations": {},
+        "author_affiliations": {
+          "Agustin Vallejo": [
+            "Texas A&M International University"
+          ]
+        },
         "authors": [
           "Agustin Vallejo"
         ],
@@ -7907,7 +8026,7 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
@@ -7940,7 +8059,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -7981,7 +8100,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -8006,7 +8125,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -8024,7 +8143,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -8042,7 +8161,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -8064,7 +8183,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -8085,7 +8204,53 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
+    },
+    "doi:10.1080/10967494.2026.2714943": {
+      "first_seen_at": "2026-09-17T11:38:33.246009+00:00",
+      "item": {
+        "author_affiliations": {
+          "Julie Beasley": [
+            "University of North Carolina at Chapel Hill School of Government"
+          ]
+        },
+        "authors": [
+          "Julie Beasley"
+        ],
+        "doi": "10.1080/10967494.2026.2714943",
+        "journal": "International Public Management Journal",
+        "journal_short": "IPMJ",
+        "publication_date": "2026-09-16",
+        "stable_id": "doi:10.1080/10967494.2026.2714943",
+        "title": "The promises and pitfalls of AI in public service: a review of AI snake oil,",
+        "url": "https://doi.org/10.1080/10967494.2026.2714943"
+      },
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
+    },
+    "doi:10.1080/10967494.2026.2723042": {
+      "first_seen_at": "2026-09-17T11:38:33.246009+00:00",
+      "item": {
+        "author_affiliations": {
+          "Austin M. McCrea": [
+            "University of Georgia"
+          ],
+          "Nathan Favero": [
+            "American University"
+          ]
+        },
+        "authors": [
+          "Austin M. McCrea",
+          "Nathan Favero"
+        ],
+        "doi": "10.1080/10967494.2026.2723042",
+        "journal": "International Public Management Journal",
+        "journal_short": "IPMJ",
+        "publication_date": "2026-09-16",
+        "stable_id": "doi:10.1080/10967494.2026.2723042",
+        "title": "Preferences for symbolic representation: identity, context, and selection of mental health providers",
+        "url": "https://doi.org/10.1080/10967494.2026.2723042"
+      },
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -8105,7 +8270,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -8122,7 +8287,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -8143,7 +8308,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -8160,7 +8325,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -8178,7 +8343,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -8198,7 +8363,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -8219,7 +8384,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -8234,7 +8399,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -8255,7 +8420,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -8270,7 +8435,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -8285,7 +8450,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-16T11:28:33.782988+00:00"
+      "last_checked_at": "2026-09-17T11:38:33.246009+00:00"
     }
   },
   "version": 1
