@@ -536,6 +536,14 @@
       "sent_at": "2026-09-12T14:13:26.103681+00:00",
       "title": "Collaborative platforms in digital government: structural and cultural barriers to coordination"
     },
+    "doi:10.1080/10967494.2026.2714943": {
+      "batch_id": "2026-09-18-50fe5dd0e165ac90",
+      "doi": "10.1080/10967494.2026.2714943",
+      "journal": "International Public Management Journal",
+      "publication_date": "2026-09-16",
+      "sent_at": "2026-09-18T11:17:24.477239+00:00",
+      "title": "The promises and pitfalls of AI in public service: a review of AI snake oil,"
+    },
     "doi:10.1080/10967494.2026.2718926": {
       "batch_id": "2026-09-13-235569b078597a77-resend-20260913T211034Z",
       "doi": "10.1080/10967494.2026.2718926",
@@ -551,6 +559,14 @@
       "publication_date": "2026-09-16",
       "sent_at": "2026-09-17T11:46:18.095768+00:00",
       "title": "Fairness and equity in hybrid work: insights from the Ontario Public Service"
+    },
+    "doi:10.1080/10967494.2026.2723042": {
+      "batch_id": "2026-09-18-50fe5dd0e165ac90",
+      "doi": "10.1080/10967494.2026.2723042",
+      "journal": "International Public Management Journal",
+      "publication_date": "2026-09-16",
+      "sent_at": "2026-09-18T11:17:24.477239+00:00",
+      "title": "Preferences for symbolic representation: identity, context, and selection of mental health providers"
     },
     "doi:10.1080/14719037.2026.2708842": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
@@ -8076,7 +8092,8 @@
           "url": "https://doi.org/10.1080/10967494.2026.2714943"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-18T11:17:24.477239+00:00",
+      "status": "sent"
     }
   },
   "pending": {
