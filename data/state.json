@@ -464,6 +464,14 @@
       "sent_at": "2026-08-31T18:04:07.030379+00:00",
       "title": "Democratic Accountability in East Asia: A Comparative Experimental Study of Voter Responses to Norm Violations"
     },
+    "doi:10.1080/10584609.2026.2722250": {
+      "batch_id": "2026-09-19-d3d1f97a5ecf3957",
+      "doi": "10.1080/10584609.2026.2722250",
+      "journal": "Political Communication",
+      "publication_date": "2026-09-18",
+      "sent_at": "2026-09-19T11:00:59.248068+00:00",
+      "title": "Does Office Type Determine Gendered Campaign Messages?"
+    },
     "doi:10.1080/10584609.2026.2726266": {
       "batch_id": "2026-09-10-7978cc8f69926341",
       "doi": "10.1080/10584609.2026.2726266",
@@ -719,6 +727,14 @@
       "publication_date": "2026-09-09",
       "sent_at": "2026-09-10T15:04:47.519495+00:00",
       "title": "Unlocking the transformative potential of design: reflections from practice on navigating barriers to designing for societal transformation"
+    },
+    "doi:10.1080/14719037.2026.2733924": {
+      "batch_id": "2026-09-19-d3d1f97a5ecf3957",
+      "doi": "10.1080/14719037.2026.2733924",
+      "journal": "Public Management Review",
+      "publication_date": "2026-09-17",
+      "sent_at": "2026-09-19T11:00:59.248068+00:00",
+      "title": "Unpacking local government responsiveness to social media: evidence from Mexico"
     },
     "doi:10.1080/14719037.2026.2733934": {
       "batch_id": "2026-09-16-3de6e0119190eec2",
@@ -1711,6 +1727,14 @@
       "publication_date": "2026-09-10",
       "sent_at": "2026-09-11T15:06:24.604470+00:00",
       "title": "Absenteeism and Presenteeism in Times of Change: The Role of Stress and Job Satisfaction"
+    },
+    "doi:10.1177/0734371x261481345": {
+      "batch_id": "2026-09-19-d3d1f97a5ecf3957",
+      "doi": "10.1177/0734371x261481345",
+      "journal": "Review of Public Personnel Administration",
+      "publication_date": "2026-09-18",
+      "sent_at": "2026-09-19T11:00:59.248068+00:00",
+      "title": "Organizational Resilience in Public Workforce Transitions: A Case Study of Continuity and Change under the DOGE Reforms"
     },
     "doi:10.1177/0734371x261481363": {
       "batch_id": "2026-08-31-16eaf574577d5f58",
@@ -8171,7 +8195,8 @@
           "url": "https://doi.org/10.1177/0734371x261481345"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-19T11:00:59.248068+00:00",
+      "status": "sent"
     }
   },
   "pending": {
