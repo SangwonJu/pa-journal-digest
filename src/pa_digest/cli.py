@@ -138,7 +138,8 @@ def prepare(args: argparse.Namespace) -> int:
     if not args.dry_run:
         state.update_batch_items(batch_id, articles)
         state.save()
-        export_archive(state, getattr(args, "archive", DEFAULT_ARCHIVE))
+        archive_path = getattr(args, "archive", args.state.parent / DEFAULT_ARCHIVE.name)
+        export_archive(state, archive_path)
     _set_github_output("has_batch", "true")
     _set_github_output("batch_id", batch_id)
     print(
