@@ -217,7 +217,6 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
     Crossref와 공개 학술 메타데이터를 기반으로 자동 생성되었습니다. 요약은 원문 초록을 대체하지 않습니다.
     <div style="margin-top:16px;padding-top:16px;border-top:1px solid {RULE};font-family:{FONT_STACK};font-size:14px;line-height:1.55;color:{INK}">
       <a href="{escape(os.getenv('DIGEST_ARCHIVE_URL', DEFAULT_ARCHIVE_URL), quote=True)}" style="color:{INK};font-weight:bold;text-decoration:underline">누적 논문 정리표 다운로드 (XLSX)</a>
-      <div style="margin-top:3px;color:{MUTED};font-size:12px">저자 · 연도 · 제목 · 저널 · 방법론 · 키워드 · 한글 요약 · Abstract</div>
     </div>
   </td></tr>
 </table>

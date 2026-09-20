@@ -51,6 +51,7 @@ def test_render_includes_escaped_content_and_fallback_notice() -> None:
     assert "max-width:900px" in html
     assert "01" in html
     assert "누적 논문 정리표 다운로드 (XLSX)" in html
+    assert "저자 · 연도 · 제목 · 저널 · 방법론 · 키워드 · 한글 요약 · Abstract" not in html
     assert "PA_Journal_Digest_Archive.xlsx" in text
 
 

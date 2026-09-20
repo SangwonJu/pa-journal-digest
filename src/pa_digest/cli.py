@@ -186,6 +186,46 @@ def deliver(args: argparse.Namespace) -> int:
     return 0
 
 
+def backfill_archive(args: argparse.Namespace) -> int:
+    """Recover full summary fields for batches created before the archive existed."""
+    state = StateStore(args.state)
+    records: dict[str, Article] = {}
+    for batch in state.data.get("batches", {}).values():
+        if batch.get("status") == "sent":
+            for record in batch.get("items", []):
+                article = Article.model_validate(record)
+                records.setdefault(article.stable_id, article)
+
+    metadata = MetadataClient(os.environ["CROSSREF_MAILTO"])
+    try:
+        recovered = [metadata.by_public_record(article.model_dump(mode="json")) for article in records.values()]
+    finally:
+        metadata.close()
+
+    summarizer = ArticleSummarizer()
+    completed = 0
+    for article in recovered:
+        if article.abstract:
+            summarizer.summarize(article)
+            completed += 1
+
+    enriched = {article.stable_id: article for article in recovered}
+    for batch in state.data.get("batches", {}).values():
+        if batch.get("status") != "sent":
+            continue
+        items = []
+        for record in batch.get("items", []):
+            original = Article.model_validate(record)
+            items.append(enriched.get(original.stable_id, original).model_dump(mode="json"))
+        batch["items"] = items
+    state.save()
+    export_archive(state, args.archive)
+    _set_github_output("has_batch", "false")
+    _set_github_output("state_changed", "true")
+    print(json.dumps({"status": "archive_backfilled", "records": len(recovered), "summarized": completed}))
+    return 0
+
+
 def resolve_batch(args: argparse.Namespace) -> int:
     state = StateStore(args.state)
     batch = state.data.get("batches", {}).get(args.batch_id)
@@ -231,6 +271,13 @@ def build_parser() -> argparse.ArgumentParser:
     deliver_parser.add_argument("--state", type=Path, default=DEFAULT_STATE)
     deliver_parser.add_argument("--input", type=Path, default=DEFAULT_OUTPUT)
     deliver_parser.set_defaults(func=deliver)
+
+    backfill_parser = subparsers.add_parser(
+        "backfill-archive", help="Recover full fields for previously delivered articles"
+    )
+    backfill_parser.add_argument("--state", type=Path, default=DEFAULT_STATE)
+    backfill_parser.add_argument("--archive", type=Path, default=DEFAULT_ARCHIVE)
+    backfill_parser.set_defaults(func=backfill_archive)
 
     resolve_parser = subparsers.add_parser("resolve-batch", help="Resolve an ambiguous prepared batch")
     resolve_parser.add_argument("batch_id")

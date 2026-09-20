@@ -25,6 +25,11 @@ on:
         required: true
         default: false
         type: boolean
+      backfill_archive:
+        description: Rebuild full archive fields for prior deliveries (does not send email)
+        required: true
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -61,17 +66,21 @@ jobs:
         id: prepare
         shell: bash
         run: |
-          args=(prepare --lookback-days "${{ inputs.lookback_days || '7' }}")
-          if [[ "${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}" == "true" ]]; then
-            args+=(--dry-run)
+          if [[ "${{ github.event_name == 'workflow_dispatch' && inputs.backfill_archive }}" == "true" ]]; then
+            pa-digest backfill-archive
+          else
+            args=(prepare --lookback-days "${{ inputs.lookback_days || '7' }}")
+            if [[ "${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}" == "true" ]]; then
+              args+=(--dry-run)
+            fi
+            if [[ "${{ github.event_name == 'workflow_dispatch' && inputs.resend_latest }}" == "true" ]]; then
+              args+=(--resend-latest)
+            fi
+            if [[ "${{ github.event_name }}" == "schedule" ]]; then
+              args+=(--daily-once)
+            fi
+            pa-digest "${args[@]}"
           fi
-          if [[ "${{ github.event_name == 'workflow_dispatch' && inputs.resend_latest }}" == "true" ]]; then
-            args+=(--resend-latest)
-          fi
-          if [[ "${{ github.event_name }}" == "schedule" ]]; then
-            args+=(--daily-once)
-          fi
-          pa-digest "${args[@]}"
 
       - name: Upload preview
         if: steps.prepare.outputs.has_batch == 'true'
