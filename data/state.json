@@ -8204,6 +8204,12 @@
       "items": [],
       "sent_at": "2026-09-20T11:25:06.215397+00:00",
       "status": "sent"
+    },
+    "2026-09-20-e3b0c44298fc1c14-resend-20260920T191757Z": {
+      "created_at": "2026-09-20T19:17:57.512191+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-20-e3b0c44298fc1c14-resend-20260920T191757Z",
+      "items": [],
+      "status": "prepared"
     }
   },
   "pending": {
