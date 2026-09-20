@@ -5,6 +5,7 @@ import hashlib
 import json
 import os
 import sys
+from concurrent.futures import ThreadPoolExecutor
 from datetime import UTC, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -199,16 +200,20 @@ def backfill_archive(args: argparse.Namespace) -> int:
 
     metadata = MetadataClient(os.environ["CROSSREF_MAILTO"])
     try:
-        recovered = [metadata.by_public_record(article.model_dump(mode="json")) for article in records.values()]
+        source_records = [article.model_dump(mode="json") for article in records.values()]
+        with ThreadPoolExecutor(max_workers=8) as pool:
+            recovered = list(pool.map(metadata.by_public_record, source_records))
     finally:
         metadata.close()
 
-    summarizer = ArticleSummarizer()
-    completed = 0
-    for article in recovered:
-        if article.abstract:
-            summarizer.summarize(article)
-            completed += 1
+    def summarize_one(article: Article) -> bool:
+        if not article.abstract:
+            return False
+        ArticleSummarizer().summarize(article)
+        return True
+
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        completed = sum(pool.map(summarize_one, recovered))
 
     enriched = {article.stable_id: article for article in recovered}
     for batch in state.data.get("batches", {}).values():
