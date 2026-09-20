@@ -10,6 +10,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from .models import Article, PreparedBatch
+from .archive import export_archive
 from .render import render_newsletter
 from .services import ArticleSummarizer, ResendMailer
 from .sources import MetadataClient
@@ -18,6 +19,7 @@ from .state import AmbiguousBatchError, StateStore
 
 DEFAULT_STATE = Path("data/state.json")
 DEFAULT_OUTPUT = Path("build/batch.json")
+DEFAULT_ARCHIVE = Path("data/PA_Journal_Digest_Archive.xlsx")
 NEW_YORK = ZoneInfo("America/New_York")
 
 
@@ -133,7 +135,10 @@ def prepare(args: argparse.Namespace) -> int:
     (args.output.parent / "newsletter.txt").write_text(text, encoding="utf-8")
     if not args.dry_run and not resumed:
         state.prepare(batch_id, idempotency_key, articles, created_at)
+    if not args.dry_run:
+        state.update_batch_items(batch_id, articles)
         state.save()
+        export_archive(state, getattr(args, "archive", DEFAULT_ARCHIVE))
     _set_github_output("has_batch", "true")
     _set_github_output("batch_id", batch_id)
     print(
@@ -207,6 +212,7 @@ def build_parser() -> argparse.ArgumentParser:
     prepare_parser = subparsers.add_parser("prepare", help="Discover, summarize, and render a batch")
     prepare_parser.add_argument("--state", type=Path, default=DEFAULT_STATE)
     prepare_parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
+    prepare_parser.add_argument("--archive", type=Path, default=DEFAULT_ARCHIVE)
     prepare_parser.add_argument("--lookback-days", type=int, default=7)
     prepare_parser.add_argument("--dry-run", action="store_true")
     prepare_parser.add_argument(

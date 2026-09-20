@@ -3,6 +3,7 @@ from __future__ import annotations
 from collections import OrderedDict
 from datetime import date
 from html import escape, unescape
+import os
 
 from .config import JOURNAL_RANK, JOURNAL_TIER
 from .models import Article
@@ -24,6 +25,10 @@ INK = "#302f2b"
 MUTED = "#716d65"
 RULE = "#ddd8ce"
 ACCENT = "#8d8578"
+DEFAULT_ARCHIVE_URL = (
+    "https://github.com/SangwonJu/pa-journal-digest/raw/refs/heads/main/"
+    "data/PA_Journal_Digest_Archive.xlsx"
+)
 
 
 def _affiliations_html(article: Article) -> str:
@@ -210,6 +215,10 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
   <tr><td class="content-pad" style="padding:0 36px;font-family:{FONT_STACK};text-align:left">{content_html}</td></tr>
   <tr><td class="content-pad" style="padding:23px 36px 27px;font-family:{FONT_STACK};font-size:13px;line-height:1.55;color:{MUTED};text-align:left">
     Crossref와 공개 학술 메타데이터를 기반으로 자동 생성되었습니다. 요약은 원문 초록을 대체하지 않습니다.
+    <div style="margin-top:16px;padding-top:16px;border-top:1px solid {RULE};font-family:{FONT_STACK};font-size:14px;line-height:1.55;color:{INK}">
+      <a href="{escape(os.getenv('DIGEST_ARCHIVE_URL', DEFAULT_ARCHIVE_URL), quote=True)}" style="color:{INK};font-weight:bold;text-decoration:underline">누적 논문 정리표 다운로드 (XLSX)</a>
+      <div style="margin-top:3px;color:{MUTED};font-size:12px">저자 · 연도 · 제목 · 저널 · 방법론 · 키워드 · 한글 요약 · Abstract</div>
+    </div>
   </td></tr>
 </table>
 <!--[if mso]></td></tr></table><![endif]-->
@@ -218,5 +227,7 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
         f"PA Journal Digest\n{digest_date.isoformat()} · 신규 논문 {count}편\n\n"
         + content_text
         + "\n\n자동 생성 요약은 원문 초록을 대체하지 않습니다."
+        + "\n누적 논문 정리표 (XLSX): "
+        + os.getenv("DIGEST_ARCHIVE_URL", DEFAULT_ARCHIVE_URL)
     )
     return subject, html_body, text_body

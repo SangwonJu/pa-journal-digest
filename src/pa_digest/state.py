@@ -87,8 +87,14 @@ class StateStore:
             "status": "prepared",
             "created_at": created_at,
             "idempotency_key": idempotency_key,
-            "items": [article.public_record() for article in articles],
+            "items": [article.model_dump(mode="json") for article in articles],
         }
+
+    def update_batch_items(self, batch_id: str, articles: list[Article]) -> None:
+        """Retain the generated summary and tags for the downloadable archive."""
+        self.data["batches"][batch_id]["items"] = [
+            article.model_dump(mode="json") for article in articles
+        ]
 
     def mark_sent(self, batch_id: str, articles: list[Article], sent_at: str) -> None:
         batch = self.data["batches"][batch_id]
