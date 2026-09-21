@@ -11133,6 +11133,185 @@
       "items": [],
       "sent_at": "2026-09-20T19:18:01.283601+00:00",
       "status": "sent"
+    },
+    "2026-09-21-3475a473ab0b963a": {
+      "created_at": "2026-09-21T12:44:06.266388+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-21-3475a473ab0b963a",
+      "items": [
+        {
+          "abstract": "In 1929, the British Empire launched a four-decade development initiative to modernize colonial economies without self-government. Known as the Colonial Development and Welfare Fund, the program required colonial administrations to raise local taxes to cofinance development projects. This article shows that imperial aid expanded colonial taxation only after organizational reforms in the Colonial Service screened in officials who shared the metropole’s developmental agenda and made tax mobilization incentive-compatible with career advancement. Drawing on original data from 12 African colonies and extensive archival evidence, I show that aid increased tax revenues when patronage-based governors were replaced by career officers and promotion within the Colonial Service became conditional on fiscal performance. These findings highlight how bureaucratic incentives shaped the effectiveness of imperial aid and offer a new explanation for the expansion of fiscal capacity in late colonial Africa.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "DIDAC QUERALT": [
+              "Yale University"
+            ]
+          },
+          "authors": [
+            "DIDAC QUERALT"
+          ],
+          "constructs": [
+            "Bureaucracy",
+            "Fiscal Capacity"
+          ],
+          "doi": "10.1017/s0003055426101919",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "질적연구",
+          "method_detail": "기록자료 분석",
+          "publication_date": "2026-09-21",
+          "stable_id": "doi:10.1017/s0003055426101919",
+          "summary_basis": "abstract",
+          "summary_ko": "이 논문은 식민지 개발 원조가 아프리카 식민지의 조세 동원을 언제 확대했는지를 12개 식민지의 원자료와 광범위한 기록자료로 분석한다. 원조는 식민행정의 후원 기반 총독을 경력 관료로 교체하고 승진을 재정 성과와 연계하는 조직개혁이 이루어졌을 때에만 세수를 늘렸다.",
+          "title": "Imperial Aid and Tax Mobilization in Late Colonial Africa",
+          "topic_area": "재무·예산",
+          "url": "https://doi.org/10.1017/s0003055426101919"
+        },
+        {
+          "abstract": "ABSTRACT Artificial intelligence (AI) has gained much interest in public administration and public policy fields in recent years. Research on and that uses AI has so far treated it as an object or context within the broader administrative and governance discourse. In this article, we aim to shift the locus of scholarly attention on AI by focusing on its premise as a new epistemic technology that will shape how scholars conduct research. In doing so, it proposes a framework for leveraging AI as a methodological enabler that augments researchers' cognitive and analytical capabilities, thereby overcoming longstanding methodological barriers in the fields. We propose a framework distinguishing AI applications along two epistemological dimensions of research that make use of synthetic data and real‐world data: (1) inductive approaches to discover patterns and build theory to address exploratory questions (“what,” “so what”), and (2) deductive approaches to test hypotheses and establish causal relationships to serve explanatory and predictive purposes (“why,” “how”). We contend that AI has propelled the fields toward a “new normal science” characterized by human‐machine collaboration.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Jianxiang Tan": [
+              "Department of Public and International Affairs City University of Hong Kong Hong Kong China"
+            ],
+            "Yanto Chandra": [
+              "Department of Public and International Affairs City University of Hong Kong Hong Kong China"
+            ]
+          },
+          "authors": [
+            "Yanto Chandra",
+            "Jianxiang Tan"
+          ],
+          "constructs": [
+            "Epistemic Technology",
+            "Human-Machine Collaboration"
+          ],
+          "doi": "10.1111/psj.70165",
+          "journal": "Policy Studies Journal",
+          "journal_short": "PSJ",
+          "method": "이론/개념",
+          "method_detail": "개념적 모형",
+          "publication_date": "2026-09-20",
+          "stable_id": "doi:10.1111/psj.70165",
+          "summary_basis": "abstract",
+          "summary_ko": "이 논문은 인공지능을 공공행정·정책 연구를 증강하는 새로운 인식론적 기술로 활용할 수 있는 방법을 어떻게 체계화할 것인지 묻고, 합성자료와 현실자료를 대상으로 귀납적 탐색과 연역적 가설·인과 검증을 구분하는 분석 틀을 제시한다. 주요 결론은 AI가 연구자의 인지·분석 능력을 보완하며 인간-기계 협력에 기반한 ‘새로운 정상과학’을 촉진한다는 것이다.",
+          "title": "Epistemic Capabilities of Artificial Intelligence for Public Administration and Policy Research: A Framework for Scholarship in the Age of Intelligent Machines",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1111/psj.70165"
+        },
+        {
+          "abstract": "Abstract One formal mechanism for effecting change to progress the rights of structurally disadvantaged groups is via citizen referenda. However, referenda are often characterized by divisive public debate. We suggest that sustaining action for long‐term change (beyond a referendum itself) may be associated with identifying with an opinion‐based group and perceiving shared values between advantaged and disadvantaged groups. Among a nationally representative sample of Australians ( N = 2467), we examined collective action intentions for the Reconciliation Movement 1 month before, 1 week before, and 1 week after the 2023 Voice to Parliament referendum. Study 1 used a random intercept cross‐lagged panel model to show that value consensus, opinion‐based identification as a supporter of Reconciliation, and reconciliation action were positively associated at a temporally stable level, but within‐person effects did not vary much from these levels. Study 2 used growth mixture models and revealed five diverging trajectories of reconciliation action, which were explained by differences in value consensus, opinion‐based identification, and support/opposition to the Voice referendum. Our findings offer some of the first evidence showing that value consensus and opinion‐based identification are associated with sustaining action for social change, especially during times of polarization and division.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Emily A. Haines": [
+              "College of Human Sciences and Culture Flinders University Adelaide South Australia Australia"
+            ],
+            "Emma F. Thomas": [
+              "College of Human Sciences and Culture Flinders University Adelaide South Australia Australia"
+            ],
+            "Janquel D. Acevedo": [
+              "School of Psychology The University of Queensland Brisbane Queensland Australia"
+            ],
+            "Michael Wenzel": [
+              "College of Human Sciences and Culture Flinders University Adelaide South Australia Australia"
+            ],
+            "Susilo Wibisono": [
+              "School of Psychology Murdoch University Perth Western Australia Australia"
+            ],
+            "Winnifred R. Louis": [
+              "School of Psychology The University of Queensland Brisbane Queensland Australia"
+            ]
+          },
+          "authors": [
+            "Emily A. Haines",
+            "Emma F. Thomas",
+            "Susilo Wibisono",
+            "Winnifred R. Louis",
+            "Janquel D. Acevedo",
+            "Michael Wenzel"
+          ],
+          "constructs": [
+            "Value Consensus",
+            "Opinion-Based Identification"
+          ],
+          "doi": "10.1111/pops.70195",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "혼합방법론",
+          "method_detail": "패널·궤적 분석",
+          "publication_date": "2026-09-21",
+          "stable_id": "doi:10.1111/pops.70195",
+          "summary_basis": "abstract",
+          "summary_ko": "2023년 호주 ‘의회 발언권(Voice to Parliament)’ 국민투표를 전후해, 화해운동의 장기적 집단행동 의도가 공유 가치 인식과 의견 기반 집단 동일시와 어떻게 관련되는지 전국 대표 표본 설문으로 분석했다. 패널 모형과 성장 혼합 모형 분석 결과, 두 요인은 화해 행동과 시간적으로 안정적인 긍정적 관련을 보였고, 가치 합의·동일시·국민투표 찬반에 따라 화해 행동의 다섯 가지 궤적이 나타났다.",
+          "title": "From referendum to reconciliation: How shared values and identities align with a commitment to long‐term collective action",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70195"
+        },
+        {
+          "abstract": "ABSTRACT This paper examines how a propaganda frame alleging the existence of a “Censorship Industrial Complex” was institutionalized and then helped justify the dismantling of US election information resilience infrastructure across multiple federal agencies. Drawing on documentary evidence and process tracing, we show how political entrepreneurs reframed routine, non‐coercive election information coordination and communication practices as a covert censorship regime targeting conservative speech. The article argues that this case is best understood as administrative deformation: weakly evidenced claims were laundered into higher‐status venues, including congressional investigations, litigation, executive action, and budget rationales, where they altered the incentive environment facing public agencies. The result was staff reductions, program cuts, and chilling effects, and weakened state capacity in a core domain of democratic administration. We conclude with recommendations for protecting administrative resilience under conditions of narrative attack.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Dean Jackson": [
+              "University of Pittsburgh's Communication Research Technology Lab (CTRL) Pittsburgh Pennsylvania USA"
+            ],
+            "Renée DiResta": [
+              "Georgetown University's McCourt School of Public Policy Washington DC USA"
+            ]
+          },
+          "authors": [
+            "Renée DiResta",
+            "Dean Jackson"
+          ],
+          "constructs": [
+            "Administrative Deformation",
+            "State Capacity"
+          ],
+          "doi": "10.1111/puar.70198",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "질적연구",
+          "method_detail": "문서 분석·과정추적",
+          "publication_date": "2026-09-20",
+          "stable_id": "doi:10.1111/puar.70198",
+          "summary_basis": "abstract",
+          "summary_ko": "이 논문은 ‘검열 산업 복합체’라는 선전 프레임이 어떻게 제도화되어 미국 연방기관의 선거 정보 회복탄력성 인프라 해체를 정당화했는지 문서 증거와 과정추적을 통해 분석한다. 근거가 취약한 주장이 의회 조사·소송·행정조치·예산 논리 등 권위 있는 장으로 유입되면서 기관의 유인 환경을 바꾸고, 인력 감축·프로그램 축소·위축 효과를 통해 민주적 행정의 핵심 영역에서 국가역량을 약화시켰다고 주장한다.",
+          "title": "Propaganda, Administrative Deformation, and the Erosion of State Capacity: The Case of the “Censorship Industrial Complex”",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1111/puar.70198"
+        },
+        {
+          "abstract": "Public employees increasingly face turbulent challenges in which principles such as foresight, planning, and consensus-seeking fall short. We examine bricolage as a robust governance strategy and conceptualize turbulence as a contextual moderator of the relationship between public leadership and bricolage behaviour. Based on survey data from 368 German public employees, the findings suggest that bricolage is less practiced under turbulent conditions. While rule-following leadership, contrary to expectations, becomes even more strongly and positively related to bricolage behaviour as conditions grow more turbulent, the positive association between accountability leadership and bricolage behaviour weakens substantially. Surprisingly, network governance leadership does not gain in importance. This study contributes to public administration research by further conceptualizing and exploring bricolage as a micro-level behavioural capacity in response to turbulence, by operationalizing turbulence as a graded situational stressor, and by demonstrating that turbulent contexts constitute a critical boundary condition for the exercise of public leadership.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Finn Kabatas": [
+              "University of Hamburg"
+            ],
+            "Rick Vogel": [
+              "University of Hamburg"
+            ]
+          },
+          "authors": [
+            "Finn Kabatas",
+            "Rick Vogel"
+          ],
+          "constructs": [
+            "Bricolage",
+            "Turbulence"
+          ],
+          "doi": "10.1080/14719037.2026.2731445",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "서베이",
+          "method_detail": "횡단면 설문",
+          "publication_date": "2026-09-21",
+          "stable_id": "doi:10.1080/14719037.2026.2731445",
+          "summary_basis": "abstract",
+          "summary_ko": "독일 공무원 368명을 대상으로 한 설문을 통해, 격변성이 공공리더십과 관료제 내 브리콜라주 행동의 관계를 어떻게 조절하는지 분석했다. 격변적 조건에서는 브리콜라주가 전반적으로 덜 나타났지만, 규칙준수 리더십과의 긍정적 관계는 강화된 반면 책무성 리더십과의 관계는 약화되었고, 네트워크 거버넌스 리더십의 중요성은 커지지 않았다.",
+          "title": "Bricolage in bureaucracies: public leadership and bricolage behaviour in turbulent situations",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1080/14719037.2026.2731445"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -11155,7 +11334,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -11176,7 +11355,7 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
@@ -11209,7 +11388,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -11250,7 +11429,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -11275,7 +11454,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -11293,7 +11472,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -11311,7 +11490,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -11333,7 +11512,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -11354,7 +11533,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -11374,7 +11553,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -11391,7 +11570,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -11412,7 +11591,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -11429,7 +11608,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -11447,7 +11626,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -11467,7 +11646,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -11488,7 +11667,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -11503,7 +11682,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -11524,7 +11703,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -11539,7 +11718,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -11554,7 +11733,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-20T11:19:20.572615+00:00"
+      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
     }
   },
   "version": 1
