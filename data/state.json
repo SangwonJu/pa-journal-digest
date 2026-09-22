@@ -11353,6 +11353,82 @@
       ],
       "sent_at": "2026-09-21T12:50:18.636048+00:00",
       "status": "sent"
+    },
+    "2026-09-22-be1d8a3bc3893159": {
+      "created_at": "2026-09-22T11:34:38.978993+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-22-be1d8a3bc3893159",
+      "items": [
+        {
+          "abstract": "ABSTRACT Regulatory capture, where special interests steer regulation away from public interest, is widely discussed, but its broader public consequences remain underexplored. We explore the relationship between perceived regulatory capture, public trust and pro‐environmental behaviors using online survey data in China. Findings show that perceived material and information capture (the latter measured with a single scenario‐based proxy) have significant negative associations with public trust in local ( b = −0.154, −0.105) and central government ( b = −0.087, −0.064). Direct associations with non‐activist pro‐environmental behaviors in the public sphere are consistently negative and supported by bootstrapped confidence intervals across specifications (material: β = −0.066 to −0.082; information: β = −0.036 to −0.047), whereas several corresponding private sphere associations are not. Indirect associations are supported only in selected models. These findings highlight the public implications of regulatory capture, distinguishing material and information capture, and extend understanding of public trust and pro‐environmental behaviors.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Jianhua Xu": [
+              "School of Government Peking University Beijing China",
+              "Institute for Global Health and Development Peking University Beijing China"
+            ],
+            "Songsong Chen": [
+              "School of Public Policy and Management Tsinghua University Beijing China"
+            ]
+          },
+          "authors": [
+            "Songsong Chen",
+            "Jianhua Xu"
+          ],
+          "constructs": [
+            "Regulatory Capture",
+            "Public Trust"
+          ],
+          "doi": "10.1111/padm.70096",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "method": "서베이",
+          "method_detail": "온라인 설문 분석",
+          "publication_date": "2026-09-21",
+          "stable_id": "doi:10.1111/padm.70096",
+          "summary_basis": "abstract",
+          "summary_ko": "중국 온라인 설문자료를 활용해 인식된 규제 포획이 지방·중앙정부에 대한 공공 신뢰 및 친환경 행동과 어떤 관련이 있는지 분석했다. 물질적·정보적 포획 인식은 정부 신뢰와 공공 영역의 비활동적 친환경 행동에 일관되게 부정적으로 연관됐지만, 사적 영역 행동과 신뢰를 통한 간접 연관은 일부 모형에서만 지지됐다.",
+          "title": "Regulatory Capture, Public Trust and Pro‐Environmental Behaviors",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1111/padm.70096"
+        },
+        {
+          "abstract": "ABSTRACT In crisis responses such as the COVID‐19 medical supply shortage, senior policy makers often emphasize urgency, a strategy that prioritizes the rapid achievement of intermediate goals. While this approach can drive swift action, it also introduces challenges and trade‐offs that can hinder collaboration toward long‐term success. These challenges often arise from misalignment between organizational norms and priorities of collaborating partners, which can undermine legitimacy and performance. Policymakers should consider how personnel composition, such as large military contingents, shapes task force culture and operational dynamics. Even in fast‐moving crises, clearly aligning roles, goals, and timelines from the start can reduce confusion, while leaders must navigate cultural norms and challenge ingrained practices to support collaboration.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Christopher Bowers": [
+              "US Department of Defense Washington DC USA"
+            ],
+            "James L. Olds": [
+              "Schar School of Policy and Government George Mason University Washington DC USA"
+            ],
+            "Qian Hu": [
+              "Schar School of Policy and Government George Mason University Washington DC USA"
+            ]
+          },
+          "authors": [
+            "Christopher Bowers",
+            "Qian Hu",
+            "James L. Olds"
+          ],
+          "constructs": [
+            "Collaborative Governance",
+            "Organizational Culture"
+          ],
+          "doi": "10.1111/puar.70208",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "질적연구",
+          "method_detail": "사례 분석",
+          "publication_date": "2026-09-21",
+          "stable_id": "doi:10.1111/puar.70208",
+          "summary_basis": "abstract",
+          "summary_ko": "코로나19 의료물자 부족 위기에서 긴급성을 우선하는 대응이 협력의 장기적 성공에 어떤 긴장과 상충을 초래하는지 검토한다. 협력 기관 간 규범·우선순위의 불일치, 대규모 군 인력의 참여에 따른 태스크포스 문화, 역할·목표·일정의 불명확성이 협력의 정당성과 성과를 저해할 수 있으며, 초기 조정과 문화적 규범에 대한 리더십이 이를 완화할 수 있음을 제시한다.",
+          "title": "Managing Collaboration Dynamics Under Pressure: Lessons From the COVID ‐19 Medical Supply Shortage",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1111/puar.70208"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -11375,7 +11451,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -11396,7 +11472,7 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
@@ -11429,7 +11505,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -11470,7 +11546,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -11495,7 +11571,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -11513,7 +11589,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -11531,7 +11607,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -11553,7 +11629,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -11574,7 +11650,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -11594,7 +11670,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -11611,7 +11687,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -11632,7 +11708,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -11649,7 +11725,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -11667,7 +11743,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -11687,7 +11763,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -11708,7 +11784,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -11723,7 +11799,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -11744,7 +11820,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -11759,7 +11835,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -11774,7 +11850,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-21T12:44:06.266388+00:00"
+      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
     }
   },
   "version": 1
