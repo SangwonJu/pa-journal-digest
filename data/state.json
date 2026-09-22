@@ -1224,6 +1224,14 @@
       "sent_at": "2026-09-17T11:46:18.095768+00:00",
       "title": "The Right Key for the Right Lock: How Government Response Methods and Demand Types Affect Citizen Satisfaction"
     },
+    "doi:10.1111/padm.70096": {
+      "batch_id": "2026-09-22-be1d8a3bc3893159",
+      "doi": "10.1111/padm.70096",
+      "journal": "Public Administration",
+      "publication_date": "2026-09-21",
+      "sent_at": "2026-09-22T11:38:46.588049+00:00",
+      "title": "Regulatory Capture, Public Trust and Pro‐Environmental Behaviors"
+    },
     "doi:10.1111/pops.70126": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
       "doi": "10.1111/pops.70126",
@@ -1599,6 +1607,14 @@
       "publication_date": "2026-09-11",
       "sent_at": "2026-09-12T14:13:26.103681+00:00",
       "title": "The “Professional Mortality” Problem in Early City Management: A Study of Organized Denial"
+    },
+    "doi:10.1111/puar.70208": {
+      "batch_id": "2026-09-22-be1d8a3bc3893159",
+      "doi": "10.1111/puar.70208",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-09-21",
+      "sent_at": "2026-09-22T11:38:46.588049+00:00",
+      "title": "Managing Collaboration Dynamics Under Pressure: Lessons From the COVID ‐19 Medical Supply Shortage"
     },
     "doi:10.1177/00953997261467698": {
       "batch_id": "2026-08-17-92d20fbd959228aa",
@@ -11428,7 +11444,8 @@
           "url": "https://doi.org/10.1111/puar.70208"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-22T11:38:46.588049+00:00",
+      "status": "sent"
     }
   },
   "pending": {
