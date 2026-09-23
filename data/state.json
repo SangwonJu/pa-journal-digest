@@ -11446,6 +11446,403 @@
       ],
       "sent_at": "2026-09-22T11:38:46.588049+00:00",
       "status": "sent"
+    },
+    "2026-09-23-44e485dedc948b31": {
+      "created_at": "2026-09-23T11:31:33.572221+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-23-44e485dedc948b31",
+      "items": [
+        {
+          "abstract": "Abstract Low‐skilled men have long been vulnerable to globalization, decarbonization, and other forms of economic disruption. When shocks are realized, women often increase their paid labor to compensate for men's loss of income. We study how layoffs of low‐skilled men and concurrent shifts in workforce composition toward women affect voting. We theorize that this labor market rebalancing produces “nostalgic” coalitions of men and women that seek a return to male‐breadwinner family models. Such attitudes fuel right‐wing movements that pledge to protect conservative gender roles. Evidence from local labor markets and voting in the United States over the last two decades, as well as a longitudinal study tracking individual Americans over several decades, support this theory. These findings contribute a new gender‐based account of the globalization backlash.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Noah Zucker": [
+              "Assistant Professor, Department of Politics Princeton University Princeton New Jersey USA"
+            ],
+            "Richard Clark": [
+              "Associate Professor, Department of Political Science University of Notre Dame Notre Dame Indiana USA"
+            ],
+            "Roza Khoban": [
+              "Postdoctoral Researcher, Department of Economics University of Zurich Zürich Switzerland"
+            ]
+          },
+          "authors": [
+            "Richard Clark",
+            "Roza Khoban",
+            "Noah Zucker"
+          ],
+          "constructs": [
+            "Gender Backlash",
+            "Male Breadwinner"
+          ],
+          "doi": "10.1111/ajps.70080",
+          "journal": "American Journal of Political Science",
+          "journal_short": "AJPS",
+          "method": "혼합방법론",
+          "method_detail": "지역시장·패널분석",
+          "publication_date": "2026-09-22",
+          "stable_id": "doi:10.1111/ajps.70080",
+          "summary_basis": "abstract",
+          "summary_ko": "저숙련 남성의 해고와 여성 중심으로 재편되는 노동시장 구성이 투표에 미치는 영향을 분석한 결과, 이러한 재편은 남성 생계부양자 가족모델로의 회귀를 추구하는 남녀의 ‘향수적’ 연합과 우파 운동을 강화하는 것으로 나타났다. 연구는 미국의 지역 노동시장·투표 자료와 장기 개인추적 자료를 활용해 이론을 검증했다.",
+          "title": "Breadwinner backlash: The gendered effects of industrial decline",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/ajps.70080"
+        },
+        {
+          "abstract": "To mitigate and adapt to the challenges posed by population aging, the Chinese government had implemented the New Rural Pension Program (NRPP), a top-down initiative with extensive coverage. As a form of social welfare, it remains unclear whether the implementation of the NRPP improves rural residents’ attitudes toward public services. To identify this causal relationship, this study disaggregates public services attitudes into eight dimensions and employs five waves of CFPS data (2012–2020) to examine the effects of NRPP benefit receipt on public services attitudes. Results show that receiving social welfare significantly improves farmers’ evaluations of public services. Moreover, increased trust in local officials serves as an important mechanism, while household size moderates this effect. This study extends the explanatory scope of theories such as self-interest theory and offers targeted recommendations for the construction and development of China’s social security system.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Qianqian Huang": [
+              "East China Normal University"
+            ],
+            "Yang Peng": [
+              "Shanghai Jiao Tong University"
+            ]
+          },
+          "authors": [
+            "Qianqian Huang",
+            "Yang Peng"
+          ],
+          "constructs": [
+            "Self-Interest Theory",
+            "Political Trust"
+          ],
+          "doi": "10.1080/01900692.2026.2716147",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "method": "서베이",
+          "method_detail": "패널 설문",
+          "publication_date": "2026-09-22",
+          "stable_id": "doi:10.1080/01900692.2026.2716147",
+          "summary_basis": "abstract",
+          "summary_ko": "중국 신농촌연금제도(NRPP) 급여 수급이 농촌 주민의 공공서비스 태도에 미치는 인과적 영향을 분석하기 위해 2012~2020년 CFPS 5개 시점 자료로 공공서비스 태도를 8개 차원으로 나누어 검토했다. 사회복지 수급은 공공서비스 평가를 유의하게 높였으며, 지방 공무원에 대한 신뢰가 주요 기제이고 가구 규모가 이 효과를 조절했다.",
+          "title": "How Does Participation in the New Rural Pension Program Affect Attitudes Toward Public Services?",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1080/01900692.2026.2716147"
+        },
+        {
+          "abstract": "Public sector organizations increasingly operate within broader performance regimes—the wider systems of rules, actors, and practices that shape how performance is measured and managed—yet little research has examined how these regimes enable or block attempts of public sector organizations to redesign their performance measurement (PM) systems. This study addresses that gap by developing an analytical framework built around the concept of lock-in mechanisms, which provides a structured way to identify regulatory, material, behavioral and discursive barriers to the redesign of public sector PM. This framework is then applied to the performance regime governing Danish employment services, where municipal job centers are actively trying to redesign their PM systems to better reflect client experiences and value creation. Our findings reveal that redesign efforts are constrained by lock-in mechanisms operating at three distinct levels: within the institutional context, mechanisms entrench upward accountability as the dominant purpose of PM; at the level of performance actors, mechanisms preserve rigid boundaries between those who are measured and those who do the measuring; and at the level of performance interventions, mechanisms sustain top-down uses of performance information, limiting more bottom-up approaches.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Niklas Andreas Andersen": [
+              "Aalborg University"
+            ]
+          },
+          "authors": [
+            "Niklas Andreas Andersen"
+          ],
+          "constructs": [
+            "Performance Regimes",
+            "Lock-in Mechanisms"
+          ],
+          "doi": "10.1080/10967494.2026.2706792",
+          "journal": "International Public Management Journal",
+          "journal_short": "IPMJ",
+          "method": "질적연구",
+          "method_detail": "사례 적용 분석",
+          "publication_date": "2026-09-22",
+          "stable_id": "doi:10.1080/10967494.2026.2706792",
+          "summary_basis": "abstract",
+          "summary_ko": "공공부문 성과측정 체계의 재설계를 가로막거나 가능하게 하는 성과 레짐의 잠금 메커니즘을 분석하기 위해, 덴마크 고용서비스의 성과 레짐에 분석틀을 적용했다. 제도적 맥락에서는 상향책임성, 성과 행위자 수준에서는 측정자와 피측정자의 경계, 성과 개입 수준에서는 하향식 성과정보 활용이 고착되어 재설계를 제약하는 것으로 나타났다.",
+          "title": "Arrested development: how performance regimes constrain changes to public sector performance measurement",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1080/10967494.2026.2706792"
+        },
+        {
+          "abstract": "Traditional hierarchical approaches to governing and leading public professionals have not always proven successful, and integrative and hybrid perspectives on professionalism are therefore receiving increasing attention. This study integrates professional development leadership (PDL) and distributed leadership (DL) theory and introduces the concept of distributed professional development leadership (D-PDL). D-PDL implies that employees without formal leadership responsibilities are engaged in core PDL activities focused on facilitating and realizing a shared understanding of professionalism within the scope of organizational goals. The study theorizes that professionals’ engagement in D-PDL leads to more autonomous motivation than engagement in generic DL, which covers a broad range of leadership activities that are disconnected from the professional core task. Survey data from approximately 2,400 Danish medical doctors support the theoretical framework and show that doctors’ engagement in D-PDL is associated with more intrinsic motivation and public service motivation, whereas their engagement in generic DL is primarily associated with extrinsic motivation. The study emphasizes the relevance of moving PDL beyond a leader-centric concept and of distinguishing between different types of DL activities.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Clara Siboni Lund": [
+              "Aarhus University"
+            ]
+          },
+          "authors": [
+            "Clara Siboni Lund"
+          ],
+          "constructs": [
+            "Distributed Leadership",
+            "Public Service Motivation"
+          ],
+          "doi": "10.1080/10967494.2026.2710326",
+          "journal": "International Public Management Journal",
+          "journal_short": "IPMJ",
+          "method": "서베이",
+          "method_detail": "횡단 설문",
+          "publication_date": "2026-09-22",
+          "stable_id": "doi:10.1080/10967494.2026.2710326",
+          "summary_basis": "abstract",
+          "summary_ko": "본 연구는 전문직 개발 리더십(PDL)과 분산적 리더십(DL)을 통합해 분산적 전문직 개발 리더십(D-PDL)을 개념화하고, 일반적 DL보다 전문직의 자율적 동기를 더 높이는지 덴마크 의사 약 2,400명의 설문자료로 검토했다. D-PDL 참여는 내재적 동기와 공공봉사동기와 연관된 반면, 일반적 DL 참여는 주로 외재적 동기와 연관되는 것으로 나타났다.",
+          "title": "Differentiating distributed leadership: introducing distributed professional development leadership and its motivational consequences",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1080/10967494.2026.2710326"
+        },
+        {
+          "abstract": "Public service motivation (PSM) is widely treated as a resource that strengthens engagement, yet excessive motivation may yield diminishing returns. Integrating the job demands-resources model, conservation of resources theory, and the too-much-of-a-good-thing logic, this study tests a curvilinear relationship between PSM and job exhaustion, and the moderating role of collaborative culture. Using a two-wave survey of 408 Korean public servants with a one-month lag, hierarchical regressions identify a U-shaped pattern: exhaustion declines at low-to-moderate PSM but rises beyond a threshold. Collaborative culture significantly flattens this curve, indicating that supportive, collective norms mitigate PSM-related strain at very high levels of PSM. The findings challenge the assumption that PSM is uniformly beneficial, recasting PSM as a conditional resource that can operate as a demand at high levels. The study clarifies when PSM is sustainable and positions collaboration as an actionable boundary condition, yielding implications for motivation theory and for the collaborative organization of public service.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Jiyun Baek": [
+              "University of Nebraska at Omaha"
+            ]
+          },
+          "authors": [
+            "Jiyun Baek"
+          ],
+          "constructs": [
+            "PSM",
+            "Job Demands-Resources Model"
+          ],
+          "doi": "10.1080/10967494.2026.2710329",
+          "journal": "International Public Management Journal",
+          "journal_short": "IPMJ",
+          "method": "서베이",
+          "method_detail": "2시점 설문",
+          "publication_date": "2026-09-22",
+          "stable_id": "doi:10.1080/10967494.2026.2710329",
+          "summary_basis": "abstract",
+          "summary_ko": "한국 공무원 408명을 대상으로 1개월 간격의 2시점 설문과 위계적 회귀분석을 통해 공공봉사동기(PSM)와 직무 소진의 비선형 관계 및 협력적 조직문화의 조절효과를 검증했다. PSM은 낮거나 중간 수준에서는 소진을 낮추지만 일정 수준을 넘으면 소진을 높였으며, 협력적 조직문화는 이러한 U자형 관계를 완화했다.",
+          "title": "Motivated to exhaustion? Public service motivation, curvilinear strain, and the buffer of collaborative culture",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1080/10967494.2026.2710329"
+        },
+        {
+          "abstract": "Administrative reforms often seek to improve performance by changing bureaucratic or professional expertise. Yet technical skills alone may not disrupt the forces that generate unequal outcomes across social groups. We argue that systemic bias shapes professionalization and discretionary judgment, limiting expertise-substitution reforms’ capacity to reduce racial disparities even when they improve average outcomes. We test this using a 2018 Dallas reform that deployed co-response teams pairing police officers with clinicians and social workers on mental health calls. A difference-in-­differences analysis across divisions finds significant reductions in psychiatric holds and arrests, but the gains concentrate among White male citizens; arrests of Black males increase significantly. A complementary incident-level analysis of the conditional probability of a coercive outcome points to a different pattern of heterogeneous effects: White males show a higher post-reform probability of psychiatric holds while Black females and Hispanic males experience lower ones. Both sets of findings shed new light on the scholarship of administrative reform and hold practical implications for both the impact of such programs and the ways in which they are evaluated.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Danyao Li": [
+              "University of Southern California"
+            ],
+            "James E. Wright": [
+              "Arizona State University"
+            ],
+            "Jill Nicholson-Crotty": [
+              "Indiana University"
+            ],
+            "Sean Nicholson-Crotty": [
+              "Indiana University"
+            ]
+          },
+          "authors": [
+            "Danyao Li",
+            "Sean Nicholson-Crotty",
+            "Jill Nicholson-Crotty",
+            "James E. Wright"
+          ],
+          "constructs": [
+            "Administrative Expertise",
+            "Discretion"
+          ],
+          "doi": "10.1080/10967494.2026.2728697",
+          "journal": "International Public Management Journal",
+          "journal_short": "IPMJ",
+          "method": "준실험",
+          "method_detail": "이중차분",
+          "publication_date": "2026-09-22",
+          "stable_id": "doi:10.1080/10967494.2026.2728697",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 전문지식 대체형 행정개혁이 인종별 불평등을 줄일 수 있는지, 2018년 댈러스의 경찰·임상가·사회복지사 공동대응팀 개혁을 대상으로 부서 간 이중차분 및 사건 수준 분석으로 검토했다. 정신과적 강제입원과 체포는 전반적으로 감소했지만 효과는 백인 남성에게 집중되었고, 흑인 남성의 체포는 유의하게 증가했으며, 강제적 결과의 조건부 확률에서도 인종·성별에 따른 이질적 효과가 나타났다.",
+          "title": "Reform for all? The limits of expertise in producing equitable outcomes",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1080/10967494.2026.2728697"
+        },
+        {
+          "abstract": "Strategy content is an inherent part of the strategic management of public service organizations. Venerable research on strategy content proposes that organizations with the strategic stance of a prospector (i.e. innovation-oriented) outperform a defender (i.e. core business-oriented) in terms of public service performance (PSP), while a reactor (i.e. awaits instructions) negatively associates with PSP. Previous reviews have supported these propositions, but they have relied on binary integration techniques. We present meta-analytic evidence (articles = 22, effect sizes = 88) of the extent to which strategy content matters for PSP. Our findings support expectations; however, the overall effect sizes are not major: small to moderate for prospectors and trivial for defenders and reactors. Strategy content matters at least somewhat but is hardly a silver bullet and needs to be considered in relation to broader strategy processes and practices. Variation in effect sizes is uncovered _via_ moderator analysis. A prospector strategy appears more pronounced when performance is measured as an index or output (less well for effectiveness and efficiency) and for multi-purpose organizations. A defender strategy is associated with enhancing outputs and for single-purpose organizations. In conclusion, we reconsider the venerable tenets of the strategy content–PSP relationship and stipulate an agenda for future research.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Bert George": [
+              "City University of Hong Kong"
+            ],
+            "Richard M. Walker": [
+              "Lingnan University"
+            ]
+          },
+          "authors": [
+            "Richard M. Walker",
+            "Bert George"
+          ],
+          "constructs": [
+            "strategy content",
+            "public service performance"
+          ],
+          "doi": "10.1080/10967494.2026.2709450",
+          "journal": "International Public Management Journal",
+          "journal_short": "IPMJ",
+          "method": "혼합방법론",
+          "method_detail": "메타분석·조절분석",
+          "publication_date": "2026-09-22",
+          "stable_id": "doi:10.1080/10967494.2026.2709450",
+          "summary_basis": "abstract",
+          "summary_ko": "전략 내용이 공공서비스 성과에 얼마나 영향을 미치는지 22편 논문과 88개 효과크기를 활용한 메타분석으로 검토했다. 기대한 방향은 대체로 지지됐지만 효과는 전반적으로 작았으며, 탐색자 전략은 산출·지표 기반 성과와 다목적 조직에서, 방어자 전략은 산출 증대와 단일목적 조직에서 더 두드러졌다.",
+          "title": "Revisiting the venerable debate on strategy content and public service performance",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1080/10967494.2026.2709450"
+        },
+        {
+          "abstract": "While contracting out is often viewed as having negative consequences for public employees, less attention has been paid to the positive outcomes certain types of contracting may have for them. In particular, recent scholarship proposes that contracting out may improve employees’ work attitudes when it emphasizes pro-social factors in the process. Using the case of the federal Small Disadvantaged Business (SDB) contracting program—which emphasizes diversity and equity in procurement—this study examines whether contracting programs that promote social outcomes are associated with public employees’ job satisfaction. Drawing from research on sector differences, person-organization fit, and representative bureaucracy, we hypothesize a positive association between SDB contracting efforts and job satisfaction, with employees from underrepresented backgrounds experiencing a more pronounced increase. Linking U.S. federal government contracting data to the Federal Employee Viewpoint Survey (FEVS), our analyses provide support for the hypotheses. The implications of these findings for government contracting and public human resource management are discussed.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Wan-Ju Hung": [
+              "Texas Tech University"
+            ],
+            "Yung-Yu Tsai": [
+              "National Chengchi University"
+            ]
+          },
+          "authors": [
+            "Wan-Ju Hung",
+            "Yung-Yu Tsai"
+          ],
+          "constructs": [
+            "Person-Organization Fit",
+            "Representative Bureaucracy"
+          ],
+          "doi": "10.1080/10967494.2026.2716270",
+          "journal": "International Public Management Journal",
+          "journal_short": "IPMJ",
+          "method": "혼합방법론",
+          "method_detail": "행정자료 연계",
+          "publication_date": "2026-09-22",
+          "stable_id": "doi:10.1080/10967494.2026.2716270",
+          "summary_basis": "abstract",
+          "summary_ko": "연방 소기업 불리기업(SDB) 계약 프로그램처럼 다양성과 형평성 등 친사회적 성과를 강조하는 외주계약이 공무원의 직무만족도와 관련되는지, 그리고 그 효과가 소수 배경 직원에게 더 큰지를 검토했다. 연방 계약자료와 연방 공무원 인식조사(FEVS)를 연계한 분석 결과, SDB 계약 노력은 직무만족도와 긍정적으로 관련되며 그 증가 폭은 대표성이 낮은 배경의 직원에게 더 큰 것으로 나타났다.",
+          "title": "Socially oriented contracting and public employees’ job satisfaction: evidence from the federal small disadvantaged business program",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1080/10967494.2026.2716270"
+        },
+        {
+          "abstract": "This paper draws together insights from political science and political communication to advance a new understanding of the role of media in democratic backsliding and resilience. The central argument is that all political actors may also be media actors, although they may do so anonymously or use false identities. Thus, mass participation in media enables mass participation in political change, with better and worse democratic outcomes. As such, when analyzing backsliding and resilience scholars need to move away from focusing solely on particular institutions and actors with presumed democratic functions, as well as assuming that media and expressive freedom will necessarily serve democratic ends. Instead, we advocate analyzing how the participatory media practices of various actors interact with one another via communicative structures within processes of backsliding and resilience. Participatory media practices that prevent democratic breakdown include disseminating early warnings of backsliding, exposing executive errors and corruption, coordinating pro-democratic mobilization, and platforming the opposition, as well as countering disinformation and delegitimizing democratic institutions and processes. We also indicate how participatory media practices may aid democratic bounceback, as well as the challenges involved in reimagining the media infrastructure needed to sustain democratic recovery in the long-term. Thus, we argue that democratic backsliding and resilience should be reconceptualized as profoundly participatory, mediated processes.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Daniel Kreiss": [
+              "University of North Carolina"
+            ],
+            "Kate Wright": [
+              "University of Edinburgh"
+            ]
+          },
+          "authors": [
+            "Daniel Kreiss",
+            "Kate Wright"
+          ],
+          "constructs": [
+            "Democratic Backsliding",
+            "Media Participation"
+          ],
+          "doi": "10.1080/10584609.2026.2735919",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "method": "이론/개념",
+          "method_detail": "개념적 종합",
+          "publication_date": "2026-09-22",
+          "stable_id": "doi:10.1080/10584609.2026.2735919",
+          "summary_basis": "abstract",
+          "summary_ko": "본 논문은 민주적 퇴행과 회복탄력성을 분석할 때 정치행위자와 미디어행위자의 구분을 넘어, 다양한 행위자의 참여적 미디어 관행이 의사소통 구조를 통해 상호작용하는 매개된 과정에 주목해야 한다고 주장한다. 이러한 관행은 퇴행의 조기 경고·권력 남용 폭로·민주적 동원·야당의 발언 기회 제공·허위정보 대응 등을 통해 민주주의의 붕괴를 막거나 회복을 지원할 수 있지만, 반대로 민주적 제도와 절차를 약화시킬 수도 있다.",
+          "title": "Political Actors and Their Media Practices: Analyzing the Role of Media Participation in Democratic Backsliding and Resilience",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1080/10584609.2026.2735919"
+        },
+        {
+          "abstract": "This article makes the argument that design can serve the purpose of transforming power relations in societal transitions. The article discusses diverse theories of power and their relationship to design, whereby it considers aspects of agency, relationality and scale. Using a design anthropology approach, a theoretical framework is defined for the empirical study of power. The framework is operationalized in a local energy transition project in Amsterdam Southeast. In this empirical study, we describe three power relations that were encountered, the design interventions performed, and their transformative outcomes. Finally, the broader implications for design in societal transitions are discussed.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Abhigyan Singh": [
+              "Delft University of Technology",
+              "Amsterdam Institute for Advanced Metropolitan Solutions, the Netherlands"
+            ],
+            "Bregje F. van Eekelen": [
+              "Delft University of Technology"
+            ],
+            "David Keyson": [
+              "Delft University of Technology"
+            ],
+            "Gijs van Leeuwen": [
+              "Radboud University",
+              "Delft University of Technology"
+            ]
+          },
+          "authors": [
+            "Gijs van Leeuwen",
+            "Abhigyan Singh",
+            "Bregje F. van Eekelen",
+            "David Keyson"
+          ],
+          "constructs": [
+            "Power Relations",
+            "Agency"
+          ],
+          "doi": "10.1080/14719037.2026.2728027",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "디자인 인류학",
+          "publication_date": "2026-09-22",
+          "stable_id": "doi:10.1080/14719037.2026.2728027",
+          "summary_basis": "abstract",
+          "summary_ko": "이 논문은 사회적 전환에서 디자인이 행위성·관계성·규모를 고려해 권력관계를 변형할 수 있는지 이론화하고, 디자인 인류학의 분석틀을 암스테르담 남동부의 지역 에너지 전환 프로젝트에 적용했다. 사례에서 확인된 세 가지 권력관계와 디자인 개입 및 그 변혁적 결과를 제시하며, 사회적 전환에서 디자인의 함의를 논의한다.",
+          "title": "Design anthropology for transforming power relations in societal transitions",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/14719037.2026.2728027"
+        },
+        {
+          "abstract": "This article compares agencification in developing and OECD countries, illustrated by the case of Suriname. Findings show that developing countries prefer statutory bodies and SOEs. Motives for establishment are economic development and the provision of collective goods; typical motives from OECD countries are not present. Patronage plays a major role, and governance and accountability relations are generally weak. Based on these findings, existing agencification theory should include motives that are specific to developing countries, such as pressure from international organizations; pay attention to colonial legacies and acknowledge that agencification in developing countries is much less driven by NPM.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Sandra van Thiel": [
+              "Erasmus University Rotterdam"
+            ]
+          },
+          "authors": [
+            "Sandra van Thiel"
+          ],
+          "constructs": [
+            "Agencification",
+            "Patronage"
+          ],
+          "doi": "10.1080/14719037.2026.2737343",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "사례 비교",
+          "publication_date": "2026-09-22",
+          "stable_id": "doi:10.1080/14719037.2026.2737343",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 수리남의 준공공기관을 사례로 개발도상국과 OECD 국가의 기관화를 비교한다. 개발도상국에서는 경제개발과 집합재 제공, 국제기구의 압력 및 후견주의가 기관 설립에 중요하며, 거버넌스와 책무성은 약하고 신공공관리의 영향은 상대적으로 제한적이라는 점을 보인다.",
+          "title": "Executive agencies in developing countries: the case of the parastatal organizations in Suriname",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1080/14719037.2026.2737343"
+        },
+        {
+          "abstract": "Public-sector classification systems accumulate classification drift, a widening gap between what employees actually do, how their work is described, and how they are compensated. Because classification shapes pay, role comparison, and internal equity at scale, classification drift quietly compounds into measurable inequity. At a large U.S. urban public school district (the District), this drift manifested as 435 employees sharing the title “Specialist” across 24 pay grades ($47,000–$125,000). This article describes PRISM (Progressive Refinement and Intelligence Synthesis Model), a multi-model AI framework developed with a research-university partner’s Data Science Institute that introduces validation friction at high-stakes decision points. Rather than automating approvals, PRISM surfaces disagreement between independent AI models and routes ambiguous cases to human reviewers with a structured evidence package. Across 992 positions, 173 cases (17%) were flagged for escalated review. This article describes what public HR offices, with or without AI, can do to address classification drift.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Martin Renfro": [
+              "Metro Nashville Public Schools, TN, USA"
+            ],
+            "Wayne Birch": [
+              "Metro Nashville Public Schools, TN, USA"
+            ]
+          },
+          "authors": [
+            "Wayne Birch",
+            "Martin Renfro"
+          ],
+          "constructs": [
+            "classification drift",
+            "internal equity"
+          ],
+          "doi": "10.1177/0734371x261486652",
+          "journal": "Review of Public Personnel Administration",
+          "journal_short": "ROPPA",
+          "method": "혼합방법론",
+          "method_detail": "AI 사례 분석",
+          "publication_date": "2026-09-22",
+          "stable_id": "doi:10.1177/0734371x261486652",
+          "summary_basis": "abstract",
+          "summary_ko": "이 글은 공공부문 직무분류에서 실제 업무·직무기술·보상 간 격차인 ‘분류 표류’가 어떻게 불평등을 누적시키는지, 그리고 이를 식별·검토할 수 있는지를 다룬다. 미국 대도시 교육구의 992개 직위를 대상으로 독립적인 AI 모델 간 불일치를 인간 검토로 넘기는 PRISM을 적용한 결과, 173건(17%)이 추가 검토 대상으로 분류되었다.",
+          "title": "Classification Drift: Decisions Passing Quietly but Compounding Inequity",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1177/0734371x261486652"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -11468,7 +11865,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -11489,7 +11886,7 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
@@ -11522,7 +11919,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -11563,7 +11960,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -11588,7 +11985,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -11606,7 +12003,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -11624,7 +12021,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -11646,7 +12043,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -11667,7 +12064,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -11687,7 +12084,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -11704,7 +12101,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -11725,7 +12122,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -11742,7 +12139,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -11760,7 +12157,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -11780,7 +12177,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -11801,7 +12198,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -11816,7 +12213,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -11837,7 +12234,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -11852,7 +12249,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -11867,7 +12264,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-22T11:34:38.978993+00:00"
+      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
     }
   },
   "version": 1
