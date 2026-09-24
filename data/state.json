@@ -11940,6 +11940,105 @@
       ],
       "sent_at": "2026-09-23T11:38:22.380172+00:00",
       "status": "sent"
+    },
+    "2026-09-24-f1dd67978ff1bb23": {
+      "created_at": "2026-09-24T11:41:47.414774+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-24-f1dd67978ff1bb23",
+      "items": [
+        {
+          "abstract": "Existing accounts of presidential particularism emphasize the targeted distribution of benefits to electorally valuable constituencies. This research note demonstrates that presidential particularism can also operate punitively, through the selective imposition of costs on constituencies that provided weaker electoral support for the president. I examine this dynamic through the Department of Government Efficiency (DOGE), a highly centralized and politicized agency created at the start of Donald Trump’s second term. Leveraging data on nearly 700,000 federal contracts linked to DOGE contract cuts and 2024 county-level election returns, I show that these cuts were systematically concentrated in counties that provided weaker electoral support for Trump. These patterns hold across contract- and county-level analyses. Together, these findings broaden theories of presidential particularism by showing that presidents may use administrative authority to impose costs on electorally oppositional constituencies. More broadly, I demonstrate how presidents can wield administrative power as a tool of partisan punishment.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "LUKAS K. ALEXANDER": [
+              "Washington University in St. Louis"
+            ]
+          },
+          "authors": [
+            "LUKAS K. ALEXANDER"
+          ],
+          "constructs": [
+            "Presidential Particularism",
+            "Partisan Punishment"
+          ],
+          "doi": "10.1017/s0003055426102020",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "혼합방법론",
+          "method_detail": "계약·카운티 분석",
+          "publication_date": "2026-09-24",
+          "stable_id": "doi:10.1017/s0003055426102020",
+          "summary_basis": "abstract",
+          "summary_ko": "대통령의 특수주의가 선거적으로 덜 지지한 지역에 선택적으로 비용을 부과하는 방식으로도 작동하는지, DOGE와 약 70만 건의 연방계약 자료 및 2024년 카운티별 선거 결과를 분석했다. 분석 결과, DOGE의 계약 삭감은 트럼프 지지도가 낮았던 카운티에 체계적으로 집중되었으며, 이는 대통령이 행정권을 정파적 처벌의 수단으로 사용할 수 있음을 보여준다.",
+          "title": "The Punitive Dimension of Presidential Particularism",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1017/s0003055426102020"
+        },
+        {
+          "abstract": "ABSTRACT Donor‐conceived adults are a growing population, mobilizing against the very regulatory arrangements that determined the terms into which they were conceived. In Canada and the United States, where donor conception remains persistently under‐regulated, gamete donation policy has historically prioritized the presumed needs of donors, recipient parents, and fertility clinics, structuring regulation around treatment access and donor supply rather than the long‐term interests of those conceived. The result is a population that bears disproportionate administrative burdens and is now mobilizing through advocacy organizations, legal claims, and the pathways consumer DNA testing has made possible. Yet donor‐conceived adults remain largely outside the scope of policy scholarship. This paper argues that donor conception offers a theoretically distinctive site for the study of administrative burden, policy feedback, and the social construction of target populations. The paper proposes a research agenda organized around the politics of administratively produced populations and the deliberate distribution of administrative burden through policy design.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Ashley Splawinski": [
+              "Department of Political Science University of Toronto Toronto Ontario Canada"
+            ]
+          },
+          "authors": [
+            "Ashley Splawinski"
+          ],
+          "constructs": [
+            "Administrative Burden",
+            "Policy Feedback"
+          ],
+          "doi": "10.1111/psj.70167",
+          "journal": "Policy Studies Journal",
+          "journal_short": "PSJ",
+          "method": "이론/개념",
+          "method_detail": "개념적 연구 의제",
+          "publication_date": "2026-09-23",
+          "stable_id": "doi:10.1111/psj.70167",
+          "summary_basis": "abstract",
+          "summary_ko": "이 논문은 캐나다와 미국의 기증 생식 규제가 기증받아 태어난 사람들의 장기적 이해보다 기증자·수혜 부모·난임 클리닉의 필요와 치료 접근성 및 기증자 공급을 우선시하면서 행정적 부담을 불균등하게 배분해 왔다는 점을 연구 의제로 제시한다. 기증받아 태어난 성인들의 옹호 활동, 법적 청구, 소비자 DNA 검사 경로를 바탕으로 행정적 부담, 정책 피드백, 대상집단의 사회적 구성 및 ‘행정적으로 생산된 인구’의 정치에 대한 연구 방향을 제안한다.",
+          "title": "From Policy Neglect to Research Agenda: Administrative Burdens and Donor‐Conceived Mobilization",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1111/psj.70167"
+        },
+        {
+          "abstract": "ABSTRACT Switzerland presents a most peculiar political system whose institutional idiosyncrasies shape not only the practice of public administration but also the scientific study thereof. This country study presents the development and state of both public administration as practice and Public Administration as a scholarly discipline. It argues that both are largely determined by three properties of Switzerland as a political context and field of study: Semi‐direct democracy turns the administration into an important political actor. The “Milizsystem” (Switzerland's tradition of non‐professionalized, part‐time public engagement) enables hybrid careers between the public and private sectors and produces a structurally weaker political class that the professional administration regularly outmaneuvers. And the small size of the country has pushed the discipline toward international orientation while simultaneously entangling researchers with their object of study. Taken together, the Swiss case illustrates how political institutions do not merely constrain public administration but fundamentally constitute it.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Adrian Ritz": [
+              "University of Bern Bern Switzerland"
+            ],
+            "Fritz Sager": [
+              "University of Bern Bern Switzerland"
+            ],
+            "Johanna Hornung": [
+              "University of Lausanne Lausanne Switzerland"
+            ]
+          },
+          "authors": [
+            "Fritz Sager",
+            "Adrian Ritz",
+            "Johanna Hornung"
+          ],
+          "constructs": [
+            "Semi-Direct Democracy",
+            "Milizsystem"
+          ],
+          "doi": "10.1111/puar.70211",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "질적연구",
+          "method_detail": "국가 사례 분석",
+          "publication_date": "2026-09-23",
+          "stable_id": "doi:10.1111/puar.70211",
+          "summary_basis": "abstract",
+          "summary_ko": "이 논문은 스위스의 반직접민주주의, ‘Milizsystem’, 국가 규모라는 정치적 맥락이 공공행정의 실천과 학문을 어떻게 형성하는지 국가 사례를 통해 분석한다. 스위스에서는 행정이 중요한 정치 행위자가 되고, 공공·민간 간 혼합 경력과 상대적으로 약한 정치계층이 나타나며, 학문은 국제 지향성을 띠는 동시에 연구 대상과 긴밀히 얽힌다는 점을 보인다.",
+          "title": "Small Polity, Hybrid Administration, International Research: Public Administration in Switzerland",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1111/puar.70211"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -11962,7 +12061,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -11983,7 +12082,7 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
@@ -12016,7 +12115,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12057,7 +12156,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -12082,7 +12181,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12100,7 +12199,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12118,7 +12217,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12140,7 +12239,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -12161,7 +12260,32 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+    },
+    "doi:10.1080/14719037.2026.2738908": {
+      "first_seen_at": "2026-09-24T11:41:47.414774+00:00",
+      "item": {
+        "author_affiliations": {
+          "Hui Yin": [
+            "Shandong University"
+          ],
+          "Ziqiang Han": [
+            "Shandong University"
+          ]
+        },
+        "authors": [
+          "Hui Yin",
+          "Ziqiang Han"
+        ],
+        "doi": "10.1080/14719037.2026.2738908",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-09-24",
+        "stable_id": "doi:10.1080/14719037.2026.2738908",
+        "title": "Psychological safety, motivations and change-oriented organizational citizenship behaviour in emergency managers",
+        "url": "https://doi.org/10.1080/14719037.2026.2738908"
+      },
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -12181,7 +12305,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -12198,7 +12322,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -12219,7 +12343,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12236,7 +12360,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12254,7 +12378,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12274,7 +12398,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -12295,7 +12419,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -12310,7 +12434,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -12331,7 +12455,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -12346,7 +12470,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -12361,7 +12485,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-23T11:31:33.572221+00:00"
+      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
     }
   },
   "version": 1
