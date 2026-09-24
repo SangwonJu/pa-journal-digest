@@ -240,6 +240,14 @@
       "sent_at": "2026-08-10T13:57:29.002543+00:00",
       "title": "Instrumentally Inclusive: The Political Psychology of Homonationalism – CORRIGENDUM"
     },
+    "doi:10.1017/s0003055426102020": {
+      "batch_id": "2026-09-24-f1dd67978ff1bb23",
+      "doi": "10.1017/s0003055426102020",
+      "journal": "American Political Science Review",
+      "publication_date": "2026-09-24",
+      "sent_at": "2026-09-24T11:47:30.302385+00:00",
+      "title": "The Punitive Dimension of Presidential Particularism"
+    },
     "doi:10.1080/01900692.2026.2683248": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
       "doi": "10.1080/01900692.2026.2683248",
@@ -1496,6 +1504,14 @@
       "sent_at": "2026-09-21T12:50:18.636048+00:00",
       "title": "Epistemic Capabilities of Artificial Intelligence for Public Administration and Policy Research: A Framework for Scholarship in the Age of Intelligent Machines"
     },
+    "doi:10.1111/psj.70167": {
+      "batch_id": "2026-09-24-f1dd67978ff1bb23",
+      "doi": "10.1111/psj.70167",
+      "journal": "Policy Studies Journal",
+      "publication_date": "2026-09-23",
+      "sent_at": "2026-09-24T11:47:30.302385+00:00",
+      "title": "From Policy Neglect to Research Agenda: Administrative Burdens and Donor‐Conceived Mobilization"
+    },
     "doi:10.1111/puar.70165": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1111/puar.70165",
@@ -1703,6 +1719,14 @@
       "publication_date": "2026-09-21",
       "sent_at": "2026-09-22T11:38:46.588049+00:00",
       "title": "Managing Collaboration Dynamics Under Pressure: Lessons From the COVID ‐19 Medical Supply Shortage"
+    },
+    "doi:10.1111/puar.70211": {
+      "batch_id": "2026-09-24-f1dd67978ff1bb23",
+      "doi": "10.1111/puar.70211",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-09-23",
+      "sent_at": "2026-09-24T11:47:30.302385+00:00",
+      "title": "Small Polity, Hybrid Administration, International Research: Public Administration in Switzerland"
     },
     "doi:10.1177/00953997261467698": {
       "batch_id": "2026-08-17-92d20fbd959228aa",
@@ -12038,7 +12062,8 @@
           "url": "https://doi.org/10.1111/puar.70211"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-24T11:47:30.302385+00:00",
+      "status": "sent"
     }
   },
   "pending": {
