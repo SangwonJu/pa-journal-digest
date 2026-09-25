@@ -12064,6 +12064,183 @@
       ],
       "sent_at": "2026-09-24T11:47:30.302385+00:00",
       "status": "sent"
+    },
+    "2026-09-25-206a492be61a1838": {
+      "created_at": "2026-09-25T11:47:48.091233+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-25-206a492be61a1838",
+      "items": [
+        {
+          "abstract": "ABSTRACT This study replicates prior research to examine how rule communication forms shape administrative burden, while also extending their research by investigating how artificial intelligence (AI) services moderate this relationship. AI services are understood to perform two distinct functions: the labeling function, where chatbots output policy rules directly from databases in response to user queries without further processing, and the optimization function, where chatbots collect, analyze, and distill rule information to present users with simplified, prioritized key points. In Study 1, the original research is replicated in the context of natural disaster relief applications in China. The findings demonstrate that bureaucratic language raises learning and compliance costs, stress, and autonomy loss, while complex information structures also increase learning costs, compliance costs, and autonomy loss. These results confirm that rule communication shapes administrative burden across policies, countries, and languages. However, differences emerge compared to the original study, in which bureaucratic language induced stigma and information complexity had no effect on compliance or autonomy loss, potentially due to contextual factors such as the complexity of Chinese logographic writing. Building on this, the extension experiment in Study 2 demonstrates that AI services reduce administrative burden. Notably, and contrary to expectations, the labeling function reduces learning, compliance, and psychological costs, while the optimization function achieves even greater reductions across all dimensions. Collectively, these findings provide empirical evidence supporting the use of AI to improve rule communication and ease administrative burden.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Ben Ma": [
+              "School of Political Science and Public Administration Shandong University Qingdao Shandong China",
+              "Smart State Governance Lab Shandong University Qingdao Shandong China"
+            ],
+            "Luning Xin": [
+              "School of Political Science and Public Administration Shandong University Qingdao Shandong China"
+            ],
+            "Qi Bian": [
+              "School of Political Science and Public Administration Shandong University Qingdao Shandong China",
+              "Smart State Governance Lab Shandong University Qingdao Shandong China"
+            ]
+          },
+          "authors": [
+            "Qi Bian",
+            "Luning Xin",
+            "Ben Ma"
+          ],
+          "constructs": [
+            "Administrative Burden",
+            "Rule Communication"
+          ],
+          "doi": "10.1111/padm.70097",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "method": "실험",
+          "method_detail": "반복·확장 실험",
+          "publication_date": "2026-09-24",
+          "stable_id": "doi:10.1111/padm.70097",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 규칙 전달 방식이 행정 부담에 미치는 영향을 중국 자연재해 구호 신청 맥락에서 반복 검증하고, AI 서비스의 라벨링·최적화 기능이 이 관계를 완화하는지 실험으로 분석했다. 관료적 언어와 복잡한 정보 구조는 학습·순응 비용과 심리적 부담을 높였으며, 두 AI 기능은 이를 줄였고 최적화 기능의 감소 효과가 더 컸다.",
+          "title": "A Replication of “It is Not Merely About the Content: How Rules Are Communicated Matters to Administrative Burden”",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1111/padm.70097"
+        },
+        {
+          "abstract": "ABSTRACT This study examines the Department of Government Efficiency (DOGE) as a case of algorithmic governance whose stated purpose, improving federal efficiency, diverged systematically from its operational effect: enabling unprecedented private‐sector access to federal data systems while dismantling the oversight and civil‐service infrastructure that constrains such access. Drawing on state capacity, bounded rationality, organizational learning, and public value theory, the analysis demonstrates that the conventional efficiency‐failure reading, though correct on its own terms, obscures what made DOGE structurally distinct from the Grace Commission, the National Performance Review, the President's Management Agenda, and Program Assessment Rating Tool, and the Government Performance and Results Modernization Act. The article advances hybrid intelligence, structured human‐AI collaboration with protected institutional capacity, as a paradigm resisting both reform failure and algorithmic capture. International implementations operationalize it. The analysis contributes a stated‐versus‐operational‐goal analytic to the AI governance literature and identifies legislative grounding as a precondition for durable reform.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Haris Alibašić": [
+              "Department of Business Administration Lewis Bear Jr. College of Business, University of West Florida Pensacola Florida USA"
+            ]
+          },
+          "authors": [
+            "Haris Alibašić"
+          ],
+          "constructs": [
+            "state capacity",
+            "bounded rationality"
+          ],
+          "doi": "10.1111/puar.70195",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "이론/개념",
+          "method_detail": "사례 기반 분석",
+          "publication_date": "2026-09-24",
+          "stable_id": "doi:10.1111/puar.70195",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 DOGE의 공식 목표인 연방정부 효율성 제고와 실제 운영 효과인 연방 데이터 시스템에 대한 민간 접근 확대 및 이를 제한하던 감독·공무원제도 인프라 해체의 괴리를 어떻게 설명할 수 있는지 분석한다. 국가역량, 제한된 합리성, 조직학습, 공공가치 이론을 적용한 사례 분석을 통해 DOGE가 기존 효율성 개혁과 구조적으로 달랐음을 밝히고, 제도적 역량을 보호하는 인간-AI 협력인 하이브리드 지능과 지속 가능한 개혁을 위한 입법적 기반을 제안한다.",
+          "title": "The DOGE Experiment: Algorithmic Governance, Operational Capture, and the Case for Hybrid Intelligence",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1111/puar.70195"
+        },
+        {
+          "abstract": "ABSTRACT Representative bureaucracy research has often linked demographic representation directly to favorable outcomes, inferring active representation post hoc while rarely separating the behavioral component presumed to accompany such associations from the representation variable itself. This study addresses such gap by drawing on gender differences in leadership literature to operationalize supportive leadership as one behavioral component associated with female supervisory representation and examine the constituent elements of what has been interpreted as a representation effect. Using gender pay inequality across US federal agencies as the empirical context, the findings show that while both female supervisory representation and supportive leadership are each positively associated with nonsupervisory salaries when examined separately, the association attributed to representation loses significance once both are modeled together. These findings do not suggest that representation is unimportant; rather, they indicate that prior representation effects may partially reflect a behavioral component that has not been separately identified.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Rachel (Soyeon) Cho": [
+              "School of Public Affairs American University Washington District of Columbia USA"
+            ]
+          },
+          "authors": [
+            "Rachel (Soyeon) Cho"
+          ],
+          "constructs": [
+            "Representative Bureaucracy",
+            "Supportive Leadership"
+          ],
+          "doi": "10.1111/puar.70206",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "준실험",
+          "method_detail": "다변량 분석",
+          "publication_date": "2026-09-24",
+          "stable_id": "doi:10.1111/puar.70206",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 여성 관리자의 인구학적 대표성과 그에 수반될 수 있는 행동적 요소인 지원적 리더십을 분리해, 미국 연방기관의 성별 임금 불평등 맥락에서 대표성 효과가 무엇을 반영하는지 분석한다. 여성 관리자 대표성과 지원적 리더십은 각각 비감독직 직원의 임금과 정(+)의 연관성을 보였지만, 두 요소를 함께 모형화하면 대표성의 연관성은 유의하지 않게 되어 기존 대표성 효과가 식별되지 않은 행동적 요소를 부분적으로 반영할 수 있음을 보인다.",
+          "title": "What Does Representation Represent? Disaggregating Demographic and Behavioral Components",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1111/puar.70206"
+        },
+        {
+          "abstract": "ABSTRACT Governments are usually the largest purchasers of goods and services, creating significant opportunities for corruption. We study whether offering training and technical assistance to procurement officials in 50 Ugandan districts prompted them to publish procurement actions on an online public portal, as legally required. Among districts that received the training and technical assistance program, we randomized whether procurement officials received information in advance about their eligibility to earn a public award for adherence to these transparency standards. We use national administrative data across multiple financial years and 134 district governments to evaluate impacts. The training and technical assistance program increased the number and value of procurement actions uploaded several‐fold, while award eligibility did not have similarly large effects. These results suggest that motivation problems may be overemphasized in the fight against corruption. Building capacity in accounting and transparency could provide effective guardrails against corruption.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Alex Bagabo": [
+              "Department of Social Work and Social Administration, School of Social Sciences Makerere University Kampala Uganda"
+            ],
+            "Brigham Daniels": [
+              "S.J. Quinney College of Law University of Utah Salt Lake City Utah USA"
+            ],
+            "Gerald Padde Auku": [
+              "Transparency International Uganda Kampala Uganda"
+            ],
+            "Mark T. Buntaine": [
+              "Bren School of Environmental Science &amp; Management University of California Santa Barbara California USA"
+            ],
+            "Paul Bukuluki": [
+              "Department of Social Work and Social Administration, School of Social Sciences Makerere University Kampala Uganda"
+            ]
+          },
+          "authors": [
+            "Mark T. Buntaine",
+            "Alex Bagabo",
+            "Paul Bukuluki",
+            "Brigham Daniels",
+            "Gerald Padde Auku"
+          ],
+          "constructs": [
+            "Transparency",
+            "Capacity Building"
+          ],
+          "doi": "10.1111/puar.70205",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "실험",
+          "method_detail": "현장 무작위실험",
+          "publication_date": "2026-09-25",
+          "stable_id": "doi:10.1111/puar.70205",
+          "summary_basis": "abstract",
+          "summary_ko": "우간다 50개 지역의 조달 담당자에게 교육·기술 지원을 제공하고, 그중 일부에게 투명성 기준 준수 시 공적 포상 자격 정보를 사전 무작위로 제공한 뒤 134개 지방정부의 행정자료를 분석했다. 교육·기술 지원은 온라인 조달 공개 건수와 금액을 크게 늘렸지만, 포상 자격 정보의 효과는 그만큼 크지 않아 투명성 확보에서 동기보다 역량 부족이 중요할 수 있음을 시사한다.",
+          "title": "Skills, Not Just Will: Experimental Evidence From Uganda on Transparency in Public Procurement",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1111/puar.70205"
+        },
+        {
+          "abstract": "Fostering change-oriented organizational citizenship behaviour (CO-OCB) is critical for resilience-building in the public sector, yet the psychological mechanisms driving such behaviour among emergency managers remain underexplored. Drawing on a survey of 869 public employees from emergency management agencies in China, this study examines how psychological safety, creative self-efficacy (CSE), and public service motivation (PSM) influence CO-OCB and tests the moderating role of work autonomy. Results reveal that psychological safety and PSM positively predict CO-OCB, whereas CSE unexpectedly suppresses the effect of psychological safety. Notably, work autonomy moderates the impacts of CSE and PSM on CO-OCB. These findings reveal how psychological safety shapes change-oriented behaviour through distinct but interrelated competence-related and motivational mechanisms within bureaucratic contexts. This study advances public-sector innovation theory by uncovering the nuanced role of psychological safety and by emphasizing the importance of public service motivation in enhancing organizational resilience during institutional reforms and crises.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Hui Yin": [
+              "Shandong University"
+            ],
+            "Ziqiang Han": [
+              "Shandong University"
+            ]
+          },
+          "authors": [
+            "Hui Yin",
+            "Ziqiang Han"
+          ],
+          "constructs": [
+            "Psychological Safety",
+            "Public Service Motivation"
+          ],
+          "doi": "10.1080/14719037.2026.2738908",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "서베이",
+          "method_detail": "횡단 설문",
+          "publication_date": "2026-09-24",
+          "stable_id": "doi:10.1080/14719037.2026.2738908",
+          "summary_basis": "abstract",
+          "summary_ko": "중국 재난관리기관 공공 employees 869명을 대상으로 심리적 안전, 창의적 자기효능감(CSE), 공공서비스동기(PSM)가 변화지향적 조직시민행동(CO-OCB)에 미치는 영향과 업무 자율성의 조절효과를 설문으로 분석했다. 심리적 안전과 PSM은 CO-OCB를 높였고, CSE는 심리적 안전의 효과를 억제했으며, 업무 자율성은 CSE와 PSM의 영향을 조절했다.",
+          "title": "Psychological safety, motivations and change-oriented organizational citizenship behaviour in emergency managers",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1080/14719037.2026.2738908"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -12086,7 +12263,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12107,7 +12284,7 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
@@ -12140,7 +12317,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12181,7 +12358,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -12206,7 +12383,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12224,7 +12401,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12242,7 +12419,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12264,7 +12441,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -12285,32 +12462,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
-    },
-    "doi:10.1080/14719037.2026.2738908": {
-      "first_seen_at": "2026-09-24T11:41:47.414774+00:00",
-      "item": {
-        "author_affiliations": {
-          "Hui Yin": [
-            "Shandong University"
-          ],
-          "Ziqiang Han": [
-            "Shandong University"
-          ]
-        },
-        "authors": [
-          "Hui Yin",
-          "Ziqiang Han"
-        ],
-        "doi": "10.1080/14719037.2026.2738908",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-09-24",
-        "stable_id": "doi:10.1080/14719037.2026.2738908",
-        "title": "Psychological safety, motivations and change-oriented organizational citizenship behaviour in emergency managers",
-        "url": "https://doi.org/10.1080/14719037.2026.2738908"
-      },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -12330,7 +12482,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -12347,7 +12499,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -12368,7 +12520,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12385,7 +12537,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12403,7 +12555,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12423,7 +12575,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -12444,7 +12596,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -12459,7 +12611,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -12480,7 +12632,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -12495,7 +12647,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -12510,7 +12662,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-24T11:41:47.414774+00:00"
+      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
     }
   },
   "version": 1
