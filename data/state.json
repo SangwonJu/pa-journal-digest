@@ -856,6 +856,14 @@
       "sent_at": "2026-09-23T11:38:22.380172+00:00",
       "title": "Executive agencies in developing countries: the case of the parastatal organizations in Suriname"
     },
+    "doi:10.1080/14719037.2026.2738908": {
+      "batch_id": "2026-09-25-206a492be61a1838",
+      "doi": "10.1080/14719037.2026.2738908",
+      "journal": "Public Management Review",
+      "publication_date": "2026-09-24",
+      "sent_at": "2026-09-25T11:53:11.504091+00:00",
+      "title": "Psychological safety, motivations and change-oriented organizational citizenship behaviour in emergency managers"
+    },
     "doi:10.1080/15309576.2026.2700771": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1080/15309576.2026.2700771",
@@ -1328,6 +1336,14 @@
       "sent_at": "2026-09-22T11:38:46.588049+00:00",
       "title": "Regulatory Capture, Public Trust and Pro‐Environmental Behaviors"
     },
+    "doi:10.1111/padm.70097": {
+      "batch_id": "2026-09-25-206a492be61a1838",
+      "doi": "10.1111/padm.70097",
+      "journal": "Public Administration",
+      "publication_date": "2026-09-24",
+      "sent_at": "2026-09-25T11:53:11.504091+00:00",
+      "title": "A Replication of “It is Not Merely About the Content: How Rules Are Communicated Matters to Administrative Burden”"
+    },
     "doi:10.1111/pops.70126": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
       "doi": "10.1111/pops.70126",
@@ -1680,6 +1696,14 @@
       "sent_at": "2026-09-14T12:47:23.837018+00:00",
       "title": "Issue Information"
     },
+    "doi:10.1111/puar.70195": {
+      "batch_id": "2026-09-25-206a492be61a1838",
+      "doi": "10.1111/puar.70195",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-09-24",
+      "sent_at": "2026-09-25T11:53:11.504091+00:00",
+      "title": "The DOGE Experiment: Algorithmic Governance, Operational Capture, and the Case for Hybrid Intelligence"
+    },
     "doi:10.1111/puar.70196": {
       "batch_id": "2026-09-01-1560b88b8d2d7127",
       "doi": "10.1111/puar.70196",
@@ -1711,6 +1735,22 @@
       "publication_date": "2026-09-11",
       "sent_at": "2026-09-12T14:13:26.103681+00:00",
       "title": "The “Professional Mortality” Problem in Early City Management: A Study of Organized Denial"
+    },
+    "doi:10.1111/puar.70205": {
+      "batch_id": "2026-09-25-206a492be61a1838",
+      "doi": "10.1111/puar.70205",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-09-25",
+      "sent_at": "2026-09-25T11:53:11.504091+00:00",
+      "title": "Skills, Not Just Will: Experimental Evidence From Uganda on Transparency in Public Procurement"
+    },
+    "doi:10.1111/puar.70206": {
+      "batch_id": "2026-09-25-206a492be61a1838",
+      "doi": "10.1111/puar.70206",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-09-24",
+      "sent_at": "2026-09-25T11:53:11.504091+00:00",
+      "title": "What Does Representation Represent? Disaggregating Demographic and Behavioral Components"
     },
     "doi:10.1111/puar.70208": {
       "batch_id": "2026-09-22-be1d8a3bc3893159",
@@ -12240,7 +12280,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2738908"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-25T11:53:11.504091+00:00",
+      "status": "sent"
     }
   },
   "pending": {
