@@ -12282,6 +12282,77 @@
       ],
       "sent_at": "2026-09-25T11:53:11.504091+00:00",
       "status": "sent"
+    },
+    "2026-09-26-a3eb08fa8cf14287": {
+      "created_at": "2026-09-26T11:21:29.275860+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-26-a3eb08fa8cf14287",
+      "items": [
+        {
+          "abstract": "Abstract Structural injustice remains a puzzling concept despite its increasing prominence. I distill recent theoretical challenges into a dilemma: either structural injustice lacks the normative credentials of injustice given that wrongdoing is inessential, or it is redundant given existing theories that trace injustice to culpable state and other institutional failures. I then develop a novel account of structural injustice, the Complexity View, that unravels this dilemma. The emergent properties of human actions in a complex society explain what is “structural” about structural injustice, specifically how it can arise without (culpable) wrongdoing. Structural injustice is unjust because it is wrong to contribute to social processes that cause harm and to passively accept preventable forms of vulnerability and deprivation as tragic misfortunes. But this account of structural injustice has a sobering implication: while complexity explains what distinguishes structural injustice from other wrongs, it also sets significant epistemic limits on social reform.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "HOCHAN KIM": [
+              "Bates College"
+            ]
+          },
+          "authors": [
+            "HOCHAN KIM"
+          ],
+          "constructs": [
+            "Structural Injustice",
+            "Complexity View"
+          ],
+          "doi": "10.1017/s0003055426101877",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "이론/개념",
+          "method_detail": "개념적 모형",
+          "publication_date": "2026-09-25",
+          "stable_id": "doi:10.1017/s0003055426101877",
+          "summary_basis": "abstract",
+          "summary_ko": "구조적 부정의가 가해자의 잘못 없이도 어떻게 발생하며 기존 부정의 이론과 어떻게 구별되는지를 묻고, 복잡한 사회에서 행위의 창발적 속성을 분석하는 ‘복잡성 관점’을 제시한다. 구조적 부정의는 해를 초래하는 사회적 과정에 기여하고 예방 가능한 취약성과 박탈을 불가피한 불행으로 수동적으로 받아들이는 것이 잘못이기 때문에 부정의하지만, 사회적 복잡성은 개혁의 인식론적 한계를 낳는다.",
+          "title": "Structural Injustice as Emergent Disorder",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1017/s0003055426101877"
+        },
+        {
+          "abstract": "ABSTRACT The early stages of coalition formation remain an understudied area, particularly in centralized, high‐capacity political systems. Examining actor dynamics at this formative stage can reveal how coalitions form and how limited pluralism constrains their development. This study examines how potential coalition members emerge, and what shapes their prospects for consolidation in this institutional context. We study sustainability efforts in Singapore‐ a centralized polity with a history of state‐led environmental governance and a recent rise of sustainability nonprofits. Drawing on interviews with 39 nonprofits, we examine evidence of early stages of coalition formation outside of the state‐led coalition within Singapore's sustainability subsystem. Our findings show that both subsystem structure and actor attributes constrain potential coalitions from forming, owing to limited resource support and venues to formally participate in the coalition and coordinate with peers and the dominant state‐led coalition. Uncertainty in positions and learning orientation of other actors foster caution and complacency, entrenching weak horizontal ties. Additionally, crises can open brief windows for coordination, but these can close as routines and hierarchies reassert themselves. This study advances our understanding of coalition formation dynamics in centralized, high‐capacity, and limited pluralism contexts where contestation often remains limited and subtle.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Mohnish Kedia": [
+              "Lee Kuan Yew School of Public Policy National University of Singapore Singapore Singapore"
+            ],
+            "Sreeja Nair": [
+              "Lee Kuan Yew School of Public Policy National University of Singapore Singapore Singapore"
+            ],
+            "Yuhao Ba": [
+              "Lee Kuan Yew School of Public Policy National University of Singapore Singapore Singapore"
+            ]
+          },
+          "authors": [
+            "Sreeja Nair",
+            "Yuhao Ba",
+            "Mohnish Kedia"
+          ],
+          "constructs": [
+            "Coalition Formation",
+            "Limited Pluralism"
+          ],
+          "doi": "10.1111/psj.70168",
+          "journal": "Policy Studies Journal",
+          "journal_short": "PSJ",
+          "method": "질적연구",
+          "method_detail": "심층 인터뷰",
+          "publication_date": "2026-09-25",
+          "stable_id": "doi:10.1111/psj.70168",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 중앙집권적·고역량·제한적 다원주의 체제에서 잠재적 연합 구성원이 어떻게 등장하고 연합으로 공고화되는지를 싱가포르 지속가능성 비영리단체 39곳에 대한 인터뷰로 분석한다. 하위체계의 구조와 행위자 특성이 자원·참여·조정 기회의 부족, 행위자 간 불확실성과 신중함으로 인해 약한 수평적 연계를 고착시키며, 위기는 일시적 조정 기회를 열지만 기존의 관행과 위계가 재강화되면 그 기회가 닫힌다는 결과를 제시한다.",
+          "title": "From the Margins: Potential Coalitions in Centralized, High‐Capacity States",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1111/psj.70168"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -12304,7 +12375,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12325,7 +12396,7 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
@@ -12358,7 +12429,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12399,7 +12470,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -12424,7 +12495,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12442,7 +12513,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12460,7 +12531,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12482,7 +12553,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -12503,7 +12574,52 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+    },
+    "doi:10.1080/14719037.2026.2739599": {
+      "first_seen_at": "2026-09-26T11:21:29.275860+00:00",
+      "item": {
+        "author_affiliations": {
+          "Fan Yang": [
+            "Shanghai Jiao Tong University"
+          ],
+          "Junyao Zheng": [
+            "Shanghai Jiao Tong University"
+          ],
+          "Mingyang Yang": [
+            "Shanghai Jiao Tong University"
+          ],
+          "Shaowei Liu": [
+            "Shanghai Jiao Tong University"
+          ],
+          "Shihan Lu": [
+            "Shanghai Jiao Tong University"
+          ],
+          "Wenjie Li": [
+            "Shanghai Jiao Tong University"
+          ],
+          "Yiyan Zhou": [
+            "Shanghai Jiao Tong University"
+          ]
+        },
+        "authors": [
+          "Fan Yang",
+          "Mingyang Yang",
+          "Shihan Lu",
+          "Yiyan Zhou",
+          "Junyao Zheng",
+          "Wenjie Li",
+          "Shaowei Liu"
+        ],
+        "doi": "10.1080/14719037.2026.2739599",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-09-25",
+        "stable_id": "doi:10.1080/14719037.2026.2739599",
+        "title": "Role strain and job crafting in China’s digitalizing street-level bureaucracy",
+        "url": "https://doi.org/10.1080/14719037.2026.2739599"
+      },
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -12523,7 +12639,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -12540,7 +12656,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -12561,7 +12677,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12578,7 +12694,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12596,7 +12712,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12616,7 +12732,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -12637,7 +12753,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -12652,7 +12768,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -12673,7 +12789,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -12688,7 +12804,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -12703,7 +12819,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-25T11:47:48.091233+00:00"
+      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
     }
   },
   "version": 1
