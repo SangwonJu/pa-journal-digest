@@ -224,6 +224,14 @@
       "sent_at": "2026-09-01T15:35:08.163995+00:00",
       "title": "Are Voters Myopic or Looking for Improvement?"
     },
+    "doi:10.1017/s0003055426101877": {
+      "batch_id": "2026-09-26-a3eb08fa8cf14287",
+      "doi": "10.1017/s0003055426101877",
+      "journal": "American Political Science Review",
+      "publication_date": "2026-09-25",
+      "sent_at": "2026-09-26T11:25:54.512887+00:00",
+      "title": "Structural Injustice as Emergent Disorder"
+    },
     "doi:10.1017/s0003055426101919": {
       "batch_id": "2026-09-21-3475a473ab0b963a",
       "doi": "10.1017/s0003055426101919",
@@ -1527,6 +1535,14 @@
       "publication_date": "2026-09-23",
       "sent_at": "2026-09-24T11:47:30.302385+00:00",
       "title": "From Policy Neglect to Research Agenda: Administrative Burdens and Donor‐Conceived Mobilization"
+    },
+    "doi:10.1111/psj.70168": {
+      "batch_id": "2026-09-26-a3eb08fa8cf14287",
+      "doi": "10.1111/psj.70168",
+      "journal": "Policy Studies Journal",
+      "publication_date": "2026-09-25",
+      "sent_at": "2026-09-26T11:25:54.512887+00:00",
+      "title": "From the Margins: Potential Coalitions in Centralized, High‐Capacity States"
     },
     "doi:10.1111/puar.70165": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -12352,7 +12368,8 @@
           "url": "https://doi.org/10.1111/psj.70168"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-26T11:25:54.512887+00:00",
+      "status": "sent"
     }
   },
   "pending": {
