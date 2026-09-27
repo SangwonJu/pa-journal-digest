@@ -12370,6 +12370,85 @@
       ],
       "sent_at": "2026-09-26T11:25:54.512887+00:00",
       "status": "sent"
+    },
+    "2026-09-27-62f5c79898503c8c": {
+      "created_at": "2026-09-27T11:59:09.184180+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-27-62f5c79898503c8c",
+      "items": [
+        {
+          "abstract": "Building on the core pillars of Humanistic Management–dignity, ethics, and legitimacy–this study examines how these principles were enacted across organizational, community, and societal levels, and how Humanistic Leadership translated a normative vision of business into concrete managerial, social, and institutional practices. Using an exemplary historical single-case study and an abductive approach, it analyzes Olivetti, the Italian company developed under Adriano Olivetti’s visionary leadership between World War II and 1960. The findings identify Olivetti as a historical example of these principles in practice, showing how dignity, ethics, and legitimacy interacted across multiple levels of leadership to foster both business success and social acceptance. At the same time, the case reveals that the long-term sustainability of this model depended not only on visionary leadership and organizational practices but also on their broader institutional embedding. Olivetti’s legacy serves as an analytical lens for critically reflecting on the transformative potential of Humanistic Management and Humanistic Leadership and the institutional conditions needed to support values-based transformation of business and society and challenge contemporary capitalist logics.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Erica Santini": [
+              "University of Trento, Italy"
+            ],
+            "Maria Della Lucia": [
+              "University of Trento, Italy"
+            ],
+            "Stefania Camoletto": [
+              "Universita degli Studi di Torino, Italy"
+            ]
+          },
+          "authors": [
+            "Stefania Camoletto",
+            "Erica Santini",
+            "Maria Della Lucia"
+          ],
+          "constructs": [
+            "Humanistic Management",
+            "Humanistic Leadership"
+          ],
+          "doi": "10.1177/00953997261487401",
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "method": "질적연구",
+          "method_detail": "역사적 단일사례",
+          "publication_date": "2026-09-26",
+          "stable_id": "doi:10.1177/00953997261487401",
+          "summary_basis": "abstract",
+          "summary_ko": "본 연구는 인문적 경영의 존엄성·윤리·정당성이 조직·공동체·사회 수준에서 어떻게 구현되었는지, 그리고 인문적 리더십이 이를 구체적 실천으로 전환한 방식을 올리베티의 역사적 단일 사례에 대한 귀납적 분석으로 탐구한다. 올리베티 사례는 이러한 원칙들이 사업 성공과 사회적 수용을 촉진했지만, 그 지속 가능성은 비전적 리더십과 조직 관행뿐 아니라 더 넓은 제도적 정착에도 달려 있음을 보여준다.",
+          "title": "Leading Humanistic Transformation of Business, Economy and Society: Lessons From Olivetti’s Blueprint",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1177/00953997261487401"
+        },
+        {
+          "abstract": "With the racial gap in political-electoral participation well established in the U.S., less is known about racial disparities in other forms of public engagement in governance. This study examines racial differences across nine distinct public participation strategies. It also investigates racial disparities in participation across public, nonprofit, and for-profit sector employees. Regressions conducted using five waves of the Current Population Survey Civic Engagement Supplement suggest that Black and White Americans participate in governance in different ways: Blacks opt for less formal and less costly forms of participation, with ramifications for the diversity of voices included in policy design and implementation. However, contrary to our theoretical expectations, the racial disparities are more pronounced among government employees than among employees in other sectors. Public institutions should create more inclusive opportunities for participation, minimize burdens, and provide incentives for engagement among minorities.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Anna A. Amirkhanyan": [
+              "American University"
+            ],
+            "Rui Wang": [
+              "Shanghai University of Finance and Economics"
+            ],
+            "William G Prince": [
+              "Georgia Southern University"
+            ]
+          },
+          "authors": [
+            "Rui Wang",
+            "William G Prince",
+            "Anna A. Amirkhanyan"
+          ],
+          "constructs": [
+            "Public Participation",
+            "Political Participation"
+          ],
+          "doi": "10.1080/15309576.2026.2735631",
+          "journal": "Public Performance & Management Review",
+          "journal_short": "PPMR",
+          "method": "서베이",
+          "method_detail": "반복 횡단 설문",
+          "publication_date": "2026-09-26",
+          "stable_id": "doi:10.1080/15309576.2026.2735631",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 미국에서 인종과 고용 부문(공공·비영리·영리)에 따라 아홉 가지 공공참여 방식의 차이가 나타나는지를 검토했다. 현재인구조사 시민참여 보충조사의 5개 시기 자료를 활용한 회귀분석 결과, 흑인과 백인은 거버넌스 참여 방식이 달랐으며 흑인은 덜 공식적이고 비용이 낮은 참여를 선호했고, 이러한 인종 격차는 다른 부문보다 공공부문 종사자에서 더 크게 나타났다.",
+          "title": "Examining the Role of Race and Sector of Employment in Public Participation",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1080/15309576.2026.2735631"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -12392,7 +12471,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12413,7 +12492,7 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
@@ -12446,7 +12525,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12487,7 +12566,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -12512,7 +12591,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12530,7 +12609,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12548,7 +12627,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12570,7 +12649,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -12591,7 +12670,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1080/14719037.2026.2739599": {
       "first_seen_at": "2026-09-26T11:21:29.275860+00:00",
@@ -12636,7 +12715,7 @@
         "title": "Role strain and job crafting in China’s digitalizing street-level bureaucracy",
         "url": "https://doi.org/10.1080/14719037.2026.2739599"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -12656,7 +12735,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -12673,7 +12752,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -12694,7 +12773,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12711,7 +12790,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12729,7 +12808,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12749,7 +12828,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -12770,7 +12849,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -12785,7 +12864,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -12806,7 +12885,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -12821,7 +12900,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -12836,7 +12915,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-26T11:21:29.275860+00:00"
+      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
     }
   },
   "version": 1
