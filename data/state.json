@@ -944,6 +944,14 @@
       "sent_at": "2026-09-12T14:13:26.103681+00:00",
       "title": "Performance Feedback and Strategic Reporting—Evidence from China’s Government Work Report"
     },
+    "doi:10.1080/15309576.2026.2735631": {
+      "batch_id": "2026-09-27-62f5c79898503c8c",
+      "doi": "10.1080/15309576.2026.2735631",
+      "journal": "Public Performance & Management Review",
+      "publication_date": "2026-09-26",
+      "sent_at": "2026-09-27T12:04:32.107617+00:00",
+      "title": "Examining the Role of Race and Sector of Employment in Public Participation"
+    },
     "doi:10.1086/743456": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
       "doi": "10.1086/743456",
@@ -1855,6 +1863,14 @@
       "publication_date": "2026-09-07",
       "sent_at": "2026-09-07T16:33:57.866728+00:00",
       "title": "Understanding Meritocracy: From an Imagination of ‘Ideal’ to Producing ‘Myth’ and Beyond"
+    },
+    "doi:10.1177/00953997261487401": {
+      "batch_id": "2026-09-27-62f5c79898503c8c",
+      "doi": "10.1177/00953997261487401",
+      "journal": "Administration & Society",
+      "publication_date": "2026-09-26",
+      "sent_at": "2026-09-27T12:04:32.107617+00:00",
+      "title": "Leading Humanistic Transformation of Business, Economy and Society: Lessons From Olivetti’s Blueprint"
     },
     "doi:10.1177/02750740261473616": {
       "batch_id": "2026-08-10-379897b0e0907946",
@@ -12448,7 +12464,8 @@
           "url": "https://doi.org/10.1080/15309576.2026.2735631"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-27T12:04:32.107617+00:00",
+      "status": "sent"
     }
   },
   "pending": {
