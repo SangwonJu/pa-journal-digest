@@ -12466,6 +12466,257 @@
       ],
       "sent_at": "2026-09-27T12:04:32.107617+00:00",
       "status": "sent"
+    },
+    "2026-09-28-c54058c0d77e74bd": {
+      "created_at": "2026-09-28T13:49:25.944190+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-28-c54058c0d77e74bd",
+      "items": [
+        {
+          "abstract": "ABSTRACT Does the level of evidence that accompanies policy action depend on how a problem is framed, and on who frames it? This article examines these questions in the context of health crises. Bridging sociological and equivalence framing theories, it treats frames as preexisting interpretive schemes shared within communities of actors, whose downstream influence depends on the information available. Using a comprehensive textual database of COVID‐19 press conferences held in Quebec, where political decision‐makers held greater authority, and in Sweden, where scientists enjoyed more autonomy, the study combines natural language processing, OLS regressions, and Granger causality tests to analyze how frames and disclosed evidence were articulated with suppression and mitigation policies. Findings show that in Quebec, framing the pandemic as an imminent danger was associated with far‐reaching suppression measures even at low levels of disclosed evidence, while the moderate frame's association with mitigation strengthened as evidence increased. In Sweden, no relationship between framing and suppression policies appeared in public communications; framing instead operated jointly with evidence, the dangerous frame being associated with fewer mitigation references mainly at high levels of disclosed evidence. These results suggest that the relevant question is not how much evidence policy action requires, but by whom that evidence is required, and under what conditions. The evidentiary threshold attached to a frame appears to be a property of the community that carries it, with direct implications for how democratic institutions allocate influence between accountability and expertise.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Antoine Claude Lemor": [
+              "Political Science Department Université de Sherbrooke Sherbrooke Canada"
+            ],
+            "Eric Montpetit": [
+              "Political Science Department Université de Montréal Montréal Canada"
+            ]
+          },
+          "authors": [
+            "Antoine Claude Lemor",
+            "Eric Montpetit"
+          ],
+          "constructs": [
+            "Framing",
+            "Evidence Threshold"
+          ],
+          "doi": "10.1111/psj.70158",
+          "journal": "Policy Studies Journal",
+          "journal_short": "PSJ",
+          "method": "혼합방법론",
+          "method_detail": "텍스트 분석 회귀",
+          "publication_date": "2026-09-27",
+          "stable_id": "doi:10.1111/psj.70158",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 보건위기에서 문제의 프레임과 프레임을 제시하는 주체에 따라 정책 조치를 뒷받침하는 증거 수준이 달라지는지를 분석했다. 퀘벡과 스웨덴의 코로나19 기자회견 텍스트에 자연어처리, OLS 회귀, 그레인저 인과성 검정을 적용한 결과, 퀘벡에서는 ‘임박한 위험’ 프레임이 낮은 공개 증거 수준에서도 강력한 억제정책과 연관된 반면, 스웨덴에서는 프레임과 억제정책의 관계가 나타나지 않고 증거 수준과 결합해 완화정책 관련성이 달라졌다.",
+          "title": "Beyond Evidence: How Framing Shapes Public Health Policies During Health Crises",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1111/psj.70158"
+        },
+        {
+          "abstract": "ABSTRACT Central to theories of agenda setting is the distinction between problems and solutions. Kingdon's multiple streams framework argues these processes are rhetorical and have distinct logics and incentives, yet empirical research struggles to measure them separately in digital, elite communication. Legislators bridge the multiple streams through their representational styles and legislative behavior, yet we lack scalable tools for identifying when elites frame issues as problems and when they promote solutions. This research note introduces a machine learning approach for classifying elite communication according to this core agenda‐setting distinction. We develop and validate a supervised model for 1.68 million tweets from U.S. Senators that categorizes messages into problem and solution frames, demonstrating that the problem/solution distinction can be reliably automated. This methodological research note establishes that the distinction is empirically measurable at scale and offers a validated, dataset‐specific measurement approach and theoretical foundation for classifying senatorial Twitter communication as problems or solutions.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Alexander Michael Tjhin": [
+              "David R. Cheriton School of Computer Science University of Waterloo Waterloo Ontario Canada"
+            ],
+            "Annelise Russell": [
+              "Martin School of Public Policy &amp; Admin University of Kentucky Lexington Kentucky USA"
+            ],
+            "Blake VanBerlo": [
+              "David R. Cheriton School of Computer Science University of Waterloo Waterloo Ontario Canada"
+            ],
+            "Jesse Hoey": [
+              "David R. Cheriton School of Computer Science University of Waterloo Waterloo Ontario Canada"
+            ],
+            "Joshua D. Elkind": [
+              "David R. Cheriton School of Computer Science University of Waterloo Waterloo Ontario Canada"
+            ],
+            "Michelle M. Buehlmann": [
+              "Nistler College of Business and Public Administration University of North Dakota Grand Forks North Dakota USA"
+            ],
+            "Misha Melnyk": [
+              "David R. Cheriton School of Computer Science University of Waterloo Waterloo Ontario Canada"
+            ],
+            "Mitchell Dolny": [
+              "David R. Cheriton School of Computer Science University of Waterloo Waterloo Ontario Canada"
+            ],
+            "Saisha Chebium": [
+              "David R. Cheriton School of Computer Science University of Waterloo Waterloo Ontario Canada"
+            ]
+          },
+          "authors": [
+            "Michelle M. Buehlmann",
+            "Misha Melnyk",
+            "Mitchell Dolny",
+            "Joshua D. Elkind",
+            "Alexander Michael Tjhin",
+            "Saisha Chebium",
+            "Blake VanBerlo",
+            "Annelise Russell",
+            "Jesse Hoey"
+          ],
+          "constructs": [
+            "Agenda Setting",
+            "Multiple Streams Framework"
+          ],
+          "doi": "10.1111/psj.70166",
+          "journal": "Policy Studies Journal",
+          "journal_short": "PSJ",
+          "method": "실험",
+          "method_detail": "지도학습 분류",
+          "publication_date": "2026-09-27",
+          "stable_id": "doi:10.1111/psj.70166",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 미국 상원의원 트윗에서 의제설정의 문제 프레임과 해결책 프레임을 어떻게 확장 가능하게 식별할 수 있는지 묻는다. 168만 건의 트윗에 지도학습 분류모형을 개발·검증한 결과, 두 프레임의 구분을 신뢰성 있게 자동화할 수 있음을 보였다.",
+          "title": "Problem and Solution Framing in Senate Tweets: Scaling Expert Interpretation With Machine Learning",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1111/psj.70166"
+        },
+        {
+          "abstract": "ABSTRACT A prior experiment conducted in Italy examined how individuals navigate trade‐offs among money, life, and freedom during government‐mandated lockdowns. This study replicates that experiment across three Confucian societies: Shanghai (China), Singapore, and Taipei (Taiwan). The findings indicate that, in the aggregate sample, the preference pattern of “money > life > freedom” mirrors that reported in the original study. However, when analyzed separately, residents of Taipei show stronger preferences for income and freedom than their counterparts in Singapore and Shanghai. Conversely, Singaporeans demonstrate heightened concern regarding the loss of life. In addition to replicating previous findings, this study contributes to the field of comparative public administration by highlighting the importance of considering contextual nuances in the formulation of crisis‐management practices by public managers.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Binzizi Dong": [
+              "Centre for Public Affairs and Law City University of Hong Kong Kowloon Hong Kong"
+            ],
+            "Chih‐Wei Hsieh": [
+              "Department of Public and International Affairs City University of Hong Kong Kowloon Hong Kong"
+            ],
+            "Chung‐An Chen": [
+              "Public Policy and Global Affairs Programme, School of Social Sciences Nanyang Technological University Singapore Singapore"
+            ],
+            "Soojin Kim": [
+              "Public Policy and Global Affairs Programme, School of Social Sciences Nanyang Technological University Singapore Singapore"
+            ]
+          },
+          "authors": [
+            "Binzizi Dong",
+            "Chung‐An Chen",
+            "Soojin Kim",
+            "Chih‐Wei Hsieh"
+          ],
+          "constructs": [
+            "Risk Trade-Offs",
+            "Crisis Management"
+          ],
+          "doi": "10.1111/padm.70099",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "method": "실험",
+          "method_detail": "이산선택실험",
+          "publication_date": "2026-09-27",
+          "stable_id": "doi:10.1111/padm.70099",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 공중보건 위기에서 사람들이 돈·생명·자유 간 상충관계를 어떻게 선택하는지 알아보기 위해, 이탈리아의 기존 이산선택실험을 상하이·싱가포르·타이베이의 유교권 사회에서 반복했다. 전체 표본에서는 ‘돈>생명>자유’ 선호가 재현되었지만, 타이베이 주민은 소득과 자유를, 싱가포르 주민은 생명 손실을 상대적으로 더 중시했다.",
+          "title": "A Replication of “Your Money, Your Life, or Your Freedom? A Discrete Choice Experiment on Trade‐Offs During a Public Health Crisis”",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1111/padm.70099"
+        },
+        {
+          "abstract": "ABSTRACT This article presents a 150‐year longitudinal analysis of the development of municipally owned corporations (MOCs) in Sweden, tracing their emergence in the mid‐nineteenth century, their expansion during the growth of the welfare state, and their transformation in the era of market‐oriented public sector reform. While MOCs are commonly discussed in relation to New Public Management (NPM) and contemporary forms of hybrid governance, this perspective overlooks their much longer historical trajectory. Drawing on three major Swedish government inquiries (1924, 1965, and 1982), complemented by secondary historical sources, we examine how MOCs have evolved across changing political, economic, and administrative contexts. The article conceptualizes MOCs as constitutional hybrids, organizations that combine elements of public authority and corporate governance by design, and employs insights from institutional theory and historical institutionalism to analyze their long‐term development. The findings identify three historical phases characterized by changing functions, governance rationales, and institutional expectations. Across these periods, MOCs were repeatedly reinterpreted and adapted to new circumstances while maintaining their basic organizational form. The study contributes to the literature on hybridity by demonstrating that hybridity should be understood not merely as a contemporary consequence of public sector reform, but as a historically evolving institutional condition. We argue that the enduring presence of MOCs reflects the adaptive capacity of hybrid organizational forms, whose flexibility allows them to accommodate shifting demands for efficiency, legitimacy, accountability, and public value. By historicizing hybridity, the article offers a new perspective on institutional resilience, and the long‐term evolution of public governance.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Anna Thomasson": [
+              "Department of Accounting Copenhagen Business School Copenhagen Denmark"
+            ],
+            "Olof Hallonsten": [
+              "School of Economics and Management Lund University Lund Sweden"
+            ]
+          },
+          "authors": [
+            "Anna Thomasson",
+            "Olof Hallonsten"
+          ],
+          "constructs": [
+            "Constitutional Hybridity",
+            "Historical Institutionalism"
+          ],
+          "doi": "10.1111/padm.70098",
+          "journal": "Public Administration",
+          "journal_short": "PA",
+          "method": "질적연구",
+          "method_detail": "역사적 문헌분석",
+          "publication_date": "2026-09-27",
+          "stable_id": "doi:10.1111/padm.70098",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 스웨덴 지방공기업의 150년 발전을 어떻게 설명할 수 있는지, 그리고 이들의 혼종성이 현대 공공부문 개혁의 산물에만 해당하는지를 묻는다. 1924·1965·1982년 정부 조사와 역사적 2차 자료를 역사적 제도주의 관점에서 분석한 결과, 지방공기업은 세 역사적 국면에서 기능과 통치 논리가 재해석되면서도 기본 형태를 유지했으며, 혼종적 조직 형태의 제도적 적응력과 회복력을 보여주었다.",
+          "title": "The 150‐Year‐Old Hybrid Organization: A Historical View on Municipally Owned Corporations ( MOC ) in Sweden",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1111/padm.70098"
+        },
+        {
+          "abstract": "ABSTRACT Since the start of the COVID ‐19 pandemic, many countries have been using artificial intelligence ( AI ) to replace civil service personnel. We argue that this practice undermines core democratic values. Using the public values framework, we identify four clusters of values that are threatened when bureaucratic discretion is transferred to algorithms: accountability, fairness and equity, individual consideration, and reason‐giving. Each of these values is incompatible with how algorithms render decisions. Because algorithms produce outputs based on statistical regularities, they diffuse responsibility across multiple parties, fail to make accurate predictions about anomalous cases, and attenuate citizens' claims to individualized consideration. Thus, this article frames AI adoption as a constitutional question about which decisions can be automated, and which should remain under human control because they implicate democratic values. We propose a centaur model in which AI supports rather than replaces human officials, which can preserve efficiency while protecting democratic governance.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "L. Jason Anastasopoulos": [
+              "University of Georgia Athens Georgia USA"
+            ]
+          },
+          "authors": [
+            "L. Jason Anastasopoulos"
+          ],
+          "constructs": [
+            "Public Values",
+            "Bureaucratic Discretion"
+          ],
+          "doi": "10.1111/puar.70201",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "이론/개념",
+          "method_detail": "공공가치 분석",
+          "publication_date": "2026-09-27",
+          "stable_id": "doi:10.1111/puar.70201",
+          "summary_basis": "abstract",
+          "summary_ko": "코로나19 이후 공무원을 AI로 대체하는 관행이 민주적 가치를 훼손하는지 공공가치 프레임워크로 분석한다. 알고리즘에 재량을 이전하면 책무성, 공정성과 형평성, 개별적 고려, 이유 제시가 약화될 수 있으므로, AI가 공무원을 대체하기보다 지원하는 ‘켄타우로스’ 모형을 제안한다.",
+          "title": "Artificial Intelligence, Bureaucratic Discretion, and Democratic Administration",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1111/puar.70201"
+        },
+        {
+          "abstract": "This study draws on 87 in-depth interviews with frontline workers specializing in social assistance services in Shanghai, China to examine how digitalization reconfigures street-level bureaucracy. Integrating role theory and job crafting theory, we find that digital platforms could produce multiple forms of role strain: redundant labour and fragmented systems generate role overload; misalignment between algorithmic rules and clients’ lived circumstances triggers role conflict; and emotional exhaustion coupled with the erosion of occupational identity results in role alienation. To ensure effective grassroots operation, frontline workers proactively engage in task, relational, and cognitive crafting, sustaining professional resilience despite constrained autonomy. This study critiques digital systems design for overlooking frontline implicit knowledge and suggests that digitalization in the street-level bureaucracy is an ongoing process of socio-technical alignment. The findings indicate that the design-reality gap in digital welfare reform may be bridged by systematically incorporating frontline knowledge.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Fan Yang": [
+              "Shanghai Jiao Tong University"
+            ],
+            "Junyao Zheng": [
+              "Shanghai Jiao Tong University"
+            ],
+            "Mingyang Yang": [
+              "Shanghai Jiao Tong University"
+            ],
+            "Shaowei Liu": [
+              "Shanghai Jiao Tong University"
+            ],
+            "Shihan Lu": [
+              "Shanghai Jiao Tong University"
+            ],
+            "Wenjie Li": [
+              "Shanghai Jiao Tong University"
+            ],
+            "Yiyan Zhou": [
+              "Shanghai Jiao Tong University"
+            ]
+          },
+          "authors": [
+            "Fan Yang",
+            "Mingyang Yang",
+            "Shihan Lu",
+            "Yiyan Zhou",
+            "Junyao Zheng",
+            "Wenjie Li",
+            "Shaowei Liu"
+          ],
+          "constructs": [
+            "Role Strain",
+            "Job Crafting"
+          ],
+          "doi": "10.1080/14719037.2026.2739599",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "심층 인터뷰",
+          "publication_date": "2026-09-25",
+          "stable_id": "doi:10.1080/14719037.2026.2739599",
+          "summary_basis": "abstract",
+          "summary_ko": "중국 상하이 사회부조 일선 종사자 87명을 심층 인터뷰해 디지털화가 일선 관료제의 역할 긴장을 어떻게 재구성하는지 분석한 결과, 디지털 플랫폼은 업무 과부하·역할 갈등·역할 소외를 유발했지만 종사자들은 과업·관계·인지적 잡 크래프팅으로 전문적 회복탄력성을 유지했다.",
+          "title": "Role strain and job crafting in China’s digitalizing street-level bureaucracy",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1080/14719037.2026.2739599"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -12488,7 +12739,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12509,7 +12760,7 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
@@ -12542,7 +12793,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12583,7 +12834,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -12608,7 +12859,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12626,7 +12877,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12644,7 +12895,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12666,7 +12917,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -12687,52 +12938,100 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
-    "doi:10.1080/14719037.2026.2739599": {
-      "first_seen_at": "2026-09-26T11:21:29.275860+00:00",
+    "doi:10.1080/14719037.2026.2733927": {
+      "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
       "item": {
         "author_affiliations": {
-          "Fan Yang": [
-            "Shanghai Jiao Tong University"
+          "Haolin Li": [
+            "Central China Normal University"
           ],
-          "Junyao Zheng": [
-            "Shanghai Jiao Tong University"
+          "Shangrui Wang": [
+            "Tsinghua University"
           ],
-          "Mingyang Yang": [
-            "Shanghai Jiao Tong University"
+          "Zheng Liang": [
+            "Tsinghua University"
           ],
-          "Shaowei Liu": [
-            "Shanghai Jiao Tong University"
-          ],
-          "Shihan Lu": [
-            "Shanghai Jiao Tong University"
-          ],
-          "Wenjie Li": [
-            "Shanghai Jiao Tong University"
-          ],
-          "Yiyan Zhou": [
-            "Shanghai Jiao Tong University"
+          "Zhenming Huang": [
+            "Renmin University of China",
+            "Tsinghua University"
           ]
         },
         "authors": [
-          "Fan Yang",
-          "Mingyang Yang",
-          "Shihan Lu",
-          "Yiyan Zhou",
-          "Junyao Zheng",
-          "Wenjie Li",
-          "Shaowei Liu"
+          "Zhenming Huang",
+          "Shangrui Wang",
+          "Haolin Li",
+          "Zheng Liang"
         ],
-        "doi": "10.1080/14719037.2026.2739599",
+        "doi": "10.1080/14719037.2026.2733927",
         "journal": "Public Management Review",
         "journal_short": "PMR",
-        "publication_date": "2026-09-25",
-        "stable_id": "doi:10.1080/14719037.2026.2739599",
-        "title": "Role strain and job crafting in China’s digitalizing street-level bureaucracy",
-        "url": "https://doi.org/10.1080/14719037.2026.2739599"
+        "publication_date": "2026-09-27",
+        "stable_id": "doi:10.1080/14719037.2026.2733927",
+        "title": "Strategic planning for digital technology adoption: drivers and mechanisms in the public sector",
+        "url": "https://doi.org/10.1080/14719037.2026.2733927"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+    },
+    "doi:10.1080/14719037.2026.2736656": {
+      "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
+      "item": {
+        "author_affiliations": {
+          "Adeel Akmal": [
+            "University of Iceland, Reykjavik",
+            "University of Otago, Dunedin"
+          ],
+          "Nataliya Podgorodnichenko": [
+            "University of Otago"
+          ],
+          "Robin Gauld": [
+            "Bond University, Gold Coast"
+          ],
+          "Tim Stokes": [
+            "University of Otago, Dunedin"
+          ]
+        },
+        "authors": [
+          "Adeel Akmal",
+          "Nataliya Podgorodnichenko",
+          "Robin Gauld",
+          "Tim Stokes"
+        ],
+        "doi": "10.1080/14719037.2026.2736656",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-09-27",
+        "stable_id": "doi:10.1080/14719037.2026.2736656",
+        "title": "Towards a theory of public-sector organizations with targeted mandates: a case study of New Zealand’s Māori Health Authority",
+        "url": "https://doi.org/10.1080/14719037.2026.2736656"
+      },
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+    },
+    "doi:10.1080/14719037.2026.2738179": {
+      "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
+      "item": {
+        "author_affiliations": {
+          "Colt Jensen": [
+            "The University of North Carolina at Chapel Hill"
+          ],
+          "Jaclyn Piatak": [
+            "The University of North Carolina at Charlotte"
+          ]
+        },
+        "authors": [
+          "Jaclyn Piatak",
+          "Colt Jensen"
+        ],
+        "doi": "10.1080/14719037.2026.2738179",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-09-27",
+        "stable_id": "doi:10.1080/14719037.2026.2738179",
+        "title": "Does level of government and messaging influence public evacuations? Examining public compliance and agency trust",
+        "url": "https://doi.org/10.1080/14719037.2026.2738179"
+      },
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -12752,7 +13051,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -12769,7 +13068,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -12790,7 +13089,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12807,7 +13106,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12825,7 +13124,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12845,7 +13144,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -12866,7 +13165,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -12881,7 +13180,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -12902,7 +13201,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -12917,7 +13216,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -12932,7 +13231,7 @@
         "title": "Celebrating 85 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-27T11:59:09.184180+00:00"
+      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
     }
   },
   "version": 1
