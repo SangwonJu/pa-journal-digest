@@ -872,6 +872,14 @@
       "sent_at": "2026-09-25T11:53:11.504091+00:00",
       "title": "Psychological safety, motivations and change-oriented organizational citizenship behaviour in emergency managers"
     },
+    "doi:10.1080/14719037.2026.2739599": {
+      "batch_id": "2026-09-28-c54058c0d77e74bd",
+      "doi": "10.1080/14719037.2026.2739599",
+      "journal": "Public Management Review",
+      "publication_date": "2026-09-25",
+      "sent_at": "2026-09-28T13:55:11.329001+00:00",
+      "title": "Role strain and job crafting in China’s digitalizing street-level bureaucracy"
+    },
     "doi:10.1080/15309576.2026.2700771": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1080/15309576.2026.2700771",
@@ -1360,6 +1368,22 @@
       "sent_at": "2026-09-25T11:53:11.504091+00:00",
       "title": "A Replication of “It is Not Merely About the Content: How Rules Are Communicated Matters to Administrative Burden”"
     },
+    "doi:10.1111/padm.70098": {
+      "batch_id": "2026-09-28-c54058c0d77e74bd",
+      "doi": "10.1111/padm.70098",
+      "journal": "Public Administration",
+      "publication_date": "2026-09-27",
+      "sent_at": "2026-09-28T13:55:11.329001+00:00",
+      "title": "The 150‐Year‐Old Hybrid Organization: A Historical View on Municipally Owned Corporations ( MOC ) in Sweden"
+    },
+    "doi:10.1111/padm.70099": {
+      "batch_id": "2026-09-28-c54058c0d77e74bd",
+      "doi": "10.1111/padm.70099",
+      "journal": "Public Administration",
+      "publication_date": "2026-09-27",
+      "sent_at": "2026-09-28T13:55:11.329001+00:00",
+      "title": "A Replication of “Your Money, Your Life, or Your Freedom? A Discrete Choice Experiment on Trade‐Offs During a Public Health Crisis”"
+    },
     "doi:10.1111/pops.70126": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
       "doi": "10.1111/pops.70126",
@@ -1504,6 +1528,14 @@
       "sent_at": "2026-08-29T15:41:45.102971+00:00",
       "title": "Disclosing Power Dynamics in Metropolitan Governance: An Analysis of Network Micro‐Mechanisms of Change in an Evolving Inter‐Municipal Network"
     },
+    "doi:10.1111/psj.70158": {
+      "batch_id": "2026-09-28-c54058c0d77e74bd",
+      "doi": "10.1111/psj.70158",
+      "journal": "Policy Studies Journal",
+      "publication_date": "2026-09-27",
+      "sent_at": "2026-09-28T13:55:11.329001+00:00",
+      "title": "Beyond Evidence: How Framing Shapes Public Health Policies During Health Crises"
+    },
     "doi:10.1111/psj.70159": {
       "batch_id": "2026-09-03-73257f4db9703c6b",
       "doi": "10.1111/psj.70159",
@@ -1535,6 +1567,14 @@
       "publication_date": "2026-09-20",
       "sent_at": "2026-09-21T12:50:18.636048+00:00",
       "title": "Epistemic Capabilities of Artificial Intelligence for Public Administration and Policy Research: A Framework for Scholarship in the Age of Intelligent Machines"
+    },
+    "doi:10.1111/psj.70166": {
+      "batch_id": "2026-09-28-c54058c0d77e74bd",
+      "doi": "10.1111/psj.70166",
+      "journal": "Policy Studies Journal",
+      "publication_date": "2026-09-27",
+      "sent_at": "2026-09-28T13:55:11.329001+00:00",
+      "title": "Problem and Solution Framing in Senate Tweets: Scaling Expert Interpretation With Machine Learning"
     },
     "doi:10.1111/psj.70167": {
       "batch_id": "2026-09-24-f1dd67978ff1bb23",
@@ -1759,6 +1799,14 @@
       "publication_date": "2026-09-11",
       "sent_at": "2026-09-12T14:13:26.103681+00:00",
       "title": "The “Professional Mortality” Problem in Early City Management: A Study of Organized Denial"
+    },
+    "doi:10.1111/puar.70201": {
+      "batch_id": "2026-09-28-c54058c0d77e74bd",
+      "doi": "10.1111/puar.70201",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-09-27",
+      "sent_at": "2026-09-28T13:55:11.329001+00:00",
+      "title": "Artificial Intelligence, Bureaucratic Discretion, and Democratic Administration"
     },
     "doi:10.1111/puar.70205": {
       "batch_id": "2026-09-25-206a492be61a1838",
@@ -12716,7 +12764,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2739599"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-28T13:55:11.329001+00:00",
+      "status": "sent"
     }
   },
   "pending": {
