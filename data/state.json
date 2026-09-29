@@ -12766,6 +12766,109 @@
       ],
       "sent_at": "2026-09-28T13:55:11.329001+00:00",
       "status": "sent"
+    },
+    "2026-09-29-66b14dcf36a3e330": {
+      "created_at": "2026-09-29T12:48:46.182480+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-29-66b14dcf36a3e330",
+      "items": [
+        {
+          "abstract": "Many policies require citizens to actively participate in their implementation in order to be successful, a situation referred to as citizen coproduction. Though citizen coproduction is necessary in many policy areas, it could create difficulties for democratic accountability because citizens and politicians share responsibility for policy failures and attribution of blame may be difficult. We analyze the problem of democratic accountability with citizen coproduction in the context of a model in which politicians, who vary with respect to their competence at selecting policies, choose whether to implement policies whose success depends on citizen coproduction choices. For citizens, the problem is one of attribution: when coproduction is low, it may be hard to select good incumbents because policy failures are frequent even when policy choices are good. Incumbents anticipate these effects, which sometimes implies that they are less likely to choose reforms when they are more likely to be successful.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "IAN R. TURNER": [
+              "University of Pittsburgh"
+            ],
+            "JIE MA": [
+              "Washington University in St Louis"
+            ],
+            "KEITH E. SCHNAKENBERG": [
+              "Washington University in St Louis"
+            ]
+          },
+          "authors": [
+            "JIE MA",
+            "KEITH E. SCHNAKENBERG",
+            "IAN R. TURNER"
+          ],
+          "constructs": [
+            "Citizen Coproduction",
+            "Democratic Accountability"
+          ],
+          "doi": "10.1017/s0003055426101889",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "이론/개념",
+          "method_detail": "개념적 모형",
+          "publication_date": "2026-09-29",
+          "stable_id": "doi:10.1017/s0003055426101889",
+          "summary_basis": "abstract",
+          "summary_ko": "시민 공동생산에 의존하는 정책에서 정치인의 역량과 시민 참여가 정책 실패의 책임 귀속과 민주적 책무성에 어떤 영향을 미치는지 이론 모형으로 분석한다. 시민 공동생산이 낮으면 좋은 정책을 선택한 현직자도 실패를 겪어 평가받기 어려우며, 그 결과 현직자는 성공 가능성이 높을수록 개혁을 덜 선택할 수 있음을 보인다.",
+          "title": "Democratic Accountability with Citizen Coproduction",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1017/s0003055426101889"
+        },
+        {
+          "abstract": "Abstract This article investigates Mary Astell’s controversial comparison of marriage to slavery. While existing scholarship situates this analogy within the neo-Roman republican framework, which defined slavery as subjection to absolute rule, I investigate another paradigm: the transatlantic slave trade. To make this case, the article traces the influence of Aphra Behn’s Oroonoko (1688) on early feminist thought. By foregrounding the market logic underpinning chattel slavery, Behn popularized the idea that slavery’s harms were rooted, not in absolute power, but in the commodification of human beings. Astell appropriated this insight, showing that marriage resembled slavery not because husbands wielded power over wives but because the institution had been commodified: women were treated as things to be bought and sold. In uncovering this genealogy of feminist thought, the article highlights the enduring contributions of the “first” English feminists—insights that are entangled with, and shaped by, the development of the slave trade.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "MARY JO MACDONALD": [
+              "Mount Allison University"
+            ]
+          },
+          "authors": [
+            "MARY JO MACDONALD"
+          ],
+          "constructs": [
+            "Commodification",
+            "Neo-Roman Republicanism"
+          ],
+          "doi": "10.1017/s0003055426101890",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "이론/개념",
+          "method_detail": "사상 계보 추적",
+          "publication_date": "2026-09-29",
+          "stable_id": "doi:10.1017/s0003055426101890",
+          "summary_basis": "abstract",
+          "summary_ko": "이 글은 메리 애스텔이 결혼을 노예제에 비유한 이유를 대서양 노예무역의 맥락에서 재검토하며, 애프라 벤의 『오루노코』가 초기 페미니즘 사상에 미친 영향을 추적한다. 그 결과 애스텔은 결혼이 남편의 절대적 권력 때문이 아니라 여성이 사고팔리는 물건으로 취급되는 상품화된 제도라는 점에서 노예제와 유사하다고 보았다는 점을 제시한다.",
+          "title": "Marriage as Slavery: Oroonoko, the Slave Trade, and the Origins of English Feminism",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1017/s0003055426101890"
+        },
+        {
+          "abstract": "Calls to “democratize finance” abound today. Yet this apparent consensus obscures sharply divergent conceptions of both democracy and finance. This article maps these demands along two axes, distinguishing between access- and power-based conceptions of democracy, and between three dimensions of finance: payment, capital markets, and banking. We then develop three normative claims. First, we argue that conceptions that reduce democratization to expanded market access are not merely insufficient but, when applied to speculative capital markets, amount to predatory inclusion. Second, thicker accounts of democratization as equal inclusion are normatively more promising but internally unstable, as their democratic commitments generate pressures toward power sharing. Third, the most plausible conceptions of democratizing finance are power-centered and involve greater public control over credit creation and allocation. Rather than defending a single institutional solution, the article assesses a range of reform proposals while specifying a normative threshold for evaluating what it would mean to democratize finance.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "LEAH DOWNEY": [
+              "King’s College London"
+            ],
+            "STEFAN EICH": [
+              "Georgetown University"
+            ]
+          },
+          "authors": [
+            "LEAH DOWNEY",
+            "STEFAN EICH"
+          ],
+          "constructs": [
+            "Democratization",
+            "Predatory Inclusion"
+          ],
+          "doi": "10.1017/s0003055426101968",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "이론/개념",
+          "method_detail": "개념적 분석",
+          "publication_date": "2026-09-29",
+          "stable_id": "doi:10.1017/s0003055426101968",
+          "summary_basis": "abstract",
+          "summary_ko": "이 글은 민주주의와 금융에 대한 상이한 개념을 바탕으로 ‘금융의 민주화’ 요구를 어떻게 평가할 것인지 묻고, 민주주의를 접근·권력 중심으로, 금융을 결제·자본시장·은행의 세 차원으로 구분해 개념적으로 분석한다. 시장 접근 확대만을 민주화로 보는 관점은 특히 투기적 자본시장에서 약탈적 포용이 될 수 있으며, 가장 설득력 있는 구상은 신용 창출과 배분에 대한 공적 통제를 강화하는 권력 중심 접근이라고 주장한다.",
+          "title": "What Would It Mean to Democratize Finance? An Evaluation of Divergent Conceptions of Democracy and Finance",
+          "topic_area": "재무·예산",
+          "url": "https://doi.org/10.1017/s0003055426101968"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -12788,7 +12891,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12809,14 +12912,14 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
       "item": {
         "author_affiliations": {
           "Andrew Guess": [
-            "Princeton Public Schools"
+            "Princeton University"
           ],
           "JungHwan Yang": [
             "University of Illinois Urbana-Champaign"
@@ -12842,7 +12945,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12850,9 +12953,6 @@
         "author_affiliations": {
           "Alisa Zomer": [
             "Massachusetts Institute of Technology"
-          ],
-          "Leonard Waweru": [
-            "Busara Center for Behavioral Economics"
           ],
           "Lily L. Tsai": [
             "Massachusetts Institute of Technology"
@@ -12862,9 +12962,6 @@
           ],
           "Nuole Chen": [
             "Massachusetts Institute of Technology"
-          ],
-          "Salim Kombo": [
-            "Busara Center for Behavioral Economics"
           ]
         },
         "authors": [
@@ -12883,7 +12980,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -12908,7 +13005,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12926,7 +13023,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -12944,15 +13041,14 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
       "item": {
         "author_affiliations": {
           "Katarzyna Sienkiewicz-Małyjurek": [
-            "Silesian University of Technology",
-            "Institute of Medical Technology and Equipment"
+            "Silesian University of Technology"
           ]
         },
         "authors": [
@@ -12966,7 +13062,44 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+    },
+    "doi:10.1080/01900692.2026.2722293": {
+      "first_seen_at": "2026-09-29T12:48:46.182480+00:00",
+      "item": {
+        "author_affiliations": {
+          "Amílcar Samuel Rodríguez Reyes": [
+            "ESAP"
+          ],
+          "Carlos De Oro Aguado": [
+            "Universidad del Norte"
+          ],
+          "Hernán Guzmán": [
+            "Universidad de Sucre"
+          ],
+          "José Torres": [
+            "Universidad de Sucre"
+          ],
+          "Mario de la Puente": [
+            "Universidad del Norte"
+          ]
+        },
+        "authors": [
+          "Mario de la Puente",
+          "Amílcar Samuel Rodríguez Reyes",
+          "José Torres",
+          "Hernán Guzmán",
+          "Carlos De Oro Aguado"
+        ],
+        "doi": "10.1080/01900692.2026.2722293",
+        "journal": "International Journal of Public Administration",
+        "journal_short": "IJPA",
+        "publication_date": "2026-09-28",
+        "stable_id": "doi:10.1080/01900692.2026.2722293",
+        "title": "Organizational Determinants of Telemedicine Equity Outcomes in Latin American Public Health Systems",
+        "url": "https://doi.org/10.1080/01900692.2026.2722293"
+      },
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -12987,7 +13120,86 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+    },
+    "doi:10.1080/10967494.2026.2718927": {
+      "first_seen_at": "2026-09-29T12:48:46.182480+00:00",
+      "item": {
+        "author_affiliations": {
+          "Faisal S. Cheema": [
+            "Indiana University Bloomington, O’Neill School of Public and Environmental Affairs"
+          ],
+          "Sergio Fernandez": [
+            "Indiana University Bloomington, O’Neill School of Public and Environmental Affairs, Extraordinary Professor, University of Pretoria, School of Public Management and Administration"
+          ]
+        },
+        "authors": [
+          "Sergio Fernandez",
+          "Faisal S. Cheema"
+        ],
+        "doi": "10.1080/10967494.2026.2718927",
+        "journal": "International Public Management Journal",
+        "journal_short": "IPMJ",
+        "publication_date": "2026-09-28",
+        "stable_id": "doi:10.1080/10967494.2026.2718927",
+        "title": "Merit, autonomy, and corruption: the moderating role of anti-corruption institutions in Africa",
+        "url": "https://doi.org/10.1080/10967494.2026.2718927"
+      },
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+    },
+    "doi:10.1080/10967494.2026.2718928": {
+      "first_seen_at": "2026-09-29T12:48:46.182480+00:00",
+      "item": {
+        "author_affiliations": {
+          "Lucie Martin": [
+            "Economic and Social Research Institute Ireland"
+          ],
+          "Martin Baekgaard": [
+            "Aarhus University"
+          ],
+          "Minjung Kim": [
+            "Syracuse University"
+          ]
+        },
+        "authors": [
+          "Martin Baekgaard",
+          "Minjung Kim",
+          "Lucie Martin"
+        ],
+        "doi": "10.1080/10967494.2026.2718928",
+        "journal": "International Public Management Journal",
+        "journal_short": "IPMJ",
+        "publication_date": "2026-09-28",
+        "stable_id": "doi:10.1080/10967494.2026.2718928",
+        "title": "Building tolerance through experience: administrative engagement and burden tolerance across four countries",
+        "url": "https://doi.org/10.1080/10967494.2026.2718928"
+      },
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+    },
+    "doi:10.1080/10967494.2026.2731069": {
+      "first_seen_at": "2026-09-29T12:48:46.182480+00:00",
+      "item": {
+        "author_affiliations": {
+          "Hehui Yuan": [
+            "Nanjing University of Aeronautics and Astronautics"
+          ],
+          "Wenshan Guo": [
+            "University of Science and Technology of China"
+          ]
+        },
+        "authors": [
+          "Wenshan Guo",
+          "Hehui Yuan"
+        ],
+        "doi": "10.1080/10967494.2026.2731069",
+        "journal": "International Public Management Journal",
+        "journal_short": "IPMJ",
+        "publication_date": "2026-09-28",
+        "stable_id": "doi:10.1080/10967494.2026.2731069",
+        "title": "From human touch to aI-based self-service: antecedents of business users’ switching intention in government-to-business services",
+        "url": "https://doi.org/10.1080/10967494.2026.2731069"
+      },
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1080/14719037.2026.2733927": {
       "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
@@ -13021,7 +13233,7 @@
         "title": "Strategic planning for digital technology adoption: drivers and mechanisms in the public sector",
         "url": "https://doi.org/10.1080/14719037.2026.2733927"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1080/14719037.2026.2736656": {
       "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
@@ -13055,7 +13267,32 @@
         "title": "Towards a theory of public-sector organizations with targeted mandates: a case study of New Zealand’s Māori Health Authority",
         "url": "https://doi.org/10.1080/14719037.2026.2736656"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+    },
+    "doi:10.1080/14719037.2026.2737335": {
+      "first_seen_at": "2026-09-29T12:48:46.182480+00:00",
+      "item": {
+        "author_affiliations": {
+          "Alessandra do Valle Abrahão": [
+            "University of Brasília"
+          ],
+          "Siegrid Guillaumon": [
+            "University of Brasília"
+          ]
+        },
+        "authors": [
+          "Alessandra do Valle Abrahão",
+          "Siegrid Guillaumon"
+        ],
+        "doi": "10.1080/14719037.2026.2737335",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-09-28",
+        "stable_id": "doi:10.1080/14719037.2026.2737335",
+        "title": "Unveiling the intangible: a systemic perspective for creativity and innovation in public organizations",
+        "url": "https://doi.org/10.1080/14719037.2026.2737335"
+      },
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1080/14719037.2026.2738179": {
       "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
@@ -13080,7 +13317,7 @@
         "title": "Does level of government and messaging influence public evacuations? Examining public compliance and agency trust",
         "url": "https://doi.org/10.1080/14719037.2026.2738179"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -13100,7 +13337,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -13117,7 +13354,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -13138,7 +13375,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -13155,7 +13392,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -13173,7 +13410,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -13193,7 +13430,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -13214,7 +13451,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -13229,7 +13466,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -13250,7 +13487,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -13265,7 +13502,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -13277,10 +13514,10 @@
         "journal_short": "PAR",
         "publication_date": "2026-08-27",
         "stable_id": "doi:10.1111/puar.70183",
-        "title": "Celebrating 85 Years",
+        "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-28T13:49:25.944190+00:00"
+      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
     }
   },
   "version": 1
