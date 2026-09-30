@@ -376,6 +376,14 @@
       "sent_at": "2026-08-26T11:45:39.190604+00:00",
       "title": "Implicit-Explicit Incongruence: The Dual Structure of Public Value Preferences in Civil Servants"
     },
+    "doi:10.1080/01900692.2026.2722293": {
+      "batch_id": "2026-09-30-7120f5ca0e0951f8",
+      "doi": "10.1080/01900692.2026.2722293",
+      "journal": "International Journal of Public Administration",
+      "publication_date": "2026-09-28",
+      "sent_at": "2026-09-30T12:38:05.748126+00:00",
+      "title": "Organizational Determinants of Telemedicine Equity Outcomes in Latin American Public Health Systems"
+    },
     "doi:10.1080/01900692.2026.2724993": {
       "batch_id": "2026-09-09-19421c9dfd8ea28a",
       "doi": "10.1080/01900692.2026.2724993",
@@ -864,6 +872,14 @@
       "sent_at": "2026-09-19T11:00:59.248068+00:00",
       "title": "Unpacking local government responsiveness to social media: evidence from Mexico"
     },
+    "doi:10.1080/14719037.2026.2733927": {
+      "batch_id": "2026-09-30-7120f5ca0e0951f8",
+      "doi": "10.1080/14719037.2026.2733927",
+      "journal": "Public Management Review",
+      "publication_date": "2026-09-27",
+      "sent_at": "2026-09-30T12:38:05.748126+00:00",
+      "title": "Strategic planning for digital technology adoption: drivers and mechanisms in the public sector"
+    },
     "doi:10.1080/14719037.2026.2733934": {
       "batch_id": "2026-09-16-3de6e0119190eec2",
       "doi": "10.1080/14719037.2026.2733934",
@@ -880,6 +896,14 @@
       "sent_at": "2026-09-16T11:36:21.141999+00:00",
       "title": "Revisiting the political-social dimension of public value"
     },
+    "doi:10.1080/14719037.2026.2737335": {
+      "batch_id": "2026-09-30-7120f5ca0e0951f8",
+      "doi": "10.1080/14719037.2026.2737335",
+      "journal": "Public Management Review",
+      "publication_date": "2026-09-28",
+      "sent_at": "2026-09-30T12:38:05.748126+00:00",
+      "title": "Unveiling the intangible: a systemic perspective for creativity and innovation in public organizations"
+    },
     "doi:10.1080/14719037.2026.2737343": {
       "batch_id": "2026-09-23-44e485dedc948b31",
       "doi": "10.1080/14719037.2026.2737343",
@@ -887,6 +911,14 @@
       "publication_date": "2026-09-22",
       "sent_at": "2026-09-23T11:38:22.380172+00:00",
       "title": "Executive agencies in developing countries: the case of the parastatal organizations in Suriname"
+    },
+    "doi:10.1080/14719037.2026.2738179": {
+      "batch_id": "2026-09-30-7120f5ca0e0951f8",
+      "doi": "10.1080/14719037.2026.2738179",
+      "journal": "Public Management Review",
+      "publication_date": "2026-09-27",
+      "sent_at": "2026-09-30T12:38:05.748126+00:00",
+      "title": "Does level of government and messaging influence public evacuations? Examining public compliance and agency trust"
     },
     "doi:10.1080/14719037.2026.2738908": {
       "batch_id": "2026-09-25-206a492be61a1838",
@@ -1856,6 +1888,14 @@
       "sent_at": "2026-09-22T11:38:46.588049+00:00",
       "title": "Managing Collaboration Dynamics Under Pressure: Lessons From the COVID ‐19 Medical Supply Shortage"
     },
+    "doi:10.1111/puar.70210": {
+      "batch_id": "2026-09-30-7120f5ca0e0951f8",
+      "doi": "10.1111/puar.70210",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-09-29",
+      "sent_at": "2026-09-30T12:38:05.748126+00:00",
+      "title": "Public Management of Deregulated Systems: Challenges and Opportunities in the Public Management of Retail Energy Markets"
+    },
     "doi:10.1111/puar.70211": {
       "batch_id": "2026-09-24-f1dd67978ff1bb23",
       "doi": "10.1111/puar.70211",
@@ -1863,6 +1903,14 @@
       "publication_date": "2026-09-23",
       "sent_at": "2026-09-24T11:47:30.302385+00:00",
       "title": "Small Polity, Hybrid Administration, International Research: Public Administration in Switzerland"
+    },
+    "doi:10.1111/puar.70218": {
+      "batch_id": "2026-09-30-7120f5ca0e0951f8",
+      "doi": "10.1111/puar.70218",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-09-29",
+      "sent_at": "2026-09-30T12:38:05.748126+00:00",
+      "title": "Reply to Kettl: Beyond Bureaucracy: Why AI Demands a Fourth Way in Public Administration"
     },
     "doi:10.1177/00953997261467698": {
       "batch_id": "2026-08-17-92d20fbd959228aa",
@@ -13133,7 +13181,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2737335"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-09-30T12:38:05.748126+00:00",
+      "status": "sent"
     }
   },
   "pending": {
