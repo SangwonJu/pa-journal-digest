@@ -12894,6 +12894,246 @@
       ],
       "sent_at": "2026-09-29T12:55:11.803181+00:00",
       "status": "sent"
+    },
+    "2026-09-30-7120f5ca0e0951f8": {
+      "created_at": "2026-09-30T12:30:45.555578+00:00",
+      "idempotency_key": "pa-journal-digest-2026-09-30-7120f5ca0e0951f8",
+      "items": [
+        {
+          "abstract": "This study examines how organizational factors shaped telemedicine equity outcomes across 623 public hospitals in Chile, Mexico, Colombia, Ecuador, and Uruguay from 2015 to 2025. Using hospital-year data from ministry databases, PAHO registries, waiting-time records, audit reports, training logs, and technology-readiness assessments, the analysis combines descriptive statistics, multilevel regression, difference-in-differences estimation, country-level models, and a limited instrumental-variable sensitivity analysis. Results show that the rural–urban specialist waiting-time gap declined from 5.1 to 1.9 days after telemedicine expansion. Centralized implementation was associated with a 0.187-unit improvement in the Access Equity Index, while each additional 10 hours of staff training was associated with a 0.024-unit improvement. Findings suggest that telemedicine equity depends not only on technology adoption, but also on organizational coordination, workforce preparation, and implementation capacity within public health systems.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Amílcar Samuel Rodríguez Reyes": [
+              "ESAP"
+            ],
+            "Carlos De Oro Aguado": [
+              "Universidad del Norte"
+            ],
+            "Hernán Guzmán": [
+              "Universidad de Sucre"
+            ],
+            "José Torres": [
+              "Universidad de Sucre"
+            ],
+            "Mario de la Puente": [
+              "Universidad del Norte"
+            ]
+          },
+          "authors": [
+            "Mario de la Puente",
+            "Amílcar Samuel Rodríguez Reyes",
+            "José Torres",
+            "Hernán Guzmán",
+            "Carlos De Oro Aguado"
+          ],
+          "constructs": [
+            "Telemedicine Equity",
+            "Implementation Capacity"
+          ],
+          "doi": "10.1080/01900692.2026.2722293",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "method": "혼합방법론",
+          "method_detail": "병원 패널 분석",
+          "publication_date": "2026-09-28",
+          "stable_id": "doi:10.1080/01900692.2026.2722293",
+          "summary_basis": "abstract",
+          "summary_ko": "본 연구는 칠레·멕시코·콜롬비아·에콰도르·우루과이 공공병원 623곳의 2015~2025년 병원-연도 자료를 활용해 조직 요인이 원격의료의 접근 형평성에 어떤 영향을 미쳤는지 다층회귀, 이중차분 및 제한적 도구변수 분석으로 검토했다. 원격의료 확대 후 농촌-도시 전문의 대기시간 격차가 감소했으며, 중앙집중형 실행과 직원 교육시간 증가는 접근 형평성 개선과 관련됐다.",
+          "title": "Organizational Determinants of Telemedicine Equity Outcomes in Latin American Public Health Systems",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1080/01900692.2026.2722293"
+        },
+        {
+          "abstract": "ABSTRACT Many critical infrastructure services operate within quasi‐regulated (i.e., “deregulated”) markets. Public managers face a unique set of challenges and opportunities in the administration and oversight of these markets. Administrative and regulatory challenges exist because public managers are required to balance an open and competitive marketplace while confronting multiple market failures (e.g., consumer inattention, imperfect competition) alongside organizational, management, and legal and regulatory enforcement challenges. There are real‐world consequences of administrative choices on economic (in)efficiency and consumer equity. This paper provides public managers with a comprehensive review of the public management challenges and opportunities associated with managing deregulated retail electricity markets. It then provides a review of empirical research and an empirical example for one category of these challenges—consumer equity. The paper concludes with a multi‐disciplinary discussion of the role of public managers in deregulated marketplaces and public policy options to address both equity and efficiency challenges.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Alberto Lamadrid": [
+              "College of Business, Lehigh University Bethlehem Pennsylvania USA"
+            ],
+            "Jenya Kahn‐Lang": [
+              "Resources for the Future Washington DC USA"
+            ],
+            "Matthew Hoyt": [
+              "Exeter Associates Columbia Maryland USA"
+            ],
+            "Noah Dormady": [
+              "John Glenn College of Public Affairs The Ohio State University Columbus Ohio USA"
+            ],
+            "Samantha Fox": [
+              "Department of Sociology and Anthropology Lehigh University Bethlehem Pennsylvania USA"
+            ],
+            "Yiseon Choi": [
+              "John Glenn College of Public Affairs The Ohio State University Columbus Ohio USA"
+            ],
+            "Yufan Ji": [
+              "Civil, Environmental and Geodetic Engineering The Ohio State University Columbus Ohio USA"
+            ]
+          },
+          "authors": [
+            "Noah Dormady",
+            "Jenya Kahn‐Lang",
+            "Yiseon Choi",
+            "Yufan Ji",
+            "Samantha Fox",
+            "Alberto Lamadrid",
+            "Matthew Hoyt"
+          ],
+          "constructs": [
+            "Consumer Equity",
+            "Market Failure"
+          ],
+          "doi": "10.1111/puar.70210",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "이론/개념",
+          "method_detail": "문헌 검토·사례",
+          "publication_date": "2026-09-29",
+          "stable_id": "doi:10.1111/puar.70210",
+          "summary_basis": "abstract",
+          "summary_ko": "이 논문은 소매 전력의 준규제(‘규제완화’) 시장에서 공공관리자가 개방적 경쟁을 유지하면서 소비자 부주의와 불완전 경쟁 등 시장실패, 조직·관리·법적 집행 문제를 어떻게 조정·감독해야 하는지 검토한다. 문헌 검토와 소비자 형평성에 관한 실증 사례를 통해 이러한 행정적 선택이 효율성과 소비자 형평성에 영향을 미치며, 두 목표를 함께 다루기 위한 정책 선택지를 논의한다.",
+          "title": "Public Management of Deregulated Systems: Challenges and Opportunities in the Public Management of Retail Energy Markets",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1111/puar.70210"
+        },
+        {
+          "abstract": "ABSTRACT Kettl argues public administration faces a crisis rooted in widening gaps between scholars and practitioners and between the field's core ideas and current governance issues. We identify a critical example: artificial intelligence (AI) adoption in government. AI fundamentally transforms public organizations, redistributing tasks and discretion between humans and algorithms, embedding instrumental rationality into administrative processes, and reconfiguring authority structures. These developments challenge three longstanding pillars of public administration: bureaucratic neutrality, the politics‐administration dichotomy, and democratic governance. We argue that any proposed “Fourth Way” must center democratic resilience and technological stewardship, incorporating algorithmic transparency requirements and participatory governance structures that preserve public—and especially democratic—values.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Jack Baldwin": [
+              "Maxwell School Syracuse University Syracuse New York USA"
+            ],
+            "Tina Nabatchi": [
+              "Maxwell School Syracuse University Syracuse New York USA"
+            ]
+          },
+          "authors": [
+            "Jack Baldwin",
+            "Tina Nabatchi"
+          ],
+          "constructs": [
+            "bureaucratic neutrality",
+            "democratic governance"
+          ],
+          "doi": "10.1111/puar.70218",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "이론/개념",
+          "method_detail": "개념적 논의",
+          "publication_date": "2026-09-29",
+          "stable_id": "doi:10.1111/puar.70218",
+          "summary_basis": "abstract",
+          "summary_ko": "인공지능의 정부 도입이 인간과 알고리즘 간 과업·재량을 재분배하고 권위 구조를 재편해 관료적 중립성, 정치·행정 이원론, 민주적 거버넌스에 도전하는 양상을 개념적으로 논의한다. 이에 대응하는 ‘제4의 길’은 민주적 회복탄력성과 기술 관리 책무를 중심에 두고, 알고리즘 투명성과 참여적 거버넌스를 통해 공적·민주적 가치를 보존해야 한다고 주장한다.",
+          "title": "Reply to Kettl: Beyond Bureaucracy: Why AI Demands a Fourth Way in Public Administration",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1111/puar.70218"
+        },
+        {
+          "abstract": "Extreme weather events are increasing globally, yet research on how public leadership messaging and the level of government delivering crisis communications influence public compliance and institutional trust remains limited. Drawing on public leadership theory and federalism research, we employ a 2 × 3 survey experiment embedded in the 2023 US Cooperative Election Study (N = 409) to examine how messaging style (authoritarian versus democratic) and the level of government agency (federal, state, or local) influence evacuation intent and agency trust. We find that messaging from the Federal Emergency Management Agency (FEMA) increases evacuation intent, despite local governments being legally responsible for issuing evacuation orders. Democratic, or collective, messaging is associated with greater trust in agency. However, trust is more strongly associated with pre-existing individual orientations, public service motivation, and political ideology, than with one-time communication cues. Findings have implications for crisis communication strategy, public leadership, and intergovernmental coordination in emergency management.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Colt Jensen": [
+              "The University of North Carolina at Chapel Hill"
+            ],
+            "Jaclyn Piatak": [
+              "The University of North Carolina at Charlotte"
+            ]
+          },
+          "authors": [
+            "Jaclyn Piatak",
+            "Colt Jensen"
+          ],
+          "constructs": [
+            "Public Leadership",
+            "Federalism"
+          ],
+          "doi": "10.1080/14719037.2026.2738179",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-09-27",
+          "stable_id": "doi:10.1080/14719037.2026.2738179",
+          "summary_basis": "abstract",
+          "summary_ko": "2023년 미국 협력 선거연구에 포함된 2×3 설문실험(N=409)을 통해, 권위주의적·민주적 메시지와 연방·주·지방 정부 기관의 전달 수준이 대피 의향과 기관 신뢰에 미치는 영향을 분석했다. FEMA의 메시지는 대피 의향을 높였고, 집합적 메시지는 기관 신뢰와 관련되었지만 신뢰는 일회성 소통 단서보다 개인의 기존 성향, 공공봉사동기, 정치 이념과 더 강하게 연관되었다.",
+          "title": "Does level of government and messaging influence public evacuations? Examining public compliance and agency trust",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/14719037.2026.2738179"
+        },
+        {
+          "abstract": "While strategic planning facilitates public sector digital transformation, it remains unclear why public sectors engage in shaping strategic plans for digital adoption. This study employs the 3Ps framework (People–Process–Plan) to construct an adapted explanatory model of these driving factors. Adopting a longitudinal case study (2019–2024), it investigates a Chinese local government’s digital anti-corruption strategizing based on 28 interviews. Findings extend the 3Ps framework by conceptualizing People as multiple stakeholders, differentiating Process into mutually evolving constructive and conflictual processes, revealing the moderating role of resource accessibility, and demonstrating the feedback effect of implementation outcomes on ongoing Strategic Plans, ultimately advancing digital strategizing from static compliance to a purposeful, dynamic closed-loop system.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Haolin Li": [
+              "Central China Normal University"
+            ],
+            "Shangrui Wang": [
+              "Tsinghua University"
+            ],
+            "Zheng Liang": [
+              "Tsinghua University"
+            ],
+            "Zhenming Huang": [
+              "Renmin University of China",
+              "Tsinghua University"
+            ]
+          },
+          "authors": [
+            "Zhenming Huang",
+            "Shangrui Wang",
+            "Haolin Li",
+            "Zheng Liang"
+          ],
+          "constructs": [
+            "3Ps Framework",
+            "Digital Transformation"
+          ],
+          "doi": "10.1080/14719037.2026.2733927",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "종단 사례연구",
+          "publication_date": "2026-09-27",
+          "stable_id": "doi:10.1080/14719037.2026.2733927",
+          "summary_basis": "abstract",
+          "summary_ko": "공공부문이 디지털 기술 도입을 위한 전략계획을 수립하는 동인과 메커니즘을 규명하기 위해, 중국 지방정부의 디지털 반부패 전략화를 2019~2024년 28건의 인터뷰에 기반한 종단 사례연구로 분석했다. 분석 결과, People은 복수 이해관계자로 확장되고 Process는 상호 진화하는 건설적·갈등적 과정으로 구분되며, 자원 접근성이 이를 조절하고 실행 결과가 후속 전략계획에 환류되어 디지털 전략화를 정적 순응에서 목적지향적·동태적 폐쇄루프로 전환하는 것으로 나타났다.",
+          "title": "Strategic planning for digital technology adoption: drivers and mechanisms in the public sector",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1080/14719037.2026.2733927"
+        },
+        {
+          "abstract": "This study examines how systemic creativity manifests empirically in the public sector using Csikszentmihalyi’s systemic model operationalized through 15 empirically grounded categories. By analyzing 60 Brazilian cases from the OECD Observatory of Public Sector Innovation, findings reveal that the most decisive enabling conditions are intangible: trust, psychological safety, shared purpose, and relational dynamics. A consistent pattern of frugal innovation emerges, with resource scarcity activating systemic mechanisms that substitute material resources. Theoretically, the study operationalizes an abstract model of creativity in organizational contexts. Empirically, it expands insights beyond Global North settings. Practically, it offers public managers a lens for rendering visible innovation's invisible infrastructure.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Alessandra do Valle Abrahão": [
+              "University of Brasília"
+            ],
+            "Siegrid Guillaumon": [
+              "University of Brasília"
+            ]
+          },
+          "authors": [
+            "Alessandra do Valle Abrahão",
+            "Siegrid Guillaumon"
+          ],
+          "constructs": [
+            "Systemic Creativity",
+            "Psychological Safety"
+          ],
+          "doi": "10.1080/14719037.2026.2737335",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "사례 내용분석",
+          "publication_date": "2026-09-28",
+          "stable_id": "doi:10.1080/14719037.2026.2737335",
+          "summary_basis": "abstract",
+          "summary_ko": "본 연구는 Csikszentmihalyi의 체계적 창의성 모형을 15개 범주로 조작화해 브라질의 OECD 공공부문 혁신 사례 60건을 분석함으로써 공공부문에서 체계적 창의성이 어떻게 나타나는지 살폈다. 신뢰, 심리적 안전, 공유된 목적, 관계적 역학 같은 무형 조건이 핵심 촉진 요인이며, 자원 부족이 물질적 자원을 대체하는 체계적 메커니즘을 작동시키는 절약형 혁신이 일관되게 나타났다.",
+          "title": "Unveiling the intangible: a systemic perspective for creativity and innovation in public organizations",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1080/14719037.2026.2737335"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -12916,7 +13156,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -12937,7 +13177,7 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
@@ -12970,7 +13210,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -13005,7 +13245,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -13030,7 +13270,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1016/j.giq.2026.102167": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -13048,7 +13288,7 @@
         "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
         "url": "https://doi.org/10.1016/j.giq.2026.102167"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1016/j.giq.2026.102170": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -13066,7 +13306,7 @@
         "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
         "url": "https://doi.org/10.1016/j.giq.2026.102170"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -13087,44 +13327,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
-    },
-    "doi:10.1080/01900692.2026.2722293": {
-      "first_seen_at": "2026-09-29T12:48:46.182480+00:00",
-      "item": {
-        "author_affiliations": {
-          "Amílcar Samuel Rodríguez Reyes": [
-            "ESAP"
-          ],
-          "Carlos De Oro Aguado": [
-            "Universidad del Norte"
-          ],
-          "Hernán Guzmán": [
-            "Universidad de Sucre"
-          ],
-          "José Torres": [
-            "Universidad de Sucre"
-          ],
-          "Mario de la Puente": [
-            "Universidad del Norte"
-          ]
-        },
-        "authors": [
-          "Mario de la Puente",
-          "Amílcar Samuel Rodríguez Reyes",
-          "José Torres",
-          "Hernán Guzmán",
-          "Carlos De Oro Aguado"
-        ],
-        "doi": "10.1080/01900692.2026.2722293",
-        "journal": "International Journal of Public Administration",
-        "journal_short": "IJPA",
-        "publication_date": "2026-09-28",
-        "stable_id": "doi:10.1080/01900692.2026.2722293",
-        "title": "Organizational Determinants of Telemedicine Equity Outcomes in Latin American Public Health Systems",
-        "url": "https://doi.org/10.1080/01900692.2026.2722293"
-      },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -13145,7 +13348,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1080/10967494.2026.2718927": {
       "first_seen_at": "2026-09-29T12:48:46.182480+00:00",
@@ -13170,7 +13373,7 @@
         "title": "Merit, autonomy, and corruption: the moderating role of anti-corruption institutions in Africa",
         "url": "https://doi.org/10.1080/10967494.2026.2718927"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1080/10967494.2026.2718928": {
       "first_seen_at": "2026-09-29T12:48:46.182480+00:00",
@@ -13199,7 +13402,7 @@
         "title": "Building tolerance through experience: administrative engagement and burden tolerance across four countries",
         "url": "https://doi.org/10.1080/10967494.2026.2718928"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1080/10967494.2026.2731069": {
       "first_seen_at": "2026-09-29T12:48:46.182480+00:00",
@@ -13224,41 +13427,7 @@
         "title": "From human touch to aI-based self-service: antecedents of business users’ switching intention in government-to-business services",
         "url": "https://doi.org/10.1080/10967494.2026.2731069"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
-    },
-    "doi:10.1080/14719037.2026.2733927": {
-      "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
-      "item": {
-        "author_affiliations": {
-          "Haolin Li": [
-            "Central China Normal University"
-          ],
-          "Shangrui Wang": [
-            "Tsinghua University"
-          ],
-          "Zheng Liang": [
-            "Tsinghua University"
-          ],
-          "Zhenming Huang": [
-            "Renmin University of China",
-            "Tsinghua University"
-          ]
-        },
-        "authors": [
-          "Zhenming Huang",
-          "Shangrui Wang",
-          "Haolin Li",
-          "Zheng Liang"
-        ],
-        "doi": "10.1080/14719037.2026.2733927",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-09-27",
-        "stable_id": "doi:10.1080/14719037.2026.2733927",
-        "title": "Strategic planning for digital technology adoption: drivers and mechanisms in the public sector",
-        "url": "https://doi.org/10.1080/14719037.2026.2733927"
-      },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1080/14719037.2026.2736656": {
       "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
@@ -13292,57 +13461,7 @@
         "title": "Towards a theory of public-sector organizations with targeted mandates: a case study of New Zealand’s Māori Health Authority",
         "url": "https://doi.org/10.1080/14719037.2026.2736656"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
-    },
-    "doi:10.1080/14719037.2026.2737335": {
-      "first_seen_at": "2026-09-29T12:48:46.182480+00:00",
-      "item": {
-        "author_affiliations": {
-          "Alessandra do Valle Abrahão": [
-            "University of Brasília"
-          ],
-          "Siegrid Guillaumon": [
-            "University of Brasília"
-          ]
-        },
-        "authors": [
-          "Alessandra do Valle Abrahão",
-          "Siegrid Guillaumon"
-        ],
-        "doi": "10.1080/14719037.2026.2737335",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-09-28",
-        "stable_id": "doi:10.1080/14719037.2026.2737335",
-        "title": "Unveiling the intangible: a systemic perspective for creativity and innovation in public organizations",
-        "url": "https://doi.org/10.1080/14719037.2026.2737335"
-      },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
-    },
-    "doi:10.1080/14719037.2026.2738179": {
-      "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
-      "item": {
-        "author_affiliations": {
-          "Colt Jensen": [
-            "The University of North Carolina at Chapel Hill"
-          ],
-          "Jaclyn Piatak": [
-            "The University of North Carolina at Charlotte"
-          ]
-        },
-        "authors": [
-          "Jaclyn Piatak",
-          "Colt Jensen"
-        ],
-        "doi": "10.1080/14719037.2026.2738179",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-09-27",
-        "stable_id": "doi:10.1080/14719037.2026.2738179",
-        "title": "Does level of government and messaging influence public evacuations? Examining public compliance and agency trust",
-        "url": "https://doi.org/10.1080/14719037.2026.2738179"
-      },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -13362,7 +13481,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -13379,7 +13498,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -13400,7 +13519,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -13417,7 +13536,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -13435,7 +13554,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -13455,7 +13574,134 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+    },
+    "doi:10.1086/744128": {
+      "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Alexander Trubowitz"
+        ],
+        "doi": "10.1086/744128",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-09-29",
+        "stable_id": "doi:10.1086/744128",
+        "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
+        "url": "https://doi.org/10.1086/744128"
+      },
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+    },
+    "doi:10.1086/744129": {
+      "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Lisa Janssen",
+          "Hannah Werner",
+          "Anna Kern"
+        ],
+        "doi": "10.1086/744129",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-09-29",
+        "stable_id": "doi:10.1086/744129",
+        "title": "“When they go low, we kick them”: The reciprocal nature of citizens’ support for democratic transgressions",
+        "url": "https://doi.org/10.1086/744129"
+      },
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+    },
+    "doi:10.1086/744217": {
+      "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Joshua A. Schwartz",
+          "Dominic Tierney"
+        ],
+        "doi": "10.1086/744217",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-09-29",
+        "stable_id": "doi:10.1086/744217",
+        "title": "The Left-Wing Peace & The Right-Wing Peace",
+        "url": "https://doi.org/10.1086/744217"
+      },
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+    },
+    "doi:10.1086/744218": {
+      "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Laia Balcells",
+          "Francesca Parente",
+          "Ethan vanderWilden"
+        ],
+        "doi": "10.1086/744218",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-09-29",
+        "stable_id": "doi:10.1086/744218",
+        "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
+        "url": "https://doi.org/10.1086/744218"
+      },
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+    },
+    "doi:10.1086/744219": {
+      "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Cesar B. Martinez-Alvarez",
+          "Mark Buntaine"
+        ],
+        "doi": "10.1086/744219",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-09-29",
+        "stable_id": "doi:10.1086/744219",
+        "title": "The Evolution of Collective Action: Evidence from Mexico",
+        "url": "https://doi.org/10.1086/744219"
+      },
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+    },
+    "doi:10.1086/744220": {
+      "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Xiaoxia Huang"
+        ],
+        "doi": "10.1086/744220",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-09-29",
+        "stable_id": "doi:10.1086/744220",
+        "title": "Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China",
+        "url": "https://doi.org/10.1086/744220"
+      },
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+    },
+    "doi:10.1086/744221": {
+      "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Leon Kockaya",
+          "Spencer Goidel",
+          "Sam Sharman"
+        ],
+        "doi": "10.1086/744221",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-09-29",
+        "stable_id": "doi:10.1086/744221",
+        "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
+        "url": "https://doi.org/10.1086/744221"
+      },
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -13476,7 +13722,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -13491,7 +13737,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -13512,7 +13758,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -13527,7 +13773,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -13542,7 +13788,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-29T12:48:46.182480+00:00"
+      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
     }
   },
   "version": 1
