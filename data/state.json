@@ -13183,6 +13183,914 @@
       ],
       "sent_at": "2026-09-30T12:38:05.748126+00:00",
       "status": "sent"
+    },
+    "2026-10-01-6dbca5bf4d57c8e5": {
+      "created_at": "2026-10-01T13:08:20.983834+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-01-6dbca5bf4d57c8e5",
+      "items": [
+        {
+          "abstract": "Research on burden tolerance suggests that people who previously faced burdens tend to be less accepting of administrative burdens more generally. However, the empirical focus has been on program-specific burdens and in particular social welfare programs. Thus, it remains an open question whether and how more general, everyday engagement with administrative tasks—and the emotional experiences involved—may influence burden tolerance. To better understand the relationship between administrative engagement, emotions, and burden tolerance, we survey residents in the United States, Mexico, the United Kingdom, and Denmark. We find that frequent engagement with administrative tasks is positively associated with burden tolerance in all countries, except Denmark, and that residents with more positive emotional experiences tend to be more tolerant of burdens. While correlational, we interpret these findings as suggesting that engagement with everyday administrative tasks builds capability for managing administrative burdens, which in turn fosters burden tolerance.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Lucie Martin": [
+              "Economic and Social Research Institute Ireland"
+            ],
+            "Martin Baekgaard": [
+              "Aarhus University"
+            ],
+            "Minjung Kim": [
+              "Syracuse University"
+            ]
+          },
+          "authors": [
+            "Martin Baekgaard",
+            "Minjung Kim",
+            "Lucie Martin"
+          ],
+          "constructs": [
+            "Administrative Burden",
+            "Burden Tolerance"
+          ],
+          "doi": "10.1080/10967494.2026.2718928",
+          "journal": "International Public Management Journal",
+          "journal_short": "IPMJ",
+          "method": "서베이",
+          "method_detail": "국가 간 설문",
+          "publication_date": "2026-09-28",
+          "stable_id": "doi:10.1080/10967494.2026.2718928",
+          "summary_basis": "abstract",
+          "summary_ko": "미국·멕시코·영국·덴마크 주민 설문을 통해 일상적 행정업무 참여와 감정 경험이 행정부담 수용성에 어떤 영향을 미치는지 분석했다. 행정업무 참여 빈도가 높을수록 덴마크를 제외한 모든 국가에서 부담 수용성이 높았고, 긍정적 감정 경험이 많을수록 부담 수용성도 높았으며, 이는 일상적 행정업무 경험이 부담 관리 역량과 수용성을 높일 가능성을 시사한다.",
+          "title": "Building tolerance through experience: administrative engagement and burden tolerance across four countries",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1080/10967494.2026.2718928"
+        },
+        {
+          "abstract": "Governments are increasingly deploying AI-based self-service technologies (AI-based SSTs) to improve government-to-business (G2B) services, yet little is known about why business users switch from human-assisted G2B services to AI-based SSTs. Drawing on the push–pull–mooring (PPM) framework, this study examines how negative incumbent service experiences, perceived benefits of AI-based SSTs, and status quo biases jointly shape switching intention. Using survey data from 461 business users in Chinese government service agencies and PLS-SEM, we find that perceived intelligence, shaped by responsiveness, personalization, and autonomy, together with physical attractiveness, procedural fairness, and structural assurance, generates pull effects toward AI-based SSTs. Switching costs, habit, and desire for human interaction strengthen inertia, which directly reduces switching intention and weakens the effects of both push and pull factors. The study extends the PPM framework to digital government service delivery and offers guidance for reducing inertia and promoting migration to AI-enabled self-service channels.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Hehui Yuan": [
+              "Nanjing University of Aeronautics and Astronautics"
+            ],
+            "Wenshan Guo": [
+              "University of Science and Technology of China"
+            ]
+          },
+          "authors": [
+            "Wenshan Guo",
+            "Hehui Yuan"
+          ],
+          "constructs": [
+            "Push–Pull–Mooring",
+            "Status Quo Bias"
+          ],
+          "doi": "10.1080/10967494.2026.2731069",
+          "journal": "International Public Management Journal",
+          "journal_short": "IPMJ",
+          "method": "서베이",
+          "method_detail": "PLS-SEM 설문",
+          "publication_date": "2026-09-28",
+          "stable_id": "doi:10.1080/10967494.2026.2731069",
+          "summary_basis": "abstract",
+          "summary_ko": "중국 정부기관의 기업 서비스 이용자 461명을 대상으로 PLS-SEM 설문분석을 실시해, 인간 지원 서비스에서 AI 기반 셀프서비스로 전환하려는 의도를 설명하는 요인을 PPM 프레임워크로 분석했다. AI 셀프서비스의 지각된 지능·매력·절차적 공정성·구조적 보장은 전환을 촉진했지만, 전환비용·습관·인간 상호작용 욕구에 따른 현상유지 편향은 전환의도를 낮추고 이러한 촉진 효과도 약화했다.",
+          "title": "From human touch to aI-based self-service: antecedents of business users’ switching intention in government-to-business services",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1080/10967494.2026.2731069"
+        },
+        {
+          "abstract": "This study examines how merit appointments and bureaucratic autonomy influence corruption in African governments, and whether the independence and capability of anti-corruption institutions condition these relationships. Using two-way fixed effects regression to analyze a panel of 486 African countries from 2013–2021, we find that bureaucratic autonomy is negatively associated with corruption, while the relationship between merit appointments and corruption depends on the capability of anti-corruption institutions: where such institutions lack the capability to hold politicians and bureaucrats accountable, merit appointments are positively associated with corruption; as the capability of anti-corruption institutions increases, this relationship weakens and can eventually reverse. Neither the independence nor the capability of anti-corruption institutions is independently associated with corruption. These findings suggest that professionalizing civil service hiring without corresponding investments to bolster the capability of anti-corruption institutions can backfire and point to the conditions under which anti-corruption reforms are likely to succeed.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Faisal S. Cheema": [
+              "Indiana University Bloomington, O’Neill School of Public and Environmental Affairs"
+            ],
+            "Sergio Fernandez": [
+              "Indiana University Bloomington, O’Neill School of Public and Environmental Affairs, Extraordinary Professor, University of Pretoria, School of Public Management and Administration"
+            ]
+          },
+          "authors": [
+            "Sergio Fernandez",
+            "Faisal S. Cheema"
+          ],
+          "constructs": [
+            "Merit Appointments",
+            "Bureaucratic Autonomy"
+          ],
+          "doi": "10.1080/10967494.2026.2718927",
+          "journal": "International Public Management Journal",
+          "journal_short": "IPMJ",
+          "method": "준실험",
+          "method_detail": "양방향 고정효과",
+          "publication_date": "2026-09-28",
+          "stable_id": "doi:10.1080/10967494.2026.2718927",
+          "summary_basis": "abstract",
+          "summary_ko": "아프리카 정부에서 능력주의 임용과 관료적 자율성이 부패에 미치는 영향, 그리고 반부패 기관의 독립성과 역량이 이를 조절하는지를 2013~2021년 아프리카 국가 패널에 대한 양방향 고정효과 회귀로 분석했다. 관료적 자율성은 부패와 음의 관련을 보였으며, 반부패 기관의 역량이 낮을 때 능력주의 임용은 부패와 양의 관련을 보였지만 역량이 높아질수록 그 관계가 약화되고 역전될 수 있었다.",
+          "title": "Merit, autonomy, and corruption: the moderating role of anti-corruption institutions in Africa",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1080/10967494.2026.2718927"
+        },
+        {
+          "abstract": "Abstract How do international audiences psychologically engage with prolonged geopolitical conflicts on social media? Drawing on 1.2+ million English‐language tweets posted during the first 10 months of the Russia–Ukraine war, this study examines temporal shifts in engagement, emotion, existential concern, cognition, and psychological distance reflected through language. Results identified a clear psychological arc across the conflict. Discourse in the earliest phase was characterized by strong active engagement, heightened negative emotion, increased focus on death, conflict, and morality, and greater cognitive effort aimed at making sense of unfolding events. As the war persisted, these indicators declined and were replaced by shorter posts, fewer retweets, reduced existential focus, and simpler emotional and cognitive expression, consistent with attention fatigue and chronic crisis adaptation. Unexpectedly, psychological distance decreased over time, suggesting that users expressed themselves in more personal, spontaneous ways as the conflict became an enduring part of the digital environment. This challenges the view that declining engagement signals general disengagement and instead reveals a shift toward more grounded, personally meaningful forms of involvement. Findings illuminate the dynamic psychological processes through which publics respond to sustained conflict and highlight implications for political communication, humanitarian outreach, and crisis messaging strategies across the lifespan of international crises.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "A. Burcu Bayram": [
+              "Department of Political Science, Fulbright College of Arts and Sciences University of Arkansas Fayetteville Arkansas USA"
+            ],
+            "Vivian P. Ta‐Johnson": [
+              "Department of Psychology, College of Health, Community, and Policy University of Texas at San Antonio San Antonio Texas USA"
+            ]
+          },
+          "authors": [
+            "Vivian P. Ta‐Johnson",
+            "A. Burcu Bayram"
+          ],
+          "constructs": [
+            "Psychological Distance",
+            "Attention Fatigue"
+          ],
+          "doi": "10.1111/pops.70200",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "질적연구",
+          "method_detail": "트윗 언어분석",
+          "publication_date": "2026-09-30",
+          "stable_id": "doi:10.1111/pops.70200",
+          "summary_basis": "abstract",
+          "summary_ko": "러시아·우크라이나 전쟁 초기 10개월 동안 영어 트윗 120만 건 이상을 분석해, 장기화된 지정학적 분쟁에서 국제적 연대에 대한 심리적 관여가 시간에 따라 어떻게 변화하는지 살폈다. 초기에는 적극적 관여와 부정적 감정, 죽음·갈등·도덕성 및 의미 해석에 대한 관심이 높았으나, 시간이 지나며 주의 피로와 만성적 위기 적응에 부합하는 표현의 단순화가 나타났고, 동시에 심리적 거리는 감소해 보다 개인적이고 자발적인 관여로 이동했다.",
+          "title": "A complex arc of engagement: Shifting psychological trajectories of international solidarity during sustained geopolitical conflict",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70200"
+        },
+        {
+          "abstract": "Abstract Intergroup contact programs worldwide strive to combat prejudice by promoting encounters between socially advantaged and disadvantaged groups. Despite their prevalence, little is known about how disadvantaged group members experience participation in such programs. We present qualitative field data from the German contact program Meet a Jew . In this program, Jewish volunteers engage in dialogue with attendees and share insights into their Jewish life to address antisemitism. Drawing on N = 450 volunteer responses (age range: 16–77 years) collected over five years (2020–2025), we examine the positive and negative experiences of volunteers with the arranged encounters. A qualitative content analysis shows that volunteers experienced contact as positive when their engagement and perspectives were met with interest, their efforts were socially recognized, and they perceived their engagement as effective in contributing to social change. However, volunteers also reported negative experiences, including disinterest from attendees, interference by authorities, and various conflicts. By providing the perspective of Jewish individuals who are both targets of prejudice and actors of prejudice reduction, we address the understudied perspective of disadvantaged group members who engage in contact interventions as agents of collective action. We discuss how our work contributes to contact theory and advances research on social change.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Dana Ionescu": [
+              "Leibniz School of Education Leibniz Universität Hannover Hannover Germany"
+            ],
+            "Fiona Kazarovytska": [
+              "Department of Psychology RPTU University Kaiserslautern‐Landau Landau Germany"
+            ],
+            "Micha Hilbert": [
+              "Department of Psychology University of Münster, Institute of Psychology Münster Germany"
+            ]
+          },
+          "authors": [
+            "Fiona Kazarovytska",
+            "Micha Hilbert",
+            "Dana Ionescu"
+          ],
+          "constructs": [
+            "Intergroup Contact",
+            "Collective Action"
+          ],
+          "doi": "10.1111/pops.70188",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "질적연구",
+          "method_detail": "질적 내용분석",
+          "publication_date": "2026-09-30",
+          "stable_id": "doi:10.1111/pops.70188",
+          "summary_basis": "abstract",
+          "summary_ko": "독일의 반유대주의 대응 프로그램 ‘Meet a Jew’에 참여한 유대인 자원봉사자들이 마련된 만남을 어떻게 경험하는지 질적 자료로 분석했다. 450명의 응답에 대한 질적 내용분석 결과, 관심·사회적 인정·사회변화에 기여한다는 인식은 긍정적 경험과, 참석자의 무관심·당국의 개입·갈등은 부정적 경험과 관련되었다.",
+          "title": "Contact as collective action: Positive and negative contact experiences of disadvantaged group members",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70188"
+        },
+        {
+          "abstract": "ABSTRACT As artificial intelligence (AI) increasingly transforms public administration, understanding its impact on perceived legitimacy becomes paramount, particularly, in high‐stakes areas such as policing. While existing research offers mixed evidence on whether government AI use enhances or undermines citizens' perceptions of fairness and trust, the conditions moderating these effects remain underexplored. Drawing on representative bureaucracy theory, this study uses a survey experiment to investigate how gender representation moderates the effect of AI use on citizens' perceived fairness and trust in domestic violence units (DVUs). Results show that female representation positively moderates the legitimacy impact of a DVU's AI use; whereas AI use decreases female respondents' perceived fairness and trust in male‐dominated DVUs, these negative effects disappear in female‐dominated DVUs. Our findings identify representation as a key context shaping citizens' responses to government AI use, extending representative bureaucracy theory by demonstrating its indirect symbolic effects.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Canyu Gao": [
+              "School of Public Affairs and Administration, Rutgers University‐Newark Newark New Jersey USA"
+            ],
+            "Norma M. Riccucci": [
+              "School of Public Affairs and Administration, Rutgers University‐Newark Newark New Jersey USA"
+            ]
+          },
+          "authors": [
+            "Canyu Gao",
+            "Norma M. Riccucci"
+          ],
+          "constructs": [
+            "Representative Bureaucracy",
+            "Perceived Legitimacy"
+          ],
+          "doi": "10.1111/puar.70214",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-09-30",
+          "stable_id": "doi:10.1111/puar.70214",
+          "summary_basis": "abstract",
+          "summary_ko": "가정폭력 전담부서에서 인공지능(AI) 사용이 시민의 공정성 인식과 신뢰에 미치는 영향을 성별 대표성이 어떻게 조절하는지 설문 실험으로 분석했다. AI 사용은 남성 중심 부서에서 여성 응답자의 공정성 인식과 신뢰를 낮췄지만, 여성 중심 부서에서는 이러한 부정적 효과가 나타나지 않았다.",
+          "title": "Artificial Intelligence in Policing and Perceived Legitimacy: Does Gender Representation Make a Difference?",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1111/puar.70214"
+        },
+        {
+          "abstract": "ABSTRACT Job advertisements play a crucial role in attracting applicants, yet little is known about how closely they reflect the values citizens expect from public servants. Drawing on signaling theory and prior research on citizens' normative expectations of ideal public servants, this study employs a large language model to analyze 1825 job advertisements from health and transportation departments across seven U.S. states. Compared to the values citizens associate with ideal public servants in previous research, job advertisements predominantly emphasize values, such as expertise and dedication, while undersignaling relational values like serviceability, responsiveness, and honesty. Our findings suggest a misalignment between the values signaled in recruitment practices and those citizens associate with the ideal public servant. By adopting a citizen‐driven perspective, this study prompts scholars and public managers to question recruitment practices that may underemphasize values citizens prioritize in public servants, potentially limiting public administrations' ability to attract qualified candidates.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Dominik Vogel": [
+              "Harz University of Applied Sciences Halberstadt Germany"
+            ],
+            "Melissa Satzger Grøn": [
+              "University of Hamburg Hamburg Germany"
+            ]
+          },
+          "authors": [
+            "Melissa Satzger Grøn",
+            "Dominik Vogel"
+          ],
+          "constructs": [
+            "Signaling Theory",
+            "Public Service Values"
+          ],
+          "doi": "10.1111/puar.70199",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "질적연구",
+          "method_detail": "대규모 언어모델 분석",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1111/puar.70199",
+          "summary_basis": "abstract",
+          "summary_ko": "시민들이 이상적인 공무원에게 기대하는 가치와 공공기관 채용공고가 전달하는 가치가 얼마나 일치하는지를 분석하기 위해, 연구진은 신호이론과 기존 시민 기대 연구를 바탕으로 7개 주(州) 보건·교통 부처의 채용공고 1,825건을 대규모 언어모델로 분석했다. 채용공고는 전문성과 헌신을 주로 강조한 반면, 시민들이 중시하는 봉사성·응답성·정직성과 같은 관계적 가치는 상대적으로 덜 제시해 양자 간 불일치가 나타났다.",
+          "title": "Citizens' Expectations vs. Recruitment Signals: Are Public Administrations Trying to Attract the Ideal Public Servant?",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1111/puar.70199"
+        },
+        {
+          "abstract": "This article examines how multilevel policymaking influences strategic public management. Multilevel governance arrangements are nowadays a recurrent feature in the public sector; the ability of public authorities to design and implement coherent and effective frameworks is affected by the interaction across multiple levels of government. The research was carried out through a case study focusing on gambling regulation in the Friuli Venezia Giulia Region in Italy. Data have been gathered combining the analysis of documents, interviews and surveys within a few mixed-method research projects (2018–2024). By appreciating gambling policy as a legitimacy-driven and institutionally embedded field, the research allows to see beyond well-known implementation challenges of multilevel policymaking. It shows how incoherent policies and stalemate are not necessarily the result of policy failures but could be due to deliberate decoupling strategic responses. Moreover, the study contributes novel insights on how decoupling operates across governance levels and in multiple directions.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Andrea Garlatti": [
+              "University of Udine"
+            ],
+            "Paolo Fedele": [
+              "University of Udine"
+            ],
+            "Silvia Iacuzzi": [
+              "University of Udine"
+            ]
+          },
+          "authors": [
+            "Silvia Iacuzzi",
+            "Paolo Fedele",
+            "Andrea Garlatti"
+          ],
+          "constructs": [
+            "Multilevel Governance",
+            "Strategic Decoupling"
+          ],
+          "doi": "10.1080/14719037.2026.2740705",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "혼합방법론",
+          "method_detail": "사례 기반 혼합",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1080/14719037.2026.2740705",
+          "summary_basis": "abstract",
+          "summary_ko": "다층적 정책결정이 전략적 공공관리와 도박 규제에 어떤 영향을 미치는지, 이탈리아 프리울리베네치아줄리아주의 사례를 문서 분석·인터뷰·설문을 결합한 혼합방법으로 분석했다. 정책의 불일치와 교착은 반드시 정책 실패가 아니라 의도적인 전략적 디커플링의 결과일 수 있으며, 디커플링은 거버넌스 수준을 가로질러 여러 방향으로 작동하는 것으로 나타났다.",
+          "title": "Policymaking in a multilevel setting: perverse effects on regulating gambling",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1080/14719037.2026.2740705"
+        },
+        {
+          "abstract": "We examine the cross-national comparability of expert placements of political partieson the economic left-right dimension using a novel dataset combining data from Europe, Latin America, Australia, Israel, Canada, and the United States. Using anchoring vignettes and Bayesian Aldrich-McKelvey Scaling (BAM), we assess evidence of geographic and expert-level differential item functioning (DIF) in how experts interpret the left-right scale. We find statistically significant but substantively small variations in how experts perceive party positions cross-nationally, particularly in terms of directional bias and the spread of their ideological placements. While the correlation between “raw” survey scores and DIF-corrected estimates is high (0.992), we observe meaningful deviations for individual parties, with larger discrepancies between rather than within regions. These results indicate that the economic left-right dimension exhibits broad consistency in expert understanding across countries, yet researchers should still exercise caution when making cross-national comparisons, particularly across regions where expert perceptions show greater variation.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Jelle Koedam": [
+              "University of Zurich"
+            ],
+            "Jill Sheppard": [
+              "Australian National University"
+            ],
+            "Jonathan Polk": [
+              "Lund University"
+            ],
+            "Nicolás de la Cerda": [
+              "Tulane University"
+            ],
+            "Patrick Leslie": [
+              "Australian National University"
+            ],
+            "Roi Zur": [
+              "University of Essex"
+            ],
+            "Ruth Dassonneville": [
+              "KU Leuven"
+            ],
+            "Ryan Bakker": [
+              "University of Sharjah"
+            ],
+            "Seth Jolly": [
+              "Syracuse University"
+            ]
+          },
+          "authors": [
+            "Nicolás de la Cerda",
+            "Ryan Bakker",
+            "Seth Jolly",
+            "Jonathan Polk",
+            "Ruth Dassonneville",
+            "Jelle Koedam",
+            "Patrick Leslie",
+            "Jill Sheppard",
+            "Roi Zur"
+          ],
+          "constructs": [
+            "Ideological Placement",
+            "Differential Item Functioning"
+          ],
+          "doi": "10.1086/736578",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "혼합방법론",
+          "method_detail": "비네트·BAM 척도화",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736578",
+          "summary_basis": "abstract",
+          "summary_ko": "국가와 전문가에 따라 경제적 좌우파 정당 배치를 해석하는 방식이 다른지, 앵커링 비네트와 베이지안 Aldrich–McKelvey 척도화(BAM)를 결합한 자료로 분석했다. 전문가 인식의 국가 간 차이는 통계적으로 유의했지만 실질적으로 작았고, 원자료와 DIF 보정 추정치의 상관은 매우 높았으며, 지역 간 비교에서는 개별 정당의 차이에 주의가 필요했다.",
+          "title": "A Global Scale of Economic Left–Right Party Positions: Cross-National and Cross-Expert Perceptions of Party Placements",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/736578"
+        },
+        {
+          "abstract": "Encouraging citizens to apply pressure on underperforming service providers has emerged as a prominent response to the failure of states to provide needed services. We outline three theoretical mechanisms through which bottom-up citizen pressure campaigns may affect service provision and investigate them via a large-scale field experiment in the Ugandan health sector. While we find modest positive impacts on health provider behavior, we find no effects on citizen pressure, utilization rates, or bottom-line health outcomes. Our findings cast doubt on the power of outside actors to generate improvements in development outcomes by mobilizing bottom-up pressure—at least under conditions similar to those in our study setting. Our results also underscore the importance of baseline health conditions for the success of bottom-up, citizen-oriented pressure campaigns. Such conditions shape outcomes both across countries and within countries over time, with the latter finding holding important implications for countries undergoing rapid socioeconomic change.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Daniel N. Posner": [
+              "University of California, Los Angeles"
+            ],
+            "Doug Parkerson": [
+              "Innovations for Poverty Action"
+            ],
+            "Pia J. Raffler": [
+              "Harvard University"
+            ]
+          },
+          "authors": [
+            "Pia J. Raffler",
+            "Daniel N. Posner",
+            "Doug Parkerson"
+          ],
+          "constructs": [
+            "Citizen Pressure",
+            "Service Provision"
+          ],
+          "doi": "10.1086/736577",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "실험",
+          "method_detail": "대규모 현장실험",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736577",
+          "summary_basis": "abstract",
+          "summary_ko": "우간다 보건 부문에서 대규모 현장실험을 실시해 시민이 저성과 서비스 제공자에게 압력을 가하도록 유도하는 캠페인이 서비스 제공을 개선할 수 있는지 검토했다. 서비스 제공자의 행동에는 소폭의 긍정적 효과가 있었지만 시민 압력, 이용률, 최종적인 건강 성과에는 효과가 없었으며, 기초 건강 여건이 캠페인 성과를 좌우하는 것으로 나타났다.",
+          "title": "Can Citizen Pressure Be Induced to Improve Public Service Provision?",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1086/736577"
+        },
+        {
+          "abstract": "How does the level of sophistication in political messages affect citizens? While research has examined how politicians use this element to distinguish themselves, little is known about how it resonates with citizens. We theorize that using simple language in political communication can increase citizens’ political knowledge and influence their beliefs about politicians. In a study conducted in Germany using preregistered and large-scale survey experiments, respondents were shown political statements that varied in linguistic sophistication and other factors. The results indicate that simplicity improves citizens’ political knowledge and helps them fill in gaps in information about politicians’ socioeconomic backgrounds. Additionally, simple language has no direct impact in the electoral arena but was found to moderate the effect of politicians’ policy positions. Our findings suggest that linguistic styles can be a powerful tool in contemporary political campaigns.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Daniel Bischof": [
+              "University of Münster and Aarhus University"
+            ],
+            "Roman Senninger": [
+              "Aarhus University"
+            ]
+          },
+          "authors": [
+            "Daniel Bischof",
+            "Roman Senninger"
+          ],
+          "constructs": [
+            "Political Knowledge",
+            "Candidate Evaluation"
+          ],
+          "doi": "10.1086/736693",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736693",
+          "summary_basis": "abstract",
+          "summary_ko": "정치적 메시지의 언어적 단순성이 시민의 정치 지식과 정치인에 대한 믿음에 어떤 영향을 미치는지, 독일에서 사전등록된 대규모 설문 실험으로 분석했다. 단순한 언어는 정치 지식을 높이고 정치인의 사회경제적 배경에 관한 정보 공백을 보완했으며, 선거에 직접적인 영향은 없지만 정치인의 정책 입장 효과를 조절했다.",
+          "title": "Can Simple Language Affect Voters’ Political Knowledge and Their Beliefs About Politicians?",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/736693"
+        },
+        {
+          "abstract": "This study leverages a two-stage response-adaptive experimental design to explore how tailored digital messaging can influence public attitudes toward health interventions, with broader implications for political communication. In public health settings, quickly scaling effective communication is critical; adaptive designs enable efficient learning of relevant treatments. For this study, we recruited 22,052 Facebook users in Kenya and Nigeria to engage in conversations on Messenger about their concerns regarding COVID-19 vaccines. We optimized messaging using an adaptive algorithm, then experimentally evaluated the concern-addressing messaging. We found that the tailored messaging increased COVID-19 vaccine intentions and willingness by 4% to 5% compared to a control condition, and by 3% to 4% compared to a public service announcement. We observed the largest effects among those most vaccine hesitant at baseline. Personalized digital messaging interventions offer a scalable communication tool to encourage compliance with public health programs.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Leah R. Rosenzweig": [
+              "Center for Global Development"
+            ],
+            "Molly Offer-Westort": [
+              "University of Chicago"
+            ]
+          },
+          "authors": [
+            "Leah R. Rosenzweig",
+            "Molly Offer-Westort"
+          ],
+          "constructs": [
+            "Vaccine Hesitancy",
+            "Digital Messaging"
+          ],
+          "doi": "10.1086/735504",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "실험",
+          "method_detail": "순차 적응 실험",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/735504",
+          "summary_basis": "abstract",
+          "summary_ko": "케냐와 나이지리아의 페이스북 이용자 22,052명을 대상으로, 코로나19 백신에 대한 우려를 대화형으로 다루는 맞춤형 메시지가 백신 접종 의향과 수용 의사에 미치는 영향을 순차적 반응적응 실험으로 검증했다. 맞춤형 메시지는 통제조건보다 4~5%, 공익광고보다 3~4% 의향과 수용 의사를 높였으며, 기초 백신 주저 수준이 높은 사람들에게 효과가 가장 컸다.",
+          "title": "Conversations with a Concern-Addressing Chatbot Increased COVID-19 Vaccination Intentions Among Social Media Users in Kenya and Nigeria",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/735504"
+        },
+        {
+          "abstract": "Some studies show that voters punish parties for violence, while others find that violence can benefit politicians. We argue that core and swing voters support rather than punish violence by co-partisans under some conditions. Parties aim to benefit from violence by portraying it as a response to a threat, provocation, or injustice by an out-group or rival party. Once legitimized by politicians, voters support violence by co-partisans and punish them for peaceful responses. We test our argument with preregistered vignette experiments in a representative survey during the 2022 elections in Uttar Pradesh, India. Our findings support expectations; respondents are more likely to support violence and approve of parties involved in it when it is legitimized. These effects are driven by Hindus as the majority group, in particular core supporters of the incumbent party. Our study establishes the micro-foundations of support for violence in democracies.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Neeraj Prasad": [
+              "University of Amsterdam"
+            ],
+            "Ursula Daxecker": [
+              "University of Amsterdam and Max Planck Institute for Political and Social Science"
+            ]
+          },
+          "authors": [
+            "Ursula Daxecker",
+            "Neeraj Prasad"
+          ],
+          "constructs": [
+            "Political Violence",
+            "Partisan Support"
+          ],
+          "doi": "10.1086/736113",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736113",
+          "summary_basis": "abstract",
+          "summary_ko": "정당이 폭력을 위협·도발·부당함에 대한 대응으로 정당화할 때 유권자들이 동료 정당원의 폭력을 지지하고 평화적 대응을 한 정당을 처벌하는지, 2022년 인도 우타르프라데시주 대표성 설문에 포함한 사전등록 비네트 실험으로 검증했다. 폭력이 정당화된 경우 폭력 지지와 관련 정당에 대한 승인이 높아졌으며, 이러한 효과는 다수 집단인 힌두교도, 특히 집권당 핵심 지지자에게서 두드러졌다.",
+          "title": "Demanding Violence, Punishing Peace: Support for Party Violence in India",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/736113"
+        },
+        {
+          "abstract": "Growing evidence suggests that voters reward politicians for spending on disaster relief but not disaster preparedness. Yet, we know little about the mechanisms that underpin this pattern. Is it because voters generally value relief over preparedness? Or is it because voters expect preparedness policies to be less effective compared to relief policies? I test both mechanisms using a conjoint experiment in rural Malawi in which participants choose between two hypothetical candidates randomly varying attributes about their preparedness and relief policies. I find that respondents reward relief efforts over preparedness efforts, but they value effective preparedness similarly to effective relief. Additionally, respondents are more likely to reward preparedness efforts if they repeatedly observe that they are effective in mitigating disaster damages. Taken together, the evidence suggests that voters have pessimistic expectations about the effectiveness of preparedness policies but would reward preparedness similarly to relief if it is known to be effective.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Felix Hartmann": [
+              "Copenhagen Business School"
+            ]
+          },
+          "authors": [
+            "Felix Hartmann"
+          ],
+          "constructs": [
+            "Political Accountability",
+            "Policy Effectiveness"
+          ],
+          "doi": "10.1086/736446",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "실험",
+          "method_detail": "선택형 실험",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736446",
+          "summary_basis": "abstract",
+          "summary_ko": "말라위 농촌 유권자들이 재난 구호보다 대비 정책을 덜 보상하는 이유가 선호 차이인지 효과성 기대 차이인지 검토하기 위해, 대비·구호 정책의 속성을 무작위로 조합한 선택형 실험을 실시했다. 응답자들은 구호를 더 높게 평가했지만, 효과적인 대비는 효과적인 구호와 비슷하게 평가했으며 대비 정책의 효과를 반복적으로 관찰할수록 이를 보상할 가능성이 높아졌다.",
+          "title": "Do Voters Value Relief over Preparedness? Evidence from Disaster Policies in Malawi",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/736446"
+        },
+        {
+          "abstract": "Are campaign donors simply affluent people who happen to give to campaigns, or do donors and the affluent differ in their policy views? To investigate this, we surveyed verified 2017–2018 donors, affluent individuals, and the general public. Comparing copartisans shows that donors in both parties hold more ideologically extreme positions on domestic policy than either the affluent or the general public. On international issues, Democratic donors are more pro-internationalist than their affluent and general-public counterparts, while Republican donors resemble affluent copartisans. These patterns cannot be explained by demographic differences or levels of political interest. Examining variation across donor types, we find that some donors are more prone to extreme positions than others, yet donors remain distinct from the affluent whether they contributed out of state, donated small amounts, or recently supported a presidential candidate.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Brandice Canes-Wrone": [
+              "Stanford University"
+            ],
+            "Gregory Huber": [
+              "Yale University"
+            ],
+            "Joshua Clinton": [
+              "Vanderbilt University"
+            ],
+            "Michael Barber": [
+              "Brigham Young University"
+            ]
+          },
+          "authors": [
+            "Michael Barber",
+            "Brandice Canes-Wrone",
+            "Joshua Clinton",
+            "Gregory Huber"
+          ],
+          "constructs": [
+            "Political Ideology",
+            "Internationalism"
+          ],
+          "doi": "10.1086/736337",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "서베이",
+          "method_detail": "집단 간 비교",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736337",
+          "summary_basis": "abstract",
+          "summary_ko": "정치 캠페인 기부자가 단순히 기부하는 부유층과 정책 견해에서 다른지를 검증된 2017~2018년 기부자·부유층·일반 대중 설문으로 비교했다. 양당의 기부자는 국내 정책에서 부유층과 일반 대중보다 이념적으로 더 극단적이었고, 국제 이슈에서는 민주당 기부자가 더 국제주의적이었으며 이러한 차이는 인구학적 특성이나 정치적 관심 수준으로 설명되지 않았다.",
+          "title": "Donors and Dollars: Comparing the Policy Views of Donors and the Affluent",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/736337"
+        },
+        {
+          "abstract": ",",
+          "abstract_source": "Semantic Scholar",
+          "author_affiliations": {
+            "Jens Wiederspohn": [
+              "University of Konstanz"
+            ],
+            "John Körtner": [
+              "Collegio Carlo Alberto"
+            ],
+            "Peter Selb": [
+              "University of Konstanz"
+            ],
+            "Sina Chen": [
+              "GESIS - Leibniz Institute for the Social Sciences"
+            ]
+          },
+          "authors": [
+            "Sina Chen",
+            "John Körtner",
+            "Jens Wiederspohn",
+            "Peter Selb"
+          ],
+          "constructs": [
+            "_"
+          ],
+          "doi": "10.1086/736694",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "방법 미상",
+          "method_detail": null,
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736694",
+          "summary_basis": "abstract",
+          "summary_ko": "초록에 내용이 제공되지 않아 연구 질문, 접근법, 주요 발견을 확인할 수 없다.",
+          "title": "Electoral Predictors of Polling Errors",
+          "topic_area": "분야 미상",
+          "url": "https://doi.org/10.1086/736694"
+        },
+        {
+          "abstract": "Members of Congress face consistent pressure—and ample opportunity—to express their ideological positions. The most commonly measured outlet is congressional floor votes, but it is not the only one. This research develops three novel ideal point measures across different ideological expressions—votes, floor speeches, and tweets—to capture the understudied interaction between ideology, communication style, and audience. We find that legislators use speech and tweets to convey nuance in their ideological positions and to differentiate themselves from other members of their party in ways that voting does not allow. In general, Republicans use text-based opportunities, particularly Twitter, to express more conservative positions, while Democratic positioning is dependent on a legislator’s district and personal attributes. In both theory and methods, this work engages the considerable literature on the measurement of ideology and congressional representation. This research contributes to our understanding of legislator behavior and ideological positioning and introduces three replicable ideal point models to measure the ideology of members of the US Congress.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Alexander M. Hoyle": [
+              "ETH Zürich AI Center"
+            ],
+            "Kristina C. Miler": [
+              "University of Maryland, College Park"
+            ],
+            "Philip Resnik": [
+              "University of Maryland, College Park"
+            ],
+            "Pranav Goel": [
+              "Northeastern University"
+            ],
+            "SoRelle W. Gaynor": [
+              "University of Virginia"
+            ]
+          },
+          "authors": [
+            "SoRelle W. Gaynor",
+            "Kristina C. Miler",
+            "Pranav Goel",
+            "Alexander M. Hoyle",
+            "Philip Resnik"
+          ],
+          "constructs": [
+            "Ideology",
+            "Congressional Representation"
+          ],
+          "doi": "10.1086/736360",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "혼합방법론",
+          "method_detail": "이상점수 모형",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736360",
+          "summary_basis": "abstract",
+          "summary_ko": "미국 의원들이 투표·본회의 연설·트위터라는 서로 다른 이념 표현과 청중을 통해 이념적 입장을 어떻게 드러내는지, 세 가지 이상점수 모형으로 분석한다. 연설과 트위터는 투표보다 이념적 뉘앙스와 당내 차별화를 가능하게 하며, 공화당 의원은 특히 트위터에서 더 보수적인 입장을 표현하는 반면 민주당 의원의 입장은 지역구와 개인 특성에 따라 달라진다.",
+          "title": "Express Yourself (Ideologically): Legislators’ Ideal Points Across Audiences",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/736360"
+        },
+        {
+          "abstract": "Policies interact with underlying social organizations, which can deflect their intended goals. One example is legislation aimed at curbing business influence. Can campaign finance regulation reduce the political power of economic actors? We identify a factor that may hinder its effectiveness: the social structure of organizations. We argue that such regulation generates cooperation dilemmas within firms’ leadership and propose that a specific organizational feature—family ties—can help resolve them. We evaluate this argument by studying a ban on corporate contributions in Brazil, using granular data on family ties in publicly traded firms. We show that, following the ban, members of firms’ controlling families substituted individual for corporate contributions. Moreover, we document peer effects in the contributions of family members, suggesting that family ties are a channel of political influence. These bifurcated effects illustrate how organizational structure can be a source of de facto power and offer a cautionary note to policymakers.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Ignacio Puente": [
+              "Independent Researcher"
+            ],
+            "Juan Dodyk": [
+              "Washington University in St. Louis"
+            ],
+            "Pablo Balán": [
+              "Tel Aviv University"
+            ]
+          },
+          "authors": [
+            "Pablo Balán",
+            "Juan Dodyk",
+            "Ignacio Puente"
+          ],
+          "constructs": [
+            "Family Ties",
+            "Political Influence"
+          ],
+          "doi": "10.1086/736563",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "준실험",
+          "method_detail": "정책 전후 비교",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736563",
+          "summary_basis": "abstract",
+          "summary_ko": "브라질의 기업 기부 금지법과 상장기업의 가족관계 자료를 분석해, 기업 내부의 사회적 구조가 기업 영향력 규제의 효과를 어떻게 약화시키는지 검토했다. 금지 이후 지배가족 구성원들은 기업 명의 기부를 개인 기부로 대체했으며, 가족 구성원 간 기부의 동조 효과는 가족관계가 정치적 영향력의 통로임을 시사했다.",
+          "title": "Family Ties as Corporate Power",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1086/736563"
+        },
+        {
+          "abstract": "Why do individual donors attend fundraising events, and, relatedly, why do candidates rely on events to finance their campaigns? Despite public concerns around this mode of donation, fundraising events have received little scholarly attention. We use campaign finance disclosures in four US states, which indicate event- and nonevent status of donations, linked to political candidates to examine two hypotheses. First, events help candidates draw on individual donors’ nonideological motivations, including material motivations. Second, events help candidates fundraise when ideological motivations are relatively low. We provide evidence that donors discount ideology when they attend events and link agenda powers of legislative incumbents to increases in event donations, including from individuals in related business sectors. Furthermore, we show that early donations from individuals are more likely to be made via events than later donations, especially for incumbents. Our results highlight implications of event fundraising for responsiveness, partisan polarization, and candidate selection.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Sean Kates": [
+              "University of Pennsylvania"
+            ],
+            "Sebastian Thieme": [
+              "Centre for European Studies and Comparative Politics, Sciences Po"
+            ]
+          },
+          "authors": [
+            "Sean Kates",
+            "Sebastian Thieme"
+          ],
+          "constructs": [
+            "Ideology",
+            "Agenda Power"
+          ],
+          "doi": "10.1086/736996",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "혼합방법론",
+          "method_detail": "다주 자료 분석",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736996",
+          "summary_basis": "abstract",
+          "summary_ko": "미국 4개 주의 선거자금 공개자료에서 행사·비행사 기부 여부를 식별해 후보자 자료와 연계하고, 모금행사 참여가 개인 기부자의 비이념적 동기와 이념적 동기가 낮은 상황의 모금을 촉진하는지 분석했다. 행사 기부에서는 이념의 중요성이 낮아지고 현직자의 의제설정 권한 및 초기 개인 기부와 행사 기부가 연관되는 결과가 나타났다.",
+          "title": "Fundraising Events and Nonideological Donation Motivations",
+          "topic_area": "재무·예산",
+          "url": "https://doi.org/10.1086/736996"
+        },
+        {
+          "abstract": "This paper argues that the way families were organized in premodern Europe exerts lasting consequences for women’s political engagement. In “stem families” cohabitation with mothers-in-law allowed adult women to share responsibility for domestic production and engage in paid employment. In “nuclear families” newlyweds created new households, forcing wives to specialize in domestic production. To examine the longterm effects of unequal gendered division of labor, we combine historical census data with municipality-level election data from Spain between 1978 and 2015. Although historical family types vanished in the twentieth century, former stem-family regions show higher female labor force participation, more progressive gender attitudes, and higher female political representation. We also investigate the way voluntary party quotas counteracted political discrimination against women in regions formerly populated by nuclear families. By focusing on historical family structure, we uncover an original cause of female political underrepresentation in Europe and shed light on both historical persistence and change. Word count: 11,720 (includes figures, tables, numbers and citations in the main text) ∗We thank Alba Huidobro, Júlia Diaz Collado, and Guillem Amatller for excellent research assistance. We also thank Manuel Bagues, Rachel Berhnard, Alice Evans, Marta Fraile, Varun Karekurve-Ramachandra, Frederick Solt, and seminar participants at the University of Barcelona, Bergen, Geneva, Hamburg, Konstanz, Rochester, Zurich, and the Trinity College Dublin, the Ludwig Maximilian University of Munich, and University College London, and APSA 2021 and EPSA 2022. The research leading to this paper has received financial support from the project “Local politicians: selection and performance (LEADERS)” (CSO201679569-P) funded by the Spanish Ministry for the Economy, Industry and Competitiveness and the project “How Technological Chance Reshapes Politics: Technology, Elections and Policies” (TECHNO), funded by the NORFACE programme of the European Union (PCI2020-112198) and the German Research Foundation under Germany‘s Excellence Strategy – EXC-2035/1 – 390681379.",
+          "abstract_source": "Semantic Scholar",
+          "author_affiliations": {
+            "Aina Gallego": [
+              "University of Barcelona and Institut de Barcelona d’Estudis Internacionals"
+            ],
+            "Ana Tur-Prats": [
+              "University of California, Merced"
+            ],
+            "Didac Queralt": [
+              "Yale University"
+            ]
+          },
+          "authors": [
+            "Aina Gallego",
+            "Didac Queralt",
+            "Ana Tur-Prats"
+          ],
+          "constructs": [
+            "Female Political Representation",
+            "Gendered Division of Labor"
+          ],
+          "doi": "10.1086/736998",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "준실험",
+          "method_detail": "역사자료 결합",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736998",
+          "summary_basis": "abstract",
+          "summary_ko": "근대 이전 유럽의 가족 유형이 여성의 정치 참여와 대표성에 장기적으로 영향을 미치는지 검토하기 위해, 스페인의 역사적 인구조사 자료와 1978~2015년 지방자치단체 선거자료를 결합해 분석했다. 줄기형 가족 지역은 여성 노동시장 참여, 진보적 성평등 태도, 여성 정치대표성이 더 높았으며, 자발적 정당 할당제가 핵가족 지역의 여성에 대한 정치적 차별을 완화했다.",
+          "title": "Historical Family Types and Female Political Representation: Persistence and Change",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/736998"
+        },
+        {
+          "abstract": "Encouraging engagement with out-group perspectives is a popular strategy to improve intergroup relations. But in deeply divided societies, individuals often actively avoid out-group members. In a Facebook field experiment, we embedded Palestinian posts in Jewish Israelis’ Facebook timelines for a period of 14 days. We find no effect on attitudes toward the out-group and a modest decrease in subsequent consumption of out-group content, a pattern we attribute to participants’ avoidance of constructive engagement. To better understand this avoidance, we conducted a set of survey-embedded behavioral tasks. Results suggest that out-group avoidance online is widespread, associated with out-group prejudice, explained by feelings of discomfort, anger, mistrust in out-groups, and pessimism, and challenging to overcome. Our findings indicate that avoidance is a barrier to constructive intergroup engagement in naturalistic settings, rendering many interventions that may be effective in controlled environments difficult to implement or scale in practice.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Alexandra Scacco": [
+              "WZB Berlin"
+            ],
+            "Alexandra Siegel": [
+              "University of Colorado at Boulder"
+            ],
+            "Chagai M. Weiss": [
+              "University of Toronto"
+            ]
+          },
+          "authors": [
+            "Chagai M. Weiss",
+            "Alexandra Siegel",
+            "Alexandra Scacco"
+          ],
+          "constructs": [
+            "Out-Group Avoidance",
+            "Intergroup Prejudice"
+          ],
+          "doi": "10.1086/736444",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "실험",
+          "method_detail": "페이스북 현장실험",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736444",
+          "summary_basis": "abstract",
+          "summary_ko": "팔레스타인인의 관점을 유대계 이스라엘인의 페이스북 타임라인에 14일간 노출하고 후속 행동 과제를 실시해, 타집단 회피와 태도 변화를 조사했다. 타집단 콘텐츠 노출은 태도에 영향을 주지 않았고 이후 소비를 소폭 감소시켰으며, 온라인 회피는 널리 나타나고 편견·불편감·분노·불신·비관과 관련되어 건설적 상호작용을 제약했다.",
+          "title": "Out-Group Avoidance",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/736444"
+        },
+        {
+          "abstract": "This study examines the extent to which Black female political elites face a unique combination of disadvantages in the American political arena on account of their dual race–gender identity. More precisely, this project considers whether respondents have more negative perceptions of Black female political elites relative to White female, White male, and Black male political elites. Using Crenshaw’s 1989 framework of intersectionality, hypotheses about the interactive (or “intersectional”) disadvantages faced by Black female political elites are tested using (1) a 1,000-respondent public opinion survey fielded with Cloud Research (Prime Panels) and (2) a 1,000-respondent survey experiment fielded with Dynata. This project offers one of the first empirical tests of intersectional claims common in the literature. Results suggest a complex story: There are nuanced circumstances under which Black female politicians suffer penalties among American respondents as a consequence of both race and gender.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Sydney Carr": [
+              "College of the Holy Cross"
+            ]
+          },
+          "authors": [
+            "Sydney Carr"
+          ],
+          "constructs": [
+            "Intersectionality",
+            "Race-Gender Identity"
+          ],
+          "doi": "10.1086/736335",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "혼합방법론",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736335",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 미국 정치에서 인종과 성별의 교차적 정체성 때문에 흑인 여성 정치 엘리트가 백인 여성·백인 남성·흑인 남성 정치 엘리트보다 더 부정적으로 평가되는지 검토한다. 두 개의 1,000명 표본 설문과 설문 실험을 통해 분석한 결과, 흑인 여성 정치인은 인종과 성별의 결합으로 인해 미국 응답자에게 불이익을 받지만 그 양상은 상황에 따라 복합적이었다.",
+          "title": "Race, Gender, and Public Opinion Toward Black Female Political Elites",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/736335"
+        },
+        {
+          "abstract": "Associations that individuals make between a personality trait and its level of assumed masculinity or femininity are a prominent thread across the gender and politics literature. Yet, whether an attribute is categorized by scholars as “masculine” or “feminine” continues to be determined by studies that are decades old, and which often initially rested on scholarly assumptions rather than testing. Inaccurate assumptions may drive incorrect conclusions about the ways in which gendered associations influence voter and party decision-making, and contribute to ongoing gender bias in leadership evaluations. We use an original survey of 26 commonly-cited character traits associated with leadership, sampling 1,417 respondents in Australia, Canada, New Zealand, the United Kingdom, and the United States of America. We find evidence that scholarly categorization of the gendered associations diverges from how respondents rated many of those traits, and offer a modified list of gender-associated traits for researchers.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Melody E. Valdini": [
+              "Portland State University"
+            ],
+            "Sarah Shair-Rosenfield": [
+              "University of York"
+            ]
+          },
+          "authors": [
+            "Sarah Shair-Rosenfield",
+            "Melody E. Valdini"
+          ],
+          "constructs": [
+            "Gender Stereotypes",
+            "Leadership Traits"
+          ],
+          "doi": "10.1086/736464",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "서베이",
+          "method_detail": "다국가 횡단설문",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736464",
+          "summary_basis": "abstract",
+          "summary_ko": "연구는 리더십 관련 성격 특성의 남성성·여성성에 대한 학계의 분류가 실제 응답자의 인식과 일치하는지 묻는다. 호주·캐나다·뉴질랜드·영국·미국의 1,417명을 대상으로 26개 특성을 조사한 결과, 많은 특성에서 학계의 분류와 응답자의 성별 연상이 diverged하며, 연구자들이 사용할 수정된 성별 연관 특성 목록을 제시한다.",
+          "title": "The Contemporary Landscape of Gendered Personality Traits",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/736464"
+        },
+        {
+          "abstract": "In electoral autocracies where election results significantly influence regime stability, new leaders need to gather public support despite their shaky political support base. To overcome this problem, autocracies often rely on tutelage, in which a former autocrat helps a new leader retain public support as a guardian. This article explores whether autocratic guardianship in fact boosts popular support by conducting survey experiments in Kazakhstan, where Kassym-Jomart Tokayev assumed the presidential position from the long-serving autocrat Nursultan Nazarbayev. By using the item count technique and endorsement experiment to elicit truthful responses, we find that the successor Tokayev is more popular than the guardian Nazarbayev, and thus Nazarbayev’s involvement in decision-making does not necessarily increase public support for policies. Our analysis suggests that, contrary to the proclaimed benefits of tutelage, whether tutelary power contributes to garnering popular support depends on the perceived quality of guardians.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Masaaki Higashijima": [
+              "University of Tokyo"
+            ],
+            "Yuki Shiraito": [
+              "Waseda University"
+            ]
+          },
+          "authors": [
+            "Masaaki Higashijima",
+            "Yuki Shiraito"
+          ],
+          "constructs": [
+            "Tutelary Power",
+            "Autocratic Legitimacy"
+          ],
+          "doi": "10.1086/737175",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/737175",
+          "summary_basis": "abstract",
+          "summary_ko": "카자흐스탄의 권력승계에서 전임 독재자의 후견이 후임 지도자와 정책에 대한 대중 지지를 높이는지 설문 실험으로 검토했다. 익명 응답을 유도하는 항목수 기법과 지지자 표명 실험 결과, 후임자 토카예프가 후견인 나자르바예프보다 더 인기가 높았으며 후견의 효과는 후견인의 인식된 자질에 달려 있는 것으로 나타났다.",
+          "title": "Tutelary Power and Autocratic Legitimacy: Experimental Evidence from Kazakhstan’s Diarchy",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1086/737175"
+        },
+        {
+          "abstract": "Using a lagged cross-sectional design, this study provides a historical cross-national assessment of whether Financial Management Information Systems (FMIS) condition the association between e-government development and perceived corruption. This study conceptualizes FMIS as a catalyst that strengthens the anti-corruption relevance of e-government. The analysis combines consolidated indicators of FMIS maturity and FMIS-related fiscal disclosure capacity finalized in 2017 with 2013–2017 averages of e-government development and control variables and subsequent corruption-perception outcomes for 2018–2023, covering up to 160 countries. Across multiple regression specifications, higher e-Government Development Index (EGDI) scores are associated with lower perceived corruption (CPI). More importantly, both FMIS maturity and fiscal information disclosure capacity significantly strengthen this relationship. These findings remain robust across additional specifications and when using the Control of Corruption Index (CCI) as an alternative dependent variable. Overall, the results suggest that e-government development can be more effective in improving corruption perceptions where FMIS are functionally mature and fiscal information is more broadly disclosed.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Munsu Kim": [
+              "Korea University"
+            ]
+          },
+          "authors": [
+            "Munsu Kim",
+            "Wonik Park"
+          ],
+          "constructs": [
+            "e-Government Development Index",
+            "Financial Management Information Systems"
+          ],
+          "doi": "10.1016/j.giq.2026.102167",
+          "journal": "Government Information Quarterly",
+          "journal_short": "GIQ",
+          "method": "준실험",
+          "method_detail": "시차 횡단면 회귀",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1016/j.giq.2026.102167",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 e정부 발전과 부패 인식의 관계를 FMIS의 성숙도와 재정정보 공개 역량이 어떻게 조절하는지 국가 간 시차 횡단면 자료로 분석했다. 분석 결과, e정부 발전 수준이 높을수록 인지된 부패가 낮았으며, FMIS 성숙도와 재정정보 공개 역량이 높을 때 이 관계가 유의하게 강화되었다.",
+          "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1016/j.giq.2026.102167"
+        },
+        {
+          "abstract": "Digital platforms are increasingly used to address regulatory fragmentation, yet evidence from actual regulatory behavior remains limited. This study examines how inspection coordination is organized under Nanjing's “181” integrated emergency management platform. Drawing on 37,876 inspection records from August 2023 to January 2025, we construct a 2-mode inspection network linking 719 inspection departments and 7934 regulated entities through 34,053 inspection ties, and estimate Exponential Random Graph Models (ERGMs). The results show that coordination is organized through three related patterns. Structurally, district-level departments occupy central positions, with the strongest cluster in Yuhuatai District. In terms of coordination coverage, inspection overlap is concentrated around selected regulated entities rather than evenly distributed, a pattern consistent with shared regulatory attention. In terms of coordination responsiveness, departments that identify hazards more often are more likely to form inspection ties. These findings show how platform-generated administrative records reveal the organization of regulatory coordination in a hierarchical administrative system through recorded activities, shared targets, and risk information.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Wu Chen": [
+              "Nanjing University"
+            ]
+          },
+          "authors": [
+            "Wu Chen",
+            "Haibo Zhang"
+          ],
+          "constructs": [
+            "Regulatory Coordination",
+            "Shared Regulatory Attention"
+          ],
+          "doi": "10.1016/j.giq.2026.102170",
+          "journal": "Government Information Quarterly",
+          "journal_short": "GIQ",
+          "method": "혼합방법론",
+          "method_detail": "네트워크 ERGM",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1016/j.giq.2026.102170",
+          "summary_basis": "abstract",
+          "summary_ko": "난징 ‘181’ 통합 응급관리 플랫폼에서 검사 조정이 어떻게 조직되는지, 2023년 8월부터 2025년 1월까지의 검사 기록 37,876건으로 2모드 검사 네트워크를 구축하고 ERGM을 추정해 분석했다. 분석 결과, 구 단위 부서의 중심성, 일부 피검사 대상에 집중된 검사 중복, 위험을 더 자주 발견하는 부서 간 검사 연결 가능성 증가라는 세 가지 조정 패턴이 나타났다.",
+          "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1016/j.giq.2026.102170"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -13205,7 +14113,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -13226,7 +14134,7 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
@@ -13259,7 +14167,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -13294,7 +14202,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -13319,43 +14227,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
-    },
-    "doi:10.1016/j.giq.2026.102167": {
-      "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
-      "item": {
-        "author_affiliations": {},
-        "authors": [
-          "Munsu Kim",
-          "Wonik Park"
-        ],
-        "doi": "10.1016/j.giq.2026.102167",
-        "journal": "Government Information Quarterly",
-        "journal_short": "GIQ",
-        "publication_date": "2026-09-01",
-        "stable_id": "doi:10.1016/j.giq.2026.102167",
-        "title": "Strengthening e-government's impact on corruption perception: The moderating role of Financial Management Information Systems (FMIS)",
-        "url": "https://doi.org/10.1016/j.giq.2026.102167"
-      },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
-    },
-    "doi:10.1016/j.giq.2026.102170": {
-      "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
-      "item": {
-        "author_affiliations": {},
-        "authors": [
-          "Wu Chen",
-          "Haibo Zhang"
-        ],
-        "doi": "10.1016/j.giq.2026.102170",
-        "journal": "Government Information Quarterly",
-        "journal_short": "GIQ",
-        "publication_date": "2026-09-01",
-        "stable_id": "doi:10.1016/j.giq.2026.102170",
-        "title": "Digital platforms and regulatory coordination patterns in China: Network evidence from Nanjing's “181” integrated emergency management system",
-        "url": "https://doi.org/10.1016/j.giq.2026.102170"
-      },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -13376,7 +14248,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -13397,86 +14269,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
-    },
-    "doi:10.1080/10967494.2026.2718927": {
-      "first_seen_at": "2026-09-29T12:48:46.182480+00:00",
-      "item": {
-        "author_affiliations": {
-          "Faisal S. Cheema": [
-            "Indiana University Bloomington, O’Neill School of Public and Environmental Affairs"
-          ],
-          "Sergio Fernandez": [
-            "Indiana University Bloomington, O’Neill School of Public and Environmental Affairs, Extraordinary Professor, University of Pretoria, School of Public Management and Administration"
-          ]
-        },
-        "authors": [
-          "Sergio Fernandez",
-          "Faisal S. Cheema"
-        ],
-        "doi": "10.1080/10967494.2026.2718927",
-        "journal": "International Public Management Journal",
-        "journal_short": "IPMJ",
-        "publication_date": "2026-09-28",
-        "stable_id": "doi:10.1080/10967494.2026.2718927",
-        "title": "Merit, autonomy, and corruption: the moderating role of anti-corruption institutions in Africa",
-        "url": "https://doi.org/10.1080/10967494.2026.2718927"
-      },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
-    },
-    "doi:10.1080/10967494.2026.2718928": {
-      "first_seen_at": "2026-09-29T12:48:46.182480+00:00",
-      "item": {
-        "author_affiliations": {
-          "Lucie Martin": [
-            "Economic and Social Research Institute Ireland"
-          ],
-          "Martin Baekgaard": [
-            "Aarhus University"
-          ],
-          "Minjung Kim": [
-            "Syracuse University"
-          ]
-        },
-        "authors": [
-          "Martin Baekgaard",
-          "Minjung Kim",
-          "Lucie Martin"
-        ],
-        "doi": "10.1080/10967494.2026.2718928",
-        "journal": "International Public Management Journal",
-        "journal_short": "IPMJ",
-        "publication_date": "2026-09-28",
-        "stable_id": "doi:10.1080/10967494.2026.2718928",
-        "title": "Building tolerance through experience: administrative engagement and burden tolerance across four countries",
-        "url": "https://doi.org/10.1080/10967494.2026.2718928"
-      },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
-    },
-    "doi:10.1080/10967494.2026.2731069": {
-      "first_seen_at": "2026-09-29T12:48:46.182480+00:00",
-      "item": {
-        "author_affiliations": {
-          "Hehui Yuan": [
-            "Nanjing University of Aeronautics and Astronautics"
-          ],
-          "Wenshan Guo": [
-            "University of Science and Technology of China"
-          ]
-        },
-        "authors": [
-          "Wenshan Guo",
-          "Hehui Yuan"
-        ],
-        "doi": "10.1080/10967494.2026.2731069",
-        "journal": "International Public Management Journal",
-        "journal_short": "IPMJ",
-        "publication_date": "2026-09-28",
-        "stable_id": "doi:10.1080/10967494.2026.2731069",
-        "title": "From human touch to aI-based self-service: antecedents of business users’ switching intention in government-to-business services",
-        "url": "https://doi.org/10.1080/10967494.2026.2731069"
-      },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1080/14719037.2026.2736656": {
       "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
@@ -13510,7 +14303,316 @@
         "title": "Towards a theory of public-sector organizations with targeted mandates: a case study of New Zealand’s Māori Health Authority",
         "url": "https://doi.org/10.1080/14719037.2026.2736656"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+    },
+    "doi:10.1086/736362": {
+      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
+      "item": {
+        "author_affiliations": {
+          "Shir Raviv": [
+            "Tel Aviv University"
+          ]
+        },
+        "authors": [
+          "Shir Raviv"
+        ],
+        "doi": "10.1086/736362",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-01",
+        "stable_id": "doi:10.1086/736362",
+        "title": "When Do Citizens Resist the Use of AI Algorithms in Public Policy? Theory and Evidence",
+        "url": "https://doi.org/10.1086/736362"
+      },
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+    },
+    "doi:10.1086/736463": {
+      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
+      "item": {
+        "author_affiliations": {
+          "Kevin DeLuca": [
+            "Yale University"
+          ]
+        },
+        "authors": [
+          "Kevin DeLuca"
+        ],
+        "doi": "10.1086/736463",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-01",
+        "stable_id": "doi:10.1086/736463",
+        "title": "Editor’s Choice: Measuring Candidate Quality Using Local Newspaper Endorsements",
+        "url": "https://doi.org/10.1086/736463"
+      },
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+    },
+    "doi:10.1086/736550": {
+      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
+      "item": {
+        "author_affiliations": {
+          "Gema García-Albacete": [
+            "Universidad Carlos III de Madrid"
+          ],
+          "Irene Sánchez-Vítores": [
+            "Universidad Rey Juan Carlos"
+          ],
+          "Mónica Ferrín Pereira": [
+            "Universidade da Coruña"
+          ]
+        },
+        "authors": [
+          "Mónica Ferrín Pereira",
+          "Gema García-Albacete",
+          "Irene Sánchez-Vítores"
+        ],
+        "doi": "10.1086/736550",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-01",
+        "stable_id": "doi:10.1086/736550",
+        "title": "Making Time to Be Informed: The Child Penalty in Political News Consumption",
+        "url": "https://doi.org/10.1086/736550"
+      },
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+    },
+    "doi:10.1086/736695": {
+      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
+      "item": {
+        "author_affiliations": {
+          "James D. Kim": [
+            "University of Washington"
+          ],
+          "Matthew Fuhrmann": [
+            "University of Texas at Austin"
+          ]
+        },
+        "authors": [
+          "Matthew Fuhrmann",
+          "James D. Kim"
+        ],
+        "doi": "10.1086/736695",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-01",
+        "stable_id": "doi:10.1086/736695",
+        "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
+        "url": "https://doi.org/10.1086/736695"
+      },
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+    },
+    "doi:10.1086/736696": {
+      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
+      "item": {
+        "author_affiliations": {
+          "Amy H. Liu": [
+            "University of Texas at Austin"
+          ],
+          "Keith Padraic Chew": [
+            "Arizona State University"
+          ]
+        },
+        "authors": [
+          "Keith Padraic Chew",
+          "Amy H. Liu"
+        ],
+        "doi": "10.1086/736696",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-01",
+        "stable_id": "doi:10.1086/736696",
+        "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
+        "url": "https://doi.org/10.1086/736696"
+      },
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+    },
+    "doi:10.1086/736697": {
+      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
+      "item": {
+        "author_affiliations": {
+          "Martin Naunov": [
+            "Northwestern University"
+          ]
+        },
+        "authors": [
+          "Martin Naunov"
+        ],
+        "doi": "10.1086/736697",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-01",
+        "stable_id": "doi:10.1086/736697",
+        "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
+        "url": "https://doi.org/10.1086/736697"
+      },
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+    },
+    "doi:10.1086/736699": {
+      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
+      "item": {
+        "author_affiliations": {
+          "Rithika Kumar": [
+            "Rice University"
+          ]
+        },
+        "authors": [
+          "Rithika Kumar"
+        ],
+        "doi": "10.1086/736699",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-01",
+        "stable_id": "doi:10.1086/736699",
+        "title": "Left Behind or Left Ahead? Implications of Male Migration on Female Political Engagement",
+        "url": "https://doi.org/10.1086/736699"
+      },
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+    },
+    "doi:10.1086/736802": {
+      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
+      "item": {
+        "author_affiliations": {
+          "Dot Sawler": [
+            "University of Rochester"
+          ]
+        },
+        "authors": [
+          "Dot Sawler"
+        ],
+        "doi": "10.1086/736802",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-01",
+        "stable_id": "doi:10.1086/736802",
+        "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
+        "url": "https://doi.org/10.1086/736802"
+      },
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+    },
+    "doi:10.1086/736804": {
+      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
+      "item": {
+        "author_affiliations": {
+          "Guadalupe Tuñón": [
+            "Princeton University"
+          ],
+          "Lucas M. Novaes": [
+            "Insper"
+          ],
+          "Melani Cammett": [
+            "Harvard University"
+          ]
+        },
+        "authors": [
+          "Melani Cammett",
+          "Lucas M. Novaes",
+          "Guadalupe Tuñón"
+        ],
+        "doi": "10.1086/736804",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-01",
+        "stable_id": "doi:10.1086/736804",
+        "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
+        "url": "https://doi.org/10.1086/736804"
+      },
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+    },
+    "doi:10.1086/736999": {
+      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
+      "item": {
+        "author_affiliations": {
+          "Allison Stashko": [
+            "Emory University"
+          ]
+        },
+        "authors": [
+          "Allison Stashko"
+        ],
+        "doi": "10.1086/736999",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-01",
+        "stable_id": "doi:10.1086/736999",
+        "title": "Crossing the District Line: Border Mismatch and Targeted Redistribution",
+        "url": "https://doi.org/10.1086/736999"
+      },
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+    },
+    "doi:10.1086/737850": {
+      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
+      "item": {
+        "author_affiliations": {
+          "Hans J. G. Hassell": [
+            "Brigham Young University"
+          ],
+          "Joshua McCrain": [
+            "University of Utah"
+          ],
+          "Matthew R. Miles": [
+            "Brigham Young University, Idaho"
+          ]
+        },
+        "authors": [
+          "Hans J. G. Hassell",
+          "Joshua McCrain",
+          "Matthew R. Miles"
+        ],
+        "doi": "10.1086/737850",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-01",
+        "stable_id": "doi:10.1086/737850",
+        "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
+        "url": "https://doi.org/10.1086/737850"
+      },
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+    },
+    "doi:10.1086/738580": {
+      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
+      "item": {
+        "author_affiliations": {
+          "Guadalupe Tuñón": [
+            "Princeton University"
+          ],
+          "Valentín Figueroa": [
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        "authors": [
+          "Valentín Figueroa",
+          "Guadalupe Tuñón"
+        ],
+        "doi": "10.1086/738580",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-01",
+        "stable_id": "doi:10.1086/738580",
+        "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
+        "url": "https://doi.org/10.1086/738580"
+      },
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+    },
+    "doi:10.1086/738972": {
+      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
+      "item": {
+        "author_affiliations": {
+          "Jenn M. Jackson": [
+            "Syracuse University"
+          ]
+        },
+        "authors": [
+          "Jenn M. Jackson"
+        ],
+        "doi": "10.1086/738972",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-01",
+        "stable_id": "doi:10.1086/738972",
+        "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
+        "url": "https://doi.org/10.1086/738972"
+      },
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -13530,7 +14632,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -13547,7 +14649,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -13568,7 +14670,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -13585,7 +14687,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -13603,7 +14705,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -13623,7 +14725,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -13640,7 +14742,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1086/744129": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -13659,7 +14761,7 @@
         "title": "“When they go low, we kick them”: The reciprocal nature of citizens’ support for democratic transgressions",
         "url": "https://doi.org/10.1086/744129"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -13677,7 +14779,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -13696,7 +14798,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -13714,7 +14816,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1086/744220": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -13731,7 +14833,7 @@
         "title": "Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China",
         "url": "https://doi.org/10.1086/744220"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -13750,7 +14852,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -13771,7 +14873,22 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+    },
+    "doi:10.1111/pops.70156": {
+      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [],
+        "doi": "10.1111/pops.70156",
+        "journal": "Political Psychology",
+        "journal_short": "PolPsych",
+        "publication_date": "2026-09-30",
+        "stable_id": "doi:10.1111/pops.70156",
+        "title": "Issue Information",
+        "url": "https://doi.org/10.1111/pops.70156"
+      },
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -13786,7 +14903,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -13807,7 +14924,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -13822,7 +14939,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -13837,7 +14954,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-09-30T12:30:45.555578+00:00"
+      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
     }
   },
   "version": 1
