@@ -14300,6 +14300,142 @@
       ],
       "sent_at": "2026-10-01T13:22:13.347574+00:00",
       "status": "sent"
+    },
+    "2026-10-02-71744c70849e0743": {
+      "created_at": "2026-10-02T12:29:48.808544+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-02-71744c70849e0743",
+      "items": [
+        {
+          "abstract": "Abstract Public administrators are increasingly called upon to create “generative spaces” that foster emergent processes of collaboration, learning and innovation. This article presents an inductive and ethnographically grounded study of one relatively novel but increasingly popular generative space—a regulatory sandbox. A regulatory sandbox is a controlled and defined space and set of processes that are established by regulators to work with innovators to collaboratively explore, test and learn about early-stage products and innovations and understand emerging regulatory implications. Investigating a sandbox to explore the regulation of new artificial intelligence technologies conducted by a national healthcare regulator, we identify the organizing practices of the sandbox that make it “generative” of collaboration, learning and innovation. An inductive analysis identified three key organizing practices: providing distinct and varied social spaces separated from normal regulatory demands (protection); enabling participants to collaboratively examine innovations and iteratively develop new knowledge and regulation (adaptation); and supporting focused and immersive examination of innovations from a diverse range of perspectives (participation). A theoretically-driven secondary analysis suggests that generative spaces can be understood as liminal experiences that foster detachment, equivalence and reconstruction.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Carl Macrae": [
+              "University of Cambridge, Strangeways Research Laboratory Research Professor, THIS Institute (The Healthcare Improvement Studies Institute), , Cambridge CB1 8RN,",
+              "Nottingham University Business School, University of Nottingham , Jubilee Campus, Wollaton Road, Nottingham NG8 1BB,"
+            ],
+            "Christopher K Ansell": [
+              "210 Social Sciences Hall, University of California Professor of Political Science, Charles and Louise Travers Department of Political Science, , Berkeley, CA 94720-1950,"
+            ]
+          },
+          "authors": [
+            "Carl Macrae",
+            "Christopher K Ansell"
+          ],
+          "constructs": [
+            "Regulatory Sandbox",
+            "Liminality"
+          ],
+          "doi": "10.1093/jopart/muag024",
+          "journal": "Journal of Public Administration Research and Theory",
+          "journal_short": "JPART",
+          "method": "질적연구",
+          "method_detail": "귀납적 민족지",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1093/jopart/muag024",
+          "summary_basis": "abstract",
+          "summary_ko": "규제 샌드박스가 협력·학습·혁신을 촉진하는 ‘생성적 공간’이 되는 조직화 관행을 탐색하기 위해, 국가 보건 규제기관의 신흥 인공지능 기술 규제 샌드박스를 대상으로 귀납적 민족지 연구를 수행했다. 분석 결과, 일상적 규제 요구와 분리된 보호, 혁신과 규제를 반복적으로 공동 개발하는 적응, 다양한 관점의 집중적 참여가 생성성을 형성했으며, 이 공간은 분리·동등화·재구성을 촉진하는 리미널 경험으로 해석될 수 있었다.",
+          "title": "Generative Spaces: Collaboration, Learning and Innovation in a Regulatory Sandbox",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1093/jopart/muag024"
+        },
+        {
+          "abstract": "ABSTRACT In Public Administration and the Crisis of American Democracy, Don Kettl asks why some federal agencies are great places to work while others are not, pointing to the persistent gap between NASA and the Department of Homeland Security. This essay argues that the answer may turn on how the legitimate role of public employees in democratic governance is construed. Drawing on three interpretive frames—bureaucracy, democracy, and pragmatism—it examines 2024 employee survey responses at NASA and DHS that map onto these frames. DHS appears dominated by the bureaucracy frame, positioning employees as implementers whose voice is risky and expertise underused. NASA blends all three frames, treating employees as contributors, stewards, and problem solvers. These frames offer a partial explanation for Kettl's puzzle and a conceptual tool for his “fourth way”: great government workplaces are built when public servants are recognized as legitimate contributors to democratic governance, not just cogs in a bureaucratic wheel.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Leisha DeHart‐Davis": [
+              "University of North Carolina at Chapel Hill Chapel Hill North Carolina USA"
+            ]
+          },
+          "authors": [
+            "Leisha DeHart‐Davis"
+          ],
+          "constructs": [
+            "bureaucracy",
+            "democratic governance"
+          ],
+          "doi": "10.1111/puar.70216",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "이론/개념",
+          "method_detail": "해석적 설문 분석",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1111/puar.70216",
+          "summary_basis": "abstract",
+          "summary_ko": "이 글은 NASA와 국토안보부(DHS)가 일하기 좋은 직장으로 평가되는 정도가 다른 이유를 공공 employees의 민주적 거버넌스에서의 정당한 역할을 어떻게 이해하는지에 초점을 두고 검토한다. 2024년 직원 설문 응답을 관료제·민주주의·실용주의의 해석 틀에 대응시킨 결과, DHS는 직원을 주로 집행자로 보는 반면 NASA는 기여자·관리자·문제 해결자로 결합해 인식하며, 공공 servants를 민주적 거버넌스의 정당한 기여자로 인정하는 것이 ‘제4의 길’의 일부가 될 수 있다고 주장한다.",
+          "title": "Reply to Kettl: Great Workplaces, Public Employee Legitimacy and the Fourth Way",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1111/puar.70216"
+        },
+        {
+          "abstract": "ABSTRACT How do government attention and policy agendas shift when information constraints are relaxed through technological advancement? Punctuated equilibrium theory links agenda‐setting dynamics to governments' limited information‐processing capabilities, yet we know little about whether and how technology improvement such as artificial intelligence (AI) influences policy agendas. This article proposes a conditional digital punctuation framework to specify the conditions under which technological advancements drive agenda shifts. Using China's implementation of AI initiatives as a quasi‐natural experiment, we find that government attention exhibits a punctuated pattern. AI increases technology‐focused attention, signaling incremental changes, while having minimal impact on general government attention. This selective impact stems from AI's asymmetric effects on information processing. Specifically, AI significantly increases the procurement‐based indicator of information quantity, which is associated with greater attention to technology sectors; however, no significant change is observed in the corresponding indicator of information quality, consistent with its limited impact on general government attention.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Shuo Chen": [
+              "Shanghai Institute for International Finance and Economics Fudan University Shanghai China"
+            ],
+            "Yiran Li": [
+              "Department of Government and International Studies, Academy of Geography, Sociology and International Studies Hong Kong Baptist University Kowloon Tong Hong Kong"
+            ],
+            "Yuzheng Wang": [
+              "School of Insurance and China Institute for Actuarial Science Central University of Finance and Economics Beijing China"
+            ]
+          },
+          "authors": [
+            "Shuo Chen",
+            "Yiran Li",
+            "Yuzheng Wang"
+          ],
+          "constructs": [
+            "Punctuated Equilibrium Theory",
+            "Government Attention"
+          ],
+          "doi": "10.1111/puar.70221",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "준실험",
+          "method_detail": "준자연실험",
+          "publication_date": "2026-10-02",
+          "stable_id": "doi:10.1111/puar.70221",
+          "summary_basis": "abstract",
+          "summary_ko": "정보 제약이 기술 발전으로 완화될 때 정부의 관심과 정책 의제가 어떻게 변하는지 분석하기 위해, 중국의 AI 정책 시행을 준자연실험으로 활용했다. AI는 기술 분야에 대한 관심을 증가시켰지만 일반적 정부 관심에는 유의미한 영향을 거의 미치지 않았으며, 이는 정보량은 늘렸으나 정보의 질에는 유의미한 변화가 없었던 비대칭적 정보처리 효과와 일치한다.",
+          "title": "Artificial Intelligence and Punctuated Equilibrium: Shaping Government Attention in the Digital Age",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1111/puar.70221"
+        },
+        {
+          "abstract": "ABSTRACT Public servants often work under organizational constraints that hinder how they experience and carry out their work. Drawing on conservation of resources theory, this research examines how changes in these constraints affect public servants' perceptions that their work benefits others and, in turn, their well‐being and withdrawal behavior. Using data from two longitudinal studies conducted in the United States and France, the findings show that increases in organizational constraints are associated with declines in perceived prosocial impact, which in turn predict lower well‐being and greater withdrawal over time. These results identify perceived prosocial impact as a key psychological resource that links changing work conditions to employee functioning. By emphasizing the dynamic nature of organizational constraints, this study advances the understanding of how evolving administrative conditions can weaken the psychological foundations that sustain meaningful and effective public service.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Caroline Manville": [
+              "University of Toulouse Capitole Toulouse France"
+            ],
+            "Karim Mignonac": [
+              "University of Toulouse Capitole Toulouse France"
+            ]
+          },
+          "authors": [
+            "Caroline Manville",
+            "Karim Mignonac"
+          ],
+          "constructs": [
+            "Conservation of Resources",
+            "Prosocial Impact"
+          ],
+          "doi": "10.1111/puar.70222",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "준실험",
+          "method_detail": "종단 패널",
+          "publication_date": "2026-10-02",
+          "stable_id": "doi:10.1111/puar.70222",
+          "summary_basis": "abstract",
+          "summary_ko": "미국과 프랑스에서 수행한 두 종단 연구를 통해, 조직적 제약의 증가가 공직자의 업무가 타인에게 미치는 긍정적 영향에 대한 인식을 낮추고, 이는 시간에 따른 웰빙 저하와 철회 행동 증가로 이어지는지를 분석했다. 분석 결과 조직적 제약이 증가할수록 지각된 친사회적 영향이 감소했으며, 이 감소가 낮은 웰빙과 더 큰 철회를 예측했다.",
+          "title": "Hindered From Making a Difference: How Increasing Organizational Constraints Undermine Public Servants' Perceptions of Prosocial Impact and Why It Matters",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1111/puar.70222"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -14322,7 +14458,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -14343,7 +14479,7 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1007/s11109-026-10193-0": {
       "first_seen_at": "2026-09-03T14:59:12.974699+00:00",
@@ -14376,7 +14512,7 @@
         "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?",
         "url": "https://doi.org/10.1007/s11109-026-10193-0"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -14411,7 +14547,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -14436,7 +14572,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -14457,7 +14593,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -14478,7 +14614,40 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
+    },
+    "doi:10.1080/10584609.2026.2735922": {
+      "first_seen_at": "2026-10-02T12:29:48.808544+00:00",
+      "item": {
+        "author_affiliations": {
+          "Guilherme Tiengo": [
+            "University of Sao Paulo"
+          ],
+          "Gustavo Venturelli": [
+            "Stetson University"
+          ],
+          "Paolo Ricci": [
+            "University of Sao Paulo"
+          ],
+          "Raphaela Martins Guedes Azevedo Velho": [
+            "Independent Researcher"
+          ]
+        },
+        "authors": [
+          "Gustavo Venturelli",
+          "Paolo Ricci",
+          "Guilherme Tiengo",
+          "Raphaela Martins Guedes Azevedo Velho"
+        ],
+        "doi": "10.1080/10584609.2026.2735922",
+        "journal": "Political Communication",
+        "journal_short": "PolComm",
+        "publication_date": "2026-10-01",
+        "stable_id": "doi:10.1080/10584609.2026.2735922",
+        "title": "When Populism? Consistent and Opportunistic Populist Communication in the 2022 Brazilian Presidential Elections",
+        "url": "https://doi.org/10.1080/10584609.2026.2735922"
+      },
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1080/14719037.2026.2736656": {
       "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
@@ -14512,7 +14681,7 @@
         "title": "Towards a theory of public-sector organizations with targeted mandates: a case study of New Zealand’s Māori Health Authority",
         "url": "https://doi.org/10.1080/14719037.2026.2736656"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/736362": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -14533,7 +14702,7 @@
         "title": "When Do Citizens Resist the Use of AI Algorithms in Public Policy? Theory and Evidence",
         "url": "https://doi.org/10.1086/736362"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/736463": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -14554,7 +14723,7 @@
         "title": "Editor’s Choice: Measuring Candidate Quality Using Local Newspaper Endorsements",
         "url": "https://doi.org/10.1086/736463"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/736550": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -14583,7 +14752,7 @@
         "title": "Making Time to Be Informed: The Child Penalty in Political News Consumption",
         "url": "https://doi.org/10.1086/736550"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -14608,7 +14777,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -14633,7 +14802,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -14654,7 +14823,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/736699": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -14675,7 +14844,7 @@
         "title": "Left Behind or Left Ahead? Implications of Male Migration on Female Political Engagement",
         "url": "https://doi.org/10.1086/736699"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -14696,7 +14865,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -14725,7 +14894,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/736999": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -14746,7 +14915,7 @@
         "title": "Crossing the District Line: Border Mismatch and Targeted Redistribution",
         "url": "https://doi.org/10.1086/736999"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -14775,7 +14944,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -14800,7 +14969,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -14821,7 +14990,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -14841,7 +15010,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -14858,7 +15027,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -14879,7 +15048,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -14896,7 +15065,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -14914,7 +15083,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -14934,7 +15103,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -14951,7 +15120,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/744129": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -14970,7 +15139,7 @@
         "title": "“When they go low, we kick them”: The reciprocal nature of citizens’ support for democratic transgressions",
         "url": "https://doi.org/10.1086/744129"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -14988,7 +15157,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15007,7 +15176,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15025,7 +15194,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/744220": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15042,7 +15211,7 @@
         "title": "Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China",
         "url": "https://doi.org/10.1086/744220"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15061,7 +15230,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -15082,7 +15251,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15097,7 +15266,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -15112,7 +15281,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -15133,7 +15302,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -15148,7 +15317,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -15163,7 +15332,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-01T13:08:20.983834+00:00"
+      "last_checked_at": "2026-10-02T12:29:48.808544+00:00"
     }
   },
   "version": 1
