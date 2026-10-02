@@ -1216,6 +1216,14 @@
       "sent_at": "2026-08-07T09:26:57.459384+00:00",
       "title": "Large Language Models and Conversational Counter-Arguments to Anti-Public Sector Bias"
     },
+    "doi:10.1093/jopart/muag024": {
+      "batch_id": "2026-10-02-71744c70849e0743",
+      "doi": "10.1093/jopart/muag024",
+      "journal": "Journal of Public Administration Research and Theory",
+      "publication_date": "2026-10-01",
+      "sent_at": "2026-10-02T12:41:44.946213+00:00",
+      "title": "Generative Spaces: Collaboration, Learning and Innovation in a Regulatory Sandbox"
+    },
     "doi:10.1093/jopart/muag025": {
       "batch_id": "2026-08-12-3d2315f5bf77bcd6",
       "doi": "10.1093/jopart/muag025",
@@ -2112,6 +2120,14 @@
       "sent_at": "2026-10-01T13:22:13.347574+00:00",
       "title": "Artificial Intelligence in Policing and Perceived Legitimacy: Does Gender Representation Make a Difference?"
     },
+    "doi:10.1111/puar.70216": {
+      "batch_id": "2026-10-02-71744c70849e0743",
+      "doi": "10.1111/puar.70216",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-10-01",
+      "sent_at": "2026-10-02T12:41:44.946213+00:00",
+      "title": "Reply to Kettl: Great Workplaces, Public Employee Legitimacy and the Fourth Way"
+    },
     "doi:10.1111/puar.70218": {
       "batch_id": "2026-09-30-7120f5ca0e0951f8",
       "doi": "10.1111/puar.70218",
@@ -2119,6 +2135,22 @@
       "publication_date": "2026-09-29",
       "sent_at": "2026-09-30T12:38:05.748126+00:00",
       "title": "Reply to Kettl: Beyond Bureaucracy: Why AI Demands a Fourth Way in Public Administration"
+    },
+    "doi:10.1111/puar.70221": {
+      "batch_id": "2026-10-02-71744c70849e0743",
+      "doi": "10.1111/puar.70221",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-10-02",
+      "sent_at": "2026-10-02T12:41:44.946213+00:00",
+      "title": "Artificial Intelligence and Punctuated Equilibrium: Shaping Government Attention in the Digital Age"
+    },
+    "doi:10.1111/puar.70222": {
+      "batch_id": "2026-10-02-71744c70849e0743",
+      "doi": "10.1111/puar.70222",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-10-02",
+      "sent_at": "2026-10-02T12:41:44.946213+00:00",
+      "title": "Hindered From Making a Difference: How Increasing Organizational Constraints Undermine Public Servants' Perceptions of Prosocial Impact and Why It Matters"
     },
     "doi:10.1177/00953997261467698": {
       "batch_id": "2026-08-17-92d20fbd959228aa",
@@ -14435,7 +14467,8 @@
           "url": "https://doi.org/10.1111/puar.70222"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-02T12:41:44.946213+00:00",
+      "status": "sent"
     }
   },
   "pending": {
