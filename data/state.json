@@ -48,6 +48,14 @@
       "sent_at": "2026-08-27T21:04:09.603803+00:00",
       "title": "Outgroup Empathy and Opposition to Restrictive Voting Laws"
     },
+    "doi:10.1007/s11109-026-10193-0": {
+      "batch_id": "2026-10-03-7757ef6e672473a1",
+      "doi": "10.1007/s11109-026-10193-0",
+      "journal": "Political Behavior",
+      "publication_date": "2026-09-03",
+      "sent_at": "2026-10-03T11:49:13.899436+00:00",
+      "title": "Does Listening to Trustworthy News Affect Political Attitudes and Trust?"
+    },
     "doi:10.1007/s11109-026-10195-y": {
       "batch_id": "2026-08-30-2bf97979f25ff644",
       "doi": "10.1007/s11109-026-10195-y",
@@ -223,6 +231,14 @@
       "publication_date": "2026-09-15",
       "sent_at": "2026-09-16T11:36:21.141999+00:00",
       "title": "Turning Hazard Models Inside Out"
+    },
+    "doi:10.1017/s0003055426101774": {
+      "batch_id": "2026-10-03-7757ef6e672473a1",
+      "doi": "10.1017/s0003055426101774",
+      "journal": "American Political Science Review",
+      "publication_date": "2026-10-02",
+      "sent_at": "2026-10-03T11:49:13.899436+00:00",
+      "title": "The Representation Trap: How Minority Power Shapes Electoral Politics in India"
     },
     "doi:10.1017/s0003055426101841": {
       "batch_id": "2026-09-01-1560b88b8d2d7127",
@@ -1184,6 +1200,14 @@
       "sent_at": "2026-10-01T13:22:13.347574+00:00",
       "title": "Historical Family Types and Female Political Representation: Persistence and Change"
     },
+    "doi:10.1086/736999": {
+      "batch_id": "2026-10-03-7757ef6e672473a1",
+      "doi": "10.1086/736999",
+      "journal": "The Journal of Politics",
+      "publication_date": "2026-10-01",
+      "sent_at": "2026-10-03T11:49:13.899436+00:00",
+      "title": "Crossing the District Line: Border Mismatch and Targeted Redistribution"
+    },
     "doi:10.1086/737175": {
       "batch_id": "2026-10-01-6dbca5bf4d57c8e5",
       "doi": "10.1086/737175",
@@ -1672,6 +1696,14 @@
       "sent_at": "2026-08-08T12:40:01.552819+00:00",
       "title": "Consistency, not waste aversion, explains apparent sunk‐cost effects in politics"
     },
+    "doi:10.1111/pops.70186": {
+      "batch_id": "2026-10-03-7757ef6e672473a1",
+      "doi": "10.1111/pops.70186",
+      "journal": "Political Psychology",
+      "publication_date": "2026-10-02",
+      "sent_at": "2026-10-03T11:49:13.899436+00:00",
+      "title": "From identity to caring: A 44‐country examination of the role of global social identifications in concern for global issues"
+    },
     "doi:10.1111/pops.70187": {
       "batch_id": "2026-08-21-37a61e5e7496e1ae",
       "doi": "10.1111/pops.70187",
@@ -1727,6 +1759,14 @@
       "publication_date": "2026-09-21",
       "sent_at": "2026-09-21T12:50:18.636048+00:00",
       "title": "From referendum to reconciliation: How shared values and identities align with a commitment to long‐term collective action"
+    },
+    "doi:10.1111/pops.70197": {
+      "batch_id": "2026-10-03-7757ef6e672473a1",
+      "doi": "10.1111/pops.70197",
+      "journal": "Political Psychology",
+      "publication_date": "2026-10-02",
+      "sent_at": "2026-10-03T11:49:13.899436+00:00",
+      "title": "Bad news for (young) gamers: Using gaming platforms as news sources is more intimately associated with radical belief dispositions than other online spaces"
     },
     "doi:10.1111/pops.70200": {
       "batch_id": "2026-10-01-6dbca5bf4d57c8e5",
@@ -2135,6 +2175,14 @@
       "publication_date": "2026-09-29",
       "sent_at": "2026-09-30T12:38:05.748126+00:00",
       "title": "Reply to Kettl: Beyond Bureaucracy: Why AI Demands a Fourth Way in Public Administration"
+    },
+    "doi:10.1111/puar.70219": {
+      "batch_id": "2026-10-03-7757ef6e672473a1",
+      "doi": "10.1111/puar.70219",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-10-02",
+      "sent_at": "2026-10-03T11:49:13.899436+00:00",
+      "title": "A Response to Don Kettl's Debate Article on the Future of Public Administration and Democracy"
     },
     "doi:10.1111/puar.70221": {
       "batch_id": "2026-10-02-71744c70849e0743",
@@ -14949,7 +14997,8 @@
           "url": "https://doi.org/10.1007/s11109-026-10193-0"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-03T11:49:13.899436+00:00",
+      "status": "sent"
     }
   },
   "pending": {
