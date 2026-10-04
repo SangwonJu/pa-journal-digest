@@ -608,6 +608,14 @@
       "sent_at": "2026-09-23T11:38:22.380172+00:00",
       "title": "Political Actors and Their Media Practices: Analyzing the Role of Media Participation in Democratic Backsliding and Resilience"
     },
+    "doi:10.1080/10584609.2026.2735922": {
+      "batch_id": "2026-10-04-dbee8bfa4696a20e",
+      "doi": "10.1080/10584609.2026.2735922",
+      "journal": "Political Communication",
+      "publication_date": "2026-10-01",
+      "sent_at": "2026-10-04T12:29:54.533448+00:00",
+      "title": "When Populism? Consistent and Opportunistic Populist Communication in the 2022 Brazilian Presidential Elections"
+    },
     "doi:10.1080/10967494.2026.2691398": {
       "batch_id": "2026-09-12-0323b2c4e5631bf0",
       "doi": "10.1080/10967494.2026.2691398",
@@ -976,6 +984,14 @@
       "sent_at": "2026-09-30T12:38:05.748126+00:00",
       "title": "Does level of government and messaging influence public evacuations? Examining public compliance and agency trust"
     },
+    "doi:10.1080/14719037.2026.2738184": {
+      "batch_id": "2026-10-04-dbee8bfa4696a20e",
+      "doi": "10.1080/14719037.2026.2738184",
+      "journal": "Public Management Review",
+      "publication_date": "2026-10-03",
+      "sent_at": "2026-10-04T12:29:54.533448+00:00",
+      "title": "Explaining user-orientation in public service delivery networks: configurations of network structure, process, and context"
+    },
     "doi:10.1080/14719037.2026.2738908": {
       "batch_id": "2026-09-25-206a492be61a1838",
       "doi": "10.1080/14719037.2026.2738908",
@@ -999,6 +1015,22 @@
       "publication_date": "2026-10-01",
       "sent_at": "2026-10-01T13:22:13.347574+00:00",
       "title": "Policymaking in a multilevel setting: perverse effects on regulating gambling"
+    },
+    "doi:10.1080/14719037.2026.2741375": {
+      "batch_id": "2026-10-04-dbee8bfa4696a20e",
+      "doi": "10.1080/14719037.2026.2741375",
+      "journal": "Public Management Review",
+      "publication_date": "2026-10-02",
+      "sent_at": "2026-10-04T12:29:54.533448+00:00",
+      "title": "Interpretive leadership skill as the meaning-making leadership competency in public service organizations: content, construct, and criterion validity"
+    },
+    "doi:10.1080/14719037.2026.2741725": {
+      "batch_id": "2026-10-04-dbee8bfa4696a20e",
+      "doi": "10.1080/14719037.2026.2741725",
+      "journal": "Public Management Review",
+      "publication_date": "2026-10-02",
+      "sent_at": "2026-10-04T12:29:54.533448+00:00",
+      "title": "From reform to reality: governance mechanisms and social capital development in mandated healthcare networks"
     },
     "doi:10.1080/15309576.2026.2700771": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -15150,7 +15182,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2738184"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-04T12:29:54.533448+00:00",
+      "status": "sent"
     }
   },
   "pending": {
