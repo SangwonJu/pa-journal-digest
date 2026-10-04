@@ -14999,6 +14999,158 @@
       ],
       "sent_at": "2026-10-03T11:49:13.899436+00:00",
       "status": "sent"
+    },
+    "2026-10-04-dbee8bfa4696a20e": {
+      "created_at": "2026-10-04T12:18:17.332589+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-04-dbee8bfa4696a20e",
+      "items": [
+        {
+          "abstract": "When do presidential candidates use populist communication, and does its prevalence vary across policy domains? We address these questions using an original dataset of 11,885 tweets from nine Brazilian presidential candidates during the 2022 elections. Drawing on the ideational approach, we operationalize populist discourse as the co-occurrence of people-centrism and anti-elitism, measured with fine-tuned BERT-based classifiers, and classify policy domains with the Comparative Agendas Project framework. Our findings reveal substantial heterogeneity across candidates, challenging expectations that populist communication uniformly intensifies during campaigns or systematically varies across policy domains according to ideology. Rather than increasing uniformly during the campaign, populist appeals escalate strategically for some candidates as elections approach, while remaining stable for others throughout the electoral year. We propose a typology distinguishing opportunistic from consistent populists. Across policy domains, government operations serve as a baseline facilitating populist framing. Left-wing candidates increase populist rhetoric in labor/employment, consistent with issue ownership expectations, but right-wing candidates reduce populist appeals in their traditionally owned domains of law and crime and civil rights, contrary to expectations. Overall, we show that populism is neither a universal campaign imperative nor a content-neutral communication style, but a flexible discursive frame shaped by candidate strategy, electoral context, and policy content.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Guilherme Tiengo": [
+              "University of Sao Paulo"
+            ],
+            "Gustavo Venturelli": [
+              "Stetson University"
+            ],
+            "Paolo Ricci": [
+              "University of Sao Paulo"
+            ],
+            "Raphaela Martins Guedes Azevedo Velho": [
+              "Independent Researcher"
+            ]
+          },
+          "authors": [
+            "Gustavo Venturelli",
+            "Paolo Ricci",
+            "Guilherme Tiengo",
+            "Raphaela Martins Guedes Azevedo Velho"
+          ],
+          "constructs": [
+            "Populism",
+            "Issue Ownership"
+          ],
+          "doi": "10.1080/10584609.2026.2735922",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "method": "혼합방법론",
+          "method_detail": "자동 텍스트 분석",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1080/10584609.2026.2735922",
+          "summary_basis": "abstract",
+          "summary_ko": "브라질 2022년 대선 후보 9명의 트윗 11,885건을 대상으로 BERT 기반 분류기와 비교의제프로젝트의 정책영역 분류를 활용해 포퓰리즘 커뮤니케이션이 언제, 어떤 정책영역에서 나타나는지 분석했다. 포퓰리즘 호소는 선거기간에 일률적으로 증가하지 않았으며 후보별로 전략적으로 증가하거나 안정적으로 유지되었고, 정책영역에 따라서도 차이를 보여 일관형과 기회주의형 포퓰리스트를 구분할 수 있었다.",
+          "title": "When Populism? Consistent and Opportunistic Populist Communication in the 2022 Brazilian Presidential Elections",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1080/10584609.2026.2735922"
+        },
+        {
+          "abstract": "Mandated healthcare networks are introduced to achieve reform objectives through collaboration, yet imposed arrangements may not generate the social capital needed for collective action. We examine how governance mechanisms activate key sources of social capital (opportunity, ability, motivation) and shape its subsequent development. Using a longitudinal case study of a mandated hospital network governed by a Network Administrative Organization (NAO), we analyse 55 interviews along with documentary data. We find that while the NAO expanded opportunities for social capital development through network governance mechanisms, these were pseudo-opportunities that failed to enhance the ability and motivation of network members to collaborate. We contribute to theory by explaining how imposed governance can simultaneously appear to provide a key condition for social capital (interaction opportunities) and nevertheless inhibit successful collective action and generate disenchantment. The study highlights the need to distinguish between technical integration and meaningful collaboration in the implementation of governance mechanisms.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Breda Sweeney": [
+              "University of Galway"
+            ],
+            "Geraldine Robbins": [
+              "University of Galway"
+            ],
+            "Mara Sintejudeanu": [
+              "Atlantic Technological University"
+            ]
+          },
+          "authors": [
+            "Mara Sintejudeanu",
+            "Geraldine Robbins",
+            "Breda Sweeney"
+          ],
+          "constructs": [
+            "Social Capital",
+            "Network Governance"
+          ],
+          "doi": "10.1080/14719037.2026.2741725",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "종단 사례연구",
+          "publication_date": "2026-10-02",
+          "stable_id": "doi:10.1080/14719037.2026.2741725",
+          "summary_basis": "abstract",
+          "summary_ko": "본 연구는 의무화된 의료 네트워크에서 거버넌스 메커니즘이 사회적 자본의 기회·능력·동기를 어떻게 활성화하고 발전시키는지 종단적 사례연구로 분석했다. 네트워크 행정조직(NAO)은 상호작용 기회를 확대했지만 이를 의사소통 역량과 협력 동기로 전환하지 못해 형식적 기회에 그쳤고, 성공적 집합행동과 의미 있는 협력을 저해하며 환멸을 초래했다.",
+          "title": "From reform to reality: governance mechanisms and social capital development in mandated healthcare networks",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/14719037.2026.2741725"
+        },
+        {
+          "abstract": "This research examines the conceptualization and measurement of interpretive leadership skill (ILS) in public service organizations. ILS is conceptualized as an individual leadership competency for meaning-making whose function is interactive: the leader’s capacity to read the working context, build shared understandings that promote coherent action for the organization, and revise those understandings as conditions change. This research reports three studies using two large-scale samples to validate the psychometric and predictive properties of ILS in the public service logic. Study 1 develops and validates a multidimensional measure of ILS and demonstrates its content validity. Study 2 establishes construct validity by situating ILS within a three-level model of leader development. Study 3 demonstrates criterion validity by showing ILS’s predictive property on organizational public service performance. Together, these studies validate ILS as the meaning-making competency of public service leaders and provide implications for leadership theory and practice across public and non-profit organizations.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Sungdae Lim": [
+              "Sam Houston State University"
+            ]
+          },
+          "authors": [
+            "Sungdae Lim"
+          ],
+          "constructs": [
+            "Interpretive Leadership Skill",
+            "Public Service Performance"
+          ],
+          "doi": "10.1080/14719037.2026.2741375",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "혼합방법론",
+          "method_detail": "척도 타당화 연구",
+          "publication_date": "2026-10-02",
+          "stable_id": "doi:10.1080/14719037.2026.2741375",
+          "summary_basis": "abstract",
+          "summary_ko": "공공서비스 조직에서 의미 형성 역량으로서 해석적 리더십 기술(ILS)의 개념과 측정 타당성을 검토한다. 세 연구를 통해 다차원 척도의 내용 타당성, 리더 개발의 3수준 모형 내 구성 타당성, 조직의 공공서비스 성과에 대한 예측력을 확인했다.",
+          "title": "Interpretive leadership skill as the meaning-making leadership competency in public service organizations: content, construct, and criterion validity",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1080/14719037.2026.2741375"
+        },
+        {
+          "abstract": "This study explores configurations of structural, process, and contextual conditions associated with high user-orientation in public service delivery networks. Drawing on Public Service Logic, we conceptualize user-orientation and connect it with interorganizational network research. We examine six conditions and apply fuzzy-set Qualitative Comparative Analysis to data from sixty networks. We identify five pathways. Across these pathways, collaboration intensity and organizational simplicity consistently emerge, underscoring the importance of process factors alongside structural conditions. Network size clarifies the distinct roles of centralization and density. One pathway combines high centralization and high density with high user-orientation, nuancing prevailing views about their simultaneous presence.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Antony Pemberton": [
+              "Netherlands Institute for the Study of Crime and Law Enforcement",
+              "KU Leuven"
+            ],
+            "Dimitri Cremers": [
+              "Tilburg University"
+            ],
+            "John Goedee": [
+              "Tilburg University"
+            ],
+            "Jörg Raab": [
+              "Tilburg University"
+            ]
+          },
+          "authors": [
+            "Dimitri Cremers",
+            "John Goedee",
+            "Jörg Raab",
+            "Antony Pemberton"
+          ],
+          "constructs": [
+            "Public Service Logic",
+            "user orientation"
+          ],
+          "doi": "10.1080/14719037.2026.2738184",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "퍼지집합 QCA",
+          "publication_date": "2026-10-03",
+          "stable_id": "doi:10.1080/14719037.2026.2738184",
+          "summary_basis": "abstract",
+          "summary_ko": "공공서비스 전달 네트워크에서 높은 이용자 지향성과 관련된 구조적·과정적·맥락적 조건의 조합을 탐색하기 위해 60개 네트워크 자료에 퍼지집합 질적비교분석을 적용했다. 다섯 가지 경로를 확인했으며, 협력 강도와 조직적 단순성이 공통적으로 나타났고, 네트워크 규모에 따라 중앙집권화와 밀도의 역할이 달라졌으며 높은 중앙집권화와 밀도가 동시에 높은 경로도 발견되었다.",
+          "title": "Explaining user-orientation in public service delivery networks: configurations of network structure, process, and context",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/14719037.2026.2738184"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -15021,7 +15173,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -15042,7 +15194,7 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -15077,7 +15229,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -15102,7 +15254,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -15123,7 +15275,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -15144,40 +15296,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
-    },
-    "doi:10.1080/10584609.2026.2735922": {
-      "first_seen_at": "2026-10-02T12:29:48.808544+00:00",
-      "item": {
-        "author_affiliations": {
-          "Guilherme Tiengo": [
-            "University of Sao Paulo"
-          ],
-          "Gustavo Venturelli": [
-            "Stetson University"
-          ],
-          "Paolo Ricci": [
-            "University of Sao Paulo"
-          ],
-          "Raphaela Martins Guedes Azevedo Velho": [
-            "Independent Researcher"
-          ]
-        },
-        "authors": [
-          "Gustavo Venturelli",
-          "Paolo Ricci",
-          "Guilherme Tiengo",
-          "Raphaela Martins Guedes Azevedo Velho"
-        ],
-        "doi": "10.1080/10584609.2026.2735922",
-        "journal": "Political Communication",
-        "journal_short": "PolComm",
-        "publication_date": "2026-10-01",
-        "stable_id": "doi:10.1080/10584609.2026.2735922",
-        "title": "When Populism? Consistent and Opportunistic Populist Communication in the 2022 Brazilian Presidential Elections",
-        "url": "https://doi.org/10.1080/10584609.2026.2735922"
-      },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1080/14719037.2026.2736656": {
       "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
@@ -15211,57 +15330,40 @@
         "title": "Towards a theory of public-sector organizations with targeted mandates: a case study of New Zealand’s Māori Health Authority",
         "url": "https://doi.org/10.1080/14719037.2026.2736656"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
-    "doi:10.1080/14719037.2026.2741375": {
-      "first_seen_at": "2026-10-03T11:36:33.954355+00:00",
+    "doi:10.1080/15309576.2026.2740550": {
+      "first_seen_at": "2026-10-04T12:18:17.332589+00:00",
       "item": {
         "author_affiliations": {
-          "Sungdae Lim": [
-            "Sam Houston State University"
+          "Angela Y. S. Park": [
+            "Sungkyunkwan University"
+          ],
+          "Christopher V. Hawkins": [
+            "University of Central Florida"
+          ],
+          "Minsung Michael Kang": [
+            "Kyung Hee University"
+          ],
+          "Rachel M. Krause": [
+            "University of Kansas"
           ]
         },
         "authors": [
-          "Sungdae Lim"
+          "Angela Y. S. Park",
+          "Christopher V. Hawkins",
+          "Rachel M. Krause",
+          "Minsung Michael Kang"
         ],
-        "doi": "10.1080/14719037.2026.2741375",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-10-02",
-        "stable_id": "doi:10.1080/14719037.2026.2741375",
-        "title": "Interpretive leadership skill as the meaning-making leadership competency in public service organizations: content, construct, and criterion validity",
-        "url": "https://doi.org/10.1080/14719037.2026.2741375"
+        "doi": "10.1080/15309576.2026.2740550",
+        "journal": "Public Performance & Management Review",
+        "journal_short": "PPMR",
+        "publication_date": "2026-10-03",
+        "stable_id": "doi:10.1080/15309576.2026.2740550",
+        "title": "How Do Community Stakeholder Groups Shape Local GHG Inventories? Evidence from U.S. Local Governments",
+        "url": "https://doi.org/10.1080/15309576.2026.2740550"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
-    },
-    "doi:10.1080/14719037.2026.2741725": {
-      "first_seen_at": "2026-10-03T11:36:33.954355+00:00",
-      "item": {
-        "author_affiliations": {
-          "Breda Sweeney": [
-            "University of Galway"
-          ],
-          "Geraldine Robbins": [
-            "University of Galway"
-          ],
-          "Mara Sintejudeanu": [
-            "Atlantic Technological University"
-          ]
-        },
-        "authors": [
-          "Mara Sintejudeanu",
-          "Geraldine Robbins",
-          "Breda Sweeney"
-        ],
-        "doi": "10.1080/14719037.2026.2741725",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-10-02",
-        "stable_id": "doi:10.1080/14719037.2026.2741725",
-        "title": "From reform to reality: governance mechanisms and social capital development in mandated healthcare networks",
-        "url": "https://doi.org/10.1080/14719037.2026.2741725"
-      },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/736362": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15282,7 +15384,7 @@
         "title": "When Do Citizens Resist the Use of AI Algorithms in Public Policy? Theory and Evidence",
         "url": "https://doi.org/10.1086/736362"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/736463": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15303,7 +15405,7 @@
         "title": "Editor’s Choice: Measuring Candidate Quality Using Local Newspaper Endorsements",
         "url": "https://doi.org/10.1086/736463"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/736550": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15332,7 +15434,7 @@
         "title": "Making Time to Be Informed: The Child Penalty in Political News Consumption",
         "url": "https://doi.org/10.1086/736550"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15357,7 +15459,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15382,7 +15484,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15403,7 +15505,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/736699": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15424,7 +15526,7 @@
         "title": "Left Behind or Left Ahead? Implications of Male Migration on Female Political Engagement",
         "url": "https://doi.org/10.1086/736699"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15445,7 +15547,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15474,7 +15576,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15503,7 +15605,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15528,7 +15630,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15549,7 +15651,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -15569,7 +15671,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -15586,7 +15688,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -15607,7 +15709,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -15624,7 +15726,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -15642,7 +15744,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -15662,7 +15764,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15679,7 +15781,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/744129": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15698,7 +15800,7 @@
         "title": "“When they go low, we kick them”: The reciprocal nature of citizens’ support for democratic transgressions",
         "url": "https://doi.org/10.1086/744129"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15716,7 +15818,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15735,7 +15837,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15753,7 +15855,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/744220": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15770,7 +15872,7 @@
         "title": "Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China",
         "url": "https://doi.org/10.1086/744220"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15789,7 +15891,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -15810,7 +15912,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15825,7 +15927,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -15840,7 +15942,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -15861,7 +15963,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -15876,7 +15978,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -15891,7 +15993,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-03T11:36:33.954355+00:00"
+      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
     }
   },
   "version": 1
