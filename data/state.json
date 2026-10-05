@@ -15184,6 +15184,131 @@
       ],
       "sent_at": "2026-10-04T12:29:54.533448+00:00",
       "status": "sent"
+    },
+    "2026-10-05-5afd89bacce066c7": {
+      "created_at": "2026-10-05T14:32:05.778242+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-05-5afd89bacce066c7",
+      "items": [
+        {
+          "abstract": "Abstract Economic inequality shapes citizens' attitudes and democratic support, yet little is known about how perceived inequality influences political efficacy. This research examines the relationship between perceived economic inequality and political efficacy, testing institutional trust as a psychosocial mechanism underlying this link. Across two correlational and two experimental studies, we present converging evidence for this process. Study 1 ( N = 9985) revealed multilevel evidence of a negative association between perceived economic inequality and institutional trust, beyond the effect of objective inequality, using Latin American survey data. Study 2 ( N = 1536) replicated this finding with a Spanish quota sample, revealing an indirect effect of perceived inequality on political efficacy through institutional trust. Study 3 ( N = 168) involved the experimental manipulation of inequality. Participants in the high‐inequality condition reported lower institutional trust and political efficacy, and the indirect effect was replicated. Study 4 ( N = 638) employed a concurrent double‐randomization design to manipulate perceived inequality and institutional trust. In contexts of high institutional trust, political efficacy differed between highly and less unequal conditions, with lower political efficacy observed in the high‐inequality condition. Similar patterns emerged for collective action. Overall, perceived inequality undermines institutional trust, reducing political efficacy and democratic engagement.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Guillermo B. Willis": [
+              "Department of Social Psychology University of Granada Granada Spain"
+            ],
+            "Juan Diego García‐Castro": [
+              "Instituto de Investigaciones Psicológicas University of Costa Rica San José Costa Rica",
+              "Sede de Occidente University of Costa Rica San Ramón Costa Rica"
+            ],
+            "Mar Montoya‐Lozano": [
+              "Department of Social Psychology University of Granada Granada Spain",
+              "Instituto de Investigaciones Psicológicas University of Costa Rica San José Costa Rica"
+            ],
+            "Rosa Rodríguez‐Bailón": [
+              "Department of Social Psychology University of Granada Granada Spain"
+            ]
+          },
+          "authors": [
+            "Mar Montoya‐Lozano",
+            "Guillermo B. Willis",
+            "Juan Diego García‐Castro",
+            "Rosa Rodríguez‐Bailón"
+          ],
+          "constructs": [
+            "Political Efficacy",
+            "Institutional Trust"
+          ],
+          "doi": "10.1111/pops.70201",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "혼합방법론",
+          "method_detail": "상관·실험 연구",
+          "publication_date": "2026-10-05",
+          "stable_id": "doi:10.1111/pops.70201",
+          "summary_basis": "abstract",
+          "summary_ko": "지각된 경제적 불평등이 정치적 효능감에 미치는 영향을 제도 신뢰가 매개하는지, 두 상관연구와 두 실험연구로 검증했다. 지각된 불평등은 제도 신뢰를 낮추고, 이를 통해 정치적 효능감과 민주적 참여를 약화시키는 것으로 나타났다.",
+          "title": "How perceived economic inequality shapes political efficacy: The mediating role of institutional trust",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70201"
+        },
+        {
+          "abstract": "Community stakeholders play a pivotal role in shaping cities’ decisions about whether to measure local GHG emissions. Using survey data collected at two points in time, this study examines how varying levels of support from different types of stakeholder groups influence cities’ decisions to manage their GHG inventories. Notably, we find higher levels of performance measurement activity in cities where support from the public and environmental groups for climate initiatives is perceived as strong, as well as in cities that perceive opposition from business and neighborhood associations. Drawing on public management theories, we offer insights into stakeholder influence in local GHG emission measurement efforts and identify factors driving the advancement of these practices.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Angela Y. S. Park": [
+              "Sungkyunkwan University"
+            ],
+            "Christopher V. Hawkins": [
+              "University of Central Florida"
+            ],
+            "Minsung Michael Kang": [
+              "Kyung Hee University"
+            ],
+            "Rachel M. Krause": [
+              "University of Kansas"
+            ]
+          },
+          "authors": [
+            "Angela Y. S. Park",
+            "Christopher V. Hawkins",
+            "Rachel M. Krause",
+            "Minsung Michael Kang"
+          ],
+          "constructs": [
+            "Stakeholder Influence",
+            "Performance Measurement"
+          ],
+          "doi": "10.1080/15309576.2026.2740550",
+          "journal": "Public Performance & Management Review",
+          "journal_short": "PPMR",
+          "method": "서베이",
+          "method_detail": "반복 설문",
+          "publication_date": "2026-10-03",
+          "stable_id": "doi:10.1080/15309576.2026.2740550",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 다양한 지역사회 이해관계자 집단의 지지가 지방정부의 지역 온실가스 배출량을 측정·관리하는 결정에 어떤 영향을 미치는지, 두 시점의 설문자료를 통해 분석한다. 시민과 환경단체의 기후정책 지지가 강하다고 인식되거나 기업 및 지역주민단체의 반대가 크다고 인식되는 도시에서 성과 측정 활동이 더 활발했다.",
+          "title": "How Do Community Stakeholder Groups Shape Local GHG Inventories? Evidence from U.S. Local Governments",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1080/15309576.2026.2740550"
+        },
+        {
+          "abstract": "Women consume less media than men and are more likely to avoid political news. This gender gap in media consumption is frequently attributed to women’s time constraints resulting from the combination of professional and caregiving responsibilities. One recent study documented the “child penalty” for women, but the dynamics linking childcare to reduced news consumption remain unexplored. We propose four potential dynamics: a threshold effect, a short-term effect, an extra burden, and a “building-up” effect. Fixed effects analysis of Dutch Longitudinal Internet Study for the Social Sciences panel data shows an immediate child penalty affecting women’s political media use, with additional cumulative effects as infants grow. This “building-up effect” appears for men only when children move toward their teens. Additionally, results suggest a shift in news consumption habits toward online sources, more evident for men. Finally, we find no support for the extra burden hypothesis, as the child penalty is independent of labor market participation.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Gema García-Albacete": [
+              "Universidad Carlos III de Madrid"
+            ],
+            "Irene Sánchez-Vítores": [
+              "Universidad Rey Juan Carlos"
+            ],
+            "Mónica Ferrín Pereira": [
+              "Universidade da Coruña"
+            ]
+          },
+          "authors": [
+            "Mónica Ferrín Pereira",
+            "Gema García-Albacete",
+            "Irene Sánchez-Vítores"
+          ],
+          "constructs": [
+            "Child Penalty",
+            "Political News Consumption"
+          ],
+          "doi": "10.1086/736550",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "준실험",
+          "method_detail": "패널 고정효과",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736550",
+          "summary_basis": "abstract",
+          "summary_ko": "네덜란드 종단 패널 자료를 고정효과 분석해, 자녀 양육이 여성의 정치 뉴스 소비를 즉각적으로 감소시키고 영아의 성장과 함께 그 감소가 누적되는지 검토했다. 분석 결과 여성에게 즉각적이고 누적적인 ‘자녀 벌점’이 나타났으며, 남성에게는 자녀가 청소년기에 가까워질 때 누적 효과가 나타났고, 노동시장 참여와 무관했으며 온라인 뉴스로의 전환은 남성에게 더 뚜렷했다.",
+          "title": "Making Time to Be Informed: The Child Penalty in Political News Consumption",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/736550"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -15206,7 +15331,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -15227,7 +15352,7 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -15262,7 +15387,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -15287,7 +15412,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -15308,7 +15433,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -15329,7 +15454,52 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+    },
+    "doi:10.1080/10584609.2026.2733320": {
+      "first_seen_at": "2026-10-05T14:32:05.778242+00:00",
+      "item": {
+        "author_affiliations": {
+          "Aaron Philipp": [
+            "University of Potsdam"
+          ],
+          "Jasper Tjaden": [
+            "University of Potsdam"
+          ],
+          "Johannes Wolfgram": [
+            "University of Potsdam"
+          ],
+          "Licia Bobzien": [
+            "University of Potsdam"
+          ],
+          "Roland Verwiebe": [
+            "University of Potsdam"
+          ],
+          "Sarah Weissmann": [
+            "University of Potsdam"
+          ],
+          "Ulrich Kohler": [
+            "University of Potsdam"
+          ]
+        },
+        "authors": [
+          "Jasper Tjaden",
+          "Johannes Wolfgram",
+          "Aaron Philipp",
+          "Sarah Weissmann",
+          "Licia Bobzien",
+          "Ulrich Kohler",
+          "Roland Verwiebe"
+        ],
+        "doi": "10.1080/10584609.2026.2733320",
+        "journal": "Political Communication",
+        "journal_short": "PolComm",
+        "publication_date": "2026-10-05",
+        "stable_id": "doi:10.1080/10584609.2026.2733320",
+        "title": "Does the TikTok Feed Lean Right? Exposure to Political Content Among Non-Partisan Users in Germany",
+        "url": "https://doi.org/10.1080/10584609.2026.2733320"
+      },
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1080/14719037.2026.2736656": {
       "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
@@ -15363,40 +15533,36 @@
         "title": "Towards a theory of public-sector organizations with targeted mandates: a case study of New Zealand’s Māori Health Authority",
         "url": "https://doi.org/10.1080/14719037.2026.2736656"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
-    "doi:10.1080/15309576.2026.2740550": {
-      "first_seen_at": "2026-10-04T12:18:17.332589+00:00",
+    "doi:10.1080/14719037.2026.2739597": {
+      "first_seen_at": "2026-10-05T14:32:05.778242+00:00",
       "item": {
         "author_affiliations": {
-          "Angela Y. S. Park": [
-            "Sungkyunkwan University"
+          "Adalmir de Oliveira Gomes": [
+            "Universidade de Brasilia"
           ],
-          "Christopher V. Hawkins": [
-            "University of Central Florida"
+          "Claudia N. Avellaneda": [
+            "Indiana University"
           ],
-          "Minsung Michael Kang": [
-            "Kyung Hee University"
-          ],
-          "Rachel M. Krause": [
-            "University of Kansas"
+          "Marylis Fantoni": [
+            "Brigham Young University"
           ]
         },
         "authors": [
-          "Angela Y. S. Park",
-          "Christopher V. Hawkins",
-          "Rachel M. Krause",
-          "Minsung Michael Kang"
+          "Marylis Fantoni",
+          "Adalmir de Oliveira Gomes",
+          "Claudia N. Avellaneda"
         ],
-        "doi": "10.1080/15309576.2026.2740550",
-        "journal": "Public Performance & Management Review",
-        "journal_short": "PPMR",
-        "publication_date": "2026-10-03",
-        "stable_id": "doi:10.1080/15309576.2026.2740550",
-        "title": "How Do Community Stakeholder Groups Shape Local GHG Inventories? Evidence from U.S. Local Governments",
-        "url": "https://doi.org/10.1080/15309576.2026.2740550"
+        "doi": "10.1080/14719037.2026.2739597",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-10-05",
+        "stable_id": "doi:10.1080/14719037.2026.2739597",
+        "title": "When women lead: local political representation and pro-women institutions",
+        "url": "https://doi.org/10.1080/14719037.2026.2739597"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/736362": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15417,7 +15583,7 @@
         "title": "When Do Citizens Resist the Use of AI Algorithms in Public Policy? Theory and Evidence",
         "url": "https://doi.org/10.1086/736362"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/736463": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15438,36 +15604,7 @@
         "title": "Editor’s Choice: Measuring Candidate Quality Using Local Newspaper Endorsements",
         "url": "https://doi.org/10.1086/736463"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
-    },
-    "doi:10.1086/736550": {
-      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
-      "item": {
-        "author_affiliations": {
-          "Gema García-Albacete": [
-            "Universidad Carlos III de Madrid"
-          ],
-          "Irene Sánchez-Vítores": [
-            "Universidad Rey Juan Carlos"
-          ],
-          "Mónica Ferrín Pereira": [
-            "Universidade da Coruña"
-          ]
-        },
-        "authors": [
-          "Mónica Ferrín Pereira",
-          "Gema García-Albacete",
-          "Irene Sánchez-Vítores"
-        ],
-        "doi": "10.1086/736550",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-10-01",
-        "stable_id": "doi:10.1086/736550",
-        "title": "Making Time to Be Informed: The Child Penalty in Political News Consumption",
-        "url": "https://doi.org/10.1086/736550"
-      },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15492,7 +15629,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15517,7 +15654,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15538,7 +15675,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/736699": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15559,7 +15696,7 @@
         "title": "Left Behind or Left Ahead? Implications of Male Migration on Female Political Engagement",
         "url": "https://doi.org/10.1086/736699"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15580,7 +15717,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15609,7 +15746,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15638,7 +15775,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15663,7 +15800,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15684,7 +15821,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -15704,7 +15841,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -15721,7 +15858,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -15742,7 +15879,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -15759,7 +15896,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -15777,7 +15914,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -15797,7 +15934,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15814,7 +15951,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/744129": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15833,7 +15970,7 @@
         "title": "“When they go low, we kick them”: The reciprocal nature of citizens’ support for democratic transgressions",
         "url": "https://doi.org/10.1086/744129"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15851,7 +15988,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15870,7 +16007,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15888,7 +16025,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/744220": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15905,7 +16042,7 @@
         "title": "Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China",
         "url": "https://doi.org/10.1086/744220"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15924,7 +16061,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -15945,7 +16082,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15960,7 +16097,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -15975,7 +16112,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -15996,7 +16133,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -16011,7 +16148,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -16026,7 +16163,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-04T12:18:17.332589+00:00"
+      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
     }
   },
   "version": 1
