@@ -1112,6 +1112,14 @@
       "sent_at": "2026-09-27T12:04:32.107617+00:00",
       "title": "Examining the Role of Race and Sector of Employment in Public Participation"
     },
+    "doi:10.1080/15309576.2026.2740550": {
+      "batch_id": "2026-10-05-5afd89bacce066c7",
+      "doi": "10.1080/15309576.2026.2740550",
+      "journal": "Public Performance & Management Review",
+      "publication_date": "2026-10-03",
+      "sent_at": "2026-10-05T14:43:53.933066+00:00",
+      "title": "How Do Community Stakeholder Groups Shape Local GHG Inventories? Evidence from U.S. Local Governments"
+    },
     "doi:10.1086/735504": {
       "batch_id": "2026-10-01-6dbca5bf4d57c8e5",
       "doi": "10.1086/735504",
@@ -1175,6 +1183,14 @@
       "publication_date": "2026-10-01",
       "sent_at": "2026-10-01T13:22:13.347574+00:00",
       "title": "The Contemporary Landscape of Gendered Personality Traits"
+    },
+    "doi:10.1086/736550": {
+      "batch_id": "2026-10-05-5afd89bacce066c7",
+      "doi": "10.1086/736550",
+      "journal": "The Journal of Politics",
+      "publication_date": "2026-10-01",
+      "sent_at": "2026-10-05T14:43:53.933066+00:00",
+      "title": "Making Time to Be Informed: The Child Penalty in Political News Consumption"
     },
     "doi:10.1086/736563": {
       "batch_id": "2026-10-01-6dbca5bf4d57c8e5",
@@ -1807,6 +1823,14 @@
       "publication_date": "2026-09-30",
       "sent_at": "2026-10-01T13:22:13.347574+00:00",
       "title": "A complex arc of engagement: Shifting psychological trajectories of international solidarity during sustained geopolitical conflict"
+    },
+    "doi:10.1111/pops.70201": {
+      "batch_id": "2026-10-05-5afd89bacce066c7",
+      "doi": "10.1111/pops.70201",
+      "journal": "Political Psychology",
+      "publication_date": "2026-10-05",
+      "sent_at": "2026-10-05T14:43:53.933066+00:00",
+      "title": "How perceived economic inequality shapes political efficacy: The mediating role of institutional trust"
     },
     "doi:10.1111/psj.70144": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -15308,7 +15332,8 @@
           "url": "https://doi.org/10.1086/736550"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-05T14:43:53.933066+00:00",
+      "status": "sent"
     }
   },
   "pending": {
