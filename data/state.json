@@ -15334,6 +15334,341 @@
       ],
       "sent_at": "2026-10-05T14:43:53.933066+00:00",
       "status": "sent"
+    },
+    "2026-10-06-5276ba1beeee03e4": {
+      "created_at": "2026-10-06T13:15:53.871571+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-06-5276ba1beeee03e4",
+      "items": [
+        {
+          "abstract": "Does exposure to crime mobilize or demobilize political participation? We report findings from a preregistered design, leveraging data from an original survey of 21 major U.S. cities and five waves of the Cooperative Election Study. We assess the relationships between direct victimization, local (ZCTA-level) crime rates, and perceived neighborhood safety and two outcomes: turnout (including validated turnout) and non-electoral participation. We find that direct victimization is significantly associated with more non-electoral engagement but lower turnout. The negative estimated effects of victimization on turnout exceed the magnitude of positive effects associated with common get-out-the-vote efforts. We find only limited evidence that crime rates are associated with participation. Perceived neighborhood safety is associated with higher rates of non-electoral, but not electoral, participation. Our findings offer new, comprehensive evidence on the relationship between crime exposure and political participation and illustrate the importance of distinguishing between types of exposure and forms of participation.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "DANA GARBARSKI": [
+              "Loyola University Chicago"
+            ],
+            "DAVID DOHERTY": [
+              "Loyola University Chicago"
+            ],
+            "G. AGUSTIN MARKARIAN": [
+              "Loyola University Chicago"
+            ],
+            "MENA WHALEN": [
+              "Loyola University Chicago"
+            ]
+          },
+          "authors": [
+            "DAVID DOHERTY",
+            "G. AGUSTIN MARKARIAN",
+            "MENA WHALEN",
+            "DANA GARBARSKI"
+          ],
+          "constructs": [
+            "Political Participation",
+            "Validated Turnout"
+          ],
+          "doi": "10.1017/s0003055426102007",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "서베이",
+          "method_detail": "횡단 설문 분석",
+          "publication_date": "2026-10-06",
+          "stable_id": "doi:10.1017/s0003055426102007",
+          "summary_basis": "abstract",
+          "summary_ko": "범죄 노출이 정치참여를 동원하는지 약화하는지를 검토하기 위해, 21개 미국 주요 도시의 원자료 설문과 협력선거연구 5개 파를 활용해 직접 피해, 지역 범죄율, 주관적 동네 안전감과 투표·비선거 참여의 관계를 분석했다. 직접 피해는 비선거 참여 증가 및 투표율 감소와 유의하게 연관되었고, 범죄율과 참여의 연관성은 제한적이었으며, 주관적 안전감은 비선거 참여와만 정적으로 연관되었다.",
+          "title": "Crime and Participation",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1017/s0003055426102007"
+        },
+        {
+          "abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1047198726100527/resource/name/firstPage-pdf-S1047198726100527a.jpg",
+          "abstract_source": "Publisher",
+          "author_affiliations": {},
+          "authors": [
+            "Stefan Dahlberg",
+            "Luise Dürlich",
+            "Sofia Axelsson",
+            "Yahui Zhao",
+            "Joakim Nivre"
+          ],
+          "constructs": [
+            "Democracy",
+            "Multilingual Language Technology"
+          ],
+          "doi": "10.1017/pan.2026.10052",
+          "journal": "Political Analysis",
+          "journal_short": "PolAnalysis",
+          "method": "방법 미상",
+          "method_detail": "정보 없음",
+          "publication_date": "2026-10-06",
+          "stable_id": "doi:10.1017/pan.2026.10052",
+          "summary_basis": "abstract",
+          "summary_ko": "정정 논문으로, 초록 내용이 제공되지 않아 연구 질문·접근·주요 발견을 요약할 수 없다.",
+          "title": "Using Multilingual Language Technology to Classify Open-Ended Survey Responses: Conceptions of Democracy in a Cross-Cultural Survey Setting – CORRIGENDUM",
+          "topic_area": "분야 미상",
+          "url": "https://doi.org/10.1017/pan.2026.10052"
+        },
+        {
+          "abstract": "A large body of empirical literature shows that politicians’ time horizons influence the level of corruption they engage in. However, some studies suggest that corruption follows a U-shaped pattern across a politician’s tenure, decreasing in the middle and rising again toward the end, while others find an inverse U-shape. We argue that these conflicting findings can be explained by distinguishing between two types of corruption based on whether the corrupt act is one-sided _(extraction)_ or mutually beneficial _(collusion)_. To test this hypothesis, we analyze provincial governors in Vietnam, leveraging 15 years of nationally representative firm-level data and biographical information on local leaders. Our findings provide strong support for a relationship between political tenure and extractive corruption, which follows a clear inverse U-shaped pattern. In contrast, we find little evidence of a systematic pattern in collusive corruption. This contrast underscores that while timing is a crucial determinant of corruption, its impact varies systematically with the nature of the corrupt act.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {},
+          "authors": [
+            "Tuan-Ngoc Phan",
+            "Dean Dulay"
+          ],
+          "constructs": [
+            "Political Tenure",
+            "Extractive Corruption"
+          ],
+          "doi": "10.1007/s11109-026-10206-y",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "혼합방법론",
+          "method_detail": "기업자료·전기분석",
+          "publication_date": "2026-10-06",
+          "stable_id": "doi:10.1007/s11109-026-10206-y",
+          "summary_basis": "abstract",
+          "summary_ko": "정치인의 재임 기간과 부패의 관계가 부패 행위의 일방적 수탈과 상호이익적 공모에 따라 어떻게 달라지는지 검토하기 위해, 베트남 지방 지도자의 전기 자료와 15년간의 전국 대표 기업 수준 자료를 분석했다. 수탈형 부패는 재임 중반에 감소하고 말기에 다시 증가하는 역U자형을 보였지만, 공모형 부패에서는 체계적인 재임 기간 패턴이 거의 나타나지 않았다.",
+          "title": "Decoding Corruption Cycles: Extractive versus Collusive Corruption",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1007/s11109-026-10206-y"
+        },
+        {
+          "abstract": "Abstract In recent years, observers have noted an apparent increase in racially progressive attitudes among White Democrats. Among journalists, this “great awokening” of White Democrats is practically taken as a political fact. However, what this consensus about the racial liberalism of White Democrats often overlooks is that while White Democrats have in many ways moved in line with the Democratic Party’s position on race and racial inequality, their White identity makes them vulnerable to racial identity threats. In this study, I test this potential for racial identity-driven backlash among White Democrats in the context of racial justice protest movements. To do this, I conduct a survey experiment in which respondents are exposed to an image from a racial justice protest, and I vary the messaging on the signs in the image as well as the race of the protesters. I find that when protesters use messaging that is critical of Whites and Whiteness, White Democrats’ support for the movement and the protesters declines. Additionally, such messaging causes respondents to distance themselves from the views of the protesters and raises concerns about violence erupting at the protests. These results underscore how racial identity threats can erode White Democrats’ support for political messages and political movements that their increasingly liberal racial attitudes should make them amenable to.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {},
+          "authors": [
+            "Rachel Lienesch"
+          ],
+          "constructs": [
+            "Racial Identity Threat",
+            "White Democrats"
+          ],
+          "doi": "10.1007/s11109-026-10185-0",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-06",
+          "stable_id": "doi:10.1007/s11109-026-10185-0",
+          "summary_basis": "abstract",
+          "summary_ko": "백인 민주당원의 인종적 정체성 위협이 인종정의 시위에 대한 지지를 약화시키는지 설문 실험으로 검증했다. 백인과 백인성에 비판적인 메시지에 노출되면 이들의 운동 지지와 시위대 견해에 대한 동조가 감소하고, 시위 중 폭력 발생 우려가 높아졌다.",
+          "title": "Democratic but Still White: The Impact of Racial Identity Threats on White Democrats’ Support for Racial Justice Protests",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1007/s11109-026-10185-0"
+        },
+        {
+          "abstract": "Abstract Most of the public supports welfare policies in the abstract, but many hold deep misgivings about the deservingness of welfare recipients, driving down support for specific policies. Welfare policies are often designed to mitigate these concerns by restricting access to benefits, but it is unclear to what effect. According to an influential strain of research drawing on social construction theory, these restrictions may backfire, instead increasing concerns about a free-riding public. In contrast -- drawing on psychological research on the deservingness heuristic -- I argue that policy features, such as work requirements, signal effort on behalf of recipients and thus deservingness. Using an experiment, I find that several policy features increase perceptions of deservingness and, in turn, increase policy support and generosity. However, some policy features are also perceived as overly burdensome, reducing the effects on policy support. Treatment effects on perceptions of beneficiary deservingness are largest among ambivalent respondents, but largely generalize across partisanship, ideology, and racial resentment. Overall, these findings help clarify the implications of the deservingness heuristic while challenging predictions from social construction theory and informing ongoing debates over public opinion and policy feedback.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {},
+          "authors": [
+            "Lucia Lopez"
+          ],
+          "constructs": [
+            "Deservingness Heuristic",
+            "Social Construction Theory"
+          ],
+          "doi": "10.1007/s11109-026-10209-9",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-06",
+          "stable_id": "doi:10.1007/s11109-026-10209-9",
+          "summary_basis": "abstract",
+          "summary_ko": "복지정책의 어떤 설계 특성이 수혜자에 대한 정당성 인식과 복지 지지를 높이는지 설문 실험으로 분석한 결과, 근로 요건 등 일부 특성은 수혜자의 노력과 정당성을 신호해 정책 지지와 관대성을 높였지만, 과도한 부담으로 인식된 특성은 그 효과를 약화시켰다. 이러한 정당성 효과는 양가적 응답자에서 가장 컸으나 정당 지지, 이념, 인종적 resentment 전반에 대체로 일반화되었다.",
+          "title": "How Policy Design Affects Perceptions of Beneficiaries and Support for Welfare",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1007/s11109-026-10209-9"
+        },
+        {
+          "abstract": "Does racial difference contribute to anti-immigrant bias? A large literature has analyzed the impact of religious difference on negative assessments of immigrants in European countries, but less is known about the effects of racial difference. We explore mechanisms of racial bias as components of xenophobic attitudes in Greece – one of the most anti-immigrant countries in Europe. We present results from several experiments designed to identify effects of racial difference proxied by skin color. We find evidence of a complex pattern of _anti-Blackness_ that is a small part of xenophobic attitudes toward immigrant groups that are otherwise more racially proximate to the Greek population. _Anti-Blackness_ in Greece reflects a “taste” for discrimination and is not rooted in more negative stereotypes of darker immigrants.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {},
+          "authors": [
+            "Eleni Kyrkopoulou",
+            "Nicholas Sambanis"
+          ],
+          "constructs": [
+            "Anti-Blackness",
+            "Colorism"
+          ],
+          "doi": "10.1007/s11109-026-10204-0",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "실험",
+          "method_detail": "실험 설계",
+          "publication_date": "2026-10-06",
+          "stable_id": "doi:10.1007/s11109-026-10204-0",
+          "summary_basis": "abstract",
+          "summary_ko": "그리스에서 피부색으로 대리된 인종적 차이가 이민자에 대한 반이민 편견에 기여하는지 여러 실험으로 분석했다. 흑인에 대한 부정적 태도는 이민자 집단에 대한 외국인혐오의 일부를 구성하며, 더 어두운 피부의 이민자에 대한 부정적 고정관념보다는 차별 선호를 반영하는 것으로 나타났다.",
+          "title": "O Xenos: Racial Difference, Colorism, and Attitudes Toward Immigrants in Greece",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1007/s11109-026-10204-0"
+        },
+        {
+          "abstract": "Abstract The American public largely favors “democracy,” yet many citizens tolerate undemocratic actions and candidates. This raises doubts about the relevance of abstract democracy support to actual democratic commitment. In contrast, we argue that abstract democracy support is a normatively significant dimension of attitude variation among Americans. Using nineteen surveys fielded between 1995 and 2024, we show that a sizable segment of the public expresses only tepid support for democracy, and that a nontrivial minority expresses opposition. Moreover, commonly used abstract democracy support items converge on a single latent construct which displays high rank-order stability, but also meaningful within-person variation, over a two-year period. Abstract democracy support negatively predicts openness to a wide range of electoral and liberal democratic violations and is associated with greater likelihood of electorally punishing anti-democratic candidates. In panel data, positive within-person deviations in abstract democracy support precede negative within-person deviations in openness to authoritarian governance, suggesting that individual-level shifts in abstract support predict later change in substantive democracy attitudes. Overall our findings suggest that the value of ‘democracy’ is contested among Americans, with potential implications for democratic erosion. We recommend that efforts to understand the American public’s role in democratic backsliding and restoration treat abstract support as a distinct attitude construct, measure it with multi-item scales, and explore whether or not it possesses causal significance.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {},
+          "authors": [
+            "Adam R. Panish",
+            "Ariel Malka"
+          ],
+          "constructs": [
+            "Democracy Support",
+            "Authoritarian Governance"
+          ],
+          "doi": "10.1007/s11109-026-10205-z",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "서베이",
+          "method_detail": "패널 설문",
+          "publication_date": "2026-10-06",
+          "stable_id": "doi:10.1007/s11109-026-10205-z",
+          "summary_basis": "abstract",
+          "summary_ko": "미국인의 추상적 민주주의 지지가 실제 민주주의 헌신과 어떤 관련이 있는지 검토하기 위해 1995~2024년 19개 설문과 패널 자료를 분석했다. 추상적 민주주의 지지는 단일 잠재구성개념으로 수렴하며, 민주주의에 대한 위반 수용 및 반민주적 후보 지지를 낮추고 이후 권위주의적 거버넌스 수용의 감소를 예측하는 등 실질적 민주주의 태도와 관련되는 것으로 나타났다.",
+          "title": "Questionnaire Democrats? Reconsidering the Relevance of Abstract Democracy Support in the American Public",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1007/s11109-026-10205-z"
+        },
+        {
+          "abstract": "Abstract Politicians use populist rhetoric – arguments that portray politics as an enduring conflict between “the good people” and “the evil elites” – to generate support for attacks on constitutional safeguards, the media, and minorities. Yet, little is known about how to counteract such rhetoric. We utilize a pre-registered survey experiment in the UK (n $$\\cong$$ 4000) to investigate the effects of counter-arguments put forward by fellow citizens. We hypothesize pluralist and democratic elitist counter-arguments to be promising antidotes to populist rhetoric and test to what extent such arguments can strengthen liberal democratic attitudes and weaken populist majoritarian ones. We find that populism can be challenged successfully but not with all types of counter-arguments. Pluralist appeals can decrease support for populist majoritarian democracy, while elitist counter-arguments have no effect on democratic attitudes. Additional analyses suggest that counter-arguments might also affect how voters evaluate candidates. These results contribute by demonstrating the potentials of counter-arguments in strengthening the resilience of liberal democracies vis-à-vis populist challenges.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {},
+          "authors": [
+            "Markus Kollberg",
+            "Julia Leschke"
+          ],
+          "constructs": [
+            "Populism",
+            "Pluralism"
+          ],
+          "doi": "10.1007/s11109-026-10198-9",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-06",
+          "stable_id": "doi:10.1007/s11109-026-10198-9",
+          "summary_basis": "abstract",
+          "summary_ko": "영국의 사전등록 설문실험(n≈4,000)을 통해 시민이 제시하는 다원주의적·민주적 엘리트주의적 반론이 포퓰리즘 수사에 어떻게 대응하는지 검토했다. 다원주의적 호소는 포퓰리즘적 다수결 민주주의 지지를 낮췄지만, 엘리트주의적 반론은 민주적 태도에 유의한 영향을 미치지 않았다.",
+          "title": "What Works Against Populist Rhetoric? The Effects of Counter-Arguments on Democratic Attitudes",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1007/s11109-026-10198-9"
+        },
+        {
+          "abstract": "We evaluated disparities in exposure to partisan content among new, nonpartisan TikTok users. We performed a sock puppet audit using 118 automated users in Germany ahead of three regional elections in 2024 and the federal election in 2025 (N = 266.161 videos). The design allowed us to account for past individual user behavior, user networks, location, and time. Overall, general political content constitutes 5%–7% of nonpolitical user feeds in our sample. When nonpartisan users encounter unsolicited political content, it is more likely to feature videos mentioning and supporting the far-right populist Alternative für Deutschland (AfD) party relative to all other parties. Further descriptive analysis shows that content by the AfD is associated with a higher volume of accounts and a higher number of viral videos.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Aaron Philipp": [
+              "University of Potsdam"
+            ],
+            "Jasper Tjaden": [
+              "University of Potsdam"
+            ],
+            "Johannes Wolfgram": [
+              "University of Potsdam"
+            ],
+            "Licia Bobzien": [
+              "University of Potsdam"
+            ],
+            "Roland Verwiebe": [
+              "University of Potsdam"
+            ],
+            "Sarah Weissmann": [
+              "University of Potsdam"
+            ],
+            "Ulrich Kohler": [
+              "University of Potsdam"
+            ]
+          },
+          "authors": [
+            "Jasper Tjaden",
+            "Johannes Wolfgram",
+            "Aaron Philipp",
+            "Sarah Weissmann",
+            "Licia Bobzien",
+            "Ulrich Kohler",
+            "Roland Verwiebe"
+          ],
+          "constructs": [
+            "Algorithmic Curation",
+            "Political Exposure"
+          ],
+          "doi": "10.1080/10584609.2026.2733320",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "method": "실험",
+          "method_detail": "소크퍼펫 감사",
+          "publication_date": "2026-10-05",
+          "stable_id": "doi:10.1080/10584609.2026.2733320",
+          "summary_basis": "abstract",
+          "summary_ko": "독일의 비당파 신규 TikTok 이용자들이 정파적 정치 콘텐츠에 어떻게 노출되는지 알아보기 위해, 2024년 지방선거와 2025년 연방선거를 앞두고 118개 자동화 계정을 활용한 소크퍼펫 감사로 266,161개 영상을 분석했다. 비정치적 이용자 피드의 5~7%가 일반 정치 콘텐츠였으며, 비자발적으로 접한 정치 콘텐츠는 다른 정당보다 극우 포퓰리스트 AfD를 언급·지지하는 경우가 많았고, AfD 콘텐츠는 더 많은 계정 수와 바이럴 영상 수와 연관됐다.",
+          "title": "Does the TikTok Feed Lean Right? Exposure to Political Content Among Non-Partisan Users in Germany",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1080/10584609.2026.2733320"
+        },
+        {
+          "abstract": "Whether women in office govern differently from men is well documented; whether they govern differently for women is not. The latter is the crux of active representation theory, which expects representatives to act for those they mirror: does electing women change what governments do for women? We investigate the relationship between electing female mayors and councilors and the existence of Pro-Women Institutions across all 5,565 cities of Brazil during four election cycles (2008, 2012, 2016 and 2020). Our results partially support the active representation relationship. While female mayors’ presence increases the likelihood of pro-women institutions, local councilors either do not or are negatively linked to them. Robustness checks through a regression discontinuity design corroborate these findings, and heterogeneous treatment effects on race paint a wider picture about intersectionality. Our findings highlight how female elected representatives might achieve substantial change for their female constituents in local government.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Adalmir de Oliveira Gomes": [
+              "Universidade de Brasilia"
+            ],
+            "Claudia N. Avellaneda": [
+              "Indiana University"
+            ],
+            "Marylis Fantoni": [
+              "Brigham Young University"
+            ]
+          },
+          "authors": [
+            "Marylis Fantoni",
+            "Adalmir de Oliveira Gomes",
+            "Claudia N. Avellaneda"
+          ],
+          "constructs": [
+            "Active Representation",
+            "Intersectionality"
+          ],
+          "doi": "10.1080/14719037.2026.2739597",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "준실험",
+          "method_detail": "회귀불연속설계",
+          "publication_date": "2026-10-05",
+          "stable_id": "doi:10.1080/14719037.2026.2739597",
+          "summary_basis": "abstract",
+          "summary_ko": "브라질 5,565개 도시의 2008·2012·2016·2020년 선거 자료를 분석해 여성 시장·시의원 당선과 여성친화적 제도의 관계를 검토하고, 회귀불연속설계로 결과를 점검했다. 여성 시장의 존재는 여성친화적 제도의 가능성을 높였지만, 여성 시의원은 유의한 관련이 없거나 부정적으로 관련되었으며, 인종별 이질적 효과는 교차성을 시사했다.",
+          "title": "When women lead: local political representation and pro-women institutions",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1080/14719037.2026.2739597"
+        },
+        {
+          "abstract": "As international conflicts escalate, states are increasingly turning to conscription and broader public participation in national defense. This article examines how acute external threats influence public attitudes toward military service. Leveraging original survey data from Iran, fielded before and after the unprecedented April 13, 2024 missile exchange with Israel, I use matching techniques to compare responses across the two periods. Individuals surveyed after the attack were significantly more likely to support mandatory male conscription and to support women’s military service. Importantly, support rose even though conscription is widely unpopular in peacetime and despite Iran’s gender hierarchies. These findings demonstrate that external threats can legitimize coercion in contexts of regime distrust and reconfigure gender boundaries around military participation. The study contributes to research on public perceptions of war, coercion, and militarization by highlighting how geopolitical shocks recalibrate the boundaries of both state authority and gendered citizenship.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {},
+          "authors": [
+            "Roya Izadi"
+          ],
+          "constructs": [
+            "External Threats",
+            "Conscription"
+          ],
+          "doi": "10.1086/744325",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "서베이",
+          "method_detail": "전후 매칭 비교",
+          "publication_date": "2026-10-05",
+          "stable_id": "doi:10.1086/744325",
+          "summary_basis": "abstract",
+          "summary_ko": "국제적 외부 위협이 권위주의 체제에서 군복무에 대한 대중의 태도, 특히 남성 의무징병과 여성의 군복무 지지를 어떻게 변화시키는지 분석했다. 이란에서 이스라엘과의 2024년 4월 13일 미사일 교환 전후에 실시한 원자료 설문을 매칭해 비교한 결과, 공격 이후 두 형태의 군복무 지지가 유의하게 증가했다.",
+          "title": "External Threats and Support for Military Service under Authoritarian Rule",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/744325"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -15356,7 +15691,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -15377,7 +15712,7 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -15412,7 +15747,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -15437,7 +15772,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -15458,7 +15793,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -15479,52 +15814,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
-    },
-    "doi:10.1080/10584609.2026.2733320": {
-      "first_seen_at": "2026-10-05T14:32:05.778242+00:00",
-      "item": {
-        "author_affiliations": {
-          "Aaron Philipp": [
-            "University of Potsdam"
-          ],
-          "Jasper Tjaden": [
-            "University of Potsdam"
-          ],
-          "Johannes Wolfgram": [
-            "University of Potsdam"
-          ],
-          "Licia Bobzien": [
-            "University of Potsdam"
-          ],
-          "Roland Verwiebe": [
-            "University of Potsdam"
-          ],
-          "Sarah Weissmann": [
-            "University of Potsdam"
-          ],
-          "Ulrich Kohler": [
-            "University of Potsdam"
-          ]
-        },
-        "authors": [
-          "Jasper Tjaden",
-          "Johannes Wolfgram",
-          "Aaron Philipp",
-          "Sarah Weissmann",
-          "Licia Bobzien",
-          "Ulrich Kohler",
-          "Roland Verwiebe"
-        ],
-        "doi": "10.1080/10584609.2026.2733320",
-        "journal": "Political Communication",
-        "journal_short": "PolComm",
-        "publication_date": "2026-10-05",
-        "stable_id": "doi:10.1080/10584609.2026.2733320",
-        "title": "Does the TikTok Feed Lean Right? Exposure to Political Content Among Non-Partisan Users in Germany",
-        "url": "https://doi.org/10.1080/10584609.2026.2733320"
-      },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1080/14719037.2026.2736656": {
       "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
@@ -15558,36 +15848,28 @@
         "title": "Towards a theory of public-sector organizations with targeted mandates: a case study of New Zealand’s Māori Health Authority",
         "url": "https://doi.org/10.1080/14719037.2026.2736656"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
-    "doi:10.1080/14719037.2026.2739597": {
-      "first_seen_at": "2026-10-05T14:32:05.778242+00:00",
+    "doi:10.1080/14719037.2026.2744326": {
+      "first_seen_at": "2026-10-06T13:15:53.871571+00:00",
       "item": {
         "author_affiliations": {
-          "Adalmir de Oliveira Gomes": [
-            "Universidade de Brasilia"
-          ],
-          "Claudia N. Avellaneda": [
-            "Indiana University"
-          ],
-          "Marylis Fantoni": [
-            "Brigham Young University"
+          "Hyeon Jo": [
+            "Headquarters, HJ Institute of Technology and Management"
           ]
         },
         "authors": [
-          "Marylis Fantoni",
-          "Adalmir de Oliveira Gomes",
-          "Claudia N. Avellaneda"
+          "Hyeon Jo"
         ],
-        "doi": "10.1080/14719037.2026.2739597",
+        "doi": "10.1080/14719037.2026.2744326",
         "journal": "Public Management Review",
         "journal_short": "PMR",
-        "publication_date": "2026-10-05",
-        "stable_id": "doi:10.1080/14719037.2026.2739597",
-        "title": "When women lead: local political representation and pro-women institutions",
-        "url": "https://doi.org/10.1080/14719037.2026.2739597"
+        "publication_date": "2026-10-06",
+        "stable_id": "doi:10.1080/14719037.2026.2744326",
+        "title": "Impact of organizational goals, leadership styles, and organizational culture on employee outcomes in the Korean public sector",
+        "url": "https://doi.org/10.1080/14719037.2026.2744326"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/736362": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15608,7 +15890,7 @@
         "title": "When Do Citizens Resist the Use of AI Algorithms in Public Policy? Theory and Evidence",
         "url": "https://doi.org/10.1086/736362"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/736463": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15629,7 +15911,7 @@
         "title": "Editor’s Choice: Measuring Candidate Quality Using Local Newspaper Endorsements",
         "url": "https://doi.org/10.1086/736463"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15654,7 +15936,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15679,7 +15961,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15700,7 +15982,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/736699": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15721,7 +16003,7 @@
         "title": "Left Behind or Left Ahead? Implications of Male Migration on Female Political Engagement",
         "url": "https://doi.org/10.1086/736699"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15742,7 +16024,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15771,7 +16053,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15800,7 +16082,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15825,7 +16107,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15846,7 +16128,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -15866,7 +16148,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -15883,7 +16165,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -15904,7 +16186,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -15921,7 +16203,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -15939,7 +16221,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -15959,7 +16241,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15976,7 +16258,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/744129": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -15995,7 +16277,7 @@
         "title": "“When they go low, we kick them”: The reciprocal nature of citizens’ support for democratic transgressions",
         "url": "https://doi.org/10.1086/744129"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16013,7 +16295,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16032,7 +16314,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16050,7 +16332,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/744220": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16067,7 +16349,7 @@
         "title": "Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China",
         "url": "https://doi.org/10.1086/744220"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16086,7 +16368,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -16107,7 +16389,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16122,7 +16404,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -16137,7 +16419,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -16158,7 +16440,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -16173,7 +16455,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -16188,7 +16470,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-05T14:32:05.778242+00:00"
+      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
     }
   },
   "version": 1
