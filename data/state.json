@@ -96,6 +96,14 @@
       "sent_at": "2026-09-03T15:05:53.210352+00:00",
       "title": "Women Politicians’ Role Model Effects: The Influence of Shared Identities Beyond Gender"
     },
+    "doi:10.1007/s11109-026-10200-4": {
+      "batch_id": "2026-10-07-a724a6f4e4725338",
+      "doi": "10.1007/s11109-026-10200-4",
+      "journal": "Political Behavior",
+      "publication_date": "2026-10-07",
+      "sent_at": "2026-10-07T13:30:01.879676+00:00",
+      "title": "Un-Priming Politics: A Method to Reduce Overreporting of Political Engagement"
+    },
     "doi:10.1007/s11109-026-10201-3": {
       "batch_id": "2026-09-17-b2ed10bee1f959a8",
       "doi": "10.1007/s11109-026-10201-3",
@@ -1112,6 +1120,14 @@
       "sent_at": "2026-10-04T12:29:54.533448+00:00",
       "title": "From reform to reality: governance mechanisms and social capital development in mandated healthcare networks"
     },
+    "doi:10.1080/14719037.2026.2744326": {
+      "batch_id": "2026-10-07-a724a6f4e4725338",
+      "doi": "10.1080/14719037.2026.2744326",
+      "journal": "Public Management Review",
+      "publication_date": "2026-10-06",
+      "sent_at": "2026-10-07T13:30:01.879676+00:00",
+      "title": "Impact of organizational goals, leadership styles, and organizational culture on employee outcomes in the Korean public sector"
+    },
     "doi:10.1080/15309576.2026.2700771": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1080/15309576.2026.2700771",
@@ -1920,6 +1936,14 @@
       "sent_at": "2026-10-05T14:43:53.933066+00:00",
       "title": "How perceived economic inequality shapes political efficacy: The mediating role of institutional trust"
     },
+    "doi:10.1111/pops.70202": {
+      "batch_id": "2026-10-07-a724a6f4e4725338",
+      "doi": "10.1111/pops.70202",
+      "journal": "Political Psychology",
+      "publication_date": "2026-10-06",
+      "sent_at": "2026-10-07T13:30:01.879676+00:00",
+      "title": "Conceptualizing and measuring global consciousness"
+    },
     "doi:10.1111/psj.70144": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1111/psj.70144",
@@ -2031,6 +2055,14 @@
       "publication_date": "2026-09-25",
       "sent_at": "2026-09-26T11:25:54.512887+00:00",
       "title": "From the Margins: Potential Coalitions in Centralized, High‐Capacity States"
+    },
+    "doi:10.1111/psj.70170": {
+      "batch_id": "2026-10-07-a724a6f4e4725338",
+      "doi": "10.1111/psj.70170",
+      "journal": "Policy Studies Journal",
+      "publication_date": "2026-10-06",
+      "sent_at": "2026-10-07T13:30:01.879676+00:00",
+      "title": "Making Policy Evidence Traceable: A Modular Preregistration Framework for Policy Evaluation"
     },
     "doi:10.1111/puar.70165": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -15893,7 +15925,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2744326"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-07T13:30:01.879676+00:00",
+      "status": "sent"
     }
   },
   "pending": {
