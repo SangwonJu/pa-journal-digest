@@ -15758,6 +15758,142 @@
       ],
       "sent_at": "2026-10-06T13:28:16.209368+00:00",
       "status": "sent"
+    },
+    "2026-10-07-a724a6f4e4725338": {
+      "created_at": "2026-10-07T13:18:28.967850+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-07-a724a6f4e4725338",
+      "items": [
+        {
+          "abstract": "ABSTRACT Preregistration is increasingly used in policy research, but its value depends on whether preregistered commitments can be clearly linked to reported analyses. Policy studies often involve multiple outcomes, evolving administrative data, consequential design and analytic choices, and adaptive implementation, making it difficult to distinguish prespecified tests from subsequent adjustments. This research note proposes a modular, policy‐oriented companion framework for using existing preregistration infrastructure. The framework combines a shared core that defines the estimand, outcomes, and identification strategy with design‐specific modules for field experiments, administrative‐data quasi‐experiments, and behavioral policy trials. Together, the components serve two purposes: claim traceability, by linking reported results to the original plan, and governed adaptation, by providing a transparent record of changes made during the study. The aim is not to prevent adaptation, but to show which analyses were prespecified, which were revised through documented amendments, and which were developed later. This approach aims to improve the interpretability and transparency of policy research while remaining feasible in applied policy settings.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Tianhao Zhao": [
+              "Lee Kuan Yew School of Public Policy National University of Singapore Singapore Singapore"
+            ],
+            "Yiyun Xia": [
+              "Lee Kuan Yew School of Public Policy National University of Singapore Singapore Singapore"
+            ],
+            "Yuhao Ba": [
+              "Lee Kuan Yew School of Public Policy National University of Singapore Singapore Singapore"
+            ]
+          },
+          "authors": [
+            "Yiyun Xia",
+            "Tianhao Zhao",
+            "Yuhao Ba"
+          ],
+          "constructs": [
+            "Preregistration",
+            "Traceability"
+          ],
+          "doi": "10.1111/psj.70170",
+          "journal": "Policy Studies Journal",
+          "journal_short": "PSJ",
+          "method": "이론/개념",
+          "method_detail": "모듈형 개념틀",
+          "publication_date": "2026-10-06",
+          "stable_id": "doi:10.1111/psj.70170",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구노트는 정책평가에서 사전등록된 약속과 실제 보고된 분석을 명확히 연결하려면 어떻게 해야 하는지를 묻고, 공통 핵심 요소와 연구설계별 모듈을 결합한 정책 지향적 사전등록 체계를 제안한다. 이 체계는 사전 명시된 분석, 문서화된 수정, 사후 개발된 분석을 구분해 결과의 추적 가능성과 적응 과정의 투명성을 높이는 것을 목표로 한다.",
+          "title": "Making Policy Evidence Traceable: A Modular Preregistration Framework for Policy Evaluation",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1111/psj.70170"
+        },
+        {
+          "abstract": "Abstract Survey researchers frequently employ measures of political engagement, yet social desirability pressures can lead to overreporting. Building upon existing literature, we adopt an iterative approach to determine how such overreporting can be reduced. Four preregistered survey experiments were conducted (total N=7,122). We first confirm that social desirability considerations can underlie some types of self-reported political engagement. Second, having tested a variety of interventions that were designed to reduce overreporting, we find that our most effective treatment ( Dampen Politics) was one that aimed to decrease the salience of politics. This treatment significantly reduced (1) the degree to which respondents perceived the survey as political, and (2) some types of self-reported political engagement, particularly political interest and voting. We tested alternative implementations of the Dampen Politics treatment, each time assessing its robustness and validity. Our findings suggest a simple adjustment in survey wording and organization can meaningfully decrease overreporting of political engagement.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {},
+          "authors": [
+            "Elizabeth C. Connors",
+            "John V. Kane"
+          ],
+          "constructs": [
+            "Social Desirability",
+            "Political Engagement"
+          ],
+          "doi": "10.1007/s11109-026-10200-4",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-07",
+          "stable_id": "doi:10.1007/s11109-026-10200-4",
+          "summary_basis": "abstract",
+          "summary_ko": "정치 참여 자기보고에서 사회적 바람직성에 따른 과대보고를 줄일 수 있는 방법을 탐색하기 위해, 총 7,122명을 대상으로 사전등록된 네 차례의 설문 실험을 실시했다. 정치의 현저성을 낮추는 ‘Dampen Politics’ 처치가 설문을 정치적으로 인식하는 정도와 일부 정치 참여 자기보고, 특히 정치적 관심과 투표 보고를 유의하게 감소시켜 과대보고를 줄이는 데 가장 효과적이었다.",
+          "title": "Un-Priming Politics: A Method to Reduce Overreporting of Political Engagement",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1007/s11109-026-10200-4"
+        },
+        {
+          "abstract": "Abstract To examine the conceptualization and the measurement of global consciousness (GC) in cross‐national contexts, we conducted a secondary analysis on survey data collected from 16,241 individuals across 35 societies. Results demonstrate that GC is best conceptualized as a multidimensional construct by a bifactor ESEM model, in which GC captures an overarching and direct source of common variance across all manifest indicators, whereas domain‐specific residual variance is retained by three existing measures: Identification with All Humanity (IWAH), Cosmopolitan Orientation (COS), and a shortened version of Global Orientations (GOS). Metric invariance was successfully achieved across 30 out of 35 societies. At the individual level, GC was negatively associated with political conservatism, an effect that was amplified in societies with higher HDI, more robust rule of law, and a salient culture of individualism. In an exploratory societal‐level analysis, aggregated GC functioned as an informative ecological indicator, appearing more prominent in the Global South societies across the sample. This preliminary pattern is probably attributable to the open system where GC is measured, reflecting the hopes and aspirations of people in the making.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Jacky C. K. Ng": [
+              "Department of Applied Social Sciences Hong Kong Polytechnic University Kowloon Hong Kong"
+            ],
+            "James H. Liu": [
+              "Massey University Auckland New Zealand"
+            ],
+            "Robert Jiqi Zhang": [
+              "School of Psychology Nanjing Normal University Nanjing China"
+            ],
+            "Sylvia Xiaohua Chen": [
+              "Department of Applied Social Sciences Hong Kong Polytechnic University Kowloon Hong Kong"
+            ]
+          },
+          "authors": [
+            "James H. Liu",
+            "Robert Jiqi Zhang",
+            "Jacky C. K. Ng",
+            "Sylvia Xiaohua Chen"
+          ],
+          "constructs": [
+            "Global Consciousness",
+            "Cosmopolitanism"
+          ],
+          "doi": "10.1111/pops.70202",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "서베이",
+          "method_detail": "다국가 설문 분석",
+          "publication_date": "2026-10-06",
+          "stable_id": "doi:10.1111/pops.70202",
+          "summary_basis": "abstract",
+          "summary_ko": "35개 사회 16,241명의 설문자료를 대상으로 글로벌 의식(GC)의 개념과 측정구조를 검토한 결과, GC는 세 기존 척도의 공통분산을 포괄하는 다차원적 bifactor ESEM 구성개념으로 가장 잘 설명되었다. GC는 개인 수준에서 정치적 보수주의와 부(-)의 관계를 보였고, 사회 수준에서는 표본의 글로벌 사우스 사회에서 더 두드러지는 예비적 양상이 나타났다.",
+          "title": "Conceptualizing and measuring global consciousness",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70202"
+        },
+        {
+          "abstract": "This study examines how organizational goals, leadership styles, and organizational culture influence employee outcomes in the Korean public sector. Using Structural Equation Modelling, data from 6,170 public servants were analysed. Organizational goals positively influenced commitment and performance efforts. Transactional leadership positively affected organizational culture and commitment but negatively affected performance efforts, whereas visionary leadership showed positive effects across all three outcomes. Organizational culture enhanced commitment and performance efforts, while organizational commitment positively influenced performance efforts and perceived organizational performance. Performance efforts also enhanced perceived organizational performance. These findings highlight how goals, leadership, and collaborative culture jointly shape employee and organizational outcomes.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Hyeon Jo": [
+              "Headquarters, HJ Institute of Technology and Management"
+            ]
+          },
+          "authors": [
+            "Hyeon Jo"
+          ],
+          "constructs": [
+            "Organizational Commitment",
+            "Transformational Leadership"
+          ],
+          "doi": "10.1080/14719037.2026.2744326",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "서베이",
+          "method_detail": "구조방정식모형",
+          "publication_date": "2026-10-06",
+          "stable_id": "doi:10.1080/14719037.2026.2744326",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 한국 공공부문에서 조직 목표, 리더십 유형, 조직문화가 구성원의 몰입·성과 노력과 조직성과 인식에 미치는 영향을 구조방정식모형으로 분석했다. 조직 목표와 비전적 리더십, 협력적 조직문화는 대체로 긍정적 결과와 관련되었지만, 거래적 리더십은 성과 노력에 부정적 영향을 보였으며, 몰입과 성과 노력은 조직성과 인식을 높였다.",
+          "title": "Impact of organizational goals, leadership styles, and organizational culture on employee outcomes in the Korean public sector",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1080/14719037.2026.2744326"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -15780,7 +15916,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -15801,7 +15937,7 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -15836,7 +15972,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -15861,7 +15997,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -15882,7 +16018,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -15903,7 +16039,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1080/14719037.2026.2736656": {
       "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
@@ -15937,28 +16073,7 @@
         "title": "Towards a theory of public-sector organizations with targeted mandates: a case study of New Zealand’s Māori Health Authority",
         "url": "https://doi.org/10.1080/14719037.2026.2736656"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
-    },
-    "doi:10.1080/14719037.2026.2744326": {
-      "first_seen_at": "2026-10-06T13:15:53.871571+00:00",
-      "item": {
-        "author_affiliations": {
-          "Hyeon Jo": [
-            "Headquarters, HJ Institute of Technology and Management"
-          ]
-        },
-        "authors": [
-          "Hyeon Jo"
-        ],
-        "doi": "10.1080/14719037.2026.2744326",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-10-06",
-        "stable_id": "doi:10.1080/14719037.2026.2744326",
-        "title": "Impact of organizational goals, leadership styles, and organizational culture on employee outcomes in the Korean public sector",
-        "url": "https://doi.org/10.1080/14719037.2026.2744326"
-      },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/736362": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -15979,7 +16094,7 @@
         "title": "When Do Citizens Resist the Use of AI Algorithms in Public Policy? Theory and Evidence",
         "url": "https://doi.org/10.1086/736362"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/736463": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16000,7 +16115,7 @@
         "title": "Editor’s Choice: Measuring Candidate Quality Using Local Newspaper Endorsements",
         "url": "https://doi.org/10.1086/736463"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16025,7 +16140,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16050,7 +16165,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16071,7 +16186,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/736699": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16092,7 +16207,7 @@
         "title": "Left Behind or Left Ahead? Implications of Male Migration on Female Political Engagement",
         "url": "https://doi.org/10.1086/736699"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16113,7 +16228,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16142,7 +16257,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16171,7 +16286,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16196,7 +16311,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16217,7 +16332,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -16237,7 +16352,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -16254,7 +16369,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -16275,7 +16390,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -16292,7 +16407,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -16310,7 +16425,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -16330,7 +16445,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16347,7 +16462,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/744129": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16366,7 +16481,7 @@
         "title": "“When they go low, we kick them”: The reciprocal nature of citizens’ support for democratic transgressions",
         "url": "https://doi.org/10.1086/744129"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16384,7 +16499,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16403,7 +16518,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16421,7 +16536,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/744220": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16438,7 +16553,7 @@
         "title": "Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China",
         "url": "https://doi.org/10.1086/744220"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16457,7 +16572,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -16478,7 +16593,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16493,7 +16608,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -16508,7 +16623,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -16529,7 +16644,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -16544,7 +16659,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -16559,7 +16674,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-06T13:15:53.871571+00:00"
+      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
     }
   },
   "version": 1
