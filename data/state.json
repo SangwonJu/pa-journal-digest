@@ -304,6 +304,14 @@
       "sent_at": "2026-10-03T11:49:13.899436+00:00",
       "title": "The Representation Trap: How Minority Power Shapes Electoral Politics in India"
     },
+    "doi:10.1017/s0003055426101816": {
+      "batch_id": "2026-10-08-238f3b00994dd506",
+      "doi": "10.1017/s0003055426101816",
+      "journal": "American Political Science Review",
+      "publication_date": "2026-10-08",
+      "sent_at": "2026-10-08T13:32:22.735438+00:00",
+      "title": "When Can Clientelism Serve Democratic Ends? A Democratic Theory of Distributive Politics"
+    },
     "doi:10.1017/s0003055426101841": {
       "batch_id": "2026-09-01-1560b88b8d2d7127",
       "doi": "10.1017/s0003055426101841",
@@ -351,6 +359,14 @@
       "publication_date": "2026-09-21",
       "sent_at": "2026-09-21T12:50:18.636048+00:00",
       "title": "Imperial Aid and Tax Mobilization in Late Colonial Africa"
+    },
+    "doi:10.1017/s0003055426101920": {
+      "batch_id": "2026-10-08-238f3b00994dd506",
+      "doi": "10.1017/s0003055426101920",
+      "journal": "American Political Science Review",
+      "publication_date": "2026-10-08",
+      "sent_at": "2026-10-08T13:32:22.735438+00:00",
+      "title": "The Idea of a Counter-Structure: Rethinking Collective Action against Climate Injustice"
     },
     "doi:10.1017/s0003055426101968": {
       "batch_id": "2026-09-29-66b14dcf36a3e330",
@@ -1552,6 +1568,14 @@
       "sent_at": "2026-08-14T11:58:19.972994+00:00",
       "title": "(Non)belonging and (un)freedom"
     },
+    "doi:10.1111/ajps.70082": {
+      "batch_id": "2026-10-08-238f3b00994dd506",
+      "doi": "10.1111/ajps.70082",
+      "journal": "American Journal of Political Science",
+      "publication_date": "2026-10-08",
+      "sent_at": "2026-10-08T13:32:22.735438+00:00",
+      "title": "Teaching the past, informing the present? School history education and attitudes toward foreign countries"
+    },
     "doi:10.1111/ajps.70084": {
       "batch_id": "2026-08-21-37a61e5e7496e1ae",
       "doi": "10.1111/ajps.70084",
@@ -2376,6 +2400,14 @@
       "sent_at": "2026-10-02T12:41:44.946213+00:00",
       "title": "Hindered From Making a Difference: How Increasing Organizational Constraints Undermine Public Servants' Perceptions of Prosocial Impact and Why It Matters"
     },
+    "doi:10.1111/puar.70225": {
+      "batch_id": "2026-10-08-238f3b00994dd506",
+      "doi": "10.1111/puar.70225",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-10-07",
+      "sent_at": "2026-10-08T13:32:22.735438+00:00",
+      "title": "Is Public Sector a Better Place for Moms to Work? Exploring Sector Difference in Child Penalties on Women"
+    },
     "doi:10.1177/00953997261467698": {
       "batch_id": "2026-08-17-92d20fbd959228aa",
       "doi": "10.1177/00953997261467698",
@@ -2447,6 +2479,14 @@
       "publication_date": "2026-09-07",
       "sent_at": "2026-09-07T16:33:57.866728+00:00",
       "title": "Understanding Meritocracy: From an Imagination of ‘Ideal’ to Producing ‘Myth’ and Beyond"
+    },
+    "doi:10.1177/00953997261486393": {
+      "batch_id": "2026-10-08-238f3b00994dd506",
+      "doi": "10.1177/00953997261486393",
+      "journal": "Administration & Society",
+      "publication_date": "2026-10-07",
+      "sent_at": "2026-10-08T13:32:22.735438+00:00",
+      "title": "Risk and Resilience: Managing Public Transit Contracting During a Disrupted Market"
     },
     "doi:10.1177/00953997261487401": {
       "batch_id": "2026-09-27-62f5c79898503c8c",
@@ -16093,7 +16133,8 @@
           "url": "https://doi.org/10.1111/puar.70225"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-08T13:32:22.735438+00:00",
+      "status": "sent"
     }
   },
   "pending": {
