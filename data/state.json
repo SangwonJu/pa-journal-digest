@@ -15927,6 +15927,173 @@
       ],
       "sent_at": "2026-10-07T13:30:01.879676+00:00",
       "status": "sent"
+    },
+    "2026-10-08-238f3b00994dd506": {
+      "created_at": "2026-10-08T13:24:49.586500+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-08-238f3b00994dd506",
+      "items": [
+        {
+          "abstract": "This study examines the contracting behavior of U.S. transit agencies during the COVID-19 pandemic to assess two competing predictions: (1) New Public Management expects increased contracting to achieve cost savings and shift risk, and (2) institutional inertia predicts stability due to structural barriers. Our findings demonstrate overwhelming support for institutional inertia. Despite confirming the pandemic was a major disruption, contracting behavior and perceptions remained stable. The mechanism for this inertia is that contracting is not associated with improved operational outcomes, suggesting the absence of economic incentives for change. The stability observed reflects externally insulated resilience of core public management structures.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Juita-Elena (Wie) Yusuf": [
+              "Old Dominion University, Norfolk, VA, USA"
+            ],
+            "Olga V. Smirnova": [
+              "East Carolina University, Greenville, NC, USA"
+            ],
+            "Suzanne M. Leland": [
+              "University of North Carolina at Charlotte, Charlotte, NC, USA"
+            ]
+          },
+          "authors": [
+            "Suzanne M. Leland",
+            "Juita-Elena (Wie) Yusuf",
+            "Olga V. Smirnova"
+          ],
+          "constructs": [
+            "New Public Management",
+            "Institutional Inertia"
+          ],
+          "doi": "10.1177/00953997261486393",
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "method": "질적연구",
+          "method_detail": "비교적 예측 분석",
+          "publication_date": "2026-10-07",
+          "stable_id": "doi:10.1177/00953997261486393",
+          "summary_basis": "abstract",
+          "summary_ko": "코로나19 팬데믹으로 시장이 disrupted된 상황에서 미국 대중교통기관의 계약 행태가 신공공관리의 계약 확대 예측과 제도적 관성의 안정성 예측 중 어느 쪽을 따르는지 분석했다. 계약 행태와 인식은 대체로 안정적이었으며, 계약이 운영성과 개선과 연계되지 않아 변화의 경제적 유인이 없었다는 점에서 제도적 관성을 지지한다.",
+          "title": "Risk and Resilience: Managing Public Transit Contracting During a Disrupted Market",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1177/00953997261486393"
+        },
+        {
+          "abstract": "Abstract How does school history education emphasizing past grievances with other countries impact attitudes toward conflict and cooperation with the countries today? We examine this question using original data from 34 classrooms across 17 high schools in Seoul, South Korea. We first test whether exposure to anti‐Japanese content in school history education negatively impacts students' attitudes toward cooperation with Japan. We then compare how the attitudes of students educated with a more pro‐US textbook differ from those using a more anti‐US one. We find that school history education influenced what historical events students believed as “facts” and their evaluation of historical events. However, the effect on students' historical memories did not by itself automatically translate into corresponding attitudes toward present‐day Japan or the United States. Our findings offer various implications for studies on international rivalries and historical memories, as well as for debates on the political effects of school education.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Jeongmin Park": [
+              "Postdoctoral Prize Fellow, Department of Politics Oxford University Nuffield College Oxford UK"
+            ],
+            "Soyoung Lee": [
+              "Assistant Professor, Department of Political Science Yale University New Haven Connecticut USA"
+            ]
+          },
+          "authors": [
+            "Soyoung Lee",
+            "Jeongmin Park"
+          ],
+          "constructs": [
+            "Historical Memory",
+            "International Rivalry"
+          ],
+          "doi": "10.1111/ajps.70082",
+          "journal": "American Journal of Political Science",
+          "journal_short": "AJPS",
+          "method": "혼합방법론",
+          "method_detail": "교실 비교 분석",
+          "publication_date": "2026-10-08",
+          "stable_id": "doi:10.1111/ajps.70082",
+          "summary_basis": "abstract",
+          "summary_ko": "학교 역사교육에서 과거의 대외적 갈등을 강조하는 내용이 현재 해당 국가들과의 갈등 및 협력에 대한 태도에 미치는 영향을 서울의 17개 고등학교 34개 교실 자료로 분석했다. 교육은 학생들이 역사적 사건을 사실로 인식하고 평가하는 방식에는 영향을 주었지만, 그러한 역사적 기억의 변화가 오늘날 일본이나 미국에 대한 태도로 자동적으로 이어지지는 않았다.",
+          "title": "Teaching the past, informing the present? School history education and attitudes toward foreign countries",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/ajps.70082"
+        },
+        {
+          "abstract": "This article argues that addressing the structural injustices of climate change requires rethinking collective action. Disruptive and prefigurative politics are often treated as separate collective action repertoires, but I argue that a just energy transition requires that they work in tandem. To capture this interaction, I propose the idea of “counter-structural” collective action, in which disruptive protest creates windows of opportunity that prefigurative alternatives can then fill. Through analysis of two UK climate movements, Transition Towns (TTs) and Camps for Climate Action (CCA), I show how activists reconfigure structural elements to build new, carbon-free social and political forms. The theory of counter-structural action provides a framework for assessing the empirical cases. The cases, in turn, illustrate a broader conception of collective action that better reflects the social theory grounding structural injustice. Together, the theory and cases support the dual aims of climate justice: challenging fossil-fuel path dependence and advancing egalitarianism.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "JONATHAN MASIN-PETERS": [
+              "Harvard University"
+            ]
+          },
+          "authors": [
+            "JONATHAN MASIN-PETERS"
+          ],
+          "constructs": [
+            "Counter-Structural Action",
+            "Structural Injustice"
+          ],
+          "doi": "10.1017/s0003055426101920",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "질적연구",
+          "method_detail": "사례 비교 분석",
+          "publication_date": "2026-10-08",
+          "stable_id": "doi:10.1017/s0003055426101920",
+          "summary_basis": "abstract",
+          "summary_ko": "기후변화의 구조적 부정의에 대응하려면 파괴적 저항과 대안적 실천을 결합하는 집합행동이 어떻게 가능한지 묻고, 영국의 Transition Towns와 Camps for Climate Action을 분석한다. 파괴적 시위가 기회의 창을 만들고 대안적 실천이 이를 채우는 ‘반구조적’ 집합행동이 화석연료 경로의존성에 도전하면서 평등주의를 진전시킬 수 있음을 보인다.",
+          "title": "The Idea of a Counter-Structure: Rethinking Collective Action against Climate Injustice",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1017/s0003055426101920"
+        },
+        {
+          "abstract": "This article employs normative democratic theory to examine a counterintuitive suggestion raised repeatedly by empirical scholars of clientelism: namely, that practices of particularistic exchange might sometimes serve democratic ends. Certainly, most particularistic practices are widely agreed to undermine democracy, on both intrinsic and instrumental grounds. Yet some observers resist blanket condemnation—and in particular, many highlight the redeeming democratic virtues of certain practices that seem to facilitate collective organization among disempowered groups. Drawing on “realist” approaches to democratic theory, we vindicate this basic insight while clarifying its scope conditions. Countervailing power is a crucial democratic priority, and programmatic methods of promoting it sometimes face serious obstacles: as when clientelist practices are deeply entrenched, or incumbents capture the tools of programmatic competition. Under such conditions, we conclude, democracy-seeking leaders may justifiably employ particularistic practices to promote countervailing power—but only if they respect five constraints tethering them strictly to that goal.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "SAMUEL ELY BAGG": [
+              "University of South Carolina"
+            ],
+            "UDIT BHATIA": [
+              "King’s College London"
+            ]
+          },
+          "authors": [
+            "SAMUEL ELY BAGG",
+            "UDIT BHATIA"
+          ],
+          "constructs": [
+            "Clientelism",
+            "Countervailing Power"
+          ],
+          "doi": "10.1017/s0003055426101816",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "이론/개념",
+          "method_detail": "규범 이론 분석",
+          "publication_date": "2026-10-08",
+          "stable_id": "doi:10.1017/s0003055426101816",
+          "summary_basis": "abstract",
+          "summary_ko": "이 논문은 특정주의적 교환인 클라이언텔리즘이 언제 민주적 목적에 기여할 수 있는지를 규범적 민주주의 이론, 특히 현실주의적 접근으로 검토한다. 클라이언텔리즘이 뿌리 깊거나 현직자가 프로그램 경쟁 수단을 장악한 상황에서는 민주주의를 추구하는 지도자가 대항권력을 강화하기 위해 이를 사용할 수 있지만, 그 목적에 엄격히 종속되는 다섯 가지 제약을 준수해야 한다고 주장한다.",
+          "title": "When Can Clientelism Serve Democratic Ends? A Democratic Theory of Distributive Politics",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1017/s0003055426101816"
+        },
+        {
+          "abstract": "ABSTRACT With commonly stabler and more flexible working environment, is public sector a better place for moms to work? Theorizing child penalties from sector difference perspective, we argue that childbirth may cause less gender gaps in unemployment and earnings but greater gender disparities in working time commitments in the public sector since job stability and family‐friendliness may form gender norms that depreciate women's work in the public sector. We test our hypotheses by employing event study designs using data from China Family Panel Studies (2010–2022). We found that women public employees experienced smaller child penalties in unemployment and earnings while greater child penalties in working hours than private counterparts, which can be explained by greater family responsibilities and spousal depreciation of women's jobs after childbirth. This paper advances theories of gender equity in public administration by proposing distinct child penalties in the public sector that challenges conventional beliefs.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Fangda Ding": [
+              "Department of Politics and Public Administration The University of Hong Kong Hong Kong SAR China"
+            ],
+            "Yifan Chen": [
+              "School of International and Public Affairs The China Institute for Urban Governance The Shanghai Research Center for Innovation and Policy Evaluation Shanghai Jiao Tong University Shanghai China"
+            ]
+          },
+          "authors": [
+            "Fangda Ding",
+            "Yifan Chen"
+          ],
+          "constructs": [
+            "Child Penalties",
+            "Gender Norms"
+          ],
+          "doi": "10.1111/puar.70225",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "준실험",
+          "method_detail": "사건연구 설계",
+          "publication_date": "2026-10-07",
+          "stable_id": "doi:10.1111/puar.70225",
+          "summary_basis": "abstract",
+          "summary_ko": "중국 가족패널조사(2010~2022) 자료에 사건연구 설계를 적용해 공공·민간 부문 여성의 출산 후 고용·소득·근로시간 격차를 비교한 결과, 공공부문 여성은 민간부문보다 실업과 소득의 자녀 불이익은 작았지만 근로시간의 불이익은 컸으며, 이는 출산 후 가족책임 증가와 배우자의 여성 일자리 평가절하로 설명되었다.",
+          "title": "Is Public Sector a Better Place for Moms to Work? Exploring Sector Difference in Child Penalties on Women",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1111/puar.70225"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -15949,7 +16116,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1007/s11109-026-10187-y": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -15970,7 +16137,7 @@
         "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
         "url": "https://doi.org/10.1007/s11109-026-10187-y"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -16005,7 +16172,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -16030,7 +16197,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -16051,7 +16218,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -16072,7 +16239,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1080/14719037.2026.2736656": {
       "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
@@ -16106,7 +16273,57 @@
         "title": "Towards a theory of public-sector organizations with targeted mandates: a case study of New Zealand’s Māori Health Authority",
         "url": "https://doi.org/10.1080/14719037.2026.2736656"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+    },
+    "doi:10.1080/14719037.2026.2743138": {
+      "first_seen_at": "2026-10-08T13:24:49.586500+00:00",
+      "item": {
+        "author_affiliations": {
+          "Fabio Monteduro": [
+            "University of Rome “Tor Vergata”"
+          ],
+          "Riccardo Mussari": [
+            "University of Siena"
+          ]
+        },
+        "authors": [
+          "Fabio Monteduro",
+          "Riccardo Mussari"
+        ],
+        "doi": "10.1080/14719037.2026.2743138",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-10-07",
+        "stable_id": "doi:10.1080/14719037.2026.2743138",
+        "title": "Decentralization as an anticorruption strategy: does revenue autonomy make a difference?",
+        "url": "https://doi.org/10.1080/14719037.2026.2743138"
+      },
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+    },
+    "doi:10.1080/14719037.2026.2744322": {
+      "first_seen_at": "2026-10-08T13:24:49.586500+00:00",
+      "item": {
+        "author_affiliations": {
+          "Nissim Cohen": [
+            "University of Haifa"
+          ],
+          "Ofek Edri-Peer": [
+            "University of Haifa"
+          ]
+        },
+        "authors": [
+          "Ofek Edri-Peer",
+          "Nissim Cohen"
+        ],
+        "doi": "10.1080/14719037.2026.2744322",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-10-07",
+        "stable_id": "doi:10.1080/14719037.2026.2744322",
+        "title": "Coping with life-threatening experiences at the street-level: the case of police officers in the October 7 attack in Israel",
+        "url": "https://doi.org/10.1080/14719037.2026.2744322"
+      },
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/736362": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16127,7 +16344,7 @@
         "title": "When Do Citizens Resist the Use of AI Algorithms in Public Policy? Theory and Evidence",
         "url": "https://doi.org/10.1086/736362"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/736463": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16148,7 +16365,7 @@
         "title": "Editor’s Choice: Measuring Candidate Quality Using Local Newspaper Endorsements",
         "url": "https://doi.org/10.1086/736463"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16173,7 +16390,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16198,7 +16415,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16219,7 +16436,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/736699": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16240,7 +16457,7 @@
         "title": "Left Behind or Left Ahead? Implications of Male Migration on Female Political Engagement",
         "url": "https://doi.org/10.1086/736699"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16261,7 +16478,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16290,7 +16507,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16319,7 +16536,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16344,7 +16561,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16365,7 +16582,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -16385,7 +16602,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -16402,7 +16619,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -16423,7 +16640,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -16440,7 +16657,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -16458,7 +16675,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -16478,7 +16695,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16495,7 +16712,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/744129": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16514,7 +16731,7 @@
         "title": "“When they go low, we kick them”: The reciprocal nature of citizens’ support for democratic transgressions",
         "url": "https://doi.org/10.1086/744129"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16532,7 +16749,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16551,7 +16768,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16569,7 +16786,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/744220": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16586,7 +16803,7 @@
         "title": "Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China",
         "url": "https://doi.org/10.1086/744220"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16605,7 +16822,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -16626,7 +16843,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16641,7 +16858,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -16656,7 +16873,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -16677,7 +16894,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -16692,7 +16909,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -16707,7 +16924,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-07T13:18:28.967850+00:00"
+      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
     }
   },
   "version": 1
