@@ -24,6 +24,14 @@
       "sent_at": "2026-10-06T13:28:16.209368+00:00",
       "title": "Democratic but Still White: The Impact of Racial Identity Threats on White Democrats’ Support for Racial Justice Protests"
     },
+    "doi:10.1007/s11109-026-10187-y": {
+      "batch_id": "2026-10-09-8f92bf5066757fe8",
+      "doi": "10.1007/s11109-026-10187-y",
+      "journal": "Political Behavior",
+      "publication_date": "2026-09-15",
+      "sent_at": "2026-10-09T13:19:47.430068+00:00",
+      "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence"
+    },
     "doi:10.1007/s11109-026-10188-x": {
       "batch_id": "2026-09-17-b2ed10bee1f959a8",
       "doi": "10.1007/s11109-026-10188-x",
@@ -1136,6 +1144,14 @@
       "sent_at": "2026-10-04T12:29:54.533448+00:00",
       "title": "From reform to reality: governance mechanisms and social capital development in mandated healthcare networks"
     },
+    "doi:10.1080/14719037.2026.2744322": {
+      "batch_id": "2026-10-09-8f92bf5066757fe8",
+      "doi": "10.1080/14719037.2026.2744322",
+      "journal": "Public Management Review",
+      "publication_date": "2026-10-07",
+      "sent_at": "2026-10-09T13:19:47.430068+00:00",
+      "title": "Coping with life-threatening experiences at the street-level: the case of police officers in the October 7 attack in Israel"
+    },
     "doi:10.1080/14719037.2026.2744326": {
       "batch_id": "2026-10-07-a724a6f4e4725338",
       "doi": "10.1080/14719037.2026.2744326",
@@ -1288,6 +1304,14 @@
       "sent_at": "2026-10-01T13:22:13.347574+00:00",
       "title": "Do Voters Value Relief over Preparedness? Evidence from Disaster Policies in Malawi"
     },
+    "doi:10.1086/736463": {
+      "batch_id": "2026-10-09-8f92bf5066757fe8",
+      "doi": "10.1086/736463",
+      "journal": "The Journal of Politics",
+      "publication_date": "2026-10-01",
+      "sent_at": "2026-10-09T13:19:47.430068+00:00",
+      "title": "Editor’s Choice: Measuring Candidate Quality Using Local Newspaper Endorsements"
+    },
     "doi:10.1086/736464": {
       "batch_id": "2026-10-01-6dbca5bf4d57c8e5",
       "doi": "10.1086/736464",
@@ -1343,6 +1367,14 @@
       "publication_date": "2026-10-01",
       "sent_at": "2026-10-01T13:22:13.347574+00:00",
       "title": "Electoral Predictors of Polling Errors"
+    },
+    "doi:10.1086/736699": {
+      "batch_id": "2026-10-09-8f92bf5066757fe8",
+      "doi": "10.1086/736699",
+      "journal": "The Journal of Politics",
+      "publication_date": "2026-10-01",
+      "sent_at": "2026-10-09T13:19:47.430068+00:00",
+      "title": "Left Behind or Left Ahead? Implications of Male Migration on Female Political Engagement"
     },
     "doi:10.1086/736996": {
       "batch_id": "2026-10-01-6dbca5bf4d57c8e5",
@@ -2336,6 +2368,14 @@
       "sent_at": "2026-09-22T11:38:46.588049+00:00",
       "title": "Managing Collaboration Dynamics Under Pressure: Lessons From the COVID ‐19 Medical Supply Shortage"
     },
+    "doi:10.1111/puar.70209": {
+      "batch_id": "2026-10-09-8f92bf5066757fe8",
+      "doi": "10.1111/puar.70209",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-10-08",
+      "sent_at": "2026-10-09T13:19:47.430068+00:00",
+      "title": "A Public Philosophy for Public Administration in Times of Democratic Crisis"
+    },
     "doi:10.1111/puar.70210": {
       "batch_id": "2026-09-30-7120f5ca0e0951f8",
       "doi": "10.1111/puar.70210",
@@ -2359,6 +2399,14 @@
       "publication_date": "2026-09-30",
       "sent_at": "2026-10-01T13:22:13.347574+00:00",
       "title": "Artificial Intelligence in Policing and Perceived Legitimacy: Does Gender Representation Make a Difference?"
+    },
+    "doi:10.1111/puar.70215": {
+      "batch_id": "2026-10-09-8f92bf5066757fe8",
+      "doi": "10.1111/puar.70215",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-10-09",
+      "sent_at": "2026-10-09T13:19:47.430068+00:00",
+      "title": "Reply to Kettl: Public Administration and the Shifting Competing Forces of Accountability"
     },
     "doi:10.1111/puar.70216": {
       "batch_id": "2026-10-02-71744c70849e0743",
@@ -16317,7 +16365,8 @@
           "url": "https://doi.org/10.1086/736699"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-09T13:19:47.430068+00:00",
+      "status": "sent"
     }
   },
   "pending": {
