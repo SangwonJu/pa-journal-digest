@@ -16135,6 +16135,189 @@
       ],
       "sent_at": "2026-10-08T13:32:22.735438+00:00",
       "status": "sent"
+    },
+    "2026-10-09-8f92bf5066757fe8": {
+      "created_at": "2026-10-09T13:12:55.106384+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-09-8f92bf5066757fe8",
+      "items": [
+        {
+          "abstract": "ABSTRACT Public administration is at the center of the global democratic crisis. Meeting this challenge requires more than managerial and analytic competence—it requires a public philosophy grounded in the first principles of democratic ethos. We offer such a philosophy, drawing on four seminal thinkers whose concepts reflect the conditions public administrators face in times of democratic crisis. Judith Shklar's liberalism of fear establishes a negative obligation to refuse cruelty and resist its institutionalization. Alasdair MacIntyre's internal goods of practice create a positive obligation to cultivate virtue and protect the integrity of administrative practice. Isaiah Berlin's agony of choice obligates administrators to acknowledge irreducible value conflicts and their consequential impact on democratic life. Hannah Arendt's enlarged mentality provides a framework for thinking across perspectives so that judgment under conflict becomes democratically defensible. Together, these concepts form a public philosophy for public administration with practical significance for administrative judgment, organizational culture, and institutional courage.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Curtis Ventriss": [
+              "University of Vermont Burlington Vermont USA"
+            ],
+            "Tina Nabatchi": [
+              "Syracuse University Syracuse New York USA"
+            ]
+          },
+          "authors": [
+            "Curtis Ventriss",
+            "Tina Nabatchi"
+          ],
+          "constructs": [
+            "Liberalism of Fear",
+            "Enlarged Mentality"
+          ],
+          "doi": "10.1111/puar.70209",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "이론/개념",
+          "method_detail": "사상가 개념 종합",
+          "publication_date": "2026-10-08",
+          "stable_id": "doi:10.1111/puar.70209",
+          "summary_basis": "abstract",
+          "summary_ko": "민주주의 위기에 처한 행정이 요구하는 공공철학은 무엇이며, 이를 행정적 판단과 조직·제도 실천에 어떻게 적용할 수 있는지를 네 사상가의 개념을 통해 논의한다. 공포의 자유주의, 실천의 내재적 선, 선택의 고통, 확장된 정신을 결합해 잔혹함의 거부, 행정 실천의 덕성과 완전성 보호, 가치 충돌의 인정, 관점 간 사고를 행정가의 의무와 제도적 용기로 제시한다.",
+          "title": "A Public Philosophy for Public Administration in Times of Democratic Crisis",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1111/puar.70209"
+        },
+        {
+          "abstract": "ABSTRACT The accountability context for how public administrators operate has shifted markedly and has become much more volatile. This shift has placed new and some conflicting demands on public administrators to demonstrate their accountability to various competing governmental actors and has complicated policy and program implementation. The changed context, its causes, and the resultant challenges are analyzed and discussed. Questions are presented for public administration research to help public administrators deal with the challenges.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Charles Wise": [
+              "School of Government and Public Policy University of Arizona Tucson Arizona USA"
+            ]
+          },
+          "authors": [
+            "Charles Wise"
+          ],
+          "constructs": [
+            "Accountability",
+            "Policy implementation"
+          ],
+          "doi": "10.1111/puar.70215",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "이론/개념",
+          "method_detail": "개념적 논의",
+          "publication_date": "2026-10-09",
+          "stable_id": "doi:10.1111/puar.70215",
+          "summary_basis": "abstract",
+          "summary_ko": "공공행정가가 책임성을 입증해야 하는 정부 행위자들이 다양해지고 상호 경쟁하는 가운데 책임성의 맥락이 크게 변동하면서, 정책·프로그램 집행이 복잡해진 현상과 그 원인 및 도전 과제를 분석·논의한다. 이러한 도전에 대응하기 위해 공공행정 연구가 다뤄야 할 질문들을 제시한다.",
+          "title": "Reply to Kettl: Public Administration and the Shifting Competing Forces of Accountability",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1111/puar.70215"
+        },
+        {
+          "abstract": "How do street-level bureaucrats cope with acute, life-threatening experiences at work, and what are the consequences of such exposure? Based on 30 in-depth interviews with Israeli police officers who operated during the October 7 attack on Israel, we identify two coping mechanisms that enabled them to function under threat: auto-pilot mode, meaning relying on instinct and training, and detachment, meaning suppressing their emotions to complete their task. After the attack, officers reported less trust in state institutions, their organization, and the public. To cope, they relied mainly on peer support from colleagues who had undergone similar experiences. These experiences altered their professional behaviour, leading to cautiousness with citizens. The study contributes to public management by showing how exposure to acute, life-threatening experiences shapes street-level bureaucrats’ coping mechanisms and how these mechanisms may support organizational resilience during and after a crisis. Content warning: This article contains graphic descriptions of a warzone.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Nissim Cohen": [
+              "University of Haifa"
+            ],
+            "Ofek Edri-Peer": [
+              "University of Haifa"
+            ]
+          },
+          "authors": [
+            "Ofek Edri-Peer",
+            "Nissim Cohen"
+          ],
+          "constructs": [
+            "Street-Level Bureaucracy",
+            "Organizational Resilience"
+          ],
+          "doi": "10.1080/14719037.2026.2744322",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "심층 인터뷰",
+          "publication_date": "2026-10-07",
+          "stable_id": "doi:10.1080/14719037.2026.2744322",
+          "summary_basis": "abstract",
+          "summary_ko": "이스라엘 10월 7일 공격 당시 활동한 경찰관 30명을 심층 인터뷰해, 거리수준 관료가 생명 위협 경험에 어떻게 대처하고 그 결과가 무엇인지 분석했다. 경찰관들은 본능과 훈련에 의존하는 ‘자동조종’과 감정 억제를 통해 위협 속에서 임무를 수행했으며, 이후 국가기관·조직·시민에 대한 신뢰가 낮아지고 동료 지원에 의존하면서 시민을 더 조심스럽게 대하는 행동 변화를 보였다.",
+          "title": "Coping with life-threatening experiences at the street-level: the case of police officers in the October 7 attack in Israel",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1080/14719037.2026.2744322"
+        },
+        {
+          "abstract": "Do parties matter in the gender differences in candidate resiliency after electoral defeat? We argue that they do. Party can shape whether a loss sidelines a woman or positions her for another run. Left‐leaning parties—where gender inclusion is embedded in programmatic commitments—might also be more likely than their conservative counterparts to reinvest in defeated female candidates, increasing their likelihood of rerunning after loss. We present a cross‐national analysis on this question by applying a consistent within‐party regression‐discontinuity design to open‐list municipal elections in Chile and Brazil. The pattern is clear: a loss discourages women in right‐leaning parties significantly more than it discourages men, while left‐leaning parties exhibit a smaller gender gap. These results underscore the role of parties, rather than individual motivation or electoral rules alone, as a key gatekeeper in the female candidacy pipeline.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Agustin Vallejo": [
+              "Texas A&M International University"
+            ]
+          },
+          "authors": [
+            "Agustin Vallejo"
+          ],
+          "constructs": [
+            "Candidate Persistence",
+            "Party Ideology"
+          ],
+          "doi": "10.1007/s11109-026-10187-y",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "준실험",
+          "method_detail": "정당 내 회귀불연속",
+          "publication_date": "2026-09-15",
+          "stable_id": "doi:10.1007/s11109-026-10187-y",
+          "summary_basis": "abstract",
+          "summary_ko": "정당 이념이 선거 패배 이후 여성 후보의 재출마 지속성에서 나타나는 성별 격차에 어떤 영향을 미치는지 분석했다. 칠레와 브라질의 개방형 명부 지방선거에 정당 내 회귀불연속 설계를 적용한 결과, 우파 정당에서는 패배가 남성보다 여성 후보의 재출마를 더 크게 억제했지만 좌파 정당에서는 그 격차가 더 작았다.",
+          "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1007/s11109-026-10187-y"
+        },
+        {
+          "abstract": "I construct a measure of candidate quality differentials using local newspaper endorsements. I argue that political endorsements made by newspapers can be used as expert opinions that reflect both a newspaper's partisan bias as well as quality differences between the candidates in an election. Using a dataset of 21,094 local newspaper endorsements, I simultaneously estimate the quality differences between candidates in 6,432 elections, along with a dynamic measure of the partisan bias of 368 local newspapers. After validating the endorsement-based measures of quality and bias, I use the candidate quality differential measure to reexamine the relationship between candidate quality, incumbency, and election results. I conclude with a discussion of how the new endorsement-based measures have a strong potential to help advance our understanding of the importance of candidate quality in electoral politics and governance in the United States.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Kevin DeLuca": [
+              "Yale University"
+            ]
+          },
+          "authors": [
+            "Kevin DeLuca"
+          ],
+          "constructs": [
+            "Candidate Quality",
+            "Partisan Bias"
+          ],
+          "doi": "10.1086/736463",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "혼합방법론",
+          "method_detail": "동시 추정·검증",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736463",
+          "summary_basis": "abstract",
+          "summary_ko": "지역 신문 사설의 후보자 지지를 활용해 선거 후보자 간 자질 차이와 신문의 정파적 편향을 동시에 추정하고, 이를 검증한 뒤 후보자 자질·현직 프리미엄·선거 결과의 관계를 재검토한다. 분석 결과는 지지 자료에 기반한 후보자 자질 측정치가 미국 선거정치와 거버넌스에서 후보자 자질의 중요성을 연구하는 데 유용한 잠재력을 지님을 시사한다.",
+          "title": "Editor’s Choice: Measuring Candidate Quality Using Local Newspaper Endorsements",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/736463"
+        },
+        {
+          "abstract": "How does the temporary absence of men from the household due to migration affect female political engagement? While studies on gender and politics have established the centrality of the household, they have largely overlooked how temporary changes in household composition shape political engagement. Using original data from a survey experiment (n=642) in Bihar, India, I show that the absence of male members, particularly a woman's husband can lift implicit restrictions on female political engagement. Drawing on a primary survey (n=1900), and a nationally representative panel (n=24000), I argue that male migration, a significant global phenomenon resulting in routine absence of men, is leading to the feminization of political engagement. Through an increase in exposure to the public sphere, women make meaningful claims on the state, participate in civic activities, and discuss politics. Unlike existing resource-based theories, I find that female political engagement can increase even in the absence of financial autonomy.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Rithika Kumar": [
+              "Rice University"
+            ]
+          },
+          "authors": [
+            "Rithika Kumar"
+          ],
+          "constructs": [
+            "Political Engagement",
+            "Gender Norms"
+          ],
+          "doi": "10.1086/736699",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "혼합방법론",
+          "method_detail": "설문 실험·패널 설문",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736699",
+          "summary_basis": "abstract",
+          "summary_ko": "인도 비하르에서 남성, 특히 남편의 일시적 이주로 인한 부재가 여성의 정치적 참여에 어떤 영향을 미치는지 설문실험(n=642), 1차 설문(n=1,900), 전국 대표 패널(n=24,000) 자료로 분석했다. 남성 부재는 여성의 공적 영역 노출을 늘려 국가에 대한 요구, 시민활동, 정치 대화를 촉진하며, 재정적 자율성이 없어도 여성의 정치 참여를 높이는 것으로 나타났다.",
+          "title": "Left Behind or Left Ahead? Implications of Male Migration on Female Political Engagement",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/736699"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -16157,28 +16340,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
-    },
-    "doi:10.1007/s11109-026-10187-y": {
-      "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
-      "item": {
-        "author_affiliations": {
-          "Agustin Vallejo": [
-            "Texas A&M International University"
-          ]
-        },
-        "authors": [
-          "Agustin Vallejo"
-        ],
-        "doi": "10.1007/s11109-026-10187-y",
-        "journal": "Political Behavior",
-        "journal_short": "PolBeh",
-        "publication_date": "2026-09-15",
-        "stable_id": "doi:10.1007/s11109-026-10187-y",
-        "title": "Left Behind or Left In? Party Ideology and the Gender Gap in Candidate Persistence",
-        "url": "https://doi.org/10.1007/s11109-026-10187-y"
-      },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -16213,7 +16375,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -16238,7 +16400,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -16259,7 +16421,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -16280,7 +16442,32 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+    },
+    "doi:10.1080/10584609.2026.2745844": {
+      "first_seen_at": "2026-10-09T13:12:55.106384+00:00",
+      "item": {
+        "author_affiliations": {
+          "Yibin Fan": [
+            "University of Washington"
+          ],
+          "Yufan Guo": [
+            "The Chinese University of Hong Kong"
+          ]
+        },
+        "authors": [
+          "Yufan Guo",
+          "Yibin Fan"
+        ],
+        "doi": "10.1080/10584609.2026.2745844",
+        "journal": "Political Communication",
+        "journal_short": "PolComm",
+        "publication_date": "2026-10-08",
+        "stable_id": "doi:10.1080/10584609.2026.2745844",
+        "title": "The Politics of the “Non-Political”: A Conceptual Review",
+        "url": "https://doi.org/10.1080/10584609.2026.2745844"
+      },
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1080/14719037.2026.2736656": {
       "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
@@ -16314,7 +16501,34 @@
         "title": "Towards a theory of public-sector organizations with targeted mandates: a case study of New Zealand’s Māori Health Authority",
         "url": "https://doi.org/10.1080/14719037.2026.2736656"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+    },
+    "doi:10.1080/14719037.2026.2741378": {
+      "first_seen_at": "2026-10-09T13:12:55.106384+00:00",
+      "item": {
+        "author_affiliations": {
+          "Frida Linehagen": [
+            "Swedish Defence University - Forsvarshogskolan",
+            "King’s College"
+          ],
+          "Helena Hermansson": [
+            "Swedish Defence University - Forsvarshogskolan",
+            "Uppsala University"
+          ]
+        },
+        "authors": [
+          "Helena Hermansson",
+          "Frida Linehagen"
+        ],
+        "doi": "10.1080/14719037.2026.2741378",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-10-08",
+        "stable_id": "doi:10.1080/14719037.2026.2741378",
+        "title": "Achievements amidst asymmetries: power dynamics in Swedish civil-military collaboration - an exploratory conceptualization",
+        "url": "https://doi.org/10.1080/14719037.2026.2741378"
+      },
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1080/14719037.2026.2743138": {
       "first_seen_at": "2026-10-08T13:24:49.586500+00:00",
@@ -16339,32 +16553,7 @@
         "title": "Decentralization as an anticorruption strategy: does revenue autonomy make a difference?",
         "url": "https://doi.org/10.1080/14719037.2026.2743138"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
-    },
-    "doi:10.1080/14719037.2026.2744322": {
-      "first_seen_at": "2026-10-08T13:24:49.586500+00:00",
-      "item": {
-        "author_affiliations": {
-          "Nissim Cohen": [
-            "University of Haifa"
-          ],
-          "Ofek Edri-Peer": [
-            "University of Haifa"
-          ]
-        },
-        "authors": [
-          "Ofek Edri-Peer",
-          "Nissim Cohen"
-        ],
-        "doi": "10.1080/14719037.2026.2744322",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-10-07",
-        "stable_id": "doi:10.1080/14719037.2026.2744322",
-        "title": "Coping with life-threatening experiences at the street-level: the case of police officers in the October 7 attack in Israel",
-        "url": "https://doi.org/10.1080/14719037.2026.2744322"
-      },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/736362": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16385,28 +16574,7 @@
         "title": "When Do Citizens Resist the Use of AI Algorithms in Public Policy? Theory and Evidence",
         "url": "https://doi.org/10.1086/736362"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
-    },
-    "doi:10.1086/736463": {
-      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
-      "item": {
-        "author_affiliations": {
-          "Kevin DeLuca": [
-            "Yale University"
-          ]
-        },
-        "authors": [
-          "Kevin DeLuca"
-        ],
-        "doi": "10.1086/736463",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-10-01",
-        "stable_id": "doi:10.1086/736463",
-        "title": "Editor’s Choice: Measuring Candidate Quality Using Local Newspaper Endorsements",
-        "url": "https://doi.org/10.1086/736463"
-      },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16431,7 +16599,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16456,7 +16624,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16477,28 +16645,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
-    },
-    "doi:10.1086/736699": {
-      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
-      "item": {
-        "author_affiliations": {
-          "Rithika Kumar": [
-            "Rice University"
-          ]
-        },
-        "authors": [
-          "Rithika Kumar"
-        ],
-        "doi": "10.1086/736699",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-10-01",
-        "stable_id": "doi:10.1086/736699",
-        "title": "Left Behind or Left Ahead? Implications of Male Migration on Female Political Engagement",
-        "url": "https://doi.org/10.1086/736699"
-      },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16519,7 +16666,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16548,7 +16695,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16577,7 +16724,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16602,7 +16749,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16623,7 +16770,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -16643,7 +16790,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -16660,7 +16807,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -16681,7 +16828,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -16698,7 +16845,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -16716,7 +16863,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -16736,7 +16883,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16753,7 +16900,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/744129": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16772,7 +16919,7 @@
         "title": "“When they go low, we kick them”: The reciprocal nature of citizens’ support for democratic transgressions",
         "url": "https://doi.org/10.1086/744129"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16790,7 +16937,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16809,7 +16956,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16827,7 +16974,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/744220": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16844,7 +16991,7 @@
         "title": "Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China",
         "url": "https://doi.org/10.1086/744220"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16863,7 +17010,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -16884,7 +17031,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16899,7 +17046,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -16914,7 +17061,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -16935,7 +17082,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -16950,7 +17097,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -16965,7 +17112,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-08T13:24:49.586500+00:00"
+      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
     }
   },
   "version": 1
