@@ -16367,6 +16367,160 @@
       ],
       "sent_at": "2026-10-09T13:19:47.430068+00:00",
       "status": "sent"
+    },
+    "2026-10-10-4ae4fca95239afba": {
+      "created_at": "2026-10-10T12:27:54.042364+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-10-4ae4fca95239afba",
+      "items": [
+        {
+          "abstract": "Abstract Politicians often face policy decisions where sacrificing some targets benefits others. As motivations behind such decisions can be ambiguous, partisans may ascribe nobler motives to politicians who make decisions they approve of and whose party they identify with. Consequently, evaluations of politicians can be shaped by the politician's decision, party affiliation, the domain of sacrifice, and the evaluator's political orientation. Across three studies, the US and South American participants ( N = 1595) evaluated liberal/left‐wing and conservative/right‐wing politicians who accepted or rejected educational and economic sacrifices. We examined how participants' political orientation influenced judgments of sacrificial decisions. Conservative/Right‐wing political orientation frequently (though not always) predicted higher ratings of conservative/right‐wing politicians and lower ratings of liberal/left‐wing politicians across decision acceptability, vote‐worthiness, warmth, and competence—even when both politicians made the same choice. Study 2 demonstrated that the direction of bias depends on the policy domain, with liberal‐leaning participants less accepting of educational sacrifices and more accepting of economic sacrifices than conservative‐leaning participants. Study 2 further suggested that inferences about politicians' underlying motivations partly drive partisan bias. These findings demonstrate that judgments of realistic sacrificial dilemmas are significantly influenced by the social context—specifically, who is evaluating whom and over which issues.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Matilde Tumino": [
+              "Department of Psychology Alma Mater Studiorum ‐ University of Bologna Bologna Italy"
+            ],
+            "Paul Conway": [
+              "School of Psychology University of Southampton Southampton UK"
+            ],
+            "Silvana D'Ottone": [
+              "Royal Holloway University of London Egham UK",
+              "School of Psychology Pontificia Universidad Catolica de Chile Santiago Chile"
+            ]
+          },
+          "authors": [
+            "Silvana D'Ottone",
+            "Matilde Tumino",
+            "Paul Conway"
+          ],
+          "constructs": [
+            "Partisan Bias",
+            "Motivational Inference"
+          ],
+          "doi": "10.1111/pops.70198",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-09",
+          "stable_id": "doi:10.1111/pops.70198",
+          "summary_basis": "abstract",
+          "summary_ko": "미국과 남미 참가자 1,595명을 대상으로 세 연구를 수행해, 정치인의 교육·경제적 희생 결정을 정당 성향과 평가자의 정치적 성향이 어떻게 평가하는지 조사했다. 보수·우파 성향 참가자는 같은 선택을 한 경우에도 대체로 우파 정치인을 더 높게 평가했으며, 편향의 방향은 정책 영역에 따라 달라지고 정치인의 동기에 대한 추론이 이를 부분적으로 매개했다.",
+          "title": "The partisan dilemma: How people evaluate sacrificial dilemma decisions by politicians across the political divide",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70198"
+        },
+        {
+          "abstract": "Abstract Climate change requires unprecedented international cooperation; yet growing protectionist sentiment poses a significant barrier to collective action. Global Consciousness (GC), a psychological orientation characterized by a connection to humanity and the world as a whole, has been theorized as a key driver of benevolent behaviors, including pro‐environmental attitudes. However, empirical evidence linking GC to environmentalism remains largely confined to specific contexts, leaving the generalizability of this relationship across diverse societies unclear. Leveraging data from the European Values Survey (EVS) and the World Values Survey (WVS), this study examines the link between GC and indicators of environmentalism: confidence, active membership in environmental organizations, and prioritizing environmental protection over economic growth. We further examine whether socioeconomic context moderates this relationship, hypothesizing that the effect of GC on environmental attitudes will be stronger in wealthier nations, as measured by the Human Development Index (HDI). Multilevel models revealed that, across 35 countries in Study 1 ( N = 40,259) and 86 countries in Study 2 ( N = 123,280), GC is consistently and positively associated with environmentalism. Crucially, this relationship is significantly moderated by HDI. These results indicate that the positive effect of GC on environmentalism is stronger in countries with higher socioeconomic progress, suggesting that GC more readily translates into actions when supported by macro‐level structural resources.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Ayu Okvitawanli": [
+              "Faculty of Psychology Universitas Sebelas Maret Surakarta Indonesia"
+            ],
+            "Moh. Abdul Hakim": [
+              "Faculty of Psychology Universitas Sebelas Maret Surakarta Indonesia"
+            ],
+            "Reginapta Nitya Prasetyani": [
+              "Faculty of Psychology Universitas Sebelas Maret Surakarta Indonesia"
+            ],
+            "Takeshi Hamamura": [
+              "School of Population Health Curtin University Bentley Western Australia Australia"
+            ]
+          },
+          "authors": [
+            "Ayu Okvitawanli",
+            "Moh. Abdul Hakim",
+            "Reginapta Nitya Prasetyani",
+            "Takeshi Hamamura"
+          ],
+          "constructs": [
+            "Global Consciousness",
+            "Environmentalism"
+          ],
+          "doi": "10.1111/pops.70199",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "서베이",
+          "method_detail": "다층모형 분석",
+          "publication_date": "2026-10-10",
+          "stable_id": "doi:10.1111/pops.70199",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 글로벌 의식과 환경주의의 관계가 국가의 사회경제적 맥락에 따라 달라지는지 검토했다. EVS와 WVS의 35개국 및 86개국 자료를 다층모형으로 분석한 결과, 글로벌 의식은 환경주의와 일관되게 정(+)의 관련을 보였으며, 이 관계는 HDI가 높은 국가에서 더 강했다.",
+          "title": "The boundaries of global concern: How socioeconomic context shapes the link between global consciousness and environmental attitudes",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70199"
+        },
+        {
+          "abstract": "ABSTRACT This article describes the conditions for creating and undermining public interest capacity, that is, the ability of the state to generate public goods with widely distributed benefits. The creation and elimination of Direct File, a free, online public tax reporting system in the United States, offers an instrumental case. The creation of Direct File depended upon political commitment sufficient to overcome private interests: both the traditional dependence on private contractors to produce digital products, and the opposition of the private tax preparation industry which saw Direct File as a competitor. Political will was not enough: creating internal capacity in the form of skilled government tech teams who could build a quality digital product was also necessary. But without this political commitment in the Trump administration, which instead pursued downsizing and was receptive to the tax preparation industry arguments, both Direct File and the team that built it were eliminated.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Donald Moynihan": [
+              "Ford School of Public Policy University of Michigan Ann Arbor Michigan USA"
+            ],
+            "Pam Herd": [
+              "Ford School of Public Policy University of Michigan Ann Arbor Michigan USA"
+            ],
+            "Xiaoyang Xu": [
+              "Department of Political Science University of South Carolina Columbia South Carolina USA"
+            ]
+          },
+          "authors": [
+            "Donald Moynihan",
+            "Pam Herd",
+            "Xiaoyang Xu"
+          ],
+          "constructs": [
+            "Public Interest Capacity",
+            "Political Commitment"
+          ],
+          "doi": "10.1111/puar.70224",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "질적연구",
+          "method_detail": "도구적 사례연구",
+          "publication_date": "2026-10-09",
+          "stable_id": "doi:10.1111/puar.70224",
+          "summary_basis": "abstract",
+          "summary_ko": "이 글은 국가가 광범위하게 분산된 편익을 지닌 공공재를 창출하는 ‘공익 역량’을 어떤 조건에서 형성하거나 약화시키는지, 미국의 무료 온라인 세금 신고 시스템 Direct File의 창설과 폐지를 통해 분석한다. Direct File에는 민간 이해관계를 극복할 정치적 의지와 양질의 디지털 제품을 개발할 숙련된 정부 기술팀이라는 내부 역량이 모두 필요했지만, 트럼프 행정부에서 정치적 지원이 사라지면서 시스템과 구축팀이 폐지되었다.",
+          "title": "Public Interest Capacity: The Case of Direct File",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1111/puar.70224"
+        },
+        {
+          "abstract": "This article examines how power dynamics are shaped and managed in day-to-day civil-military collaboration in Swedish total defence. Drawing on semi-structured interviews with key civilian and military actors involved in total defence planning, the article investigates the interplay of power asymmetries, the collaboration’s institutional and relational conditions and how collaborating actors perceive and manage asymmetries in practice. Using thematic analysis, we demonstrate that civil-military collaboration is characterized by imbalances in authority, resources and discursive legitimacy. The paper further sheds light on micro-level practices of power enactment and details how collaborating actors negotiate and manage power asymmetries. The main finding suggests that when the relatively more powerful actors engage in power moderating practices, which we conceptualize as Strategic Power Moderation (SPM), collaborations can perform productively despite asymmetrical relations. The results offer a nuanced understanding of how collaborations fare under conditions of power asymmetry and have implications for both research and practice.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Frida Linehagen": [
+              "Swedish Defence University - Forsvarshogskolan",
+              "King’s College"
+            ],
+            "Helena Hermansson": [
+              "Swedish Defence University - Forsvarshogskolan",
+              "Uppsala University"
+            ]
+          },
+          "authors": [
+            "Helena Hermansson",
+            "Frida Linehagen"
+          ],
+          "constructs": [
+            "Power Asymmetry",
+            "Strategic Power Moderation"
+          ],
+          "doi": "10.1080/14719037.2026.2741378",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "반구조화 인터뷰",
+          "publication_date": "2026-10-08",
+          "stable_id": "doi:10.1080/14719037.2026.2741378",
+          "summary_basis": "abstract",
+          "summary_ko": "스웨덴 총방위 계획에 참여하는 민간·군사 행위자들의 반구조화 인터뷰와 주제분석을 통해, 권한·자원·담론적 정당성의 비대칭이 일상적 협업에서 어떻게 인식·관리되는지 탐색했다. 상대적으로 강한 행위자가 ‘전략적 권력 완화(Strategic Power Moderation, SPM)’를 실천할 때 비대칭적 관계에서도 협업이 생산적으로 수행될 수 있다는 점을 제시한다.",
+          "title": "Achievements amidst asymmetries: power dynamics in Swedish civil-military collaboration - an exploratory conceptualization",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/14719037.2026.2741378"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -16389,7 +16543,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -16424,7 +16578,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -16449,7 +16603,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -16470,7 +16624,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -16491,7 +16645,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1080/10584609.2026.2745844": {
       "first_seen_at": "2026-10-09T13:12:55.106384+00:00",
@@ -16516,7 +16670,7 @@
         "title": "The Politics of the “Non-Political”: A Conceptual Review",
         "url": "https://doi.org/10.1080/10584609.2026.2745844"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1080/14719037.2026.2736656": {
       "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
@@ -16550,34 +16704,7 @@
         "title": "Towards a theory of public-sector organizations with targeted mandates: a case study of New Zealand’s Māori Health Authority",
         "url": "https://doi.org/10.1080/14719037.2026.2736656"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
-    },
-    "doi:10.1080/14719037.2026.2741378": {
-      "first_seen_at": "2026-10-09T13:12:55.106384+00:00",
-      "item": {
-        "author_affiliations": {
-          "Frida Linehagen": [
-            "Swedish Defence University - Forsvarshogskolan",
-            "King’s College"
-          ],
-          "Helena Hermansson": [
-            "Swedish Defence University - Forsvarshogskolan",
-            "Uppsala University"
-          ]
-        },
-        "authors": [
-          "Helena Hermansson",
-          "Frida Linehagen"
-        ],
-        "doi": "10.1080/14719037.2026.2741378",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-10-08",
-        "stable_id": "doi:10.1080/14719037.2026.2741378",
-        "title": "Achievements amidst asymmetries: power dynamics in Swedish civil-military collaboration - an exploratory conceptualization",
-        "url": "https://doi.org/10.1080/14719037.2026.2741378"
-      },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1080/14719037.2026.2743138": {
       "first_seen_at": "2026-10-08T13:24:49.586500+00:00",
@@ -16602,7 +16729,7 @@
         "title": "Decentralization as an anticorruption strategy: does revenue autonomy make a difference?",
         "url": "https://doi.org/10.1080/14719037.2026.2743138"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/736362": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16623,7 +16750,7 @@
         "title": "When Do Citizens Resist the Use of AI Algorithms in Public Policy? Theory and Evidence",
         "url": "https://doi.org/10.1086/736362"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16648,7 +16775,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16673,7 +16800,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16694,7 +16821,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16715,7 +16842,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16744,7 +16871,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16773,7 +16900,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16798,7 +16925,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16819,7 +16946,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -16839,7 +16966,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -16856,7 +16983,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -16877,7 +17004,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -16894,7 +17021,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -16912,7 +17039,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -16932,7 +17059,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16949,7 +17076,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/744129": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16968,7 +17095,7 @@
         "title": "“When they go low, we kick them”: The reciprocal nature of citizens’ support for democratic transgressions",
         "url": "https://doi.org/10.1086/744129"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -16986,7 +17113,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17005,7 +17132,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17023,7 +17150,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/744220": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17040,7 +17167,7 @@
         "title": "Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China",
         "url": "https://doi.org/10.1086/744220"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17059,7 +17186,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -17080,7 +17207,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17095,7 +17222,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -17110,7 +17237,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -17131,7 +17258,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -17146,7 +17273,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -17161,7 +17288,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-09T13:12:55.106384+00:00"
+      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
     }
   },
   "version": 1
