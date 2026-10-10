@@ -1136,6 +1136,14 @@
       "sent_at": "2026-10-04T12:29:54.533448+00:00",
       "title": "Interpretive leadership skill as the meaning-making leadership competency in public service organizations: content, construct, and criterion validity"
     },
+    "doi:10.1080/14719037.2026.2741378": {
+      "batch_id": "2026-10-10-4ae4fca95239afba",
+      "doi": "10.1080/14719037.2026.2741378",
+      "journal": "Public Management Review",
+      "publication_date": "2026-10-08",
+      "sent_at": "2026-10-10T12:34:41.847864+00:00",
+      "title": "Achievements amidst asymmetries: power dynamics in Swedish civil-military collaboration - an exploratory conceptualization"
+    },
     "doi:10.1080/14719037.2026.2741725": {
       "batch_id": "2026-10-04-dbee8bfa4696a20e",
       "doi": "10.1080/14719037.2026.2741725",
@@ -1976,6 +1984,22 @@
       "sent_at": "2026-10-03T11:49:13.899436+00:00",
       "title": "Bad news for (young) gamers: Using gaming platforms as news sources is more intimately associated with radical belief dispositions than other online spaces"
     },
+    "doi:10.1111/pops.70198": {
+      "batch_id": "2026-10-10-4ae4fca95239afba",
+      "doi": "10.1111/pops.70198",
+      "journal": "Political Psychology",
+      "publication_date": "2026-10-09",
+      "sent_at": "2026-10-10T12:34:41.847864+00:00",
+      "title": "The partisan dilemma: How people evaluate sacrificial dilemma decisions by politicians across the political divide"
+    },
+    "doi:10.1111/pops.70199": {
+      "batch_id": "2026-10-10-4ae4fca95239afba",
+      "doi": "10.1111/pops.70199",
+      "journal": "Political Psychology",
+      "publication_date": "2026-10-10",
+      "sent_at": "2026-10-10T12:34:41.847864+00:00",
+      "title": "The boundaries of global concern: How socioeconomic context shapes the link between global consciousness and environmental attitudes"
+    },
     "doi:10.1111/pops.70200": {
       "batch_id": "2026-10-01-6dbca5bf4d57c8e5",
       "doi": "10.1111/pops.70200",
@@ -2447,6 +2471,14 @@
       "publication_date": "2026-10-02",
       "sent_at": "2026-10-02T12:41:44.946213+00:00",
       "title": "Hindered From Making a Difference: How Increasing Organizational Constraints Undermine Public Servants' Perceptions of Prosocial Impact and Why It Matters"
+    },
+    "doi:10.1111/puar.70224": {
+      "batch_id": "2026-10-10-4ae4fca95239afba",
+      "doi": "10.1111/puar.70224",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-10-09",
+      "sent_at": "2026-10-10T12:34:41.847864+00:00",
+      "title": "Public Interest Capacity: The Case of Direct File"
     },
     "doi:10.1111/puar.70225": {
       "batch_id": "2026-10-08-238f3b00994dd506",
@@ -16520,7 +16552,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2741378"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-10T12:34:41.847864+00:00",
+      "status": "sent"
     }
   },
   "pending": {
