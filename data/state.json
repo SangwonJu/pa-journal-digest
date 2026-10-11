@@ -16554,6 +16554,149 @@
       ],
       "sent_at": "2026-10-10T12:34:41.847864+00:00",
       "status": "sent"
+    },
+    "2026-10-11-e1fb16dbc3f2a37a": {
+      "created_at": "2026-10-11T12:45:18.022009+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-11-e1fb16dbc3f2a37a",
+      "items": [
+        {
+          "abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0003055426102032/resource/name/firstPage-pdf-S0003055426102032a.jpg",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "DAVID E. LEWIS": [
+              "Vanderbilt University"
+            ],
+            "NICHOLAS R. BEDNAR": [
+              "Vanderbilt University"
+            ]
+          },
+          "authors": [
+            "NICHOLAS R. BEDNAR",
+            "DAVID E. LEWIS"
+          ],
+          "constructs": [
+            "Administrative State"
+          ],
+          "doi": "10.1017/s0003055426102032",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "방법 미상",
+          "method_detail": "초록 미확인",
+          "publication_date": "2026-10-10",
+          "stable_id": "doi:10.1017/s0003055426102032",
+          "summary_basis": "abstract",
+          "summary_ko": "제공된 자료는 「Presidential Investment in the Administrative State」의 정정본임을 나타내지만, 초록 내용이 확인되지 않아 연구 질문·접근법·주요 발견을 요약할 수 없다.",
+          "title": "Presidential Investment in the Administrative State – ERRATUM",
+          "topic_area": "분야 미상",
+          "url": "https://doi.org/10.1017/s0003055426102032"
+        },
+        {
+          "abstract": "Recent literature has documented a growing entanglement between political processes and many nonpolitical entities. This calls into question the traditional presupposition of politics as a self-contained sphere, highlighting the need to clarify how the conceptual relationship between the political and the nonpolitical has been established. In line with a relational understanding of politics, we provide a boundary analysis by looking at the “non-political” labeling in 140 empirical studies published in political science and communication journals. Two major conceptual treatments are identified: categorical, treating the “non-political” as an inherent, exclusive feature; and contextual, viewing it as a temporary, transformative state. Intellectual traditions, theoretical orientations, methodological standards, and rhetorical norms in academic knowledge production may explain why this boundary has been constructed in such different ways. We call for a more active reconciliation between these treatments, and argue that the nonpolitical, as well as (de)politicization, should be recognized as a meaningful analytical lens. It signifies a relational stance against the explicit, institutionalized politics in political communication studies, offering an indirect yet heuristically productive response to the question of what the political is.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Yibin Fan": [
+              "University of Washington"
+            ],
+            "Yufan Guo": [
+              "The Chinese University of Hong Kong"
+            ]
+          },
+          "authors": [
+            "Yufan Guo",
+            "Yibin Fan"
+          ],
+          "constructs": [
+            "Nonpolitical",
+            "Politicization"
+          ],
+          "doi": "10.1080/10584609.2026.2745844",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "method": "이론/개념",
+          "method_detail": "경계 분석",
+          "publication_date": "2026-10-08",
+          "stable_id": "doi:10.1080/10584609.2026.2745844",
+          "summary_basis": "abstract",
+          "summary_ko": "정치와 비정치의 관계가 어떻게 개념화되어 왔는지 밝히기 위해 정치학·커뮤니케이션 학술지에 게재된 140개 실증연구의 ‘비정치적’ 라벨링을 경계 분석했다. 비정치를 본질적이고 배타적인 범주로 보는 범주적 접근과 일시적·변혁적 상태로 보는 맥락적 접근이 확인되었으며, 연구의 지적 전통·이론적 지향·방법론적 기준·수사적 규범이 이러한 차이를 형성한 요인으로 제시된다.",
+          "title": "The Politics of the “Non-Political”: A Conceptual Review",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1080/10584609.2026.2745844"
+        },
+        {
+          "abstract": "This study investigates how revenue autonomy is associated with documented municipal corruption risk, distinguishing between own-source tax and non-tax revenues. Drawing on public administration theories of decentralization, it adopts a meso-level analysis of Italian medium-to-large municipalities and relies on an event-based indicator derived from legally mandated anticorruption reports. The empirical strategy combines dynamic correlated random-effects logit, dynamic random-effects probit, and fixed-effects logit models, complemented by sensitivity analyses simulating under-reporting scenarios. Results indicate that higher levels of both tax and non-tax revenue autonomy are negatively associated with documented corruption risk. Tax autonomy shows stronger associations where political competition is higher, whereas the non-tax revenue pattern is more consistent with a service-based responsiveness logic. These findings, observed in the Italian municipal context, suggest that revenue autonomy is not a uniform anticorruption safeguard but an institutional feature whose relevance depends on revenue composition, accountability conditions, municipal capacity, and reporting practices.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Fabio Monteduro": [
+              "University of Rome “Tor Vergata”"
+            ],
+            "Riccardo Mussari": [
+              "University of Siena"
+            ]
+          },
+          "authors": [
+            "Fabio Monteduro",
+            "Riccardo Mussari"
+          ],
+          "constructs": [
+            "Revenue Autonomy",
+            "Political Competition"
+          ],
+          "doi": "10.1080/14719037.2026.2743138",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "혼합방법론",
+          "method_detail": "동태 패널 모형",
+          "publication_date": "2026-10-07",
+          "stable_id": "doi:10.1080/14719037.2026.2743138",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 이탈리아 중·대도시를 대상으로 세입 자율성(자체 세원인 세수와 비세수)이 법정 반부패 보고서에 기록된 지방정부 부패 위험과 어떻게 연관되는지 동태적 패널 모형과 민감도 분석으로 검토했다. 세수·비세수 자율성이 모두 기록된 부패 위험과 음의 연관성을 보였으며, 세수 자율성의 연관성은 정치적 경쟁이 높을 때 강했고 비세수 자율성은 서비스 기반 대응성 논리와 더 일관되게 나타났다.",
+          "title": "Decentralization as an anticorruption strategy: does revenue autonomy make a difference?",
+          "topic_area": "재무·예산",
+          "url": "https://doi.org/10.1080/14719037.2026.2743138"
+        },
+        {
+          "abstract": "Public-sector organizations (PSOs) are increasingly created to reduce inequities, yet we know little about how they operationalize ambitious mandates in complex systems. We study Aotearoa New Zealand’s Te Aka Whai Ora / Māori Health Authority (MHA), established in 2022 and disestablished within two years, using an interpretive analysis of 26 interviews with former staff along with available official documents and news reports. This paper conceptualizes operationalization as a dynamic achievement: an operating model must stabilize decision rights, routines, inter-organizational interfaces, and performance controls to translate policy intent into coordinated action. We identify six recurring misalignment patterns that pushed the MHA from visionary intent to operational marginality as system conditions disrupted authority–accountability congruence, interface specification, capacity stability, and performance control. This research introduces recursive system fit, showing how capabilities and system conditions co-shape viability of PSOs. Policymakers should specify operationalization inputs at planning stage rather than retrofit them during implementation.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Adeel Akmal": [
+              "University of Iceland, Reykjavik",
+              "University of Otago, Dunedin"
+            ],
+            "Nataliya Podgorodnichenko": [
+              "University of Otago"
+            ],
+            "Robin Gauld": [
+              "Bond University, Gold Coast"
+            ],
+            "Tim Stokes": [
+              "University of Otago, Dunedin"
+            ]
+          },
+          "authors": [
+            "Adeel Akmal",
+            "Nataliya Podgorodnichenko",
+            "Robin Gauld",
+            "Tim Stokes"
+          ],
+          "constructs": [
+            "Recursive System Fit",
+            "Authority–Accountability Congruence"
+          ],
+          "doi": "10.1080/14719037.2026.2736656",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "해석적 인터뷰",
+          "publication_date": "2026-09-27",
+          "stable_id": "doi:10.1080/14719037.2026.2736656",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 복잡한 체계에서 불평등 완화를 목표로 설립된 공공부문 조직이 야심찬 임무를 어떻게 운영화하는지, 뉴질랜드 테 아카 와이 오라(마오리 보건 당국) 사례를 통해 분석한다. 전직 직원 26명 인터뷰와 공식 문서·뉴스 보도의 해석적 분석 결과, 의사결정 권한, 업무 루틴, 조직 간 접점, 성과 통제가 체계 조건과 어긋나면서 조직의 실행 가능성이 약화되었으며, 운영화에 필요한 투입요소를 계획 단계에서 명확히 해야 한다고 제시한다.",
+          "title": "Towards a theory of public-sector organizations with targeted mandates: a case study of New Zealand’s Māori Health Authority",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1080/14719037.2026.2736656"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -16576,7 +16719,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -16611,7 +16754,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -16636,7 +16779,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -16657,7 +16800,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -16678,91 +16821,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
-    },
-    "doi:10.1080/10584609.2026.2745844": {
-      "first_seen_at": "2026-10-09T13:12:55.106384+00:00",
-      "item": {
-        "author_affiliations": {
-          "Yibin Fan": [
-            "University of Washington"
-          ],
-          "Yufan Guo": [
-            "The Chinese University of Hong Kong"
-          ]
-        },
-        "authors": [
-          "Yufan Guo",
-          "Yibin Fan"
-        ],
-        "doi": "10.1080/10584609.2026.2745844",
-        "journal": "Political Communication",
-        "journal_short": "PolComm",
-        "publication_date": "2026-10-08",
-        "stable_id": "doi:10.1080/10584609.2026.2745844",
-        "title": "The Politics of the “Non-Political”: A Conceptual Review",
-        "url": "https://doi.org/10.1080/10584609.2026.2745844"
-      },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
-    },
-    "doi:10.1080/14719037.2026.2736656": {
-      "first_seen_at": "2026-09-28T13:49:25.944190+00:00",
-      "item": {
-        "author_affiliations": {
-          "Adeel Akmal": [
-            "University of Iceland, Reykjavik",
-            "University of Otago, Dunedin"
-          ],
-          "Nataliya Podgorodnichenko": [
-            "University of Otago"
-          ],
-          "Robin Gauld": [
-            "Bond University, Gold Coast"
-          ],
-          "Tim Stokes": [
-            "University of Otago, Dunedin"
-          ]
-        },
-        "authors": [
-          "Adeel Akmal",
-          "Nataliya Podgorodnichenko",
-          "Robin Gauld",
-          "Tim Stokes"
-        ],
-        "doi": "10.1080/14719037.2026.2736656",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-09-27",
-        "stable_id": "doi:10.1080/14719037.2026.2736656",
-        "title": "Towards a theory of public-sector organizations with targeted mandates: a case study of New Zealand’s Māori Health Authority",
-        "url": "https://doi.org/10.1080/14719037.2026.2736656"
-      },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
-    },
-    "doi:10.1080/14719037.2026.2743138": {
-      "first_seen_at": "2026-10-08T13:24:49.586500+00:00",
-      "item": {
-        "author_affiliations": {
-          "Fabio Monteduro": [
-            "University of Rome “Tor Vergata”"
-          ],
-          "Riccardo Mussari": [
-            "University of Siena"
-          ]
-        },
-        "authors": [
-          "Fabio Monteduro",
-          "Riccardo Mussari"
-        ],
-        "doi": "10.1080/14719037.2026.2743138",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-10-07",
-        "stable_id": "doi:10.1080/14719037.2026.2743138",
-        "title": "Decentralization as an anticorruption strategy: does revenue autonomy make a difference?",
-        "url": "https://doi.org/10.1080/14719037.2026.2743138"
-      },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/736362": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16783,7 +16842,7 @@
         "title": "When Do Citizens Resist the Use of AI Algorithms in Public Policy? Theory and Evidence",
         "url": "https://doi.org/10.1086/736362"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16808,7 +16867,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16833,7 +16892,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16854,7 +16913,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16875,7 +16934,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16904,7 +16963,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16933,7 +16992,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16958,7 +17017,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16979,7 +17038,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -16999,7 +17058,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -17016,7 +17075,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -17037,7 +17096,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -17054,7 +17113,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -17072,7 +17131,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -17092,7 +17151,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17109,7 +17168,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/744129": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17128,7 +17187,7 @@
         "title": "“When they go low, we kick them”: The reciprocal nature of citizens’ support for democratic transgressions",
         "url": "https://doi.org/10.1086/744129"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17146,7 +17205,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17165,7 +17224,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17183,7 +17242,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/744220": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17200,7 +17259,7 @@
         "title": "Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China",
         "url": "https://doi.org/10.1086/744220"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17219,7 +17278,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -17240,7 +17299,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17255,7 +17314,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -17270,7 +17329,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -17291,7 +17350,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -17306,7 +17365,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -17321,7 +17380,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-10T12:27:54.042364+00:00"
+      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
     }
   },
   "version": 1
