@@ -408,6 +408,14 @@
       "sent_at": "2026-09-24T11:47:30.302385+00:00",
       "title": "The Punitive Dimension of Presidential Particularism"
     },
+    "doi:10.1017/s0003055426102032": {
+      "batch_id": "2026-10-11-e1fb16dbc3f2a37a",
+      "doi": "10.1017/s0003055426102032",
+      "journal": "American Political Science Review",
+      "publication_date": "2026-10-10",
+      "sent_at": "2026-10-11T12:52:08.286961+00:00",
+      "title": "Presidential Investment in the Administrative State – ERRATUM"
+    },
     "doi:10.1080/01900692.2026.2683248": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
       "doi": "10.1080/01900692.2026.2683248",
@@ -719,6 +727,14 @@
       "publication_date": "2026-10-01",
       "sent_at": "2026-10-04T12:29:54.533448+00:00",
       "title": "When Populism? Consistent and Opportunistic Populist Communication in the 2022 Brazilian Presidential Elections"
+    },
+    "doi:10.1080/10584609.2026.2745844": {
+      "batch_id": "2026-10-11-e1fb16dbc3f2a37a",
+      "doi": "10.1080/10584609.2026.2745844",
+      "journal": "Political Communication",
+      "publication_date": "2026-10-08",
+      "sent_at": "2026-10-11T12:52:08.286961+00:00",
+      "title": "The Politics of the “Non-Political”: A Conceptual Review"
     },
     "doi:10.1080/10967494.2026.2691398": {
       "batch_id": "2026-09-12-0323b2c4e5631bf0",
@@ -1064,6 +1080,14 @@
       "sent_at": "2026-09-16T11:36:21.141999+00:00",
       "title": "Revisiting the political-social dimension of public value"
     },
+    "doi:10.1080/14719037.2026.2736656": {
+      "batch_id": "2026-10-11-e1fb16dbc3f2a37a",
+      "doi": "10.1080/14719037.2026.2736656",
+      "journal": "Public Management Review",
+      "publication_date": "2026-09-27",
+      "sent_at": "2026-10-11T12:52:08.286961+00:00",
+      "title": "Towards a theory of public-sector organizations with targeted mandates: a case study of New Zealand’s Māori Health Authority"
+    },
     "doi:10.1080/14719037.2026.2737335": {
       "batch_id": "2026-09-30-7120f5ca0e0951f8",
       "doi": "10.1080/14719037.2026.2737335",
@@ -1151,6 +1175,14 @@
       "publication_date": "2026-10-02",
       "sent_at": "2026-10-04T12:29:54.533448+00:00",
       "title": "From reform to reality: governance mechanisms and social capital development in mandated healthcare networks"
+    },
+    "doi:10.1080/14719037.2026.2743138": {
+      "batch_id": "2026-10-11-e1fb16dbc3f2a37a",
+      "doi": "10.1080/14719037.2026.2743138",
+      "journal": "Public Management Review",
+      "publication_date": "2026-10-07",
+      "sent_at": "2026-10-11T12:52:08.286961+00:00",
+      "title": "Decentralization as an anticorruption strategy: does revenue autonomy make a difference?"
     },
     "doi:10.1080/14719037.2026.2744322": {
       "batch_id": "2026-10-09-8f92bf5066757fe8",
@@ -16696,7 +16728,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2736656"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-11T12:52:08.286961+00:00",
+      "status": "sent"
     }
   },
   "pending": {
