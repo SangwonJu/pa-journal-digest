@@ -728,6 +728,14 @@
       "sent_at": "2026-10-04T12:29:54.533448+00:00",
       "title": "When Populism? Consistent and Opportunistic Populist Communication in the 2022 Brazilian Presidential Elections"
     },
+    "doi:10.1080/10584609.2026.2745832": {
+      "batch_id": "2026-10-12-6f5bf96326cca221",
+      "doi": "10.1080/10584609.2026.2745832",
+      "journal": "Political Communication",
+      "publication_date": "2026-10-11",
+      "sent_at": "2026-10-12T15:24:55.038805+00:00",
+      "title": "Who Verifies the Verifiers? AI, Local Knowledge Production, and Credibility in Tanzania’s 2025 Election"
+    },
     "doi:10.1080/10584609.2026.2745844": {
       "batch_id": "2026-10-11-e1fb16dbc3f2a37a",
       "doi": "10.1080/10584609.2026.2745844",
@@ -1327,6 +1335,14 @@
       "publication_date": "2026-10-01",
       "sent_at": "2026-10-01T13:22:13.347574+00:00",
       "title": "Express Yourself (Ideologically): Legislators’ Ideal Points Across Audiences"
+    },
+    "doi:10.1086/736362": {
+      "batch_id": "2026-10-12-6f5bf96326cca221",
+      "doi": "10.1086/736362",
+      "journal": "The Journal of Politics",
+      "publication_date": "2026-10-01",
+      "sent_at": "2026-10-12T15:24:55.038805+00:00",
+      "title": "When Do Citizens Resist the Use of AI Algorithms in Public Policy? Theory and Evidence"
     },
     "doi:10.1086/736444": {
       "batch_id": "2026-10-01-6dbca5bf4d57c8e5",
@@ -2168,6 +2184,14 @@
       "sent_at": "2026-09-26T11:25:54.512887+00:00",
       "title": "From the Margins: Potential Coalitions in Centralized, High‐Capacity States"
     },
+    "doi:10.1111/psj.70169": {
+      "batch_id": "2026-10-12-6f5bf96326cca221",
+      "doi": "10.1111/psj.70169",
+      "journal": "Policy Studies Journal",
+      "publication_date": "2026-10-11",
+      "sent_at": "2026-10-12T15:24:55.038805+00:00",
+      "title": "Policy Agendas in Coalition Agreements: The Enduring Influence of Policy Inheritance"
+    },
     "doi:10.1111/psj.70170": {
       "batch_id": "2026-10-07-a724a6f4e4725338",
       "doi": "10.1111/psj.70170",
@@ -2472,6 +2496,14 @@
       "sent_at": "2026-10-02T12:41:44.946213+00:00",
       "title": "Reply to Kettl: Great Workplaces, Public Employee Legitimacy and the Fourth Way"
     },
+    "doi:10.1111/puar.70217": {
+      "batch_id": "2026-10-12-6f5bf96326cca221",
+      "doi": "10.1111/puar.70217",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-10-11",
+      "sent_at": "2026-10-12T15:24:55.038805+00:00",
+      "title": "Reply to Kettl: The Field of Public Administration in America and an Unpreparedness of Its Own Making?"
+    },
     "doi:10.1111/puar.70218": {
       "batch_id": "2026-09-30-7120f5ca0e0951f8",
       "doi": "10.1111/puar.70218",
@@ -2607,6 +2639,14 @@
       "publication_date": "2026-09-26",
       "sent_at": "2026-09-27T12:04:32.107617+00:00",
       "title": "Leading Humanistic Transformation of Business, Economy and Society: Lessons From Olivetti’s Blueprint"
+    },
+    "doi:10.1177/00953997261489610": {
+      "batch_id": "2026-10-12-6f5bf96326cca221",
+      "doi": "10.1177/00953997261489610",
+      "journal": "Administration & Society",
+      "publication_date": "2026-10-11",
+      "sent_at": "2026-10-12T15:24:55.038805+00:00",
+      "title": "The Citizen’s Seat at the Table: How Private Sector Behavior Fosters Alignment With Citizens in Public-Private Partnerships"
     },
     "doi:10.1177/02750740261473616": {
       "batch_id": "2026-08-10-379897b0e0907946",
@@ -16909,7 +16949,8 @@
           "url": "https://doi.org/10.1086/736362"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-12T15:24:55.038805+00:00",
+      "status": "sent"
     }
   },
   "pending": {
