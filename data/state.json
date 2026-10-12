@@ -16730,6 +16730,186 @@
       ],
       "sent_at": "2026-10-11T12:52:08.286961+00:00",
       "status": "sent"
+    },
+    "2026-10-12-6f5bf96326cca221": {
+      "created_at": "2026-10-12T15:17:44.672837+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-12-6f5bf96326cca221",
+      "items": [
+        {
+          "abstract": "Citizens play a crucial role in public-private partnerships (PPPs). Yet, such citizens often are poorly engaged and excluded from decision-making, leading to situations where their interests do not align with the public and private partners. Recognizing the importance of private sector behaviors in PPPs, we aim to identify how their behaviors play a role in aligning these interests to meet citizen expectations. We use the Economies of Worth framework and a comparative case study to identify behavioral mechanisms to support alignment, such as being available to citizens in person, adaptability, engaging in small goodwill gestures, and sustaining these behaviors over time.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Giovanni Esposito": [
+              "HEC Liège—Management School of the University of Liège, Belgium",
+              "Université libre de Bruxelles, Belgium"
+            ],
+            "Jessica Clement": [
+              "French Agricultural Research Centre for International Development (CIRAD), Montpellier, France",
+              "HEC Liège—Management School of the University of Liège, Belgium"
+            ],
+            "Nathalie Crutzen": [
+              "HEC Liège—Management School of the University of Liège, Belgium"
+            ]
+          },
+          "authors": [
+            "Jessica Clement",
+            "Giovanni Esposito",
+            "Nathalie Crutzen"
+          ],
+          "constructs": [
+            "Economies of Worth",
+            "Public-Private Partnerships"
+          ],
+          "doi": "10.1177/00953997261489610",
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "method": "질적연구",
+          "method_detail": "비교 사례연구",
+          "publication_date": "2026-10-11",
+          "stable_id": "doi:10.1177/00953997261489610",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 민관협력에서 민간 부문의 행동이 시민의 기대와 공공·민간 파트너의 이해를 어떻게 조정하는지 탐색한다. ‘가치의 경제’(Economies of Worth) 틀에 기반한 비교 사례연구를 통해, 시민을 대면해 이용 가능하게 하고, 유연하게 대응하며, 작은 호의적 행동을 하고, 이를 지속하는 것이 이해관계 조정을 돕는 행동 메커니즘임을 제시한다.",
+          "title": "The Citizen’s Seat at the Table: How Private Sector Behavior Fosters Alignment With Citizens in Public-Private Partnerships",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1177/00953997261489610"
+        },
+        {
+          "abstract": "ABSTRACT New governments frequently inherit issues from their predecessors, and as a result, various policy problems tend to remain on the agenda for many years. Previous research examining the role of policy inheritance has focused mainly on the agenda during a government's term in office. These studies find that because governments must first contend with the problems they inherit, there is considerably less room for new issues to emerge on the agenda. This study seeks to examine the idea of policy inheritance through the lens of coalition agreements. Coalition agreements, a feature of multiparty governments, are drafted shortly after elections and reflect the outcome of the political struggle. For this reason, one can expect that coalition agreements contain mostly issues that parties regard as important. By implication, changes in the coalition agreements' issue agenda would be a function of the political change produced by the electoral cycle, rather than of inheritance. Analyzing coalition agreements in three countries—Israel, the Netherlands, and Norway—across 42 elections, we find no evidence for this assumption. Agendas in coalition agreements do not vary with changes in the party composition of the coalition, changes in the ideological distance between parties, or changes in the party holding the office of Prime Minister. This indicates that even when new coalition governments are preparing for their term in office, inheritance remains the primary driver of agenda‐setting.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Amnon Cavari": [
+              "Lauder School of Government, Diplomacy &amp; Strategy Reichman University Herzliya Israel"
+            ],
+            "Arco Timmermans": [
+              "The Institute of Public Administration, Leiden University The Hague the Netherlands"
+            ],
+            "Gerard Breeman": [
+              "The Institute of Public Administration, Leiden University The Hague the Netherlands"
+            ],
+            "Ilana Shpaizman": [
+              "Department of Political Studies Bar Ilan University Ramat Gan Israel"
+            ],
+            "Jens Jungblut": [
+              "Department of Political Science University of Oslo Oslo Norway"
+            ],
+            "Jon Bøe Valgermo": [
+              "Department of Political Science University of Oslo Oslo Norway"
+            ]
+          },
+          "authors": [
+            "Gerard Breeman",
+            "Amnon Cavari",
+            "Jens Jungblut",
+            "Ilana Shpaizman",
+            "Arco Timmermans",
+            "Jon Bøe Valgermo"
+          ],
+          "constructs": [
+            "Policy Inheritance",
+            "Agenda Setting"
+          ],
+          "doi": "10.1111/psj.70169",
+          "journal": "Policy Studies Journal",
+          "journal_short": "PSJ",
+          "method": "질적연구",
+          "method_detail": "국가 간 비교분석",
+          "publication_date": "2026-10-11",
+          "stable_id": "doi:10.1111/psj.70169",
+          "summary_basis": "abstract",
+          "summary_ko": "본 연구는 이스라엘·네덜란드·노르웨이의 42개 선거를 대상으로 연립정부 협약의 의제 변화가 정당 구성, 정당 간 이념적 거리, 총리직 보유 정당의 변화와 관련되는지 분석했다. 그 결과 이러한 정치적 변화보다 이전 정부에서 물려받은 정책 의제가 협약 의제 설정을 지속적으로 주도하는 것으로 나타났다.",
+          "title": "Policy Agendas in Coalition Agreements: The Enduring Influence of Policy Inheritance",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1111/psj.70169"
+        },
+        {
+          "abstract": "This study examines how Factchecking AI tools and community-based credibility practices interacted during Tanzania’s 2025 presidential election. Using data from five regions, we analyzed 342 media materials, 87 interviews, field observations, and 22 distinct contested election events. The findings identify three forms of verification disjuncture. First, AI-assisted translation and transcription sometimes changed the meaning of politically important statements before journalists could verify them. Second, fact-checks and disputed claims often moved through different communication channels, which limited the chances that people would see the correction. Third, some communities trusted personal experience, familiar sources, and collective discussion more than professional fact-checkers. Participants judged credibility through relationships, lived experience, group discussion, humor and satire, and social accountability. These practices sometimes supported the same conclusions as institutional verification and sometimes produced different judgments. We argue that fact-checking becomes politically effective when the meaning of a claim is preserved, the correction reaches the people discussing it, and the source of the correction is recognized as credible. This explains why an accurate fact-check can still have limited public influence.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Gregory Gondwe": [
+              "California State University – San Bernardino",
+              "University of Alabama – Tuscaloosa",
+              "Harvard – Berkman Klein Centre for Internet & Society"
+            ]
+          },
+          "authors": [
+            "Gregory Gondwe"
+          ],
+          "constructs": [
+            "Credibility",
+            "Local Knowledge"
+          ],
+          "doi": "10.1080/10584609.2026.2745832",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "method": "혼합방법론",
+          "method_detail": "순차 혼합",
+          "publication_date": "2026-10-11",
+          "stable_id": "doi:10.1080/10584609.2026.2745832",
+          "summary_basis": "abstract",
+          "summary_ko": "탄자니아 2025년 대선에서 AI 기반 팩트체킹과 지역사회 신뢰성 판단이 어떻게 상호작용하는지, 5개 지역의 미디어 자료 342건·인터뷰 87건·현장관찰·논쟁적 선거 사건 22건을 분석했다. AI 번역·전사로 의미가 변형되거나 정정이 관련 논의 채널에 도달하지 못하고, 공동체가 개인적 경험·익숙한 출처·집단 토론을 전문 팩트체커보다 신뢰하면서, 정확한 팩트체크도 의미 보존·도달성·출처 신뢰성이 확보되지 않으면 공적 영향력이 제한될 수 있음을 보였다.",
+          "title": "Who Verifies the Verifiers? AI, Local Knowledge Production, and Credibility in Tanzania’s 2025 Election",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1080/10584609.2026.2745832"
+        },
+        {
+          "abstract": "ABSTRACT This Reply suggests the sub‐field of U.S.‐specific public administration is under‐prepared to address democratic deconsolidation given its multi‐decade distance from the disciplines of comparative politics and political economy and from the sub‐fields of comparative and development public administration. The narrowness of what is understand as “good” public administration by U.S.‐based scholars has largely excluded cross‐disciplinary and non‐U.S. intellectual histories which, if understood, would have deepened sub‐field intellectual depth and breadth but also, better prepared the sub‐field for America's current administrative state. This Reply suggests the value of drawing upon post‐WWII administration‐linked trends in other disciplines and upon links between administration and prior democratic deconsolidations (the U.S. is not unique). This includes the sub‐field's historical reluctance to research existential insecurity, intolerance (beyond social inequity), the role of democratic restraint, the role of crisis (or lack of) in democratic deconsolidation, and theories of democracy‐to‐autocracy and autocracy‐to‐democracy.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Kim Moloney": [
+              "Australia New Zealand School of Government Carlton Australia",
+              "Murdoch University Perth Australia"
+            ]
+          },
+          "authors": [
+            "Kim Moloney"
+          ],
+          "constructs": [
+            "Democratic Deconsolidation",
+            "Democratic Restraint"
+          ],
+          "doi": "10.1111/puar.70217",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "이론/개념",
+          "method_detail": "개념적 논변",
+          "publication_date": "2026-10-11",
+          "stable_id": "doi:10.1111/puar.70217",
+          "summary_basis": "abstract",
+          "summary_ko": "미국 공공행정 하위분야가 비교정치·정치경제 및 비교·발전행정과 수십 년간 거리를 둔 탓에 민주주의 탈공고화에 대응할 준비가 부족했는지를 검토한다. 제2차 세계대전 이후 다른 학문 분야의 행정 관련 흐름과 과거 민주주의 탈공고화 사례를 참조할 것을 제안하며, 미국의 현재 상황에 대한 하위분야의 지적 준비 부족이 이러한 학문적 협소성과 관련된다고 주장한다.",
+          "title": "Reply to Kettl: The Field of Public Administration in America and an Unpreparedness of Its Own Making?",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1111/puar.70217"
+        },
+        {
+          "abstract": "In recent years, there has been a significant rise in the use of algorithmic decision-making systems (ADS) to assist or replace human decision-making in a wide range of policy areas as policing, criminal sentencing, and social welfare assistance. How do citizens view the incorporation of this technology in guiding high-stakes decisions? I introduce a new theory to explain the conditions under which citizens view ADS as legitimate, fair, and accurate, and test it using data from original experiments embedded in a national U.S. survey. I show that across a wide range of policy domains, citizens exhibit aversion to the use of ADS in decisions that are seen as designed to sanction rather than to assist, and when they are required to make inferences about individuals rather than collectives. Evidence from a second experiment suggests that the employment of ADS in such contexts can significantly undermine the legitimacy of the policy actions they inform. Together, the study offers a framework to identify where AI-based tools will be deemed appropriate and where they might trigger backlash, highlighting the importance of accounting for citizens’ values in AI development and implementation to maintain legitimacy and democratic accountability.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Shir Raviv": [
+              "Tel Aviv University"
+            ]
+          },
+          "authors": [
+            "Shir Raviv"
+          ],
+          "constructs": [
+            "Algorithmic Decision-Making",
+            "Policy Legitimacy"
+          ],
+          "doi": "10.1086/736362",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736362",
+          "summary_basis": "abstract",
+          "summary_ko": "시민이 공공정책의 고위험 의사결정에 알고리즘 의사결정 시스템(ADS)을 사용하는 것을 언제 정당하고 공정하며 정확하다고 보는지 규명하기 위해, 미국 전국 설문에 내재된 독창적 실험들을 실시했다. 시민들은 다양한 정책 영역에서 ADS가 지원보다 제재를 목적으로 하거나 개인에 대한 추론을 요구하는 결정에 사용될 때 이를 더 꺼렸으며, 이러한 맥락의 ADS 사용은 관련 정책 조치의 정당성을 크게 약화시켰다.",
+          "title": "When Do Citizens Resist the Use of AI Algorithms in Public Policy? Theory and Evidence",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1086/736362"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -16752,7 +16932,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -16787,7 +16967,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -16812,7 +16992,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -16833,7 +17013,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -16854,28 +17034,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
-    },
-    "doi:10.1086/736362": {
-      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
-      "item": {
-        "author_affiliations": {
-          "Shir Raviv": [
-            "Tel Aviv University"
-          ]
-        },
-        "authors": [
-          "Shir Raviv"
-        ],
-        "doi": "10.1086/736362",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-10-01",
-        "stable_id": "doi:10.1086/736362",
-        "title": "When Do Citizens Resist the Use of AI Algorithms in Public Policy? Theory and Evidence",
-        "url": "https://doi.org/10.1086/736362"
-      },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16900,7 +17059,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16925,7 +17084,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16946,7 +17105,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16967,7 +17126,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -16996,7 +17155,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17025,7 +17184,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17050,7 +17209,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17071,7 +17230,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -17091,7 +17250,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -17108,7 +17267,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -17129,7 +17288,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -17146,7 +17305,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -17164,7 +17323,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -17184,7 +17343,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17201,7 +17360,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/744129": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17220,7 +17379,7 @@
         "title": "“When they go low, we kick them”: The reciprocal nature of citizens’ support for democratic transgressions",
         "url": "https://doi.org/10.1086/744129"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17238,7 +17397,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17257,7 +17416,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17275,7 +17434,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/744220": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17292,7 +17451,7 @@
         "title": "Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China",
         "url": "https://doi.org/10.1086/744220"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17311,7 +17470,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -17332,7 +17491,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17347,7 +17506,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -17362,7 +17521,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -17383,7 +17542,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -17398,7 +17557,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -17413,7 +17572,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-11T12:45:18.022009+00:00"
+      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
     }
   },
   "version": 1
