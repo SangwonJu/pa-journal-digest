@@ -16951,6 +16951,243 @@
       ],
       "sent_at": "2026-10-12T15:24:55.038805+00:00",
       "status": "sent"
+    },
+    "2026-10-13-a80e628f8ac1e1af": {
+      "created_at": "2026-10-13T14:07:25.642891+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-13-a80e628f8ac1e1af",
+      "items": [
+        {
+          "abstract": "Effective digital communication is a strategic imperative for government service delivery, yet the emerging information dissemination model emerging remains underexplored. Drawing on Chongqing’s digital-policing reform, this study develops an analytical framework centered on visibility-driven flexible re-hierarchization, based on interviews and observations. The analysis identifies three mechanisms: upward visibility and vertical bypass produce functional flattening without formal delayering; cross-boundary horizontal linkage dissolves departmental silos while preserving centralized coordination; and dual-mode switching shifts the information order between routine networked and mobilizational hierarchical communication. Digital technology does not flatten bureaucracy but endows it with an elastic capacity to switch between the two orders.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Di Zhu": [
+              "Southwest Minzu University, Chengdu, Sichuan, China"
+            ],
+            "Wei Qin": [
+              "Chongqing University, China"
+            ]
+          },
+          "authors": [
+            "Di Zhu",
+            "Wei Qin"
+          ],
+          "constructs": [
+            "Bureaucracy",
+            "Re-Hierarchization"
+          ],
+          "doi": "10.1177/00953997261489736",
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "method": "질적연구",
+          "method_detail": "인터뷰·관찰",
+          "publication_date": "2026-10-12",
+          "stable_id": "doi:10.1177/00953997261489736",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 정부 디지털 커뮤니케이션에서 정보 전달 질서가 어떻게 변화하는지 분석하기 위해 충칭 디지털 치안 개혁을 대상으로 인터뷰와 관찰을 실시했다. 분석 결과, 디지털 기술은 관료제를 평준화하기보다 상향적 가시성·수직적 우회, 부문 간 수평적 연계, 일상적 네트워크형과 동원적 위계형 간 전환을 통해 공식적 계층을 유지한 채 유연하게 재위계화하는 것으로 나타났다.",
+          "title": "Flattening Without Leveling: Visibility-Driven Flexible Re-Hierarchization in Government Digital Communication",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1177/00953997261489736"
+        },
+        {
+          "abstract": "Multifamily housing is common in urban areas, and neighbor noise is a frequent problem. In this study, a governance-based approach was designed for managing and preventing noise problems, marking an advance from conventional noise-reduction technologies. Using qualitative methods, including interviews with residents and professionals, the proposed framework categorizes five key sectors: individual, community, society, industry, and public. It highlights sector interactions, identifies key actors, and suggests sector-specific activities for resolution. Rather than offering a fixed solution, the proposed governance model is adaptable to various contexts, promoting sustainable and context-sensitive approaches to noise management.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Hye-Kyung Shin": [
+              "Korea Institute of Civil Engineering and Building Technology, Goyang-si, Gyeonggi, Republic of Korea"
+            ],
+            "Kyoung-Woo Kim": [
+              "Korea Institute of Civil Engineering and Building Technology, Goyang-si, Gyeonggi, Republic of Korea"
+            ],
+            "Sang Hee Park": [
+              "Korea Institute of Civil Engineering and Building Technology, Goyang-si, Gyeonggi, Republic of Korea"
+            ],
+            "Seongwon Yoon": [
+              "Hanyang University, Seoul, Republic of Korea"
+            ]
+          },
+          "authors": [
+            "Sang Hee Park",
+            "Hye-Kyung Shin",
+            "Kyoung-Woo Kim",
+            "Seongwon Yoon"
+          ],
+          "constructs": [
+            "governance",
+            "Collaborative Governance"
+          ],
+          "doi": "10.1177/00953997261489607",
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "method": "질적연구",
+          "method_detail": "심층 인터뷰",
+          "publication_date": "2026-10-12",
+          "stable_id": "doi:10.1177/00953997261489607",
+          "summary_basis": "abstract",
+          "summary_ko": "다세대 주택의 이웃 소음 문제를 어떻게 관리·예방할 수 있는지 탐색하기 위해 주민과 전문가 인터뷰를 포함한 질적 연구를 수행했다. 연구는 개인·공동체·사회·산업·공공의 다섯 부문과 이들 간 상호작용 및 핵심 행위자를 제시하고, 상황에 맞게 조정 가능한 거버넌스 기반 해결 틀을 제안한다.",
+          "title": "Neighbor Noise Problem in Multifamily Housing: An Integrative Framework for Resolution",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1177/00953997261489607"
+        },
+        {
+          "abstract": "The rise of populist right parties is well studied, but relatively little attention has been given to how public service performance influences voter support. Given that public services are often the primary means through which citizens interact with the state, we argue that declining public services can create grievances that increase the appeal of populist right parties. Focusing on England’s National Health Service, we combine administrative data on local health facility closures with panel data on public preferences and voting intentions. Using a staggered difference-in-differences design, we find that closures reduce satisfaction with public services and increase support for populist right parties. These effects are moderated by migrant registrations at local health practices, highlighting the interaction between public service performance and immigration concerns in fueling populist right support. Our findings underscore the role of public service decline as a driver of support for populist parties, especially in areas undergoing demographic change.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "CATHERINE DE VRIES": [
+              "IE University"
+            ],
+            "SARA B. HOBOLT": [
+              "London School of Economics and Political Science"
+            ],
+            "SIMONE CREMASCHI": [
+              "University of Oxford"
+            ],
+            "ZACHARY P. DICKSON": [
+              "London School of Economics and Political Science"
+            ]
+          },
+          "authors": [
+            "ZACHARY P. DICKSON",
+            "SARA B. HOBOLT",
+            "CATHERINE DE VRIES",
+            "SIMONE CREMASCHI"
+          ],
+          "constructs": [
+            "Public Service Decline",
+            "Populist Right Support"
+          ],
+          "doi": "10.1017/s0003055426101944",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "준실험",
+          "method_detail": "시차적 이중차분",
+          "publication_date": "2026-10-13",
+          "stable_id": "doi:10.1017/s0003055426101944",
+          "summary_basis": "abstract",
+          "summary_ko": "영국 국민보건서비스의 지역 의료시설 폐쇄가 공공서비스 만족도와 포퓰리즘 우파 지지에 미치는 영향을 행정자료와 패널자료를 결합한 시차적 이중차분으로 분석했다. 시설 폐쇄는 공공서비스 만족도를 낮추고 포퓰리즘 우파 지지를 높였으며, 지역 의료기관의 이민자 등록 수준에 따라 그 효과가 달라졌다.",
+          "title": "Public Service Decline and Support for the Populist Right: Evidence from England’s National Health Service",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1017/s0003055426101944"
+        },
+        {
+          "abstract": "ABSTRACT A government's ability to generate surpluses and build reserves reflects prudent financial management, with the accumulation of reserves signaling sound budgeting practices. Reserves are essential for sound fiscal governance during economic downturns, and managerial discretion over these resources is crucial to minimizing disruptions in service delivery. While the counter‐cyclical benefits of formal reserves are well documented, less attention has been paid to the discretion managers retain over reserves. Using credit ratings as a proxy for creditworthiness, we find that managerial discretion over accumulated resources enhances fiscal flexibility and strengthens creditworthiness; however, the presence of formal reserves alone does not improve credit ratings. Our study contributes to an emerging literature exploring whether better financial reporting can help us understand the critical balance between management flexibility and accountability mechanisms in public‐sector organizations.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Sharon N. Kioko": [
+              "Daniel J. Evans School of Public Policy and Governance University of Washington Seattle Washington USA"
+            ],
+            "Temirlan T. Moldogaziev": [
+              "Paul H. O'Neill School of Public and Environmental Affairs Indiana University Bloomington Indiana USA"
+            ]
+          },
+          "authors": [
+            "Sharon N. Kioko",
+            "Temirlan T. Moldogaziev"
+          ],
+          "constructs": [
+            "Managerial Discretion",
+            "Creditworthiness"
+          ],
+          "doi": "10.1111/puar.70220",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "혼합방법론",
+          "method_detail": "신용등급 분석",
+          "publication_date": "2026-10-12",
+          "stable_id": "doi:10.1111/puar.70220",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 정부의 축적된 재원에 대한 관리자의 재량이 신용도에 어떤 영향을 미치는지 신용등급을 대리변수로 분석한다. 분석 결과, 공식적 준비금의 존재만으로는 신용등급이 향상되지 않지만 축적 재원에 대한 관리자의 재량은 재정적 유연성과 신용도를 높이는 것으로 나타났다.",
+          "title": "Governing Reserves: Managerial Discretion and Government Creditworthiness",
+          "topic_area": "재무·예산",
+          "url": "https://doi.org/10.1111/puar.70220"
+        },
+        {
+          "abstract": "ABSTRACT Public participation can enhance policy quality and democratic legitimacy but may threaten bureaucratic control. We hypothesize that bureaucratic support for participation is higher when policies are less complex and participants are broadly representative. Using a mixed‐methods design involving Indonesian local public servants, we pursue complementarity by combining a 2 × 2 vignette‐based survey experiment with a Gioia analysis of qualitative reflections to explain the experimental results and further illuminate how bureaucrats evaluate participation. The experiment shows that participant representativeness significantly increases support, whereas policy complexity has no statistically significant effect. Integrating the experimental and qualitative data through joint displays reveals that bureaucrats rejecting participation frequently cite participant‐related risks, whereas supporters emphasize instrumental, procedural, and implementation benefits. Normative values, such as citizens' rights and democratic principles, are acknowledged regardless of bureaucrats' overall support. We conclude that bureaucratic support for public participation reflects how officials balance its promises, threats, and normative foundations.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Jesse W. Campbell": [
+              "Department of Public Administration Incheon National University Incheon South Korea"
+            ],
+            "Oscar Radyan Danar": [
+              "Department of Public Administration, Faculty of Administrative Sciences Brawijaya University Malang Indonesia"
+            ],
+            "Sanjay K. Pandey": [
+              "Trachtenberg School of Public Policy and Public Administration George Washington University Washington DC USA"
+            ]
+          },
+          "authors": [
+            "Jesse W. Campbell",
+            "Oscar Radyan Danar",
+            "Sanjay K. Pandey"
+          ],
+          "constructs": [
+            "Public Participation",
+            "Bureaucratic Support"
+          ],
+          "doi": "10.1111/puar.70226",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "혼합방법론",
+          "method_detail": "설문 실험·Gioia 분석",
+          "publication_date": "2026-10-12",
+          "stable_id": "doi:10.1111/puar.70226",
+          "summary_basis": "abstract",
+          "summary_ko": "관료의 공공참여 지지가 정책 복잡성과 참여자 대표성에 따라 어떻게 달라지는지, 인도네시아 지방공무원을 대상으로 2×2 설문 실험과 질적 성찰의 Gioia 분석을 결합해 분석했다. 참여자 대표성은 지지를 유의하게 높였지만 정책 복잡성의 효과는 통계적으로 유의하지 않았으며, 반대자는 참여자 관련 위험을, 지지자는 도구적·절차적·집행상의 이점을 주로 언급했고 시민의 권리와 민주적 원칙은 지지 여부와 무관하게 인정했다.",
+          "title": "Promises, Threats, and Norms: A Mixed Methods Study on Bureaucratic Support for Public Participation",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/puar.70226"
+        },
+        {
+          "abstract": "This study examines how citizens respond to democratic transgressions by political opponents and whether they, in turn, support reciprocal transgressions by their own party. Drawing on psychological theories of negative reciprocity, we argue that commitment to democratic principles is relational, shaped by the (un)democratic behavior of other political actors. Through survey experiments in England (N = 4,040) and the United States (N = 4,084) we find that exposure to opponents’ transgressions doubles citizens’ likelihood of endorsing undemocratic actions by their own party. Moreover, we document that tendencies to reciprocate transgressions are independent of citizens’ affective polarization levels. Thematic analyses of open responses (N = 907) reveal that many justify reciprocal transgressions as morally necessary to restore fairness and protect democracy. As such, our findings highlight the need for an interactive approach that captures the dynamic and morally complex nature of citizens’ attitudes towards democratic violations.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {},
+          "authors": [
+            "Lisa Janssen",
+            "Hannah Werner",
+            "Anna Kern"
+          ],
+          "constructs": [
+            "Negative Reciprocity",
+            "Affective Polarization"
+          ],
+          "doi": "10.1086/744129",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-09-29",
+          "stable_id": "doi:10.1086/744129",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 시민들이 정치적 상대의 민주주의 위반에 어떻게 반응하며, 그에 상응하는 자당의 비민주적 행동을 지지하는지를 영국과 미국의 설문 실험으로 분석했다. 상대의 위반에 노출된 시민은 자당의 비민주적 행동을 지지할 가능성이 약 두 배 높았고, 이러한 상호적 위반 지지는 정서적 양극화와 무관했으며, 일부 시민은 공정성 회복과 민주주의 보호를 위해 이를 도덕적으로 정당화했다.",
+          "title": "“When they go low, we kick them”: The reciprocal nature of citizens’ support for democratic transgressions",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/744129"
+        },
+        {
+          "abstract": "While the causes and consequences of gender bias are well documented, it remains unclear whether existing theories explain gender dynamics in China's civil service. This study addresses this gap by leveraging original administrative data from the Chinese National Civil Service Examination. The findings show widespread gender bias, with an increased supply of qualified female applicants in prior years prompting hiring authorities, particularly at lower levels of government, to adopt recruitment practices favoring male candidates. These malepreferred practices significantly reshape the candidate pool, reducing its size by 40-45% and lowering candidate quality by 4-5%. These findings deepen our understanding of women's persistent underrepresentation in the Chinese bureaucracy and highlight the substantial costs associated with gendered recruitment practices.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {},
+          "authors": [
+            "Xiaoxia Huang"
+          ],
+          "constructs": [
+            "Gender Bias",
+            "Bureaucratic Recruitment"
+          ],
+          "doi": "10.1086/744220",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "준실험",
+          "method_detail": "행정자료 분석",
+          "publication_date": "2026-09-29",
+          "stable_id": "doi:10.1086/744220",
+          "summary_basis": "abstract",
+          "summary_ko": "중국 국가공무원시험의 원자료를 활용해 중국 공무원 채용에서 성별 역학이 어떻게 나타나며 그 결과가 무엇인지 분석했다. 자격을 갖춘 여성 지원자 공급이 늘어난 이후 채용 당국, 특히 하위 정부 수준에서 남성을 선호하는 채용 관행을 강화했고, 이는 지원자 풀을 40~45% 줄이며 후보자 질을 4~5% 낮췄다.",
+          "title": "Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1086/744220"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -16973,7 +17210,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -17008,7 +17245,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -17033,7 +17270,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -17054,7 +17291,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -17075,7 +17312,77 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+    },
+    "doi:10.1080/14719037.2026.2738177": {
+      "first_seen_at": "2026-10-13T14:07:25.642891+00:00",
+      "item": {
+        "author_affiliations": {
+          "Meghna Sabharwal": [
+            "The University of Texas at Dallas"
+          ],
+          "Paulo Arvate": [
+            "Getulio Vargas Foundation"
+          ],
+          "Sandro Cabral": [
+            "Insper Institute of Education and Research, São Paulo, Brazil"
+          ],
+          "Trang Hoang": [
+            "Texas A&M University"
+          ]
+        },
+        "authors": [
+          "Paulo Arvate",
+          "Sandro Cabral",
+          "Trang Hoang",
+          "Meghna Sabharwal"
+        ],
+        "doi": "10.1080/14719037.2026.2738177",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-10-13",
+        "stable_id": "doi:10.1080/14719037.2026.2738177",
+        "title": "When women lead: women mayors and municipal police effectiveness in reducing homicide in Brazil",
+        "url": "https://doi.org/10.1080/14719037.2026.2738177"
+      },
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+    },
+    "doi:10.1080/14719037.2026.2745616": {
+      "first_seen_at": "2026-10-13T14:07:25.642891+00:00",
+      "item": {
+        "author_affiliations": {
+          "Adel AlSaqri": [
+            "Zayed University"
+          ],
+          "Ahmed Abdel-Maksoud": [
+            "Zayed University"
+          ],
+          "Graham Manville": [
+            "Zayed University"
+          ],
+          "Mike Perkins": [
+            "British University Vietnam"
+          ],
+          "Rashed A. Alzahmi": [
+            "United Arab Emirates University"
+          ]
+        },
+        "authors": [
+          "Adel AlSaqri",
+          "Ahmed Abdel-Maksoud",
+          "Rashed A. Alzahmi",
+          "Graham Manville",
+          "Mike Perkins"
+        ],
+        "doi": "10.1080/14719037.2026.2745616",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-10-13",
+        "stable_id": "doi:10.1080/14719037.2026.2745616",
+        "title": "Evaluating the validity of performance measurement systems in law enforcement: a pragmatic constructivism approach",
+        "url": "https://doi.org/10.1080/14719037.2026.2745616"
+      },
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17100,7 +17407,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17125,7 +17432,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17146,7 +17453,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17167,7 +17474,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17196,7 +17503,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17225,7 +17532,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17250,7 +17557,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17271,7 +17578,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -17291,7 +17598,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -17308,7 +17615,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -17329,7 +17636,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -17346,7 +17653,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -17364,7 +17671,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -17384,7 +17691,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17401,26 +17708,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
-    },
-    "doi:10.1086/744129": {
-      "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
-      "item": {
-        "author_affiliations": {},
-        "authors": [
-          "Lisa Janssen",
-          "Hannah Werner",
-          "Anna Kern"
-        ],
-        "doi": "10.1086/744129",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-09-29",
-        "stable_id": "doi:10.1086/744129",
-        "title": "“When they go low, we kick them”: The reciprocal nature of citizens’ support for democratic transgressions",
-        "url": "https://doi.org/10.1086/744129"
-      },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17438,7 +17726,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17457,7 +17745,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17475,24 +17763,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
-    },
-    "doi:10.1086/744220": {
-      "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
-      "item": {
-        "author_affiliations": {},
-        "authors": [
-          "Xiaoxia Huang"
-        ],
-        "doi": "10.1086/744220",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-09-29",
-        "stable_id": "doi:10.1086/744220",
-        "title": "Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China",
-        "url": "https://doi.org/10.1086/744220"
-      },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17511,7 +17782,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -17532,7 +17803,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17547,7 +17818,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -17562,7 +17833,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -17583,7 +17854,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -17598,7 +17869,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -17613,7 +17884,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-12T15:17:44.672837+00:00"
+      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
     }
   },
   "version": 1
