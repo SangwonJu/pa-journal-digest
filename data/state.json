@@ -376,6 +376,14 @@
       "sent_at": "2026-10-08T13:32:22.735438+00:00",
       "title": "The Idea of a Counter-Structure: Rethinking Collective Action against Climate Injustice"
     },
+    "doi:10.1017/s0003055426101944": {
+      "batch_id": "2026-10-13-a80e628f8ac1e1af",
+      "doi": "10.1017/s0003055426101944",
+      "journal": "American Political Science Review",
+      "publication_date": "2026-10-13",
+      "sent_at": "2026-10-13T14:14:22.617282+00:00",
+      "title": "Public Service Decline and Support for the Populist Right: Evidence from England’s National Health Service"
+    },
     "doi:10.1017/s0003055426101968": {
       "batch_id": "2026-09-29-66b14dcf36a3e330",
       "doi": "10.1017/s0003055426101968",
@@ -1480,6 +1488,22 @@
       "sent_at": "2026-09-15T11:47:52.748208+00:00",
       "title": "The seniority ceiling: Why some immigrants struggle to rise in political office"
     },
+    "doi:10.1086/744129": {
+      "batch_id": "2026-10-13-a80e628f8ac1e1af",
+      "doi": "10.1086/744129",
+      "journal": "The Journal of Politics",
+      "publication_date": "2026-09-29",
+      "sent_at": "2026-10-13T14:14:22.617282+00:00",
+      "title": "“When they go low, we kick them”: The reciprocal nature of citizens’ support for democratic transgressions"
+    },
+    "doi:10.1086/744220": {
+      "batch_id": "2026-10-13-a80e628f8ac1e1af",
+      "doi": "10.1086/744220",
+      "journal": "The Journal of Politics",
+      "publication_date": "2026-09-29",
+      "sent_at": "2026-10-13T14:14:22.617282+00:00",
+      "title": "Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China"
+    },
     "doi:10.1086/744325": {
       "batch_id": "2026-10-06-5276ba1beeee03e4",
       "doi": "10.1086/744325",
@@ -2520,6 +2544,14 @@
       "sent_at": "2026-10-03T11:49:13.899436+00:00",
       "title": "A Response to Don Kettl's Debate Article on the Future of Public Administration and Democracy"
     },
+    "doi:10.1111/puar.70220": {
+      "batch_id": "2026-10-13-a80e628f8ac1e1af",
+      "doi": "10.1111/puar.70220",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-10-12",
+      "sent_at": "2026-10-13T14:14:22.617282+00:00",
+      "title": "Governing Reserves: Managerial Discretion and Government Creditworthiness"
+    },
     "doi:10.1111/puar.70221": {
       "batch_id": "2026-10-02-71744c70849e0743",
       "doi": "10.1111/puar.70221",
@@ -2551,6 +2583,14 @@
       "publication_date": "2026-10-07",
       "sent_at": "2026-10-08T13:32:22.735438+00:00",
       "title": "Is Public Sector a Better Place for Moms to Work? Exploring Sector Difference in Child Penalties on Women"
+    },
+    "doi:10.1111/puar.70226": {
+      "batch_id": "2026-10-13-a80e628f8ac1e1af",
+      "doi": "10.1111/puar.70226",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-10-12",
+      "sent_at": "2026-10-13T14:14:22.617282+00:00",
+      "title": "Promises, Threats, and Norms: A Mixed Methods Study on Bureaucratic Support for Public Participation"
     },
     "doi:10.1177/00953997261467698": {
       "batch_id": "2026-08-17-92d20fbd959228aa",
@@ -2640,6 +2680,14 @@
       "sent_at": "2026-09-27T12:04:32.107617+00:00",
       "title": "Leading Humanistic Transformation of Business, Economy and Society: Lessons From Olivetti’s Blueprint"
     },
+    "doi:10.1177/00953997261489607": {
+      "batch_id": "2026-10-13-a80e628f8ac1e1af",
+      "doi": "10.1177/00953997261489607",
+      "journal": "Administration & Society",
+      "publication_date": "2026-10-12",
+      "sent_at": "2026-10-13T14:14:22.617282+00:00",
+      "title": "Neighbor Noise Problem in Multifamily Housing: An Integrative Framework for Resolution"
+    },
     "doi:10.1177/00953997261489610": {
       "batch_id": "2026-10-12-6f5bf96326cca221",
       "doi": "10.1177/00953997261489610",
@@ -2647,6 +2695,14 @@
       "publication_date": "2026-10-11",
       "sent_at": "2026-10-12T15:24:55.038805+00:00",
       "title": "The Citizen’s Seat at the Table: How Private Sector Behavior Fosters Alignment With Citizens in Public-Private Partnerships"
+    },
+    "doi:10.1177/00953997261489736": {
+      "batch_id": "2026-10-13-a80e628f8ac1e1af",
+      "doi": "10.1177/00953997261489736",
+      "journal": "Administration & Society",
+      "publication_date": "2026-10-12",
+      "sent_at": "2026-10-13T14:14:22.617282+00:00",
+      "title": "Flattening Without Leveling: Visibility-Driven Flexible Re-Hierarchization in Government Digital Communication"
     },
     "doi:10.1177/02750740261473616": {
       "batch_id": "2026-08-10-379897b0e0907946",
@@ -17187,7 +17243,8 @@
           "url": "https://doi.org/10.1086/744220"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-13T14:14:22.617282+00:00",
+      "status": "sent"
     }
   },
   "pending": {
