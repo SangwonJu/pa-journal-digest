@@ -17245,6 +17245,146 @@
       ],
       "sent_at": "2026-10-13T14:14:22.617282+00:00",
       "status": "sent"
+    },
+    "2026-10-14-c9bebbdbf6f10cf9": {
+      "created_at": "2026-10-14T11:47:57.221501+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-14-c9bebbdbf6f10cf9",
+      "items": [
+        {
+          "abstract": "Abstract Why do authorities demolish informal settlements in metropolises? The social sciences have a long tradition of addressing this issue through the lens of economic development or welfare provision. I instead propose a theory of political control. Autocrats adopt demolition as a preemptive and coercive tool to remove communities substantively and symbolically less legible to them, thereby ensuring societal compliance and restoring visual order. Empirically, I compile a unique dataset of 320 demolished and undemolished informal settlements in Beijing between 2017 and 2018, based on satellite imagery, digital street views, and fieldwork. The results indicate that the low legibility of informal settlements to authorities correlates with a greater likelihood of demolition. This paper contributes to the social science literature by connecting legibility politics with urban governance. It also introduces a spatial perspective and leverages novel data sources to deepen our understanding of preemptive coercion under authoritarianism.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Shiqi Ma": [
+              "Department of Politics and International Studies SOAS University of London London United Kingdom"
+            ]
+          },
+          "authors": [
+            "Shiqi Ma"
+          ],
+          "constructs": [
+            "Legibility",
+            "Preemptive Coercion"
+          ],
+          "doi": "10.1111/ajps.70085",
+          "journal": "American Journal of Political Science",
+          "journal_short": "AJPS",
+          "method": "혼합방법론",
+          "method_detail": "공간자료 분석",
+          "publication_date": "2026-10-14",
+          "stable_id": "doi:10.1111/ajps.70085",
+          "summary_basis": "abstract",
+          "summary_ko": "권위주의 정권이 왜 대도시의 비공식 정착지를 철거하는지 설명하기 위해, 베이징의 2017~2018년 철거·미철거 정착지 320곳을 위성영상·디지털 거리뷰·현지조사로 분석했다. 당국이 실질적·상징적으로 파악하기 어려운 정착지일수록 철거될 가능성이 높아, 철거가 사회적 순응을 확보하고 시각적 질서를 회복하려는 선제적 강압 수단임을 보인다.",
+          "title": "Spatiality of preemptive coercion: How autocrats demolish informal settlements for political control",
+          "topic_area": "지방·도시",
+          "url": "https://doi.org/10.1111/ajps.70085"
+        },
+        {
+          "abstract": "Abstract Annotated text data are central to many empirical applications in political science, yet many annotation tasks involve categories that are sparsely populated. These low- N categories pose problems for both encoder-only and decoder-only (generative) Transformer large language models (LLMs), leading to low performance, biased evaluation and measurement error in downstream analyses. This article introduces the synthetic imputation approach, a targeted method for expanding sparse categories while remaining consistent with the category-defining content of the human-coded examples. The approach uses a generative LLM to produce additional texts for underrepresented categories by conditioning on small, rotating subsets of human-coded examples. Rather than paraphrasing or replacing the original data, synthetic imputation adds informative variation only where data are thin. I evaluate the approach using both encoder-only and decoder-only LLM classifiers across multiple political science applications. The results show that synthetic imputation substantially improves performance and evaluation stability in sparse settings, recovering full-sample performance once a modest number of true observations is available, with limited and predictable overfitting at very low levels of N .",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Joan C. Timoneda": [
+              "Purdue University"
+            ]
+          },
+          "authors": [
+            "Joan C. Timoneda"
+          ],
+          "constructs": [
+            "Synthetic Imputation",
+            "Large Language Models"
+          ],
+          "doi": "10.1017/pan.2026.10057",
+          "journal": "Political Analysis",
+          "journal_short": "PolAnalysis",
+          "method": "실험",
+          "method_detail": "LLM 분류 실험",
+          "publication_date": "2026-10-14",
+          "stable_id": "doi:10.1017/pan.2026.10057",
+          "summary_basis": "abstract",
+          "summary_ko": "정치학의 지도학습 분류에서 표본이 부족한 범주의 성능과 평가 불안정을 개선할 수 있는지 검토하기 위해, 소수의 인간 코딩 사례를 순환적으로 조건화한 생성형 LLM으로 해당 범주의 합성 텍스트를 생성해 데이터를 확장하는 합성 대치 접근법을 제안하고 여러 응용에서 평가했다. 그 결과 실제 관측치가 적정 수준 확보되면 전체 표본 수준의 성능을 회복했고, 매우 낮은 표본 수에서는 제한적이고 예측 가능한 과적합이 나타났다.",
+          "title": "The Synthetic Imputation Approach: Using LLMs to Generate Synthetic Texts for Underrepresented Categories in Supervised Classification Tasks",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1017/pan.2026.10057"
+        },
+        {
+          "abstract": "Abstract Although sexism may serve as a gateway into the men's rights movement, few studies have examined group processes in online environments that fuel this reactionary movement. We address this gap by examining whether interacting with like‐minded others fosters an emergent social identity as a “men's rights supporter” among sexist men; and whether identification predicts willingness to engage in reactionary actions undermining gender equality. Across two studies ( N s = 443, 755), men completed a hostile sexism measure and read about the perceived impacts of feminism on men. Participants then either discussed whether feminism negatively impacts men in an online chatroom (group deliberation) or reflected individually (individual deliberation). Hostile sexism predicted identification as a men's rights supporter, and this link was stronger in the group deliberation condition. In turn, identification predicted greater reactionary action intentions. Unexpectedly, these effects emerged only among men who indicated that their group was unsure about the impact of feminism after the discussion. A post‐hoc content analysis of the pooled chat logs revealed that these men engaged in discussions marked by conflict and disagreement, suggesting that identification with the movement emerged through dissent rather than consensus. These findings highlight complex social dynamics underpinning engagement with the men's rights movement.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Anna C. Barron": [
+              "School of Public and International Affairs Princeton University Princeton New Jersey USA"
+            ],
+            "Cassandra M. Quarisa": [
+              "Flinders University Institute for Mental Health and Wellbeing, College of Human Sciences and Culture Flinders University Adelaide South Australia Australia"
+            ],
+            "Danny Osborne": [
+              "School of Psychology University of Auckland Auckland New Zealand"
+            ],
+            "Emma F. Thomas": [
+              "Flinders University Institute for Mental Health and Wellbeing, College of Human Sciences and Culture Flinders University Adelaide South Australia Australia"
+            ],
+            "Morgana Lizzio‐Wilson": [
+              "Department of Psychology University of Exeter Exeter UK",
+              "Flinders University Institute for Mental Health and Wellbeing, College of Human Sciences and Culture Flinders University Adelaide South Australia Australia"
+            ]
+          },
+          "authors": [
+            "Morgana Lizzio‐Wilson",
+            "Emma F. Thomas",
+            "Cassandra M. Quarisa",
+            "Anna C. Barron",
+            "Danny Osborne"
+          ],
+          "constructs": [
+            "Hostile Sexism",
+            "Social Identity"
+          ],
+          "doi": "10.1111/pops.70192",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-14",
+          "stable_id": "doi:10.1111/pops.70192",
+          "summary_basis": "abstract",
+          "summary_ko": "적대적 성차별이 남성권리 지지자 정체성과 반동적 행동 의도에 미치는 영향을, 온라인 집단 토론과 개별 숙고를 비교하는 두 연구로 분석했다. 적대적 성차별은 남성권리 지지자 정체성을 예측했고 그 연관성은 집단 토론에서 더 강했으며, 정체성은 반동적 행동 의도를 예측했지만 이러한 효과는 토론 후 집단이 페미니즘의 남성 영향에 확신이 없다고 인식한 남성에게만 나타났다.",
+          "title": "From misogyny to mobilization: Hostile sexism and conflictual online discussions indirectly predict men's rights activism via heightened identification as a men's rights supporter",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70192"
+        },
+        {
+          "abstract": "ABSTRACT To compete in the “war for talent,” public sector employers must demonstrate advantages over private employers. While public service motivation (PSM) predicts sector preference, scholars disagree on whether public employers (can) effectively signal PSM in job advertisements. Consequently, this article examines how public and private job advertisements differ in language. We collected 5000 advertisements from both sectors and performed natural language processing (NLP) and qualitative content analysis. Both sectors use specialized language that can narrow the applicant pool. PSM signals appear more often in the public sector, but affective motives are rarely communicated; instead, self‐sacrifice is framed as a legal obligation. Public sector advertisements adopt a rational tone instead of explaining purpose and societal value. Legally mandated, saturated signals may be perceived as low‐cost and ineffective. The findings explain the mixed results concerning PSM signaling and underscore the gap between theory and practice in PSM‐related recruitment efforts.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Nico Gießmann": [
+              "Institute of Human‐Centered Interactive Systems, University of Luebeck Lübeck Germany"
+            ],
+            "Nicolas Drathschmidt": [
+              "Chair of Public and Nonprofit Management University of Potsdam Potsdam Germany"
+            ]
+          },
+          "authors": [
+            "Nico Gießmann",
+            "Nicolas Drathschmidt"
+          ],
+          "constructs": [
+            "PSM",
+            "Signaling"
+          ],
+          "doi": "10.1111/puar.70223",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "혼합방법론",
+          "method_detail": "NLP 내용분석",
+          "publication_date": "2026-10-14",
+          "stable_id": "doi:10.1111/puar.70223",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 공공·민간 부문 채용공고의 언어가 공공서비스동기(PSM)를 어떻게 신호하는지 비교하기 위해 양 부문 5,000건의 공고를 NLP와 질적 내용분석으로 분석했다. PSM 신호는 공공부문에서 더 자주 나타났지만 정서적 동기는 거의 전달되지 않고 자기희생이 법적 의무로 제시되며, 공공공고는 목적과 사회적 가치를 설명하기보다 합리적 어조와 법정 문구에 의존하는 것으로 나타났다.",
+          "title": "Between the Lines: Decoding Signaling Differences in Public and Private Sector Job Advertisements",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1111/puar.70223"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -17267,7 +17407,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -17302,7 +17442,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -17327,7 +17467,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -17348,7 +17488,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -17369,7 +17509,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1080/14719037.2026.2738177": {
       "first_seen_at": "2026-10-13T14:07:25.642891+00:00",
@@ -17402,7 +17542,7 @@
         "title": "When women lead: women mayors and municipal police effectiveness in reducing homicide in Brazil",
         "url": "https://doi.org/10.1080/14719037.2026.2738177"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1080/14719037.2026.2745616": {
       "first_seen_at": "2026-10-13T14:07:25.642891+00:00",
@@ -17439,7 +17579,7 @@
         "title": "Evaluating the validity of performance measurement systems in law enforcement: a pragmatic constructivism approach",
         "url": "https://doi.org/10.1080/14719037.2026.2745616"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17464,7 +17604,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17489,7 +17629,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17510,7 +17650,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17531,7 +17671,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17560,7 +17700,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17589,7 +17729,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17614,7 +17754,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17635,7 +17775,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -17655,7 +17795,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -17672,7 +17812,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -17693,7 +17833,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -17710,7 +17850,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -17728,7 +17868,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -17748,7 +17888,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17765,7 +17905,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17783,7 +17923,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17802,7 +17942,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17820,7 +17960,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17839,7 +17979,79 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+    },
+    "doi:10.1086/744412": {
+      "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Stephan Stohler",
+          "Emily Thorson"
+        ],
+        "doi": "10.1086/744412",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-13",
+        "stable_id": "doi:10.1086/744412",
+        "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
+        "url": "https://doi.org/10.1086/744412"
+      },
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+    },
+    "doi:10.1086/744413": {
+      "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Michal Ovádek",
+          "Tommaso Pavone"
+        ],
+        "doi": "10.1086/744413",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-13",
+        "stable_id": "doi:10.1086/744413",
+        "title": "Are Citizens Inoculated by Past Democratic Backsliding?",
+        "url": "https://doi.org/10.1086/744413"
+      },
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+    },
+    "doi:10.1086/744414": {
+      "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Peter Steinberger"
+        ],
+        "doi": "10.1086/744414",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-13",
+        "stable_id": "doi:10.1086/744414",
+        "title": "The Ground of Judgment",
+        "url": "https://doi.org/10.1086/744414"
+      },
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+    },
+    "doi:10.1086/744415": {
+      "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Jay Nash Krehbiel",
+          "Amanda Driscoll",
+          "Michael Nelson"
+        ],
+        "doi": "10.1086/744415",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-13",
+        "stable_id": "doi:10.1086/744415",
+        "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
+        "url": "https://doi.org/10.1086/744415"
+      },
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -17860,7 +18072,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17875,7 +18087,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -17890,7 +18102,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -17911,7 +18123,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -17926,7 +18138,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -17941,7 +18153,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-13T14:07:25.642891+00:00"
+      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
     }
   },
   "version": 1
