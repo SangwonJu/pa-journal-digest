@@ -304,6 +304,14 @@
       "sent_at": "2026-09-16T11:36:21.141999+00:00",
       "title": "Turning Hazard Models Inside Out"
     },
+    "doi:10.1017/pan.2026.10057": {
+      "batch_id": "2026-10-14-c9bebbdbf6f10cf9",
+      "doi": "10.1017/pan.2026.10057",
+      "journal": "Political Analysis",
+      "publication_date": "2026-10-14",
+      "sent_at": "2026-10-14T11:54:30.601808+00:00",
+      "title": "The Synthetic Imputation Approach: Using LLMs to Generate Synthetic Texts for Underrepresented Categories in Supervised Classification Tasks"
+    },
     "doi:10.1017/s0003055426101774": {
       "batch_id": "2026-10-03-7757ef6e672473a1",
       "doi": "10.1017/s0003055426101774",
@@ -1696,6 +1704,14 @@
       "sent_at": "2026-08-21T11:42:27.574271+00:00",
       "title": "A theory of political divergence and gradual institutional change"
     },
+    "doi:10.1111/ajps.70085": {
+      "batch_id": "2026-10-14-c9bebbdbf6f10cf9",
+      "doi": "10.1111/ajps.70085",
+      "journal": "American Journal of Political Science",
+      "publication_date": "2026-10-14",
+      "sent_at": "2026-10-14T11:54:30.601808+00:00",
+      "title": "Spatiality of preemptive coercion: How autocrats demolish informal settlements for political control"
+    },
     "doi:10.1111/ajps.70086": {
       "batch_id": "2026-08-27-5640af3b3889d675",
       "doi": "10.1111/ajps.70086",
@@ -2023,6 +2039,14 @@
       "publication_date": "2026-09-08",
       "sent_at": "2026-09-08T15:11:37.619420+00:00",
       "title": "Revisiting the SciPop Scale: Measurement alignment, scoring rules, and cross‐context comparability"
+    },
+    "doi:10.1111/pops.70192": {
+      "batch_id": "2026-10-14-c9bebbdbf6f10cf9",
+      "doi": "10.1111/pops.70192",
+      "journal": "Political Psychology",
+      "publication_date": "2026-10-14",
+      "sent_at": "2026-10-14T11:54:30.601808+00:00",
+      "title": "From misogyny to mobilization: Hostile sexism and conflictual online discussions indirectly predict men's rights activism via heightened identification as a men's rights supporter"
     },
     "doi:10.1111/pops.70193": {
       "batch_id": "2026-09-10-7978cc8f69926341",
@@ -2567,6 +2591,14 @@
       "publication_date": "2026-10-02",
       "sent_at": "2026-10-02T12:41:44.946213+00:00",
       "title": "Hindered From Making a Difference: How Increasing Organizational Constraints Undermine Public Servants' Perceptions of Prosocial Impact and Why It Matters"
+    },
+    "doi:10.1111/puar.70223": {
+      "batch_id": "2026-10-14-c9bebbdbf6f10cf9",
+      "doi": "10.1111/puar.70223",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-10-14",
+      "sent_at": "2026-10-14T11:54:30.601808+00:00",
+      "title": "Between the Lines: Decoding Signaling Differences in Public and Private Sector Job Advertisements"
     },
     "doi:10.1111/puar.70224": {
       "batch_id": "2026-10-10-4ae4fca95239afba",
@@ -17384,7 +17416,8 @@
           "url": "https://doi.org/10.1111/puar.70223"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-14T11:54:30.601808+00:00",
+      "status": "sent"
     }
   },
   "pending": {
