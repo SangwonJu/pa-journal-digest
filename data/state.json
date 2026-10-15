@@ -16,6 +16,22 @@
       "sent_at": "2026-09-03T15:05:53.210352+00:00",
       "title": "Administrative Burden and the Access–Fraud Trade‐Off"
     },
+    "doi:10.1002/pam.70134": {
+      "batch_id": "2026-10-15-53ff636cf819e984",
+      "doi": "10.1002/pam.70134",
+      "journal": "Journal of Policy Analysis and Management",
+      "publication_date": "2026-10-14",
+      "sent_at": "2026-10-15T11:32:38.992812+00:00",
+      "title": "Means‐Tested Public Transportation Subsidies: Causal Evidence and Implications"
+    },
+    "doi:10.1002/pam.70136": {
+      "batch_id": "2026-10-15-53ff636cf819e984",
+      "doi": "10.1002/pam.70136",
+      "journal": "Journal of Policy Analysis and Management",
+      "publication_date": "2026-10-14",
+      "sent_at": "2026-10-15T11:32:38.992812+00:00",
+      "title": "Returns to Caring? Health and Well‐Being Effects of Subsidized Long‐Term Care"
+    },
     "doi:10.1007/s11109-026-10185-0": {
       "batch_id": "2026-10-06-5276ba1beeee03e4",
       "doi": "10.1007/s11109-026-10185-0",
@@ -152,6 +168,14 @@
       "sent_at": "2026-10-06T13:28:16.209368+00:00",
       "title": "Decoding Corruption Cycles: Extractive versus Collusive Corruption"
     },
+    "doi:10.1007/s11109-026-10207-x": {
+      "batch_id": "2026-10-15-53ff636cf819e984",
+      "doi": "10.1007/s11109-026-10207-x",
+      "journal": "Political Behavior",
+      "publication_date": "2026-10-15",
+      "sent_at": "2026-10-15T11:32:38.992812+00:00",
+      "title": "Voice After Exit: the Prioritization of Homeland-Facing Foreign Policy Among the Hong Kong Diaspora"
+    },
     "doi:10.1007/s11109-026-10209-9": {
       "batch_id": "2026-10-06-5276ba1beeee03e4",
       "doi": "10.1007/s11109-026-10209-9",
@@ -159,6 +183,30 @@
       "publication_date": "2026-10-06",
       "sent_at": "2026-10-06T13:28:16.209368+00:00",
       "title": "How Policy Design Affects Perceptions of Beneficiaries and Support for Welfare"
+    },
+    "doi:10.1007/s11109-026-10214-y": {
+      "batch_id": "2026-10-15-53ff636cf819e984",
+      "doi": "10.1007/s11109-026-10214-y",
+      "journal": "Political Behavior",
+      "publication_date": "2026-10-14",
+      "sent_at": "2026-10-15T11:32:38.992812+00:00",
+      "title": "Partisan Wishful Thinking in Polarized Times"
+    },
+    "doi:10.1007/s11109-026-10215-x": {
+      "batch_id": "2026-10-15-53ff636cf819e984",
+      "doi": "10.1007/s11109-026-10215-x",
+      "journal": "Political Behavior",
+      "publication_date": "2026-10-15",
+      "sent_at": "2026-10-15T11:32:38.992812+00:00",
+      "title": "Conversation Without Conversion: Evidence from Cross-Partisan Interactions on a Mobile Chat Platform"
+    },
+    "doi:10.1007/s11109-026-10216-w": {
+      "batch_id": "2026-10-15-53ff636cf819e984",
+      "doi": "10.1007/s11109-026-10216-w",
+      "journal": "Political Behavior",
+      "publication_date": "2026-10-15",
+      "sent_at": "2026-10-15T11:32:38.992812+00:00",
+      "title": "Relational Clientelism, Information Processing, and Accountability"
     },
     "doi:10.1016/j.giq.2026.102149": {
       "batch_id": "2026-09-01-1560b88b8d2d7127",
@@ -1128,6 +1176,14 @@
       "sent_at": "2026-09-23T11:38:22.380172+00:00",
       "title": "Executive agencies in developing countries: the case of the parastatal organizations in Suriname"
     },
+    "doi:10.1080/14719037.2026.2738177": {
+      "batch_id": "2026-10-15-53ff636cf819e984",
+      "doi": "10.1080/14719037.2026.2738177",
+      "journal": "Public Management Review",
+      "publication_date": "2026-10-13",
+      "sent_at": "2026-10-15T11:32:38.992812+00:00",
+      "title": "When women lead: women mayors and municipal police effectiveness in reducing homicide in Brazil"
+    },
     "doi:10.1080/14719037.2026.2738179": {
       "batch_id": "2026-09-30-7120f5ca0e0951f8",
       "doi": "10.1080/14719037.2026.2738179",
@@ -1223,6 +1279,14 @@
       "publication_date": "2026-10-06",
       "sent_at": "2026-10-07T13:30:01.879676+00:00",
       "title": "Impact of organizational goals, leadership styles, and organizational culture on employee outcomes in the Korean public sector"
+    },
+    "doi:10.1080/14719037.2026.2745616": {
+      "batch_id": "2026-10-15-53ff636cf819e984",
+      "doi": "10.1080/14719037.2026.2745616",
+      "journal": "Public Management Review",
+      "publication_date": "2026-10-13",
+      "sent_at": "2026-10-15T11:32:38.992812+00:00",
+      "title": "Evaluating the validity of performance measurement systems in law enforcement: a pragmatic constructivism approach"
     },
     "doi:10.1080/15309576.2026.2700771": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -1519,6 +1583,14 @@
       "publication_date": "2026-10-05",
       "sent_at": "2026-10-06T13:28:16.209368+00:00",
       "title": "External Threats and Support for Military Service under Authoritarian Rule"
+    },
+    "doi:10.1086/744413": {
+      "batch_id": "2026-10-15-53ff636cf819e984",
+      "doi": "10.1086/744413",
+      "journal": "The Journal of Politics",
+      "publication_date": "2026-10-13",
+      "sent_at": "2026-10-15T11:32:38.992812+00:00",
+      "title": "Are Citizens Inoculated by Past Democratic Backsliding?"
     },
     "doi:10.1093/jopart/muag020": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -2623,6 +2695,14 @@
       "publication_date": "2026-10-12",
       "sent_at": "2026-10-13T14:14:22.617282+00:00",
       "title": "Promises, Threats, and Norms: A Mixed Methods Study on Bureaucratic Support for Public Participation"
+    },
+    "doi:10.1111/puar.70231": {
+      "batch_id": "2026-10-15-53ff636cf819e984",
+      "doi": "10.1111/puar.70231",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-10-15",
+      "sent_at": "2026-10-15T11:32:38.992812+00:00",
+      "title": "Steering and Setting Free: Insights From a 20‐Year Retrospective Case Study of a Security and Justice Organization's Digital Transformation"
     },
     "doi:10.1177/00953997261467698": {
       "batch_id": "2026-08-17-92d20fbd959228aa",
@@ -17754,7 +17834,8 @@
           "url": "https://doi.org/10.1086/744413"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-15T11:32:38.992812+00:00",
+      "status": "sent"
     }
   },
   "pending": {
