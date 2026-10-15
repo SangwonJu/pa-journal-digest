@@ -17418,6 +17418,343 @@
       ],
       "sent_at": "2026-10-14T11:54:30.601808+00:00",
       "status": "sent"
+    },
+    "2026-10-15-53ff636cf819e984": {
+      "created_at": "2026-10-15T11:24:26.713814+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-15-53ff636cf819e984",
+      "items": [
+        {
+          "abstract": "ABSTRACT This paper evaluates the effects of a novel and large‐scale program in King County, Washington, that provides fare‐free public transportation to individuals with low incomes. Using both experimental and quasi‐experimental methods together with rich administrative and survey data, we find that providing free transit has very limited effects on mobility or downstream outcomes related to health and well‐being. We examine possible explanations for the modest effects, which contrast with findings from prior research. Our results suggest that changes in the external environment post‐COVID‐19 pandemic, including changes in norms around fare evasion, reduced the price elasticity of demand for travel by transit among individuals with low incomes.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Atheendar Venkataramani": [
+              "University of Pennsylvania Philadelphia Pennsylvania USA"
+            ],
+            "David Phillips": [
+              "University of Notre Dame Notre Dame Indiana USA"
+            ],
+            "Matthew Freedman": [
+              "University of California, Irvine Irvine California USA"
+            ],
+            "Seoyoon Ahn": [
+              "University of Notre Dame Notre Dame Indiana USA"
+            ]
+          },
+          "authors": [
+            "Seoyoon Ahn",
+            "Matthew Freedman",
+            "David Phillips",
+            "Atheendar Venkataramani"
+          ],
+          "constructs": [
+            "Price Elasticity",
+            "Fare Evasion"
+          ],
+          "doi": "10.1002/pam.70134",
+          "journal": "Journal of Policy Analysis and Management",
+          "journal_short": "JPAM",
+          "method": "혼합방법론",
+          "method_detail": "실험·준실험",
+          "publication_date": "2026-10-14",
+          "stable_id": "doi:10.1002/pam.70134",
+          "summary_basis": "abstract",
+          "summary_ko": "워싱턴주 킹카운티의 저소득층 무임 대중교통 보조가 이동성과 건강·웰빙 관련 후속 결과에 미친 효과를 실험 및 준실험 방법과 행정·설문 자료로 평가했다. 무임승차의 효과는 매우 제한적이었으며, 코로나19 이후 외부 환경과 요금 회피 규범의 변화가 저소득층의 대중교통 수요 가격탄력성을 낮춘 것이 가능한 설명으로 제시되었다.",
+          "title": "Means‐Tested Public Transportation Subsidies: Causal Evidence and Implications",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1002/pam.70134"
+        },
+        {
+          "abstract": "ABSTRACT We estimate the health and well‐being effects of subsidized access to long‐term care (LTC). Our analysis exploits the staggered implementation of Spain's 2007 System of Autonomy and Care for Dependent People (SAAD), which expanded publicly funded and universal LTC subsidies and supports, as well as its subsequent reform. Using two decades of administrative and survey data and leveraging exogenous regional and individual‐level variation in program exposure, we find that access to SAAD benefits reduces the care receiver's depressive symptoms by approximately 10 percentage points, increases its survival probability by 2.6–3 percentage points, and raises its life satisfaction by 0.24–0.50 scale points. Cost‐effectiveness estimates indicate that the implied cost per quality‐adjusted life year (QALY) gained lies below commonly accepted efficiency thresholds for public health spending in Europe. These findings document sizeable health returns and efficiency gains from publicly subsidized LTC provision.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Cristina Vilaplana‐Prieto": [
+              "University of Murcia Murcia Spain"
+            ],
+            "Joan Costa‐Font": [
+              "Department of Health Policy London School of Economics and Political Science (LSE) London UK",
+              "CESIfo Munich Germany",
+              "IZA Bonn Germany"
+            ],
+            "Sergi Jiménez‐Martín": [
+              "Universitat Pompeu Fabra Barcelona Spain",
+              "Barcelona School of Economics (BSE) Barcelona Spain"
+            ]
+          },
+          "authors": [
+            "Joan Costa‐Font",
+            "Sergi Jiménez‐Martín",
+            "Cristina Vilaplana‐Prieto"
+          ],
+          "constructs": [
+            "Long-Term Care",
+            "Quality-Adjusted Life Year"
+          ],
+          "doi": "10.1002/pam.70136",
+          "journal": "Journal of Policy Analysis and Management",
+          "journal_short": "JPAM",
+          "method": "준실험",
+          "method_detail": "단계적 정책도입",
+          "publication_date": "2026-10-14",
+          "stable_id": "doi:10.1002/pam.70136",
+          "summary_basis": "abstract",
+          "summary_ko": "스페인의 장기요양 보조금 제도(SAAD)에 대한 노출이 수급자의 건강과 웰빙에 미치는 효과를 추정하기 위해, 제도의 지역·개인별 단계적 도입과 개혁을 활용하고 20년간의 행정·설문 자료를 분석했다. SAAD 혜택은 우울 증상을 약 10%포인트 낮추고 생존확률을 2.6~3%포인트 높이며 삶의 만족도를 0.24~0.50점 높였고, 추가된 QALY당 비용은 유럽의 공공보건 지출에서 통용되는 효율성 기준보다 낮게 추정됐다.",
+          "title": "Returns to Caring? Health and Well‐Being Effects of Subsidized Long‐Term Care",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1002/pam.70136"
+        },
+        {
+          "abstract": "Partisans engage in “wishful thinking” ahead of elections, being more likely to expect their party to win than lose at the polls. This article asserts high expectations as endemic to the current polarized era in US politics. In today’s presidential races, 90% of voters expect their preferred candidate to triumph, a sharp increase from just two decades ago. Drawing on the American National Election Study’s 2016–2024 panel survey, I show that partisan animosity (or out-party hate) is robustly associated with high electoral hopes, and using surveys from 1980 to the present, I show that it corresponds with a sizable share of the increase in these expectations over time. Finally, I explore reciprocity in this relationship. An analysis of ANES data from presidential elections between 1996 and 2024 finds that high expectations associate with greater post-election animosity among an election’s losers, independently of their pre-election attitudes.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Seth Warner": [
+              "University of Connecticut"
+            ]
+          },
+          "authors": [
+            "Seth Warner"
+          ],
+          "constructs": [
+            "Wishful Thinking",
+            "Partisan Animosity"
+          ],
+          "doi": "10.1007/s11109-026-10214-y",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "서베이",
+          "method_detail": "패널 설문",
+          "publication_date": "2026-10-14",
+          "stable_id": "doi:10.1007/s11109-026-10214-y",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 미국의 양극화가 선거 전 정당 지지자의 승리 기대를 어떻게 높이는지, 그리고 이러한 기대가 선거 후 패배자의 적대감과 어떤 관련이 있는지를 ANES 2016~2024년 패널 및 1980년 이후 설문자료로 분석한다. 정당 간 적대감은 높은 승리 기대와 강하게 연관되고 기대 수준의 장기적 증가를 상당 부분 설명하며, 높은 기대는 사전 태도와 무관하게 패배 후 적대감 증가와도 관련된다.",
+          "title": "Partisan Wishful Thinking in Polarized Times",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1007/s11109-026-10214-y"
+        },
+        {
+          "abstract": "Recent research on political persuasion suggests that narrative- and evidence-based messages can effectively change attitudes in settings such as canvassing, video presentations, and survey experiments. Yet less is known about how these persuasive strategies operate in free-flowing, two-way, cross-partisan political conversations. This study examines the relationship between persuasive message types, conversational reciprocity, and post-discussion attitudes using survey and text data from 966 U.S. participants engaged in anonymous one-on-one political discussions on DiscussIt, a mobile chat platform. I analyze how personal narratives and evidence-based arguments relate to conversational interaction outcomes and measurable attitude change. Participants exposed to more personal narratives were more likely to perceive their conversation partner as influential and report more positive conversational experiences, particularly when narrative exchanges were mutually reciprocated. In contrast, evidence-based exchanges were associated with lower perceived interpersonal influence, lower conversational enjoyment, and greater perceptions of relative knowledge. Despite these differences, neither strategy was associated with significant changes in immediate or delayed political attitudes. Unlike studies of unidirectional persuasive messages, this research examines spontaneous peer-to-peer political conversations. Results suggest that persuasive strategies relate to relational and experiential outcomes more than political attitudes.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {},
+          "authors": [
+            "Diana Jordan"
+          ],
+          "constructs": [
+            "Political Persuasion",
+            "Conversational Reciprocity"
+          ],
+          "doi": "10.1007/s11109-026-10215-x",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "혼합방법론",
+          "method_detail": "설문·텍스트 분석",
+          "publication_date": "2026-10-15",
+          "stable_id": "doi:10.1007/s11109-026-10215-x",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 익명 모바일 채팅 플랫폼에서 이루어진 966명의 양당 간 정치 대화를 대상으로, 개인적 서사와 근거 기반 논증 및 상호 호혜성이 대화 경험과 정치적 태도 변화와 어떤 관련이 있는지 설문·텍스트 자료로 분석했다. 개인적 서사는 상대방의 영향력 인식과 긍정적 대화 경험을 높였고, 근거 기반 교환은 이를 낮췄지만 두 전략 모두 즉각적·지연된 정치적 태도 변화와는 유의한 관련이 없었다.",
+          "title": "Conversation Without Conversion: Evidence from Cross-Partisan Interactions on a Mobile Chat Platform",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1007/s11109-026-10215-x"
+        },
+        {
+          "abstract": "Abstract Research shows that providing information on incumbent programmatic performance often has limited impact on citizen attitudes towards incumbents, even if citizens tend to care strongly about corruption and service delivery. We use a survey experiment in South Africa and Tunisia to study if relational clientelism, a type of clientelism often valued by clients, plays a role in this puzzle. We present respondents with a radiocast that varies the profile of the politician (clientelistic vs. neutral) and his performance in service delivery and corruption (good vs. bad). We find that, when clientelistic politicians are valued, performance information on them matters less than for neutral politicians. The effect appears to operate via motivated reasoning: Respondents are less likely to process negative performance information when exposed to the clientelistic profile. Our findings suggest that, in certain contexts, relational clientelism is a valued candidate characteristic that can offset bad programmatic performance akin to co-partisanship or co-ethnicity.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {},
+          "authors": [
+            "Miquel Pellicer",
+            "Eva Wegner"
+          ],
+          "constructs": [
+            "Relational Clientelism",
+            "Motivated Reasoning"
+          ],
+          "doi": "10.1007/s11109-026-10216-w",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-15",
+          "stable_id": "doi:10.1007/s11109-026-10216-w",
+          "summary_basis": "abstract",
+          "summary_ko": "남아프리카공화국과 튀니지에서 정치인의 고객주의적 또는 중립적 특성과 공공서비스·부패 성과 정보를 제시하는 설문실험을 통해, 관계적 고객주의가 성과 정보에 대한 시민의 반응을 약화시키는지 분석했다. 고객주의적 정치인을 가치 있게 여기는 응답자들은 중립적 정치인보다 그에 관한 부정적 성과 정보를 덜 처리했으며, 이는 동기화된 추론을 통해 나타나는 것으로 보였다.",
+          "title": "Relational Clientelism, Information Processing, and Accountability",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1007/s11109-026-10216-w"
+        },
+        {
+          "abstract": "Abstract Citizens around the world have migrated under the shadow of authoritarianism, and many are increasingly acquiring political and voting rights in their host countries. Yet we know little about the content of their foreign-policy preferences or the salience with which they prioritize homeland-facing issues relative to domestic concerns. We argue that experiences of authoritarian rule prior to migration generate anti-regime sentiments among diasporas, inclining them toward hawkish foreign-policy positions toward the homeland regime. These preferences heighten the salience of homeland-facing foreign policy, even relative to highly consequential domestic issues. We test this argument with harmonized candidate-choice experiments administered to an original sample of Hong Kong diasporas in four host countries (Australia, Canada, the United Kingdom, and the United States). We find that respondents strongly preferred candidates advocating hawkish economic and geopolitical policies against China. These foreign-policy positions were consistently prioritized over salient domestic issues such as healthcare and the economy, and this structure of preferences held across subgroups with varying degrees of host-country integration and homeland ties. Our findings provide novel experimental evidence that diasporas continue to care intensely about and voice on behalf of their homeland even after exit.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {},
+          "authors": [
+            "Maggie Shum",
+            "Eddy S. F. Yeung",
+            "Ka Ming Chan",
+            "Sanho Chung",
+            "Athena Tong",
+            "Sam Yip"
+          ],
+          "constructs": [
+            "Diaspora Politics",
+            "Authoritarianism"
+          ],
+          "doi": "10.1007/s11109-026-10207-x",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-15",
+          "stable_id": "doi:10.1007/s11109-026-10207-x",
+          "summary_basis": "abstract",
+          "summary_ko": "홍콩 디아스포라가 본국의 권위주의 경험에 기반해 중국을 겨냥한 강경한 외교정책을 국내 현안보다 우선시하는지, 네 개최국의 홍콩 디아스포라를 대상으로 한 후보 선택 실험으로 검증했다. 응답자들은 대중국 강경 경제·지정학 정책을 지지했으며, 이러한 선호는 의료·경제 같은 국내 쟁점보다 일관되게 우선되었고 개최국 통합도와 본국 유대 수준에 따라 크게 달라지지 않았다.",
+          "title": "Voice After Exit: the Prioritization of Homeland-Facing Foreign Policy Among the Hong Kong Diaspora",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1007/s11109-026-10207-x"
+        },
+        {
+          "abstract": "ABSTRACT Advances in digital technologies are expected to fundamentally change how organizations operate and create value. Empirical studies show that public organizations face difficulties organizing and sustaining this digital transformation. To better understand these challenges, this study examines the organizational mechanisms underlying digital transformation in a public organization over the past 20 years. Our findings show that this transformation was primarily enabled by an emergent change approach, with influential planned changes occurring only occasionally. We identify the organizational mechanisms underlying both types of change and analyze their interdependence. Our findings suggest that both emergent and planned change approaches may be needed to enable digital transformation in public organizations effectively, but that combining them is complex in practice.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Bram Klievink": [
+              "Institute of Public Administration, Leiden University The Hague the Netherlands"
+            ],
+            "Dorus van Loo": [
+              "Institute of Public Administration, Leiden University The Hague the Netherlands"
+            ],
+            "Friso Selten": [
+              "Institute of Public Administration, Leiden University The Hague the Netherlands"
+            ]
+          },
+          "authors": [
+            "Friso Selten",
+            "Dorus van Loo",
+            "Bram Klievink"
+          ],
+          "constructs": [
+            "Digital Transformation",
+            "Emergent Change"
+          ],
+          "doi": "10.1111/puar.70231",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "질적연구",
+          "method_detail": "종단 사례연구",
+          "publication_date": "2026-10-15",
+          "stable_id": "doi:10.1111/puar.70231",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 한 공공조직의 20년에 걸친 디지털 전환에서 계획된 변화와 창발적 변화가 어떻게 작동하고 상호 의존하는지를 사례연구로 분석했다. 디지털 전환은 주로 창발적 변화에 의해 촉진되었고 계획된 변화는 간헐적으로 중요한 역할을 했으며, 두 접근의 결합이 필요하지만 실제로는 복잡하다는 점을 밝혔다.",
+          "title": "Steering and Setting Free: Insights From a 20‐Year Retrospective Case Study of a Security and Justice Organization's Digital Transformation",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1111/puar.70231"
+        },
+        {
+          "abstract": "This paper assesses the practical validity of a balanced scorecard-based performance measurement system in a UAE law enforcement agency by examining how well strategic priorities translate into departmental and individual measures. Drawing on pragmatic constructivism, we conduct a single-case qualitative study using manager interviews and archival documents. We find weak translation of strategy into operational indicators and appraisal criteria, uneven awareness of performance indicators, and limited integration of facts, logic, values, and communication, which undermines system validity and strategic alignment. Effective alignment requires clearer cascades from strategy maps to operational indicators and appraisal criteria, role-appropriate access to KPIs, and cross-unit forums connecting planning and appraisal owners. The study’s primary contribution is empirical: it provides evidence of how misalignment emerges between strategy, measures, rewards, and appraisal in a public law enforcement organization. It also elaborates ‘practical validity’ as a criterion for examining how performance measurement systems function in practice.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Adel AlSaqri": [
+              "Zayed University"
+            ],
+            "Ahmed Abdel-Maksoud": [
+              "Zayed University"
+            ],
+            "Graham Manville": [
+              "Zayed University"
+            ],
+            "Mike Perkins": [
+              "British University Vietnam"
+            ],
+            "Rashed A. Alzahmi": [
+              "United Arab Emirates University"
+            ]
+          },
+          "authors": [
+            "Adel AlSaqri",
+            "Ahmed Abdel-Maksoud",
+            "Rashed A. Alzahmi",
+            "Graham Manville",
+            "Mike Perkins"
+          ],
+          "constructs": [
+            "Pragmatic Constructivism",
+            "Balanced Scorecard"
+          ],
+          "doi": "10.1080/14719037.2026.2745616",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "단일사례 인터뷰",
+          "publication_date": "2026-10-13",
+          "stable_id": "doi:10.1080/14719037.2026.2745616",
+          "summary_basis": "abstract",
+          "summary_ko": "본 연구는 UAE 법집행기관의 균형성과표 기반 성과측정시스템이 전략적 우선순위를 부서·개인 수준의 지표와 평가기준으로 얼마나 타당하게 전환하는지 실무적 타당성 관점에서 분석했다. 관리자 인터뷰와 기록자료를 활용한 단일사례 질적 연구 결과, 전략과 운영지표·평가기준의 연계, 지표 인식, 사실·논리·가치·소통의 통합이 미흡해 시스템의 타당성과 전략적 정렬이 약화된 것으로 나타났다.",
+          "title": "Evaluating the validity of performance measurement systems in law enforcement: a pragmatic constructivism approach",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1080/14719037.2026.2745616"
+        },
+        {
+          "abstract": "While research highlights women leaders’ influence in traditionally feminine domains such as health, education, and welfare, less is known about their impact in traditionally masculine fields such as policing and crime reduction. Using a Regression Discontinuity design and data from Brazilian municipalities, this study shows that, compared with male mayors, women mayors are more likely to adopt municipal police forces. Municipal policing, in turn, reduces youth homicide rates under women leadership, with this effect amplified by investments in socially oriented infrastructure. These findings demonstrate that women leaders can generate broader community-wide benefits beyond direct representation of women’s interests. The study extends scholarship on gender-responsive governance and women leadership by showing how elected women can shape policy choices and their effectiveness in traditionally male-dominated domains such as policing.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Meghna Sabharwal": [
+              "The University of Texas at Dallas"
+            ],
+            "Paulo Arvate": [
+              "Getulio Vargas Foundation"
+            ],
+            "Sandro Cabral": [
+              "Insper Institute of Education and Research, São Paulo, Brazil"
+            ],
+            "Trang Hoang": [
+              "Texas A&M University"
+            ]
+          },
+          "authors": [
+            "Paulo Arvate",
+            "Sandro Cabral",
+            "Trang Hoang",
+            "Meghna Sabharwal"
+          ],
+          "constructs": [
+            "Gender-Responsive Governance",
+            "Women Leadership"
+          ],
+          "doi": "10.1080/14719037.2026.2738177",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "준실험",
+          "method_detail": "회귀불연속설계",
+          "publication_date": "2026-10-13",
+          "stable_id": "doi:10.1080/14719037.2026.2738177",
+          "summary_basis": "abstract",
+          "summary_ko": "브라질 지방자치단체 자료와 회귀불연속설계를 활용해 여성 시장이 남성 시장보다 지방경찰을 도입할 가능성이 높은지, 그리고 이것이 살인 감소에 미치는 효과를 분석했다. 여성 시장 아래에서 지방경찰은 청년 살인률을 낮췄으며, 사회지향적 기반시설 투자가 클수록 그 효과가 강화되었다.",
+          "title": "When women lead: women mayors and municipal police effectiveness in reducing homicide in Brazil",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1080/14719037.2026.2738177"
+        },
+        {
+          "abstract": "Across the world, elected governments are dismantling the liberal democracies they inherited. Can these democratic backsliding episodes inoculate citizens into liberal democrats vigilant against future relapses? Because scholars have yet to resolve this puzzle, we lack crucial information to gauge the prospects of democratic resilience. We develop this \"democratic inoculation thesis\" into a testable theory and assess its validity in the critical case of Slovakia – a backsliding democracy that previously experienced democratic erosion and is often cited as a likely case of democratic inoculation. Through a survey experiment prompting Slovak citizens to reflect on democratic backsliding in the 1990s, we assess whether these reflections heighten their vigilance over their current government and bolster their support for liberal democratic norms. We also evaluate whether factors like affective polarization and education condition democratic inoculation.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {},
+          "authors": [
+            "Michal Ovádek",
+            "Tommaso Pavone"
+          ],
+          "constructs": [
+            "Democratic Inoculation",
+            "Affective Polarization"
+          ],
+          "doi": "10.1086/744413",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-13",
+          "stable_id": "doi:10.1086/744413",
+          "summary_basis": "abstract",
+          "summary_ko": "과거의 민주주의 후퇴 경험이 시민의 향후 민주주의 후퇴에 대한 경계심과 자유민주주의 규범 지지를 높이는지, 그리고 정서적 양극화와 교육이 이를 조절하는지를 검증한다. 슬로바키아 시민을 대상으로 1990년대 민주주의 후퇴를 회상하게 하는 설문실험을 실시했으나, 초록은 주요 결과를 제시하지 않는다.",
+          "title": "Are Citizens Inoculated by Past Democratic Backsliding?",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/744413"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -17440,7 +17777,26 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+    },
+    "doi:10.1007/s11109-026-10194-z": {
+      "first_seen_at": "2026-10-15T11:24:26.713814+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Carolyn Barnett",
+          "Alexandra Blackman",
+          "Marwa Shalaby"
+        ],
+        "doi": "10.1007/s11109-026-10194-z",
+        "journal": "Political Behavior",
+        "journal_short": "PolBeh",
+        "publication_date": "2026-10-15",
+        "stable_id": "doi:10.1007/s11109-026-10194-z",
+        "title": "Misperceptions of Male Bias Against Female Candidates: An Obstacle to Women’s Political Representation?",
+        "url": "https://doi.org/10.1007/s11109-026-10194-z"
+      },
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -17475,7 +17831,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -17500,7 +17856,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -17521,7 +17877,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -17542,77 +17898,54 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
-    "doi:10.1080/14719037.2026.2738177": {
-      "first_seen_at": "2026-10-13T14:07:25.642891+00:00",
+    "doi:10.1080/14719037.2026.2747053": {
+      "first_seen_at": "2026-10-15T11:24:26.713814+00:00",
       "item": {
         "author_affiliations": {
-          "Meghna Sabharwal": [
-            "The University of Texas at Dallas"
-          ],
-          "Paulo Arvate": [
-            "Getulio Vargas Foundation"
-          ],
-          "Sandro Cabral": [
-            "Insper Institute of Education and Research, São Paulo, Brazil"
-          ],
-          "Trang Hoang": [
-            "Texas A&M University"
+          "Qingyue Du": [
+            "Shandong University"
           ]
         },
         "authors": [
-          "Paulo Arvate",
-          "Sandro Cabral",
-          "Trang Hoang",
-          "Meghna Sabharwal"
+          "Qingyue Du",
+          "Ziqiang Han"
         ],
-        "doi": "10.1080/14719037.2026.2738177",
+        "doi": "10.1080/14719037.2026.2747053",
         "journal": "Public Management Review",
         "journal_short": "PMR",
-        "publication_date": "2026-10-13",
-        "stable_id": "doi:10.1080/14719037.2026.2738177",
-        "title": "When women lead: women mayors and municipal police effectiveness in reducing homicide in Brazil",
-        "url": "https://doi.org/10.1080/14719037.2026.2738177"
+        "publication_date": "2026-10-15",
+        "stable_id": "doi:10.1080/14719037.2026.2747053",
+        "title": "Staging the invisible: tracing public value co-creation through sub-micro infrastructures configured by information coordination organizations in China’s disaster information services",
+        "url": "https://doi.org/10.1080/14719037.2026.2747053"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
-    "doi:10.1080/14719037.2026.2745616": {
-      "first_seen_at": "2026-10-13T14:07:25.642891+00:00",
+    "doi:10.1080/14719037.2026.2748382": {
+      "first_seen_at": "2026-10-15T11:24:26.713814+00:00",
       "item": {
         "author_affiliations": {
-          "Adel AlSaqri": [
-            "Zayed University"
+          "Heewon Lee": [
+            "University of Georgia"
           ],
-          "Ahmed Abdel-Maksoud": [
-            "Zayed University"
-          ],
-          "Graham Manville": [
-            "Zayed University"
-          ],
-          "Mike Perkins": [
-            "British University Vietnam"
-          ],
-          "Rashed A. Alzahmi": [
-            "United Arab Emirates University"
+          "Tian Tang": [
+            "Florida State University"
           ]
         },
         "authors": [
-          "Adel AlSaqri",
-          "Ahmed Abdel-Maksoud",
-          "Rashed A. Alzahmi",
-          "Graham Manville",
-          "Mike Perkins"
+          "Heewon Lee",
+          "Tian Tang"
         ],
-        "doi": "10.1080/14719037.2026.2745616",
+        "doi": "10.1080/14719037.2026.2748382",
         "journal": "Public Management Review",
         "journal_short": "PMR",
-        "publication_date": "2026-10-13",
-        "stable_id": "doi:10.1080/14719037.2026.2745616",
-        "title": "Evaluating the validity of performance measurement systems in law enforcement: a pragmatic constructivism approach",
-        "url": "https://doi.org/10.1080/14719037.2026.2745616"
+        "publication_date": "2026-10-14",
+        "stable_id": "doi:10.1080/14719037.2026.2748382",
+        "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
+        "url": "https://doi.org/10.1080/14719037.2026.2748382"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17637,7 +17970,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17662,7 +17995,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17683,7 +18016,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17704,7 +18037,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17733,7 +18066,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17762,7 +18095,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17787,7 +18120,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -17808,7 +18141,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -17828,7 +18161,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -17845,7 +18178,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -17866,7 +18199,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -17883,7 +18216,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -17901,7 +18234,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -17921,7 +18254,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17938,7 +18271,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17956,7 +18289,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17975,7 +18308,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -17993,7 +18326,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -18012,7 +18345,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -18030,25 +18363,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
-    },
-    "doi:10.1086/744413": {
-      "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
-      "item": {
-        "author_affiliations": {},
-        "authors": [
-          "Michal Ovádek",
-          "Tommaso Pavone"
-        ],
-        "doi": "10.1086/744413",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-10-13",
-        "stable_id": "doi:10.1086/744413",
-        "title": "Are Citizens Inoculated by Past Democratic Backsliding?",
-        "url": "https://doi.org/10.1086/744413"
-      },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -18065,7 +18380,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -18084,7 +18399,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -18105,7 +18420,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18120,7 +18435,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -18135,7 +18450,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -18156,7 +18471,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -18171,7 +18486,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -18186,7 +18501,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-14T11:47:57.221501+00:00"
+      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
     }
   },
   "version": 1
