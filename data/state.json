@@ -17836,6 +17836,156 @@
       ],
       "sent_at": "2026-10-15T11:32:38.992812+00:00",
       "status": "sent"
+    },
+    "2026-10-16-b7c3fd64e68149cd": {
+      "created_at": "2026-10-16T11:18:40.110570+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-16-b7c3fd64e68149cd",
+      "items": [
+        {
+          "abstract": "In the face of property rights violation, why are some groups of people more likely to take collective actions than others? In this paper, we propose that culture is an important but not fully investigated factor accounting for this question. We examine the effect of Confucian clan culture, one of the most far-reaching traditional cultures inherited from ancient China, on collective struggle against land expropriation. We build a unique dataset combining the prefecture-level clan culture intensity and nationwide administrative litigations related to land expropriation between 2014 and 2019. Using the large cross-regional variation in the patterns of administrative litigation and a novel instrumental variable approach, this paper finds that prefectures with stronger clan culture have a significantly larger number of plaintiffs appearing in administrative lawsuit cases, implying that clan culture promotes more pervasive collective actions in confronting state power. Analysis based on individual-level survey data shows that the higher levels of trust between relatives and neighbors and stronger willingness for self-interest-related participation accompanied by stronger Confucian clan culture are the main mechanisms. Our findings underscore the pivotal role of cultural factors in shaping social stability and influencing local governance.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {},
+          "authors": [
+            "Shenghua Lu",
+            "Hui Wang"
+          ],
+          "constructs": [
+            "Clan Culture",
+            "Collective Action"
+          ],
+          "doi": "10.1007/s11109-026-10211-1",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "준실험",
+          "method_detail": "도구변수 분석",
+          "publication_date": "2026-10-15",
+          "stable_id": "doi:10.1007/s11109-026-10211-1",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 중국의 토지수용에 대한 집단행동에서 유교적 종족문화가 어떤 영향을 미치는지 분석하기 위해, 지역별 종족문화 강도와 2014~2019년 토지수용 관련 행정소송 자료를 결합하고 도구변수 접근을 활용했다. 종족문화가 강한 지역일수록 행정소송 원고 수가 유의하게 많았으며, 친족·이웃 간 신뢰와 자기이익 관련 참여 의향이 주요 기제로 제시되었다.",
+          "title": "Culture Holds us Together: Confucian Clan Culture and Collective Actions in China’s Land Expropriation",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1007/s11109-026-10211-1"
+        },
+        {
+          "abstract": "Abstract Important studies have suggested that politicians become more liberal by having daughters, but more recent work has been unable to replicate this result. It is therefore essential to further clarify how politicians’ family situations affect their policy making in different contexts, and in particular when it comes to gender-related policies. We provide a unique test based on prospective data collection on Swedish politicians based on a pre-analysis plan strictly followed in all analyses and tests. Data is collected in two surveys implemented after the 2022 general parliamentary election in Sweden on members of parliament and candidates in the parliamentary election (n=1,147 complete responders are included in our analyses). In our primary hypotheses, we test whether having daughters is associated with more left-leaning political preferences, a stronger preference for female-favoring policies, and a weaker preference for male-favoring policies. We find no evidence of an effect on left-leaning political preferences or female-favoring policies. These results do not support the original work on this topic but are in line with the more recent null results. We also find suggestive evidence (p<0.05) that having daughters is associated with a weaker preference for male-favoring policies. As the effects of having daughters on male-favoring policies have not been explored earlier, this opens up an interesting avenue to investigate in future studies.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {},
+          "authors": [
+            "Anna Dreber",
+            "Magnus Johannesson",
+            "Elin Naurin",
+            "Patrik Öhberg"
+          ],
+          "constructs": [
+            "Political Preferences",
+            "Gender Policy Preferences"
+          ],
+          "doi": "10.1007/s11109-026-10217-9",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "서베이",
+          "method_detail": "사전등록 설문",
+          "publication_date": "2026-10-15",
+          "stable_id": "doi:10.1007/s11109-026-10217-9",
+          "summary_basis": "abstract",
+          "summary_ko": "스웨덴 정치인과 총선 후보자를 대상으로, 딸의 유무가 정치적 성향과 성별 관련 정책 선호에 영향을 미치는지 사전등록 설문으로 검증했다. 딸이 있는 경우 좌파 성향이나 여성 우대 정책 선호가 더 강하다는 증거는 없었지만, 남성 우대 정책 선호가 약할 가능성은 시사되었다.",
+          "title": "Daughters and Political Preferences of Politicians: A Preregistered Prospective Study on Swedish Politicians",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1007/s11109-026-10217-9"
+        },
+        {
+          "abstract": "Abstract Due to the growing importance of diasporas in contemporary geopolitics, many states seek to cultivate diasporic attachment and encourage diaspora mobilization using strategic narratives. Are such appeals effective? We report results from a pre-registered two-wave survey experiment conducted among Jewish Americans before and during the Israel-Hamas war. Our intervention assesses the impact of three common appeals identified by prior work: threats to the homeland, shared historical memory, and discrimination in the diaspora’s country of residence. We find that none of these appeals influenced Jewish-Americans’ attachment to, support for, or intent to mobilize for Israel, even during a war in the “homeland.” Instead, baseline differences in these outcomes reflect deep-seated generational, denominational, and partisan cleavages within the Jewish American community. These findings suggest that intra-diaspora fragmentation and long-standing views of the “homeland” might dominate short-term rhetorical interventions. Consequently, strategic frames deployed by kin states and political animators may be less effective on diaspora audiences than intended.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {},
+          "authors": [
+            "Yehonatan Abramson",
+            "Anil Menon",
+            "Alon Yakter"
+          ],
+          "constructs": [
+            "Diaspora Attachment",
+            "Strategic Framing"
+          ],
+          "doi": "10.1007/s11109-026-10202-2",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "실험",
+          "method_detail": "2파 설문실험",
+          "publication_date": "2026-10-16",
+          "stable_id": "doi:10.1007/s11109-026-10202-2",
+          "summary_basis": "abstract",
+          "summary_ko": "이스라엘을 조국으로 여기는 유대계 미국인을 대상으로, 조국에 대한 위협·공유된 역사 기억·거주국 내 차별을 강조하는 호소가 조국 애착과 이스라엘 지지 및 동원 의향에 미치는 영향을 전쟁 전후 사전등록 2파 패널 설문실험으로 검증했다. 세 호소 모두 해당 태도에 유의한 영향을 미치지 않았으며, 결과의 기저에는 세대·교파·정당 성향에 따른 공동체 내부의 장기적 분열이 반영되었다.",
+          "title": "Do Appeals to the Diaspora Affect their Attachment to the Homeland? Findings from Jewish-Americans before and during the Israel-Hamas War",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1007/s11109-026-10202-2"
+        },
+        {
+          "abstract": "Abstract Although negativity bias is widely documented in political psychology, evidence is far more mixed when it comes to voters' preferences for social policy reform, particularly when they are confronted with trade‐offs between personal and societal outcomes. Building on existing theories of political communication, this article examines how voters evaluate policy reforms when considering realistic information about potential losses and gains. Empirically, we analyze a simu‐survey experiment examining how voters update their reform preferences in response to information derived from microsimulation modeling about the predicted effects of policy reform on their pocketbook and on the poverty level. The results show that negative information weighs more heavily than positive information in shaping reform preferences at both the egotropic and sociotropic levels. In the case of competing information, the effects are asymmetric: Positive pocketbook information tends to be neutralized by negative poverty information, whereas negative pocketbook information outweighs positive poverty information. However, egotropic negativity bias is most pronounced for smaller pocketbook losses, which are more likely to violate voters' prior expectations than larger losses. Consistent with this pattern, expectation violations—rather than differences in recall of, or trust in, information—seems the primary mechanism underlying negativity bias in policy preferences.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Elise Aerts": [
+              "Centre for Social Policy University of Antwerp Antwerp Belgium"
+            ],
+            "Tijs Laenen": [
+              "Centre for Social Policy University of Antwerp Antwerp Belgium",
+              "Media, Movements &amp; Politics University of Antwerp Antwerp Belgium"
+            ]
+          },
+          "authors": [
+            "Tijs Laenen",
+            "Elise Aerts"
+          ],
+          "constructs": [
+            "Negativity Bias",
+            "Expectation Violation"
+          ],
+          "doi": "10.1111/pops.70210",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-15",
+          "stable_id": "doi:10.1111/pops.70210",
+          "summary_basis": "abstract",
+          "summary_ko": "유권자가 개인적 손익과 사회적 빈곤 수준에 관한 모의실험 정보를 바탕으로 사회정책 개혁 선호를 어떻게 갱신하는지 설문 실험으로 분석했다. 부정적 정보가 긍정적 정보보다 개혁 선호에 더 큰 영향을 미쳤으며, 상충하는 정보에서는 개인적 손실이 사회적 개선보다, 사회적 악화가 개인적 이익보다 강하게 작용했고, 주요 기제는 정보 회상이나 신뢰보다 기대 위반으로 나타났다.",
+          "title": "Egotropic and sociotropic negativity bias in social policy reform preferences",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70210"
+        },
+        {
+          "abstract": "Democratic accountability assumes that the citizens who bear the costs of government decisions can sanction the officials who make them. We identify a structural break in this assumption. When a city funds itself through taxes that fall partly on nonresidents (highway travelers, commuters, and regional shoppers who cannot vote in local elections) the electoral link between bearing costs and imposing sanctions weakens. Analyzing two decades of Texas municipal data (2000–2019) with two-way fixed effects and generalized synthetic control methods, we find that cities better positioned to shift costs onto nonvoters raise resident fiscal exposure more, after they adopt dedicated local sales taxes. This pattern is strongest for cities on or near major metropolitan areas and highways, whereas geographically isolated cities, where residents bear nearly all costs, show little change. It reverses the relief that classical tax-exportation theory predicts and reveals an accountability gap that funds discretionary fiscal expansion. The gap proves temporary: fiscal outcomes across contexts converge within six to thirteen years. Geography, we conclude, shapes democratic accountability as powerfully as electoral rules.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Edmund Poku Adu": [
+              "Arkansas State University"
+            ],
+            "Robert L. Bland": [
+              "University of North Texas"
+            ]
+          },
+          "authors": [
+            "Edmund Poku Adu",
+            "Robert L. Bland"
+          ],
+          "constructs": [
+            "Accountability",
+            "Tax Exportation"
+          ],
+          "doi": "10.1177/02750740261498897",
+          "journal": "The American Review of Public Administration",
+          "journal_short": "ARPA",
+          "method": "준실험",
+          "method_detail": "패널 고정효과·합성통제",
+          "publication_date": "2026-10-15",
+          "stable_id": "doi:10.1177/02750740261498897",
+          "summary_basis": "abstract",
+          "summary_ko": "비거주자에게 일부 세금을 전가할 수 있는 지리적 조건이 지방정부의 재정 의사결정에 대한 주민의 선거적 제재를 약화시키는지, 텍사스 지방정부 자료(2000~2019)의 이원 고정효과와 일반화 합성통제 분석으로 검토했다. 전용 지방판매세 도입 후 비용을 비유권자에게 전가하기 쉬운 도시는 주민의 재정 부담을 더 크게 늘렸으며, 이 격차는 6~13년 내 수렴했다.",
+          "title": "When Geography Dilutes Accountability: Managerial Discretion and Fiscal Expansion in Local Government",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1177/02750740261498897"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -17858,7 +18008,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1007/s11109-026-10194-z": {
       "first_seen_at": "2026-10-15T11:24:26.713814+00:00",
@@ -17877,7 +18027,7 @@
         "title": "Misperceptions of Male Bias Against Female Candidates: An Obstacle to Women’s Political Representation?",
         "url": "https://doi.org/10.1007/s11109-026-10194-z"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -17912,7 +18062,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -17937,7 +18087,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -17958,7 +18108,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -17979,7 +18129,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1080/14719037.2026.2747053": {
       "first_seen_at": "2026-10-15T11:24:26.713814+00:00",
@@ -18001,7 +18151,40 @@
         "title": "Staging the invisible: tracing public value co-creation through sub-micro infrastructures configured by information coordination organizations in China’s disaster information services",
         "url": "https://doi.org/10.1080/14719037.2026.2747053"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+    },
+    "doi:10.1080/14719037.2026.2748381": {
+      "first_seen_at": "2026-10-16T11:18:40.110570+00:00",
+      "item": {
+        "author_affiliations": {
+          "Ana-Maria Dimand": [
+            "Florida State University"
+          ],
+          "Evelyn Rodriguez-Plesa": [
+            "University of Central Florida"
+          ],
+          "Mohamad G. Alkadry": [
+            "University of Connecticut"
+          ],
+          "Sawsan Abutabenjeh": [
+            "United Arab Emirates University"
+          ]
+        },
+        "authors": [
+          "Evelyn Rodriguez-Plesa",
+          "Ana-Maria Dimand",
+          "Mohamad G. Alkadry",
+          "Sawsan Abutabenjeh"
+        ],
+        "doi": "10.1080/14719037.2026.2748381",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-10-15",
+        "stable_id": "doi:10.1080/14719037.2026.2748381",
+        "title": "One size does not fit all: management strategies to reduce turnover intention among public sector employees",
+        "url": "https://doi.org/10.1080/14719037.2026.2748381"
+      },
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1080/14719037.2026.2748382": {
       "first_seen_at": "2026-10-15T11:24:26.713814+00:00",
@@ -18026,7 +18209,32 @@
         "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
         "url": "https://doi.org/10.1080/14719037.2026.2748382"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+    },
+    "doi:10.1080/14719037.2026.2749676": {
+      "first_seen_at": "2026-10-16T11:18:40.110570+00:00",
+      "item": {
+        "author_affiliations": {
+          "Assel Mussagulova": [
+            "University of Sydney"
+          ],
+          "Colette Einfeld": [
+            "Australian National University"
+          ]
+        },
+        "authors": [
+          "Assel Mussagulova",
+          "Colette Einfeld"
+        ],
+        "doi": "10.1080/14719037.2026.2749676",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-10-16",
+        "stable_id": "doi:10.1080/14719037.2026.2749676",
+        "title": "Mapping empathy in policy work: how public servants understand and use it",
+        "url": "https://doi.org/10.1080/14719037.2026.2749676"
+      },
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18051,7 +18259,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18076,7 +18284,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18097,7 +18305,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18118,7 +18326,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18147,7 +18355,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18176,7 +18384,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18201,7 +18409,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18222,7 +18430,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -18242,7 +18450,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -18259,7 +18467,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -18280,7 +18488,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -18297,7 +18505,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -18315,7 +18523,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -18335,7 +18543,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -18352,7 +18560,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -18370,7 +18578,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -18389,7 +18597,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -18407,7 +18615,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -18426,7 +18634,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -18444,7 +18652,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -18461,7 +18669,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -18480,7 +18688,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -18501,7 +18709,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18516,7 +18724,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -18531,7 +18739,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -18552,7 +18760,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -18567,7 +18775,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -18582,7 +18790,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-15T11:24:26.713814+00:00"
+      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
     }
   },
   "version": 1
