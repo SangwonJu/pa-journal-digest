@@ -136,6 +136,14 @@
       "sent_at": "2026-09-17T11:46:18.095768+00:00",
       "title": "Credible Prejudice? When and Why Mainstream Party Adoption of Far-Right Rhetoric Weakens Anti-Prejudice Norms"
     },
+    "doi:10.1007/s11109-026-10202-2": {
+      "batch_id": "2026-10-16-b7c3fd64e68149cd",
+      "doi": "10.1007/s11109-026-10202-2",
+      "journal": "Political Behavior",
+      "publication_date": "2026-10-16",
+      "sent_at": "2026-10-16T11:26:32.570201+00:00",
+      "title": "Do Appeals to the Diaspora Affect their Attachment to the Homeland? Findings from Jewish-Americans before and during the Israel-Hamas War"
+    },
     "doi:10.1007/s11109-026-10203-1": {
       "batch_id": "2026-09-15-ab693daac4e307cb",
       "doi": "10.1007/s11109-026-10203-1",
@@ -184,6 +192,14 @@
       "sent_at": "2026-10-06T13:28:16.209368+00:00",
       "title": "How Policy Design Affects Perceptions of Beneficiaries and Support for Welfare"
     },
+    "doi:10.1007/s11109-026-10211-1": {
+      "batch_id": "2026-10-16-b7c3fd64e68149cd",
+      "doi": "10.1007/s11109-026-10211-1",
+      "journal": "Political Behavior",
+      "publication_date": "2026-10-15",
+      "sent_at": "2026-10-16T11:26:32.570201+00:00",
+      "title": "Culture Holds us Together: Confucian Clan Culture and Collective Actions in China’s Land Expropriation"
+    },
     "doi:10.1007/s11109-026-10214-y": {
       "batch_id": "2026-10-15-53ff636cf819e984",
       "doi": "10.1007/s11109-026-10214-y",
@@ -207,6 +223,14 @@
       "publication_date": "2026-10-15",
       "sent_at": "2026-10-15T11:32:38.992812+00:00",
       "title": "Relational Clientelism, Information Processing, and Accountability"
+    },
+    "doi:10.1007/s11109-026-10217-9": {
+      "batch_id": "2026-10-16-b7c3fd64e68149cd",
+      "doi": "10.1007/s11109-026-10217-9",
+      "journal": "Political Behavior",
+      "publication_date": "2026-10-15",
+      "sent_at": "2026-10-16T11:26:32.570201+00:00",
+      "title": "Daughters and Political Preferences of Politicians: A Preregistered Prospective Study on Swedish Politicians"
     },
     "doi:10.1016/j.giq.2026.102149": {
       "batch_id": "2026-09-01-1560b88b8d2d7127",
@@ -2192,6 +2216,14 @@
       "sent_at": "2026-10-07T13:30:01.879676+00:00",
       "title": "Conceptualizing and measuring global consciousness"
     },
+    "doi:10.1111/pops.70210": {
+      "batch_id": "2026-10-16-b7c3fd64e68149cd",
+      "doi": "10.1111/pops.70210",
+      "journal": "Political Psychology",
+      "publication_date": "2026-10-15",
+      "sent_at": "2026-10-16T11:26:32.570201+00:00",
+      "title": "Egotropic and sociotropic negativity bias in social policy reform preferences"
+    },
     "doi:10.1111/psj.70144": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1111/psj.70144",
@@ -2895,6 +2927,14 @@
       "publication_date": "2026-09-02",
       "sent_at": "2026-09-03T15:05:53.210352+00:00",
       "title": "Culture as Administrative Infrastructure: Crisis Governance and Community Recovery After the Maui Wildfires"
+    },
+    "doi:10.1177/02750740261498897": {
+      "batch_id": "2026-10-16-b7c3fd64e68149cd",
+      "doi": "10.1177/02750740261498897",
+      "journal": "The American Review of Public Administration",
+      "publication_date": "2026-10-15",
+      "sent_at": "2026-10-16T11:26:32.570201+00:00",
+      "title": "When Geography Dilutes Accountability: Managerial Discretion and Fiscal Expansion in Local Government"
     },
     "doi:10.1177/0734371x261478777": {
       "batch_id": "2026-08-31-16eaf574577d5f58",
@@ -17985,7 +18025,8 @@
           "url": "https://doi.org/10.1177/02750740261498897"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-16T11:26:32.570201+00:00",
+      "status": "sent"
     }
   },
   "pending": {
