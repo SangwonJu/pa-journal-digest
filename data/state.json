@@ -18027,6 +18027,318 @@
       ],
       "sent_at": "2026-10-16T11:26:32.570201+00:00",
       "status": "sent"
+    },
+    "2026-10-17-a7b1623936c13712": {
+      "created_at": "2026-10-17T10:39:28.582679+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-17-a7b1623936c13712",
+      "items": [
+        {
+          "abstract": "This study aims to address a core theoretical and practical question: Under the dual constraints of institutional limitations and resource scarcity, how does the Communist Youth League, as a mass organization, actively produce service spaces to fulfill its service functions? To explore this question, our analysis integrates Lefebvre’s theory of space production with the institutional logics perspective to construct an analytical framework of “institutional logics–empowerment structure–organizational space production.” Through a case analysis of the “Youth Homeland” project in City G, this study finds that the Communist Youth League is not passively constrained by institutional environments and resource limitations. Instead, it proactively leverages its “structural hole” advantage at the intersection of multiple institutional logics—political, social, and professional—by employing a combined strategy of administrative empowerment, social empowerment, and technological empowerment to secure critical resources for the production of service spaces. Among these, administrative empowerment defines the core boundaries and legitimacy of service spaces, social empowerment expands their peripheral boundaries and resource networks, and technological empowerment reshapes the processes and effectiveness of service delivery. The investigation further reveals that institutional logics determine the empowerment structure, the integration of institutional factors opens windows of opportunity for space production, and institutional changes drive the transformation and restructuring of service spaces. The article’s theoretical contribution lies in expanding the study of organizational space production from an internal material analysis to an external social field perspective. It introduces “institution,” “agency,” and “co-production” into organizational space research, uncovering the micro-mechanisms through which mass organizations strategically employ empowerment to expand their action spaces by leveraging institutional logics in an authoritarian context. This offers a new analytical perspective for understanding the service functions and transformation of mass organizations and similar institutions in contemporary China.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Shuchao Yang": [
+              "Guangdong University of Finance and Economics, China"
+            ],
+            "Ziyi Yang": [
+              "Finance School of Renmin University of China, Beijing, China"
+            ]
+          },
+          "authors": [
+            "Shuchao Yang",
+            "Ziyi Yang"
+          ],
+          "constructs": [
+            "Institutional Logics",
+            "Space Production"
+          ],
+          "doi": "10.1177/00953997261494491",
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "method": "질적연구",
+          "method_detail": "사례 분석",
+          "publication_date": "2026-10-17",
+          "stable_id": "doi:10.1177/00953997261494491",
+          "summary_basis": "abstract",
+          "summary_ko": "본 연구는 제도적 제약과 자원 부족 속에서 공산주의청년단이 어떻게 서비스 공간을 적극적으로 생산하는지 밝히기 위해 르페브르의 공간생산론과 제도 논리 관점을 결합해 중국 G시 ‘청년의 집’ 프로젝트를 사례 분석했다. 분석 결과, 청년단은 정치·사회·전문 제도가 교차하는 구조적 공백을 활용하고 행정적·사회적·기술적 권한부여를 결합해 서비스 공간의 경계와 자원 네트워크, 전달 과정과 효과를 형성했으며, 제도 논리가 권한부여 구조를 규정하고 제도 변화가 공간의 전환과 재구성을 이끌었다.",
+          "title": "Institutional Logics, Empowerment Structures, and the Service Space Production of the Communist Youth League—A Case Study of the “Youth Homeland” Project in City G",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1177/00953997261494491"
+        },
+        {
+          "abstract": "ABSTRACT Our paper builds a bridge between the emerging strand of research on public administration under populist rule and the established literature on delegation to independent regulatory authorities (IRAs). We focus on Italy, a critical case in Western Europe, which between 2001 and 2025 experienced six coalition governments dominated or strongly influenced by populist parties of different ideological orientations. Findings highlight that delegation to IRAs is remarkably resilient once institutionalized, even under sustained political contestation. Despite repeated populist participation in government since the early 2000s, Italian IRAs have not been subject to systematic de‐delegation or statutory retrenchment. However, the preservation of formal independence has not implied the absence of means for political control. Our analysis shows that populist governments have systematically relied on political appointments. Interestingly, political appointments have not been driven by partisan loyalty or overt politicization. Instead, the intervention of populist parties has operated along a different dimension of political control that has received less attention in delegation theory: the specialization of appointees. Populist governments have displayed a preference for appointing IRAs' board members with lower levels of domain‐specific specialization, privileging generalist profiles over specialists.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Alessandro Natalini": [
+              "LUMSA University of Rome Rome Italy"
+            ],
+            "Fabrizio Di Mascio": [
+              "University of Turin Turin Italy"
+            ],
+            "Giulio Francisci": [
+              "LUMSA University of Rome Rome Italy"
+            ],
+            "Martino Maggetti": [
+              "University of Lausanne Lausanne Switzerland"
+            ]
+          },
+          "authors": [
+            "Fabrizio Di Mascio",
+            "Giulio Francisci",
+            "Martino Maggetti",
+            "Alessandro Natalini"
+          ],
+          "constructs": [
+            "Independent Regulatory Authorities",
+            "Delegation"
+          ],
+          "doi": "10.1111/gove.70156",
+          "journal": "Governance",
+          "journal_short": "Governance",
+          "method": "질적연구",
+          "method_detail": "사례 분석",
+          "publication_date": "2026-10-16",
+          "stable_id": "doi:10.1111/gove.70156",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 이탈리아에서 포퓰리즘 정당이 정부에 참여한 시기에도 독립규제기관에 대한 위임이 유지되었는지, 그리고 정치적 통제가 어떻게 이루어졌는지를 분석한다. 2001~2025년의 사례 분석 결과, 공식적 독립성이나 법적 위임의 체계적 축소는 없었지만 포퓰리즘 정부는 전문성보다 일반ist적 성향을 지닌 이사회 인사를 임명하는 방식으로 정치적 통제를 행사했다.",
+          "title": "Regulatory Agencies Under Mutating Populism in Office: Insights From Italy (1990–2025)",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1111/gove.70156"
+        },
+        {
+          "abstract": "Abstract Predictive algorithms are increasingly used to support frontline decision-making in public administration, but evidence remains limited on how they affect bureaucratic capacity. This study examines county-level adoption of predictive screening tools in U.S. Child Protective Services using NCANDS data (2010–2023) and a stacked difference-in-differences design. Leveraging staggered adoption, I find no change in the total number of investigations opened and a sizable decline (about 15%) in the share of investigations that are substantiated. These results are inconsistent with operational capacity gains and more consistent with misclassification that erodes analytical capacity. These findings are consistent with a mechanism of routinized deference: under workload and accountability pressures, algorithmic recommendations can become procedurally defensible defaults. Overall, this study argues that predictive screening is not capacity-enhancing by default, as routinized deference can undermine the professional judgment central to bureaucratic work.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Jiaen Wu": [
+              "Indiana University-Bloomington O’Neill School of Public and Environmental Affairs, , 1315 East Tenth Street, Bloomington, IN 47405,"
+            ]
+          },
+          "authors": [
+            "Jiaen Wu"
+          ],
+          "constructs": [
+            "Bureaucratic Capacity",
+            "Routinized Deference"
+          ],
+          "doi": "10.1093/jopart/muag032",
+          "journal": "Journal of Public Administration Research and Theory",
+          "journal_short": "JPART",
+          "method": "준실험",
+          "method_detail": "누적 이중차분",
+          "publication_date": "2026-10-16",
+          "stable_id": "doi:10.1093/jopart/muag032",
+          "summary_basis": "abstract",
+          "summary_ko": "미국 아동보호서비스에서 예측적 선별 도구의 도입이 관료적 역량에 미치는 영향을 NCANDS 자료(2010~2023년)와 시차적 도입을 활용한 누적 이중차분으로 분석했다. 조사 개시 건수는 변하지 않았지만 조사 중 substantiated 비율이 약 15% 감소해, 역량 향상보다는 업무·책임성 압박 속 ‘절차화된 순응’과 분류 오류가 전문적 판단을 약화시키는 결과와 일치했다.",
+          "title": "Routinized Deference: Predictive Screening and Bureaucratic Capacity in Child Protective Services",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1093/jopart/muag032"
+        },
+        {
+          "abstract": "Do people believe that others in their community prefer male to female political candidates? To what extent is that perceived bias actually misperceived , and who do people view as the most biased? Perceived gender norms often diverge from actual levels of support for gender equality globally, particularly among men. These (mis)perceptions, often stemming from pluralistic ignorance, may undermine women’s political ambition and access to political power. In a nationally representative survey of Moroccans, we embed a conjoint experiment that asks respondents to identify not only the candidates they personally prefer but also the candidates they perceive male and female voters as preferring. We find no evidence of pro-male bias in respondents’ own preferences. We do find that respondents perceive that men are biased in favor of men and that women are biased in favor of women. We also find that men express greater personal bias against female candidates when they are primed to think first about others’ preferences.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Alexandra Blackman": [
+              "Cornell University"
+            ],
+            "Carolyn Barnett": [
+              "University of Arizona"
+            ],
+            "Marwa Shalaby": [
+              "University of Wisconsin–Madison"
+            ]
+          },
+          "authors": [
+            "Carolyn Barnett",
+            "Alexandra Blackman",
+            "Marwa Shalaby"
+          ],
+          "constructs": [
+            "Pluralistic Ignorance",
+            "Gender Bias"
+          ],
+          "doi": "10.1007/s11109-026-10194-z",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "서베이",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-15",
+          "stable_id": "doi:10.1007/s11109-026-10194-z",
+          "summary_basis": "abstract",
+          "summary_ko": "모로코 전국 대표 설문에 후보자 선호와 남녀 유권자의 선호에 대한 인식을 묻는 컨조인트 실험을 결합해, 사람들이 여성 후보에 대한 타인의 성 편향을 어떻게 인식하는지 분석했다. 응답자의 개인적 선호에서는 남성 편향이 나타나지 않았지만, 남성은 남성 후보를, 여성은 여성 후보를 선호한다고 인식했으며, 타인의 선호를 먼저 생각하게 한 남성은 여성 후보에 대한 개인적 편향을 더 크게 드러냈다.",
+          "title": "Misperceptions of Male Bias Against Female Candidates: An Obstacle to Women’s Political Representation?",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1007/s11109-026-10194-z"
+        },
+        {
+          "abstract": "Abstract This article examines the relationship between peacemaking, reconciliation, and brutalization in violent conflicts. It argues that these processes are deeply interconnected: effective peacemaking and reconciliation can interrupt or reverse brutalization, whereas unsuccessful or incomplete peacemaking may allow brutalization to persist, deepen, and become normalized, even alongside formal reconciliation initiatives. This article is organized into two parts. The first one reviews the scholarly literature on peacemaking, reconciliation, and brutalization. It examines each process separately. Then proposes an analytical model that explains the emergence, escalation, and persistence of brutalization. Finally, it conceptualizes its relationship with peacemaking and reconciliation. The second part applies this model to the Israeli–Palestinian conflict, focusing on Israeli Jewish society in its confrontation with Palestinians in the Gaza Strip. This case study serves to illustrate the model and assess its explanatory value. Beyond examining peacemaking and reconciliation, the article's primary objective is to develop a comprehensive conceptualization of brutalization by defining its nature, identifying its underlying psychological and social mechanisms, and analyzing its antecedents and consequences for collective cognition, emotions, behavior, and norms.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Daniel Bar‐Tal": [
+              "School of Education Tel Aviv University Tel Aviv Israel"
+            ]
+          },
+          "authors": [
+            "Daniel Bar‐Tal"
+          ],
+          "constructs": [
+            "reconciliation",
+            "brutalization"
+          ],
+          "doi": "10.1111/pops.70204",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "이론/개념",
+          "method_detail": "개념적 모형",
+          "publication_date": "2026-10-16",
+          "stable_id": "doi:10.1111/pops.70204",
+          "summary_basis": "abstract",
+          "summary_ko": "이 글은 폭력적 갈등에서 평화조성·화해와 잔혹화가 어떻게 상호연결되는지, 그리고 잔혹화의 심리적·사회적 기제와 결과가 무엇인지 검토한다. 문헌 검토를 바탕으로 개념적 모형을 제시하고 이스라엘–팔레스타인 갈등, 특히 가자지구 팔레스타인과 대립하는 이스라엘 유대 사회에 적용한 결과, 효과적인 평화조성과 화해는 잔혹화를 중단·역전시킬 수 있지만 불완전한 과정은 잔혹화의 지속·심화·정상화를 허용할 수 있다고 주장한다.",
+          "title": "Between reconciliation and peace making and brutalization: The Israeli case",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1111/pops.70204"
+        },
+        {
+          "abstract": "ABSTRACT Data from 115 interviews conducted with officials in the Westminster systems of Australia, New Zealand, and the United Kingdom is used to substantiate a corrosive relationship between institutional amnesia and the ability of public servants to make sense of their organizational context. A process in which public servants question why the policies, procedures, and organizational frameworks that surround them is proposed as one medium through which this relationship operates. Four problematic effects produced by this relationship and process are subsequently analyzed: (1) public servants following but not understanding procedures, (2) inexplicable organizational aspects getting abandoned, (3) the layering of new organizational features on top of old ones, creating complexity, and (4) public service inefficiencies and associated public servant frustration. The article concludes with the implications of this important relationship for public administration scholars and practitioners.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Alastair Stark": [
+              "School of Political Science and International Studies University of Queensland, St Lucia Campus Brisbane Australia"
+            ],
+            "Dennis C. Grube": [
+              "Department of Politics and International Relations University of Cambridge Cambridge UK"
+            ],
+            "Heather Lovell": [
+              "University of Tasmania School of Geography, Planning, and Spatial Sciences, Sandy Bay Campus Tasmania Australia"
+            ],
+            "Hridesh Gajural": [
+              "School of Regulation and Global Governance Australian National University Canberra Australia"
+            ],
+            "Jack Corbett": [
+              "School of Social Sciences Monash University Victoria Australia"
+            ],
+            "Rodney J. Scott": [
+              "School of Law RMIT Melbourne Australia"
+            ]
+          },
+          "authors": [
+            "Alastair Stark",
+            "Hridesh Gajural",
+            "Jack Corbett",
+            "Dennis C. Grube",
+            "Heather Lovell",
+            "Rodney J. Scott"
+          ],
+          "constructs": [
+            "Institutional Amnesia",
+            "Organizational Sensemaking"
+          ],
+          "doi": "10.1111/puar.70232",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "질적연구",
+          "method_detail": "심층 인터뷰",
+          "publication_date": "2026-10-16",
+          "stable_id": "doi:10.1111/puar.70232",
+          "summary_basis": "abstract",
+          "summary_ko": "호주·뉴질랜드·영국의 웨스트민스터 체제 공무원 115명 인터뷰를 통해, 제도적 기억상실이 조직 맥락을 이해하는 능력을 약화시키는 과정을 분석했다. 공무원들이 정책·절차·조직 틀의 이유를 묻는 과정과 관련해 절차의 무이해적 준수, 조직 요소의 폐기, 복잡성 누적, 비효율과 좌절이 나타난다는 점을 밝혔다.",
+          "title": "Institutional Amnesia and the Loss of “The Why Rationale” in Central Government Agencies",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1111/puar.70232"
+        },
+        {
+          "abstract": "In disaster information services, citizen- and volunteer-generated information arrives as dispersed, uncertain reports rather than usable response information. This qualitative case study examines how Organization Z, a Chinese NGO functioning as an Information Coordination Organization (ICO), makes such information usable for response through sub-micro infrastructures. Data comprise 43 volunteer and 11 coordinator interviews, longitudinal participant observation, and multi-source materials. Four mechanisms emerged: emotional activation makes participation visible; epistemic calibration supports report credibility through traceability and comparability; cross-sector translation makes verified information interpretable and acceptable as a basis for response action; and reflexive learning makes response experience partially reusable. We conceptualize staging as a conditional account of public value formation organized around the four thresholds of visibility, credibility, legitimate actionability, and partial reusability. The study contributes to public value co-creation research by explaining how ICO information work conditions whether information-related participation contributes to disaster response and public value formation.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Qingyue Du": [
+              "Shandong University"
+            ]
+          },
+          "authors": [
+            "Qingyue Du",
+            "Ziqiang Han"
+          ],
+          "constructs": [
+            "Public Value Co-Creation",
+            "Information Coordination Organization"
+          ],
+          "doi": "10.1080/14719037.2026.2747053",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "질적 사례연구",
+          "publication_date": "2026-10-15",
+          "stable_id": "doi:10.1080/14719037.2026.2747053",
+          "summary_basis": "abstract",
+          "summary_ko": "중국 재난정보 서비스에서 정보조정조직(ICO)인 NGO가 시민·자원봉사자 생성 정보를 대응에 활용 가능한 정보로 전환하는 과정을 질적 사례연구로 분석했다. 정서적 활성화, 인식론적 보정, 부문 간 번역, 성찰적 학습이라는 네 메커니즘이 각각 가시성·신뢰성·정당한 실행가능성·부분적 재사용성의 문턱을 형성하며 공공가치 공동창출을 조건화하는 것으로 나타났다.",
+          "title": "Staging the invisible: tracing public value co-creation through sub-micro infrastructures configured by information coordination organizations in China’s disaster information services",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/14719037.2026.2747053"
+        },
+        {
+          "abstract": "This study examines the causal conditions shaping collaborative effectiveness in the regeneration of marginalized urban communities. Using fuzzy-set qualitative comparative analysis of 22 Chinese cases, it identifies facilitative leadership as a necessary condition for achieving high collaborative effectiveness and weak institutionalization as a necessary condition for low effectiveness. The sufficiency analysis reveals three distinct pathways to effective collaboration and three to ineffective collaboration. The findings show that collaborative effectiveness depends on context-specific configurations of resource support, institutionalization, governance structure, and facilitative leadership. No single condition is sufficient in isolation; rather, effectiveness emerges through complementarity, functional equivalence, and asymmetric substitutability among conditions. The study contributes to a more context-sensitive and configurational understanding of collaborative governance.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Chunyao Li": [
+              "Zhejiang Gongshang University"
+            ],
+            "Chunyu Shi": [
+              "Zhejiang Gongshang University"
+            ],
+            "Yanfeng Wang": [
+              "Zhejiang Gongshang University"
+            ]
+          },
+          "authors": [
+            "Chunyu Shi",
+            "Yanfeng Wang",
+            "Chunyao Li"
+          ],
+          "constructs": [
+            "Collaborative Governance",
+            "Facilitative Leadership"
+          ],
+          "doi": "10.1080/14719037.2026.2748379",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "퍼지셋 비교분석",
+          "publication_date": "2026-10-16",
+          "stable_id": "doi:10.1080/14719037.2026.2748379",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 도시 취약社区 재생에서 협력 효과성을 형성하는 조건과 그 결합을 규명하기 위해 중국 22개 사례에 퍼지셋 질적비교분석을 적용했다. 촉진적 리더십은 높은 효과성의 필요조건이고 약한 제도화는 낮은 효과성의 필요조건이며, 자원 지원·제도화·거버넌스 구조·촉진적 리더십의 맥락별 구성에 따라 효과적·비효과적 협력의 여러 경로가 나타났다.",
+          "title": "Unpacking the causal complexity of collaborative effectiveness in urban marginalized community regeneration: a fuzzy-set configurational analysis",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/14719037.2026.2748379"
+        },
+        {
+          "abstract": "As public service delivery increasingly involves non-governmental actors, public administration theory needs to examine how its core frameworks operate beyond traditional bureaucracies. This study extends representative bureaucracy theory to private philanthropy, an increasingly crucial actor in local public service delivery, by testing whether racial representation in leadership corresponds with equitable grantmaking outcomes. Analyzing longitudinal data from 912 U.S. community foundations between 2012 and 2016, this study finds that racial representation in foundation leadership corresponds with increased grantmaking to organizations serving communities of color when leadership retains sufficient discretion, but that this relationship weakens as donor control rises, particularly through donor advised funds. These patterns are consistent with representative bureaucracy theory's emphasis on discretion as a key mechanism linking passive and active representation. These findings advance theoretical understanding by illuminating the interplay between representation and discretion within private philanthropy, while carrying implications for equitable resource distribution as public services increasingly involve non-governmental actors.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Yue Ming": [
+              "Tsinghua University"
+            ]
+          },
+          "authors": [
+            "Yue Ming"
+          ],
+          "constructs": [
+            "Representative Bureaucracy",
+            "Discretion"
+          ],
+          "doi": "10.1177/02750740261498874",
+          "journal": "The American Review of Public Administration",
+          "journal_short": "ARPA",
+          "method": "혼합방법론",
+          "method_detail": "종단자료 분석",
+          "publication_date": "2026-10-16",
+          "stable_id": "doi:10.1177/02750740261498874",
+          "summary_basis": "abstract",
+          "summary_ko": "민간 자선 영역에서 재단 리더십의 인종적 대표성이 재량 및 기부자 통제와 결합해 지역사회 색채가 강한 조직에 대한 보조금 배분에 어떤 영향을 미치는지 검토했다. 2012~2016년 미국 지역사회재단 912곳의 종단자료를 분석한 결과, 리더십의 인종적 대표성은 재단의 재량이 충분할 때 유색인종 지역사회 지원 조직에 대한 보조금 증가와 관련되지만, 특히 기부자 조언 기금 등을 통한 기부자 통제가 강해질수록 이 관계가 약화됐다.",
+          "title": "Representative Bureaucracy in Private Philanthropy: Testing Discretion and Racial Representation in Community Foundation Grantmaking",
+          "topic_area": "비영리",
+          "url": "https://doi.org/10.1177/02750740261498874"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -18049,26 +18361,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
-    },
-    "doi:10.1007/s11109-026-10194-z": {
-      "first_seen_at": "2026-10-15T11:24:26.713814+00:00",
-      "item": {
-        "author_affiliations": {},
-        "authors": [
-          "Carolyn Barnett",
-          "Alexandra Blackman",
-          "Marwa Shalaby"
-        ],
-        "doi": "10.1007/s11109-026-10194-z",
-        "journal": "Political Behavior",
-        "journal_short": "PolBeh",
-        "publication_date": "2026-10-15",
-        "stable_id": "doi:10.1007/s11109-026-10194-z",
-        "title": "Misperceptions of Male Bias Against Female Candidates: An Obstacle to Women’s Political Representation?",
-        "url": "https://doi.org/10.1007/s11109-026-10194-z"
-      },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -18103,7 +18396,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -18128,7 +18421,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -18149,7 +18442,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -18170,29 +18463,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
-    },
-    "doi:10.1080/14719037.2026.2747053": {
-      "first_seen_at": "2026-10-15T11:24:26.713814+00:00",
-      "item": {
-        "author_affiliations": {
-          "Qingyue Du": [
-            "Shandong University"
-          ]
-        },
-        "authors": [
-          "Qingyue Du",
-          "Ziqiang Han"
-        ],
-        "doi": "10.1080/14719037.2026.2747053",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-10-15",
-        "stable_id": "doi:10.1080/14719037.2026.2747053",
-        "title": "Staging the invisible: tracing public value co-creation through sub-micro infrastructures configured by information coordination organizations in China’s disaster information services",
-        "url": "https://doi.org/10.1080/14719037.2026.2747053"
-      },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1080/14719037.2026.2748381": {
       "first_seen_at": "2026-10-16T11:18:40.110570+00:00",
@@ -18225,7 +18496,7 @@
         "title": "One size does not fit all: management strategies to reduce turnover intention among public sector employees",
         "url": "https://doi.org/10.1080/14719037.2026.2748381"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1080/14719037.2026.2748382": {
       "first_seen_at": "2026-10-15T11:24:26.713814+00:00",
@@ -18250,7 +18521,7 @@
         "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
         "url": "https://doi.org/10.1080/14719037.2026.2748382"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1080/14719037.2026.2749676": {
       "first_seen_at": "2026-10-16T11:18:40.110570+00:00",
@@ -18275,7 +18546,7 @@
         "title": "Mapping empathy in policy work: how public servants understand and use it",
         "url": "https://doi.org/10.1080/14719037.2026.2749676"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18300,7 +18571,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18325,7 +18596,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18346,7 +18617,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18367,7 +18638,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18396,7 +18667,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18425,7 +18696,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18450,7 +18721,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18471,7 +18742,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -18491,7 +18762,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -18508,7 +18779,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -18529,7 +18800,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -18546,7 +18817,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -18564,7 +18835,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -18584,7 +18855,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -18601,7 +18872,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -18619,7 +18890,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -18638,7 +18909,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -18656,7 +18927,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -18675,7 +18946,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -18693,7 +18964,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -18710,7 +18981,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -18729,7 +19000,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -18750,7 +19021,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18765,7 +19036,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -18780,7 +19051,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -18801,7 +19072,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -18816,7 +19087,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -18831,7 +19102,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-16T11:18:40.110570+00:00"
+      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
     }
   },
   "version": 1
