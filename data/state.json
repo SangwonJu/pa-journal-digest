@@ -18412,6 +18412,53 @@
       ],
       "sent_at": "2026-10-17T10:47:38.017785+00:00",
       "status": "sent"
+    },
+    "2026-10-18-54d77fba917215d1": {
+      "created_at": "2026-10-18T10:59:55.162567+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-18-54d77fba917215d1",
+      "items": [
+        {
+          "abstract": "Public sector organizations face persistent challenges in retaining a diverse workforce, as systemic barriers continue to shape the experiences of female and minority employees. This study examines how workplace practices – specifically, organizational justice, management support, and leadership representation – are associated with turnover intention in public sector agencies. Using survey data from 1,572 procurement professionals in the United States, we assess both overall effects and subgroup differences. Results show that management support is associated with turnover intention across all groups, and organizational justice is associated with lower turnover intention among female and minority employees. In contrast, diversity and representation alone do not reduce turnover intention and, in some cases, are associated with higher turnover intention among minority employees. These findings suggest that representation without fair and supportive organizational systems is insufficient for retention. The study offers practical recommendations for public managers and contributes to ongoing theoretical discourse in public administration and human resource management.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Ana-Maria Dimand": [
+              "Florida State University"
+            ],
+            "Evelyn Rodriguez-Plesa": [
+              "University of Central Florida"
+            ],
+            "Mohamad G. Alkadry": [
+              "University of Connecticut"
+            ],
+            "Sawsan Abutabenjeh": [
+              "United Arab Emirates University"
+            ]
+          },
+          "authors": [
+            "Evelyn Rodriguez-Plesa",
+            "Ana-Maria Dimand",
+            "Mohamad G. Alkadry",
+            "Sawsan Abutabenjeh"
+          ],
+          "constructs": [
+            "Organizational Justice",
+            "Management Support"
+          ],
+          "doi": "10.1080/14719037.2026.2748381",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "서베이",
+          "method_detail": "횡단면 설문",
+          "publication_date": "2026-10-15",
+          "stable_id": "doi:10.1080/14719037.2026.2748381",
+          "summary_basis": "abstract",
+          "summary_ko": "미국 공공부문 조달 전문가 1,572명의 설문자료를 활용해 조직공정성, 관리지원, 리더십 대표성이 이직의도와 전체 및 집단별로 어떻게 관련되는지 분석했다. 관리지원은 모든 집단에서 이직의도와 관련되었고, 조직공정성은 여성 및 소수집단 직원의 이직의도 감소와 관련되었지만, 다양성과 대표성만으로는 이직의도를 낮추지 못했으며 일부 소수집단에서는 오히려 높은 이직의도와 관련되었다.",
+          "title": "One size does not fit all: management strategies to reduce turnover intention among public sector employees",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1080/14719037.2026.2748381"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -18434,7 +18481,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -18469,7 +18516,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -18494,7 +18541,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -18515,7 +18562,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -18536,40 +18583,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
-    },
-    "doi:10.1080/14719037.2026.2748381": {
-      "first_seen_at": "2026-10-16T11:18:40.110570+00:00",
-      "item": {
-        "author_affiliations": {
-          "Ana-Maria Dimand": [
-            "Florida State University"
-          ],
-          "Evelyn Rodriguez-Plesa": [
-            "University of Central Florida"
-          ],
-          "Mohamad G. Alkadry": [
-            "University of Connecticut"
-          ],
-          "Sawsan Abutabenjeh": [
-            "United Arab Emirates University"
-          ]
-        },
-        "authors": [
-          "Evelyn Rodriguez-Plesa",
-          "Ana-Maria Dimand",
-          "Mohamad G. Alkadry",
-          "Sawsan Abutabenjeh"
-        ],
-        "doi": "10.1080/14719037.2026.2748381",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-10-15",
-        "stable_id": "doi:10.1080/14719037.2026.2748381",
-        "title": "One size does not fit all: management strategies to reduce turnover intention among public sector employees",
-        "url": "https://doi.org/10.1080/14719037.2026.2748381"
-      },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1080/14719037.2026.2748382": {
       "first_seen_at": "2026-10-15T11:24:26.713814+00:00",
@@ -18594,7 +18608,7 @@
         "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
         "url": "https://doi.org/10.1080/14719037.2026.2748382"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1080/14719037.2026.2749676": {
       "first_seen_at": "2026-10-16T11:18:40.110570+00:00",
@@ -18619,7 +18633,7 @@
         "title": "Mapping empathy in policy work: how public servants understand and use it",
         "url": "https://doi.org/10.1080/14719037.2026.2749676"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18644,7 +18658,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18669,7 +18683,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18690,7 +18704,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18711,7 +18725,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18740,7 +18754,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18769,7 +18783,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18794,7 +18808,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18815,7 +18829,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -18835,7 +18849,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -18852,7 +18866,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -18873,7 +18887,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -18890,7 +18904,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -18908,7 +18922,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -18928,7 +18942,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -18945,7 +18959,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -18963,7 +18977,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -18982,7 +18996,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -19000,7 +19014,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -19019,7 +19033,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -19037,7 +19051,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -19054,7 +19068,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -19073,7 +19087,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -19094,7 +19108,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19109,7 +19123,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -19124,7 +19138,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -19145,7 +19159,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -19160,7 +19174,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -19175,7 +19189,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-17T10:39:28.582679+00:00"
+      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
     }
   },
   "version": 1
