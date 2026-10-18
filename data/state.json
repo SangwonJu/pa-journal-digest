@@ -1336,6 +1336,14 @@
       "sent_at": "2026-10-17T10:47:38.017785+00:00",
       "title": "Unpacking the causal complexity of collaborative effectiveness in urban marginalized community regeneration: a fuzzy-set configurational analysis"
     },
+    "doi:10.1080/14719037.2026.2748381": {
+      "batch_id": "2026-10-18-54d77fba917215d1",
+      "doi": "10.1080/14719037.2026.2748381",
+      "journal": "Public Management Review",
+      "publication_date": "2026-10-15",
+      "sent_at": "2026-10-18T11:07:27.020616+00:00",
+      "title": "One size does not fit all: management strategies to reduce turnover intention among public sector employees"
+    },
     "doi:10.1080/15309576.2026.2700771": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1080/15309576.2026.2700771",
@@ -18458,7 +18466,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2748381"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-18T11:07:27.020616+00:00",
+      "status": "sent"
     }
   },
   "pending": {
