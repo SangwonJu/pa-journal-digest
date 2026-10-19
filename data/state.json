@@ -512,6 +512,22 @@
       "sent_at": "2026-10-11T12:52:08.286961+00:00",
       "title": "Presidential Investment in the Administrative State – ERRATUM"
     },
+    "doi:10.1017/s0003055426102081": {
+      "batch_id": "2026-10-19-215b2057a24ea84e",
+      "doi": "10.1017/s0003055426102081",
+      "journal": "American Political Science Review",
+      "publication_date": "2026-10-19",
+      "sent_at": "2026-10-19T13:15:38.309437+00:00",
+      "title": "On Liberalism’s Global Career: Dadabhai Naoroji and Representative Government"
+    },
+    "doi:10.1017/s000305542610210x": {
+      "batch_id": "2026-10-19-215b2057a24ea84e",
+      "doi": "10.1017/s000305542610210x",
+      "journal": "American Political Science Review",
+      "publication_date": "2026-10-19",
+      "sent_at": "2026-10-19T13:15:38.309437+00:00",
+      "title": "The Ambiguities of Ownership and Class: A Reply to Nicholas Vrousalis"
+    },
     "doi:10.1080/01900692.2026.2683248": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
       "doi": "10.1080/01900692.2026.2683248",
@@ -1344,6 +1360,14 @@
       "sent_at": "2026-10-18T11:07:27.020616+00:00",
       "title": "One size does not fit all: management strategies to reduce turnover intention among public sector employees"
     },
+    "doi:10.1080/14719037.2026.2749676": {
+      "batch_id": "2026-10-19-215b2057a24ea84e",
+      "doi": "10.1080/14719037.2026.2749676",
+      "journal": "Public Management Review",
+      "publication_date": "2026-10-16",
+      "sent_at": "2026-10-19T13:15:38.309437+00:00",
+      "title": "Mapping empathy in policy work: how public servants understand and use it"
+    },
     "doi:10.1080/15309576.2026.2700771": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1080/15309576.2026.2700771",
@@ -1703,6 +1727,14 @@
       "publication_date": "2026-09-09",
       "sent_at": "2026-09-10T15:04:47.519495+00:00",
       "title": "Institutional Conversion and Digital Transformation in Local Governments: A Longitudinal Analysis of Trajectories"
+    },
+    "doi:10.1093/jopart/muag031": {
+      "batch_id": "2026-10-19-215b2057a24ea84e",
+      "doi": "10.1093/jopart/muag031",
+      "journal": "Journal of Public Administration Research and Theory",
+      "publication_date": "2026-10-19",
+      "sent_at": "2026-10-19T13:15:38.309437+00:00",
+      "title": "Balancing risk communication and accountability concerns in risk management: A study of major public project investments"
     },
     "doi:10.1093/jopart/muag032": {
       "batch_id": "2026-10-17-a7b1623936c13712",
@@ -2279,6 +2311,14 @@
       "publication_date": "2026-10-15",
       "sent_at": "2026-10-16T11:26:32.570201+00:00",
       "title": "Egotropic and sociotropic negativity bias in social policy reform preferences"
+    },
+    "doi:10.1111/pops.70211": {
+      "batch_id": "2026-10-19-215b2057a24ea84e",
+      "doi": "10.1111/pops.70211",
+      "journal": "Political Psychology",
+      "publication_date": "2026-10-18",
+      "sent_at": "2026-10-19T13:15:38.309437+00:00",
+      "title": "A secondary bond: Why economic threats boost compensatory preference for government control in China"
     },
     "doi:10.1111/psj.70144": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -18645,7 +18685,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2749676"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-19T13:15:38.309437+00:00",
+      "status": "sent"
     }
   },
   "pending": {
