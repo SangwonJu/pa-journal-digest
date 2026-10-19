@@ -18468,6 +18468,184 @@
       ],
       "sent_at": "2026-10-18T11:07:27.020616+00:00",
       "status": "sent"
+    },
+    "2026-10-19-215b2057a24ea84e": {
+      "created_at": "2026-10-19T13:07:32.034531+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-19-215b2057a24ea84e",
+      "items": [
+        {
+          "abstract": "This article reconsiders the relationship between the globalization of political liberalism and the globalization of political equality. Departing from interpretations of liberal theories of rights and representation as egalitarian or democratic, the article reconstructs an elitist paradigm of liberal representative government from the colonial world. It does so by offering a new reading of the thought of Indian political leader Dadabhai Naoroji. It recovers Naoroji’s overlooked commentary on political representation and imperial reform. I show that Naoroji drew upon analyses made by the first generation of Indian liberal thinkers about imperial political economy and mass-elite relations and used these arguments to formulate a distinctive model of electoral politics as a form of hierarchical tutelage. The recovery of Naoroji’s theory illustrates the deep tensions between representation and mass politics that marked liberalism’s global circulation.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "TEJAS PARASHER": [
+              "University of California"
+            ]
+          },
+          "authors": [
+            "TEJAS PARASHER"
+          ],
+          "constructs": [
+            "Liberalism",
+            "Representative Government"
+          ],
+          "doi": "10.1017/s0003055426102081",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "이론/개념",
+          "method_detail": "사상사적 재구성",
+          "publication_date": "2026-10-19",
+          "stable_id": "doi:10.1017/s0003055426102081",
+          "summary_basis": "abstract",
+          "summary_ko": "이 글은 정치적 자유주의의 세계화와 정치적 평등의 관계를 어떻게 이해해야 하는지 묻고, 인도 정치 지도자 다다바이 나오로지의 사상과 제국 개혁·정치대표에 관한 간과된 논평을 재구성한다. 나오로지가 선대 인도 자유주의자들의 제국 정치경제 및 대중-엘리트 관계 분석을 바탕으로 선거정치를 위계적 후견의 형태로 구상했음을 보이며, 자유주의의 세계적 확산에 대표와 대중정치 사이의 긴장이 내재했음을 논증한다.",
+          "title": "On Liberalism’s Global Career: Dadabhai Naoroji and Representative Government",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1017/s0003055426102081"
+        },
+        {
+          "abstract": "The article replies to Nicholas Vrousalis’s attempt to rescue radical republicanism from my critique that it fails on three counts: its non-contingency, domination, and structural injustice theses. Central to my response are the claims that (i) capitalist power cannot be reduced to legal ownership of the means of production, as the process of capitalization is constitutive of capital; (ii) neither neo-republican nor Kantian notions of domination adequately capture what is inherently wrong with capitalism, and (iii) the concept of “class domination” remains theoretically puzzling. I then defend an alienation-centered critique: capitalism’s mode of investment subjects citizens to an impersonal and anarchical form of governance, which, by being necessarily alienating, contradicts democratic self-determination. Overall, this critique forms the core of a “political, political theory of capitalism” and grounds the case for a specific kind of democratic socialism—socialism as reconciliation—which is more demanding than both republican and liberal socialisms.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "CHIARA CORDELLI": [
+              "University of Chicago"
+            ]
+          },
+          "authors": [
+            "CHIARA CORDELLI"
+          ],
+          "constructs": [
+            "Alienation",
+            "Class Domination"
+          ],
+          "doi": "10.1017/s000305542610210x",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "이론/개념",
+          "method_detail": "개념적 논증",
+          "publication_date": "2026-10-19",
+          "stable_id": "doi:10.1017/s000305542610210x",
+          "summary_basis": "abstract",
+          "summary_ko": "이 글은 자본주의에 대한 급진적 공화주의의 구제 시도에 응답하며, 자본주의 권력을 법적 소유만으로 환원할 수 없고 공화주의·칸트주의의 지배 개념과 ‘계급 지배’가 자본주의의 본질적 문제를 충분히 포착하지 못한다고 주장한다. 대신 자본주의적 투자의 방식이 시민을 비인격적·무정부적 통치에 종속시켜 민주적 자기결정과 충돌한다는 소외 중심 비판을 제시하고, 이를 ‘화해로서의 사회주의’라는 민주적 사회주의의 근거로 옹호한다.",
+          "title": "The Ambiguities of Ownership and Class: A Reply to Nicholas Vrousalis",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1017/s000305542610210x"
+        },
+        {
+          "abstract": "Abstract Effective administration of public organizations requires timely responses to emerging risks, yet communicating those risks up the hierarchy can expose operational managers to blame in politicized accountability environments. This study examines how public managers navigated that tension in an analysis of 130 risk reports filed over a seven-year period associated with two major procurement and maintenance projects in the Danish Defence. Using an abductive qualitative approach, we develop a dynamic model of risk management with four phases: (1) risk as an operational concern, (2) turning risk into an organizational problem, (3) assigning blame and accountability, and (4) initiating mitigation and response. We find that risk and accountability communication are interdependent processes rather than independent sequential processes. Operational managers attempt to raise awareness of emerging risks while simultaneously deflecting potential blame and catering to higher-level concerns about public scrutiny. This tension generates pressure to only report when it is absolutely necessary, while higher-level managers often postpone action to avoid political exposure. These practices contribute to delays, projects not meeting specifications, and significant budget overruns. The study advances a dynamic theory of public sector risk management and explains how hierarchical communication practices influence whether, when, and how emerging risks are addressed.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Giulio Zichella": [
+              "Copenhagen Business School , Solbjerg plads 3, 2000 Frederiksberg,"
+            ],
+            "Sof Thrane": [
+              "Copenhagen Business School , Solbjerg plads 3, 2000 Frederiksberg,"
+            ],
+            "Torben Juul Andersen": [
+              "Copenhagen Business School , Porcelænshaven 24, 2000 Frederiksberg,"
+            ],
+            "Ulrik Christiansen": [
+              "Copenhagen Business School & ISS, Solbjerg plads 3, 2000 Frederiksberg,"
+            ]
+          },
+          "authors": [
+            "Sof Thrane",
+            "Ulrik Christiansen",
+            "Torben Juul Andersen",
+            "Giulio Zichella"
+          ],
+          "constructs": [
+            "Risk Communication",
+            "Accountability"
+          ],
+          "doi": "10.1093/jopart/muag031",
+          "journal": "Journal of Public Administration Research and Theory",
+          "journal_short": "JPART",
+          "method": "질적연구",
+          "method_detail": "귀납적 분석",
+          "publication_date": "2026-10-19",
+          "stable_id": "doi:10.1093/jopart/muag031",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 정치화된 책무성 환경에서 공공관리자가 위험을 상급자에게 보고하면서 비난과 정치적 노출을 어떻게 회피하는지 분석했다. 덴마크 국방의 두 주요 조달·유지보수 사업에서 7년간 제출된 위험보고서 130건을 귀납적으로 분석한 결과, 위험 커뮤니케이션과 책무성 커뮤니케이션은 독립적인 순차 과정이 아니라 상호의존적이며, 보고와 대응의 지연이 사업의 사양 미충족과 예산 초과로 이어지는 동태적 위험관리 모형을 제시했다.",
+          "title": "Balancing risk communication and accountability concerns in risk management: A study of major public project investments",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1093/jopart/muag031"
+        },
+        {
+          "abstract": "Abstract Compensatory control theory suggests that threats to personal control increase the desire for external control. Yet, despite the growing salience of global economic instability—amplified by trade conflicts, protectionist policies, and heightened geopolitical tensions—empirical research has rarely examined this dynamic in the context of economic threats. Moreover, the direct psychological consequences of endorsing external control—whether it ultimately enhances or diminishes personal control—remain largely unexplored. Addressing both gaps, the present research focuses on the socio‐political context of China to investigate whether individuals facing economic threats and diminished personal control show increased preference for government control, a particularly powerful and salient external source of control in Chinese society. Across studies, the results showed a positive relationship between perceived economic threats and preference for government control, mediated by a reduction in personal control (Studies 1–3). Furthermore, we found that endorsement of government control helped enhance, rather than undermine, personal control (Studies 4 and 5). These findings suggest that government control serves as a compensatory source of control in response to economic threats.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Jan‐Willem van Prooijen": [
+              "Department of Experimental and Applied Psychology Vrije Universiteit Amsterdam Amsterdam the Netherlands",
+              "The Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) Amsterdam the Netherlands",
+              "Department of Criminal Law and Criminology Maastricht University Maastricht the Netherlands"
+            ],
+            "Ronghua Xu": [
+              "School of Psychology Nanjing Normal University Nanjing Jiangsu Province China",
+              "Graduate School of Social Sciences Hitotsubashi University Kunitachi Tokyo Japan"
+            ],
+            "Yi Ding": [
+              "School of Psychology Nanjing Normal University Nanjing Jiangsu Province China"
+            ],
+            "Yongyu Guo": [
+              "School of Psychology Nanjing Normal University Nanjing Jiangsu Province China"
+            ]
+          },
+          "authors": [
+            "Ronghua Xu",
+            "Yi Ding",
+            "Yongyu Guo",
+            "Jan‐Willem van Prooijen"
+          ],
+          "constructs": [
+            "Compensatory Control Theory",
+            "Personal Control"
+          ],
+          "doi": "10.1111/pops.70211",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "혼합방법론",
+          "method_detail": "다중 연구 설계",
+          "publication_date": "2026-10-18",
+          "stable_id": "doi:10.1111/pops.70211",
+          "summary_basis": "abstract",
+          "summary_ko": "중국의 경제적 위협과 개인 통제감 저하가 정부 통제 선호를 높이는지, 그리고 이러한 선호가 개인 통제감을 어떻게 변화시키는지를 여러 연구로 검증했다. 경제적 위협은 개인 통제감 감소를 매개로 정부 통제 선호를 높였으며, 정부 통제의 수용은 개인 통제감을 약화시키기보다 강화했다.",
+          "title": "A secondary bond: Why economic threats boost compensatory preference for government control in China",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70211"
+        },
+        {
+          "abstract": "Empathy is an underexplored phenomenon in policymaking that can shape how policies are designed and implemented. This study investigates the role of empathy in policy work through interviews with 22 Australian public servants occupying diverse policy-focused roles. Using an abductive approach, this study identifies three primary areas of empathy application by public servants: understanding citizens’ lived experiences to inform policy design; navigating interpersonal dynamics within and across agencies; and challenging assumptions and embedded worldviews. Findings suggest that empathy functions as a sensemaking resource, helping public servants interpret information in complex and ambiguous policy contexts.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Assel Mussagulova": [
+              "University of Sydney"
+            ],
+            "Colette Einfeld": [
+              "Australian National University"
+            ]
+          },
+          "authors": [
+            "Assel Mussagulova",
+            "Colette Einfeld"
+          ],
+          "constructs": [
+            "Empathy",
+            "Sensemaking"
+          ],
+          "doi": "10.1080/14719037.2026.2749676",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "심층 인터뷰",
+          "publication_date": "2026-10-16",
+          "stable_id": "doi:10.1080/14719037.2026.2749676",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 공무원들이 정책 업무에서 공감이 어떻게 이해되고 활용되는지를 호주 공무원 22명과의 인터뷰 및 귀납적 추론을 통해 탐색했다. 공감은 시민의 삶의 경험을 정책 설계에 반영하고, 기관 내·기관 간 관계를 조정하며, 가정과 고착된 세계관에 도전하게 하는 감각형성 자원으로 나타났다.",
+          "title": "Mapping empathy in policy work: how public servants understand and use it",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1080/14719037.2026.2749676"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -18490,7 +18668,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -18525,7 +18703,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -18550,7 +18728,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -18571,7 +18749,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -18592,7 +18770,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1080/14719037.2026.2748382": {
       "first_seen_at": "2026-10-15T11:24:26.713814+00:00",
@@ -18617,32 +18795,40 @@
         "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
         "url": "https://doi.org/10.1080/14719037.2026.2748382"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
-    "doi:10.1080/14719037.2026.2749676": {
-      "first_seen_at": "2026-10-16T11:18:40.110570+00:00",
+    "doi:10.1080/14719037.2026.2750930": {
+      "first_seen_at": "2026-10-19T13:07:32.034531+00:00",
       "item": {
         "author_affiliations": {
-          "Assel Mussagulova": [
-            "University of Sydney"
+          "Hanna Vakkala": [
+            "University of Lapland, Faculty of Social Sciences"
           ],
-          "Colette Einfeld": [
-            "Australian National University"
+          "Henna Väätäinen": [
+            "University of Oulu, Kerttu Saalasti Institute"
+          ],
+          "Iikka Meriläinen": [
+            "University of Oulu, Kerttu Saalasti Institute"
+          ],
+          "Petri Virtanen": [
+            "University of Canberra, Centre for Environmental Governance"
           ]
         },
         "authors": [
-          "Assel Mussagulova",
-          "Colette Einfeld"
+          "Henna Väätäinen",
+          "Iikka Meriläinen",
+          "Petri Virtanen",
+          "Hanna Vakkala"
         ],
-        "doi": "10.1080/14719037.2026.2749676",
+        "doi": "10.1080/14719037.2026.2750930",
         "journal": "Public Management Review",
         "journal_short": "PMR",
-        "publication_date": "2026-10-16",
-        "stable_id": "doi:10.1080/14719037.2026.2749676",
-        "title": "Mapping empathy in policy work: how public servants understand and use it",
-        "url": "https://doi.org/10.1080/14719037.2026.2749676"
+        "publication_date": "2026-10-19",
+        "stable_id": "doi:10.1080/14719037.2026.2750930",
+        "title": "Lack of public service motivation as a value-constraining mechanism in entrepreneurial ecosystems",
+        "url": "https://doi.org/10.1080/14719037.2026.2750930"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18667,7 +18853,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18692,7 +18878,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18713,7 +18899,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18734,7 +18920,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18763,7 +18949,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18792,7 +18978,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18817,7 +19003,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -18838,7 +19024,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -18858,7 +19044,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -18875,7 +19061,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -18896,7 +19082,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -18913,7 +19099,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -18931,7 +19117,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -18951,7 +19137,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -18968,7 +19154,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -18986,7 +19172,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -19005,7 +19191,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -19023,7 +19209,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -19042,7 +19228,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -19060,7 +19246,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -19077,7 +19263,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -19096,7 +19282,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -19117,7 +19303,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19132,7 +19318,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -19147,7 +19333,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -19168,7 +19354,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -19183,7 +19369,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -19198,7 +19384,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-18T10:59:55.162567+00:00"
+      "last_checked_at": "2026-10-19T13:07:32.034531+00:00"
     }
   },
   "version": 1
