@@ -1368,6 +1368,14 @@
       "sent_at": "2026-10-19T13:15:38.309437+00:00",
       "title": "Mapping empathy in policy work: how public servants understand and use it"
     },
+    "doi:10.1080/14719037.2026.2750930": {
+      "batch_id": "2026-10-20-fcb5da62edba9adb",
+      "doi": "10.1080/14719037.2026.2750930",
+      "journal": "Public Management Review",
+      "publication_date": "2026-10-19",
+      "sent_at": "2026-10-20T11:38:56.949096+00:00",
+      "title": "Lack of public service motivation as a value-constraining mechanism in entrepreneurial ecosystems"
+    },
     "doi:10.1080/15309576.2026.2700771": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1080/15309576.2026.2700771",
@@ -3039,6 +3047,30 @@
       "publication_date": "2026-09-02",
       "sent_at": "2026-09-03T15:05:53.210352+00:00",
       "title": "Culture as Administrative Infrastructure: Crisis Governance and Community Recovery After the Maui Wildfires"
+    },
+    "doi:10.1177/02750740261498857": {
+      "batch_id": "2026-10-20-fcb5da62edba9adb",
+      "doi": "10.1177/02750740261498857",
+      "journal": "The American Review of Public Administration",
+      "publication_date": "2026-10-19",
+      "sent_at": "2026-10-20T11:38:56.949096+00:00",
+      "title": "Public Participation as Administrative Practice: Evidence from Federal Entitlement Communities"
+    },
+    "doi:10.1177/02750740261498860": {
+      "batch_id": "2026-10-20-fcb5da62edba9adb",
+      "doi": "10.1177/02750740261498860",
+      "journal": "The American Review of Public Administration",
+      "publication_date": "2026-10-19",
+      "sent_at": "2026-10-20T11:38:56.949096+00:00",
+      "title": "'We are no longer Allowed to be Human': Officers’ Experiences Policing the Compounding Crises of the COVID-19 Pandemic and Civil Unrest in the United States"
+    },
+    "doi:10.1177/02750740261498871": {
+      "batch_id": "2026-10-20-fcb5da62edba9adb",
+      "doi": "10.1177/02750740261498871",
+      "journal": "The American Review of Public Administration",
+      "publication_date": "2026-10-19",
+      "sent_at": "2026-10-20T11:38:56.949096+00:00",
+      "title": "Does Citizen Political Ideology Shape Bureaucratic Responsiveness? Evidence From an Audit Experiment"
     },
     "doi:10.1177/02750740261498874": {
       "batch_id": "2026-10-17-a7b1623936c13712",
@@ -18833,7 +18865,8 @@
           "url": "https://doi.org/10.1177/02750740261498857"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-20T11:38:56.949096+00:00",
+      "status": "sent"
     }
   },
   "pending": {
