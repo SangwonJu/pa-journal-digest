@@ -18867,6 +18867,171 @@
       ],
       "sent_at": "2026-10-20T11:38:56.949096+00:00",
       "status": "sent"
+    },
+    "2026-10-21-97e4d3559cd3b284": {
+      "created_at": "2026-10-21T11:44:33.182624+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-21-97e4d3559cd3b284",
+      "items": [
+        {
+          "abstract": "Scholars in public administration are beginning to see the inevitability of “intelligent management.” Emphasizing the effective and efficient use of AI in public administration, Dr. Skotnicka-Zasad...",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Weiqi Xia": [
+              "University of Illinois at Chicago"
+            ]
+          },
+          "authors": [
+            "Weiqi Xia"
+          ],
+          "constructs": [
+            "Artificial Intelligence",
+            "Intelligent Management"
+          ],
+          "doi": "10.1080/01900692.2026.2743078",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "method": "이론/개념",
+          "method_detail": "개념적 논의",
+          "publication_date": "2026-10-20",
+          "stable_id": "doi:10.1080/01900692.2026.2743078",
+          "summary_basis": "abstract",
+          "summary_ko": "공공행정에서 ‘지능형 관리’의 불가피성을 제시하고, AI를 효과적·효율적으로 활용하는 문제를 강조하는 개념적 논의이다. 초록에 제시된 범위에서는 구체적인 연구 질문이나 경험적 분석, 주요 발견은 확인되지 않는다.",
+          "title": "Artificial Intelligence in Public Administration",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1080/01900692.2026.2743078"
+        },
+        {
+          "abstract": "Why do formally mandated anti-corruption institutions fail in contexts of entrenched political patronage? This study addresses that question through an embedded case study of the Anti-Corruption Establishment of Sindh, Pakistan, combining the document analysis, case-file examination, enforcement statistics from 2015 to 2023, and interviews with twelve retired officials. Three contributions emerge: process-level evidence of how subnational institutions are operationally hollowed out rather than merely underperforming on aggregate indices; demonstration of how political interference, capacity deficits, legal loopholes, and neglect of preventive functions interact as a compounding failure ecosystem; and extension of institutional theory to subnational governance in federal developing states, offering transferable lessons where elite capture constraints accountability reform. The findings confirm that patronage networks convert formally mandated anti-corruption institutions into ritualistic procedure rather than substantive restraint, with accountability outcomes systematically conditioned by political affiliation rather than evidentiary merit.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Shoukat Ali Mahar": [
+              "Shah Abdul Latif University Khairpur"
+            ],
+            "Zubair Ahmed Pirzada": [
+              "Knoxville, TN"
+            ]
+          },
+          "authors": [
+            "Zubair Ahmed Pirzada",
+            "Shoukat Ali Mahar"
+          ],
+          "constructs": [
+            "Political Patronage",
+            "Institutional Theory"
+          ],
+          "doi": "10.1080/01900692.2026.2741072",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "method": "질적연구",
+          "method_detail": "내재적 사례연구",
+          "publication_date": "2026-10-20",
+          "stable_id": "doi:10.1080/01900692.2026.2741072",
+          "summary_basis": "abstract",
+          "summary_ko": "파키스탄 신드주의 반부패기구가 정치적 후견주의가 고착된 환경에서 왜 실질적 책임성을 확보하지 못하는지를 문서·사건기록 분석, 2015~2023년 집행 통계, 퇴직 공무원 12명 인터뷰를 결합한 내재적 사례연구로 분석했다. 정치적 개입, 역량 부족, 법적 loophole, 예방 기능의 방치가 상호 증폭되어 기구를 형식적 절차로 전락시키고, 책임성 결과가 증거보다 정치적 소속에 좌우된다는 점을 보였다.",
+          "title": "Building Integrity in the Global South: Lessons from Pakistan’s Struggle Against Public Sector Corruption",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1080/01900692.2026.2741072"
+        },
+        {
+          "abstract": "Abstract Does rapid and large-scale migration fuel nationalism? Using administrative and panel survey data from Chile, we show that sudden, large-scale migration inflows increase identity-based nationalistic attitudes, such as national pride, among native-born citizens. These “immigration shocks” appear to activate perceptions of identity threat, leading to stronger expressions of national pride and belonging. Supplementary evidence from surveys, media reports, social media, and crime records suggests that this nationalism is predominantly exclusionary: areas most affected by migration also experienced spikes in anti-migrant rhetoric, hate crimes, and support for a newly formed far-right party. These findings underscore how rapid demographic changes can reshape political attitudes and contribute to the rise of exclusionary forms of national identity.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {},
+          "authors": [
+            "Catalina Vega-Méndez",
+            "Giancarlo Visconti"
+          ],
+          "constructs": [
+            "Identity Threat",
+            "National Identity"
+          ],
+          "doi": "10.1007/s11109-026-10218-8",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "혼합방법론",
+          "method_detail": "행정자료·패널분석",
+          "publication_date": "2026-10-21",
+          "stable_id": "doi:10.1007/s11109-026-10218-8",
+          "summary_basis": "abstract",
+          "summary_ko": "칠레의 행정자료와 패널 설문자료를 활용해 급격하고 대규모인 이민 유입이 내국인의 정체성 기반 민족주의 태도에 미치는 영향을 분석했다. 이민 충격은 국가적 자부심과 소속감, 반이민 수사·증오범죄·극우 정당 지지의 증가와 연관되어, 배제적 민족주의를 강화하는 것으로 나타났다.",
+          "title": "Immigration and Nationalistic Attitudes: Panel Evidence from Chile",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1007/s11109-026-10218-8"
+        },
+        {
+          "abstract": "Abstract The success of dominance‐oriented leaders often evokes surprise and dismay. We offer a psychological explanation beyond partisan reasoning, positing a systematic tendency among liberals to underestimate the appeal and efficacy of such leaders compared with conservatives. Drawing on moral foundations theory, we propose that liberals' heightened emphasis on harm avoidance and fairness explains their reduced liking for dominance‐oriented leaders, and that this reduced likability helps explain why they underestimate these leaders' prospects of success more than conservatives do. We test our predictions across multiple studies, including both political and organizational contexts, demonstrating that political liberals consistently perceive dominance‐oriented leaders as less likely to succeed than conservatives do—even when the leader's political affiliation is irrelevant, unknown, or aligned with their own. We conclude our investigation by suggesting that these diminished expectations from liberals might paradoxically enhance the success trajectories of dominant leaders.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Danbee Chon": [
+              "Department of Management, Muma College of Business University of South Florida Tampa Florida USA"
+            ],
+            "Hemant Kakkar": [
+              "Department of Management and Organisation, NUS Business School National University of Singapore Singapore Singapore"
+            ]
+          },
+          "authors": [
+            "Danbee Chon",
+            "Hemant Kakkar"
+          ],
+          "constructs": [
+            "Moral Foundations Theory",
+            "Dominance-Oriented Leadership"
+          ],
+          "doi": "10.1111/pops.70207",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "혼합방법론",
+          "method_detail": "다중 연구 설계",
+          "publication_date": "2026-10-20",
+          "stable_id": "doi:10.1111/pops.70207",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 자유주의자들이 지배지향적 지도자의 매력과 성공 가능성을 보수주의자들보다 과소평가하는지, 그리고 도덕적 기반과 호감도가 이를 설명하는지를 정치·조직 맥락의 여러 연구로 검증했다. 자유주의자들은 지도자의 정치적 소속이 무관하거나 알려지지 않았거나 자신들과 일치할 때에도 지배지향적 지도자의 성공 가능성을 일관되게 낮게 인식했으며, 낮은 호감도가 이러한 차이를 설명했다.",
+          "title": "A blind spot for dominance? Why liberals underestimate dominant leaders more than conservatives",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1111/pops.70207"
+        },
+        {
+          "abstract": "Abstract In this review, we synthesize evidence to argue that climate change and conflict are mutually reinforcing. We first examine conflict as a barrier to mitigation, focusing on four faultlines that slow climate action: (a) ideological polarization, (b) “elite versus ordinary people” narratives, (c) intranational, place‐based conflicts, and (d) international disputes. The consequence of these conflicts is worsening climate change, which in turn increases the prevalence of factors known to be conflict amplifiers: heat stress, economic stress, widening inequality, and forced displacement. Our analysis points to the potential for recursive “climate–conflict loops”, fuelled in part by erosion of institutional trust, shrinking moral circles, political polarization, and de‐prioritization of long‐term climate goals. In a spirit of optimism, however, we identify three buffers capable of breaking these vicious cycles: maintenance of procedural and distributive justice, enhancing information integrity, and scaffolding institutional cooperation. We conclude by proposing a research agenda that integrates psychological mechanisms into dynamic, multi‐level accounts of how climate impacts and political conflict coevolve.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Boryana Todorova": [
+              "Business School University of Queensland Brisbane Queensland Australia",
+              "Department of Cognition, Emotion, and Methods in Psychology, Faculty of Psychology University of Vienna Vienna Austria"
+            ],
+            "Kelly S. Fielding": [
+              "School of Communication and Arts University of Queensland Brisbane Queensland Australia"
+            ],
+            "Matthew J. Hornsey": [
+              "Business School University of Queensland Brisbane Queensland Australia"
+            ],
+            "Winnifred R. Louis": [
+              "School of Psychology University of Queensland Brisbane Queensland Australia"
+            ]
+          },
+          "authors": [
+            "Boryana Todorova",
+            "Matthew J. Hornsey",
+            "Winnifred R. Louis",
+            "Kelly S. Fielding"
+          ],
+          "constructs": [
+            "Political Polarization",
+            "Institutional Trust"
+          ],
+          "doi": "10.1111/pops.70214",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "이론/개념",
+          "method_detail": "문헌 종합",
+          "publication_date": "2026-10-21",
+          "stable_id": "doi:10.1111/pops.70214",
+          "summary_basis": "abstract",
+          "summary_ko": "이 리뷰는 기후변화와 갈등이 서로를 강화하는 악순환이 어떻게 형성되는지, 그리고 이를 끊을 수 있는 조건이 무엇인지 검토한다. 이념적 양극화, 엘리트 대 서민 서사, 국내 지역 갈등, 국제 분쟁이 기후행동을 저해하고, 기후변화는 열·경제적 스트레스, 불평등, 강제이주를 통해 갈등을 증폭시키지만, 절차적·분배적 정의, 정보 무결성, 제도적 협력이 이러한 순환을 완화할 수 있다고 제시한다.",
+          "title": "Climate change and conflict: The vicious cycles undermining climate action, and what can be done to break them",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1111/pops.70214"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -18889,7 +19054,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -18924,7 +19089,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -18949,7 +19114,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -18970,7 +19135,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -18991,32 +19156,32 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
-    "doi:10.1080/01900692.2026.2741072": {
-      "first_seen_at": "2026-10-20T11:31:33.175140+00:00",
+    "doi:10.1080/01900692.2026.2733756": {
+      "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
       "item": {
         "author_affiliations": {
-          "Shoukat Ali Mahar": [
-            "Shah Abdul Latif University Khairpur"
+          "Mauricio Astudillo-Rodas": [
+            "Florida State University"
           ],
-          "Zubair Ahmed Pirzada": [
-            "Knoxville, TN"
+          "Ricardo A. Bello-Gomez": [
+            "Rutgers University"
           ]
         },
         "authors": [
-          "Zubair Ahmed Pirzada",
-          "Shoukat Ali Mahar"
+          "Mauricio Astudillo-Rodas",
+          "Ricardo A. Bello-Gomez"
         ],
-        "doi": "10.1080/01900692.2026.2741072",
+        "doi": "10.1080/01900692.2026.2733756",
         "journal": "International Journal of Public Administration",
         "journal_short": "IJPA",
-        "publication_date": "2026-10-20",
-        "stable_id": "doi:10.1080/01900692.2026.2741072",
-        "title": "Building Integrity in the Global South: Lessons from Pakistan’s Struggle Against Public Sector Corruption",
-        "url": "https://doi.org/10.1080/01900692.2026.2741072"
+        "publication_date": "2026-10-21",
+        "stable_id": "doi:10.1080/01900692.2026.2733756",
+        "title": "Bureaucratic Capacity and Autonomy as Drivers of Innovation Climate",
+        "url": "https://doi.org/10.1080/01900692.2026.2733756"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1080/01900692.2026.2745162": {
       "first_seen_at": "2026-10-20T11:31:33.175140+00:00",
@@ -19037,7 +19202,70 @@
         "title": "Extending the Structure-In-Evolution Approach: Mechanisms and Patterns of Institutional Evolution",
         "url": "https://doi.org/10.1080/01900692.2026.2745162"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+    },
+    "doi:10.1080/01900692.2026.2745166": {
+      "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
+      "item": {
+        "author_affiliations": {
+          "Alif Hizrafi Kandar": [
+            "Universitas Airlangga"
+          ],
+          "Antun Mardiyanta": [
+            "Universitas Airlangga"
+          ],
+          "Bintoro Wardiyanto": [
+            "Universitas Airlangga"
+          ],
+          "Elis Mardianti": [
+            "Universitas Airlangga"
+          ],
+          "Erna Setijaningrum": [
+            "Universitas Airlangga"
+          ]
+        },
+        "authors": [
+          "Erna Setijaningrum",
+          "Bintoro Wardiyanto",
+          "Antun Mardiyanta",
+          "Alif Hizrafi Kandar",
+          "Elis Mardianti"
+        ],
+        "doi": "10.1080/01900692.2026.2745166",
+        "journal": "International Journal of Public Administration",
+        "journal_short": "IJPA",
+        "publication_date": "2026-10-20",
+        "stable_id": "doi:10.1080/01900692.2026.2745166",
+        "title": "Who Governs the Ungovernable? Policy Orphans and Public Service Innovation in the Voids of Indonesia’s Migration Governance",
+        "url": "https://doi.org/10.1080/01900692.2026.2745166"
+      },
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+    },
+    "doi:10.1080/01900692.2026.2747048": {
+      "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
+      "item": {
+        "author_affiliations": {
+          "Hua Qin": [
+            "The Chinese University of Hong Kong"
+          ],
+          "Jin Zhu": [
+            "The Chinese University of Hong Kong",
+            "City University of Hong Kong"
+          ]
+        },
+        "authors": [
+          "Jin Zhu",
+          "Hua Qin"
+        ],
+        "doi": "10.1080/01900692.2026.2747048",
+        "journal": "International Journal of Public Administration",
+        "journal_short": "IJPA",
+        "publication_date": "2026-10-21",
+        "stable_id": "doi:10.1080/01900692.2026.2747048",
+        "title": "When Public Employment Spills Over into Civic Action: Environmental Co-Production in China",
+        "url": "https://doi.org/10.1080/01900692.2026.2747048"
+      },
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1080/14719037.2026.2748382": {
       "first_seen_at": "2026-10-15T11:24:26.713814+00:00",
@@ -19062,7 +19290,7 @@
         "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
         "url": "https://doi.org/10.1080/14719037.2026.2748382"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19087,7 +19315,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19112,7 +19340,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19133,7 +19361,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19154,7 +19382,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19183,7 +19411,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19212,7 +19440,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19237,7 +19465,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19258,7 +19486,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -19278,7 +19506,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -19295,7 +19523,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -19316,7 +19544,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -19333,7 +19561,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -19351,7 +19579,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -19371,7 +19599,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -19388,7 +19616,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -19406,7 +19634,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -19425,7 +19653,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -19443,7 +19671,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -19462,7 +19690,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -19480,7 +19708,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -19497,7 +19725,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -19516,7 +19744,60 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+    },
+    "doi:10.1086/744573": {
+      "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Stuart Perrett",
+          "Delia Baldassarri"
+        ],
+        "doi": "10.1086/744573",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-20",
+        "stable_id": "doi:10.1086/744573",
+        "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
+        "url": "https://doi.org/10.1086/744573"
+      },
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+    },
+    "doi:10.1086/744574": {
+      "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Jonne Kamphorst"
+        ],
+        "doi": "10.1086/744574",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-20",
+        "stable_id": "doi:10.1086/744574",
+        "title": "The Left Misunderstood: How Voters’ Perceptions of What Matters to the Left Benefit the Right",
+        "url": "https://doi.org/10.1086/744574"
+      },
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+    },
+    "doi:10.1086/744575": {
+      "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Janosch Prinz",
+          "Manon Westphal"
+        ],
+        "doi": "10.1086/744575",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-10-20",
+        "stable_id": "doi:10.1086/744575",
+        "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
+        "url": "https://doi.org/10.1086/744575"
+      },
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -19537,7 +19818,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19552,7 +19833,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -19567,7 +19848,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -19588,7 +19869,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -19603,7 +19884,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -19618,7 +19899,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-20T11:31:33.175140+00:00"
+      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
     }
   },
   "version": 1
