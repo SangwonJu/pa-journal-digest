@@ -240,6 +240,14 @@
       "sent_at": "2026-10-16T11:26:32.570201+00:00",
       "title": "Daughters and Political Preferences of Politicians: A Preregistered Prospective Study on Swedish Politicians"
     },
+    "doi:10.1007/s11109-026-10218-8": {
+      "batch_id": "2026-10-21-97e4d3559cd3b284",
+      "doi": "10.1007/s11109-026-10218-8",
+      "journal": "Political Behavior",
+      "publication_date": "2026-10-21",
+      "sent_at": "2026-10-21T11:52:23.084817+00:00",
+      "title": "Immigration and Nationalistic Attitudes: Panel Evidence from Chile"
+    },
     "doi:10.1016/j.giq.2026.102149": {
       "batch_id": "2026-09-01-1560b88b8d2d7127",
       "doi": "10.1016/j.giq.2026.102149",
@@ -655,6 +663,22 @@
       "publication_date": "2026-09-12",
       "sent_at": "2026-09-13T21:11:27.583467+00:00",
       "title": "Data-Driven Collaboration in Mandated Networks: US Homelessness Services"
+    },
+    "doi:10.1080/01900692.2026.2741072": {
+      "batch_id": "2026-10-21-97e4d3559cd3b284",
+      "doi": "10.1080/01900692.2026.2741072",
+      "journal": "International Journal of Public Administration",
+      "publication_date": "2026-10-20",
+      "sent_at": "2026-10-21T11:52:23.084817+00:00",
+      "title": "Building Integrity in the Global South: Lessons from Pakistan’s Struggle Against Public Sector Corruption"
+    },
+    "doi:10.1080/01900692.2026.2743078": {
+      "batch_id": "2026-10-21-97e4d3559cd3b284",
+      "doi": "10.1080/01900692.2026.2743078",
+      "journal": "International Journal of Public Administration",
+      "publication_date": "2026-10-20",
+      "sent_at": "2026-10-21T11:52:23.084817+00:00",
+      "title": "Artificial Intelligence in Public Administration"
     },
     "doi:10.1080/10584609.2026.2701201": {
       "batch_id": "2026-08-14-8fbfacbd92e8e048",
@@ -2312,6 +2336,14 @@
       "sent_at": "2026-10-17T10:47:38.017785+00:00",
       "title": "Between reconciliation and peace making and brutalization: The Israeli case"
     },
+    "doi:10.1111/pops.70207": {
+      "batch_id": "2026-10-21-97e4d3559cd3b284",
+      "doi": "10.1111/pops.70207",
+      "journal": "Political Psychology",
+      "publication_date": "2026-10-20",
+      "sent_at": "2026-10-21T11:52:23.084817+00:00",
+      "title": "A blind spot for dominance? Why liberals underestimate dominant leaders more than conservatives"
+    },
     "doi:10.1111/pops.70210": {
       "batch_id": "2026-10-16-b7c3fd64e68149cd",
       "doi": "10.1111/pops.70210",
@@ -2327,6 +2359,14 @@
       "publication_date": "2026-10-18",
       "sent_at": "2026-10-19T13:15:38.309437+00:00",
       "title": "A secondary bond: Why economic threats boost compensatory preference for government control in China"
+    },
+    "doi:10.1111/pops.70214": {
+      "batch_id": "2026-10-21-97e4d3559cd3b284",
+      "doi": "10.1111/pops.70214",
+      "journal": "Political Psychology",
+      "publication_date": "2026-10-21",
+      "sent_at": "2026-10-21T11:52:23.084817+00:00",
+      "title": "Climate change and conflict: The vicious cycles undermining climate action, and what can be done to break them"
     },
     "doi:10.1111/psj.70144": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -19031,7 +19071,8 @@
           "url": "https://doi.org/10.1111/pops.70214"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-21T11:52:23.084817+00:00",
+      "status": "sent"
     }
   },
   "pending": {
