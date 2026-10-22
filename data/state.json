@@ -19073,6 +19073,338 @@
       ],
       "sent_at": "2026-10-21T11:52:23.084817+00:00",
       "status": "sent"
+    },
+    "2026-10-22-c3f7de491c326b9f": {
+      "created_at": "2026-10-22T11:47:19.714702+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-22-c3f7de491c326b9f",
+      "items": [
+        {
+          "abstract": "Voter opposition to development contributes to America’s housing shortage. Prevailing explanations emphasize NIMBYism (opposition to housing nearby) and homeowners’ self-interest. However, homeownership often fails to predict housing policy views, while NIMBYism offers little insight into support for policies that do not concern specific proposed housing projects—the focus of much recent policymaking. Drawing on symbolic politics theory, we argue that voters’ affect toward groups that housing policies make salient powerfully shapes their judgments about housing policies. We present evidence supporting this theory. Experiments show that affect toward developers and investors who build housing, government actors who approve it, and residents who move into it explain anti-development preferences when policies make these groups salient. Providing further causal evidence, short-form videos that manipulate affect toward developers have meaningful downstream effects on support for new development and permitting reforms. Ironically, voter dislike of the very actors who could ameliorate the housing shortage further exacerbates it.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "CHRISTOPHER S. ELMENDORF": [
+              "University of California, Davis"
+            ],
+            "DAVID E. BROOCKMAN": [
+              "University of California, Berkeley"
+            ],
+            "JOSHUA L. KALLA": [
+              "Yale University"
+            ]
+          },
+          "authors": [
+            "DAVID E. BROOCKMAN",
+            "CHRISTOPHER S. ELMENDORF",
+            "JOSHUA L. KALLA"
+          ],
+          "constructs": [
+            "Symbolic Politics",
+            "Affect"
+          ],
+          "doi": "10.1017/s0003055426102019",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-22",
+          "stable_id": "doi:10.1017/s0003055426102019",
+          "summary_basis": "abstract",
+          "summary_ko": "주택정책이 부각하는 개발업자·투자자, 승인 정부 행위자, 이주 주민에 대한 유권자의 정서가 개발 반대와 허가 개혁 지지를 어떻게 형성하는지 상징정치 이론과 실험으로 분석한다. 개발업자 등에 대한 부정적 정서가 해당 집단이 부각된 정책에 대한 반개발 선호를 설명하며, 개발업자에 대한 정서를 조작한 짧은 동영상도 신규 개발 및 허가 개혁 지지에 영향을 미쳤다.",
+          "title": "The Symbolic Politics of Housing",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1017/s0003055426102019"
+        },
+        {
+          "abstract": "What happens when the very populations whose sacrifice drives policy success are erased from the governance systems that profit from them? We theorize “policy orphan status” as a condition where populations are (a) essential to a celebrated policy outcome, (b) structurally excluded from related governance frameworks, and (c) locked into invisibility by the logic that produces that success. Unlike underserved groups, policy orphans do not fall through cracks in existing institutions—they exist outside the architecture of governance altogether. Through qualitative comparative fieldwork across three East Javanese districts, drawing on 12 in-depth interviews and three focus group discussions with 45 participants, we examine how street-level bureaucrats invent governance from nothing when Indonesia’s labor migration system creates millions of children no framework can see. We find officials building institutions without blueprints, extending theory beyond street-level bureaucracy and policy entrepreneurship into institutional genesis within cross-jurisdictional, post-territorial governance voids.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Alif Hizrafi Kandar": [
+              "Universitas Airlangga"
+            ],
+            "Antun Mardiyanta": [
+              "Universitas Airlangga"
+            ],
+            "Bintoro Wardiyanto": [
+              "Universitas Airlangga"
+            ],
+            "Elis Mardianti": [
+              "Universitas Airlangga"
+            ],
+            "Erna Setijaningrum": [
+              "Universitas Airlangga"
+            ]
+          },
+          "authors": [
+            "Erna Setijaningrum",
+            "Bintoro Wardiyanto",
+            "Antun Mardiyanta",
+            "Alif Hizrafi Kandar",
+            "Elis Mardianti"
+          ],
+          "constructs": [
+            "Policy Orphans",
+            "Street-Level Bureaucracy"
+          ],
+          "doi": "10.1080/01900692.2026.2745166",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "method": "질적연구",
+          "method_detail": "질적 비교 현장연구",
+          "publication_date": "2026-10-20",
+          "stable_id": "doi:10.1080/01900692.2026.2745166",
+          "summary_basis": "abstract",
+          "summary_ko": "인도네시아 이주 거버넌스에서 정책 성과에 필수적이지만 관련 제도에서 구조적으로 배제된 ‘정책 고아’ 아동을 공무원들이 어떻게 다루는지, 동부 자바 3개 지역의 질적 비교 현장연구(심층 인터뷰 12건, 초점집단 3회)를 통해 분석했다. 공무원들은 기존 설계도 없이 제도를 창출했으며, 이는 가로지르는 관할과 탈영토적 거버넌스 공백에서의 제도적 기원을 보여준다.",
+          "title": "Who Governs the Ungovernable? Policy Orphans and Public Service Innovation in the Voids of Indonesia’s Migration Governance",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/01900692.2026.2745166"
+        },
+        {
+          "abstract": "Abstract Where can we expect support for populist parties and initiatives to be weakest, and why? We argue support will be weakest in places that have experienced strong growth of employment in high-quality jobs, because such growth has positive spillover effects that shape wider perceptions of the economic status quo and the prevailing ideological climate. We test this proposition in relation to Brexit support at the time of the 2016 EU referendum and in the present day, using Census data to proxy the rate at which highly paid jobs replaced low- and mid-paid jobs in English and Welsh Local Authority Districts 1991–2016, and substantiate it at both the area and the individual-level. High-quality employment growth is a more powerful predictor of Brexit support than alternative local economic indicators and individual-level effects are sizeable. All else being equal, analysis of Understanding Society data shows the probability of Brexit support is only 30% among respondents in places that experienced very strong high-quality employment growth, compared to 55% among those in places with negative growth. These findings have important implications for how left behind places should be defined and for strategies that seek to address political discontent.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Katy Morris": [
+              "University of Leeds",
+              "Stockholm University"
+            ]
+          },
+          "authors": [
+            "Katy Morris"
+          ],
+          "constructs": [
+            "Populism",
+            "Brexit Support"
+          ],
+          "doi": "10.1007/s11109-026-10210-2",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "혼합방법론",
+          "method_detail": "지역·개인 분석",
+          "publication_date": "2026-10-21",
+          "stable_id": "doi:10.1007/s11109-026-10210-2",
+          "summary_basis": "abstract",
+          "summary_ko": "고품질 일자리의 성장이 강한 지역에서 경제적 현상 유지와 지배적 이념 환경에 대한 인식이 긍정적으로 형성되어 브렉시트 지지가 약해지는지를, 1991~2016년 잉글랜드·웨일스 지방정부구역의 고임금 일자리 증가 자료와 개인 수준 자료로 분석했다. 지역 및 개인 수준 모두에서 고품질 고용 증가는 다른 지역경제 지표보다 강한 예측변수였으며, 성장률이 매우 높은 지역의 브렉시트 지지 확률은 30%, 감소한 지역은 55%였다.",
+          "title": "The Labour Market Link: An explanation of Brexit support",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1007/s11109-026-10210-2"
+        },
+        {
+          "abstract": "Abstract Voters increasingly inhabit personalized information environments, where content, algorithms, and social cues vary across people. Yet popular approaches to studying and addressing features of information environments such as misinformation exposure often flatten this heterogeneity: Measures and interventions are developed for populations rather than individuals. Using misinformation as an illustrative case, I argue that population‐based methods for measuring and intervening on beliefs can obscure why some beliefs matter politically while others do not. I advocate for tailored approaches that adapt research designs to groups and individuals. Tailoring can increase relevance, facilitate persuasion, and create fruitful conditions for testing influential theories of opinion formation and change. I conclude by discussing the promise of a personalized political psychology that aligns measures and interventions with the idiosyncratic ways voters form and express opinions.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Yamil Ricardo Velez": [
+              "Department of Political Science Columbia University New York New York USA"
+            ]
+          },
+          "authors": [
+            "Yamil Ricardo Velez"
+          ],
+          "constructs": [
+            "Personalization",
+            "Misinformation"
+          ],
+          "doi": "10.1111/pops.70206",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "이론/개념",
+          "method_detail": "개념적 논증",
+          "publication_date": "2026-10-21",
+          "stable_id": "doi:10.1111/pops.70206",
+          "summary_basis": "abstract",
+          "summary_ko": "개인화된 정보환경에서 오정보 신념을 집단 평균에 기반해 측정·개입하는 접근이 유권자별 정치적 중요성과 의견 형성의 차이를 가릴 수 있는지 검토하고, 개인과 집단에 맞춘 연구설계를 제안한다. 맞춤형 접근은 연구의 관련성과 설득 가능성을 높이고 의견 형성·변화 이론을 검증할 조건을 마련할 수 있다고 주장한다.",
+          "title": "Political psychology in an era of personalization: Misinformation research, generative AI, and the promise of tailored experiments",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70206"
+        },
+        {
+          "abstract": "Abstract As politicians with authoritarian tendencies win elections globally, it becomes urgent to understand the social psychological mechanisms underlying support for such candidates. Prior research identifies authoritarianism as a likely predictor of vote choice. Contrary to views of authoritarian parenting as a stable, exogenous disposition, however, we argue that such attitudes can also evolve during campaigns, as voters take cues from elites. Analyzing AmericasBarometer data and a five‐wave panel study, this paper assesses authoritarian parenting values over Brazil's 2018 presidential campaign. Consistent with prior literature, authoritarian parenting attitudes early in the campaign predict who supported and opposed the authoritarian candidate Bolsonaro. However, these attitudes change over the campaign. This polarization is asymmetric, limited to Bolsonaro's opponents, who become increasingly anti‐authoritarian. The results illuminate how polities can resist authoritarian leaders and call for a reconsideration of authoritarianism in the public.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Amy Erica Smith": [
+              "Department of Political Science Iowa State University Ames Iowa USA"
+            ],
+            "Mason W. Moseley": [
+              "Department of Political Science University of Kentucky Lexington Kentucky USA"
+            ],
+            "Matthew L. Layton": [
+              "Political Science Department Ohio University Athens Ohio USA"
+            ],
+            "Mollie J. Cohen": [
+              "Department of Political Science Purdue University West Lafayette Indiana USA"
+            ]
+          },
+          "authors": [
+            "Amy Erica Smith",
+            "Mollie J. Cohen",
+            "Mason W. Moseley",
+            "Matthew L. Layton"
+          ],
+          "constructs": [
+            "Authoritarianism",
+            "Political Polarization"
+          ],
+          "doi": "10.1111/pops.70212",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "혼합방법론",
+          "method_detail": "설문 패널",
+          "publication_date": "2026-10-22",
+          "stable_id": "doi:10.1111/pops.70212",
+          "summary_basis": "abstract",
+          "summary_ko": "브라질의 2018년 대선 캠페인에서 유권자의 권위주의적 양육 가치가 엘리트의 신호에 따라 변화하는지, 그리고 이것이 보우소나루 지지·반대와 어떻게 관련되는지를 분석했다. AmericasBarometer 자료와 5차 패널 연구 결과, 캠페인 초기에 권위주의적 양육 태도가 지지·반대를 예측했으며, 이후 보우소나루 반대자들 사이에서만 반권위주의적 태도가 강화되는 비대칭적 양극화가 나타났다.",
+          "title": "Rejecting authoritarianism: When threats to democracy shape values",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70212"
+        },
+        {
+          "abstract": "ABSTRACT The field of public administration stands amid genuine crisis. Americans don't trust government or its administrators. Elected officials have attacked the career service as agents of the “deep state” and, though it might be hard to admit, many of public administration's critics have a point. Government's performance too often falls short of what people expect, practitioners too often seem too unresponsive to elected officials, and researchers too often seem to have only fuzzy guidance for practitioners. However, public administration undoubtedly is more important now than ever in translating public goals into effective action, and in bringing to life the democratic aspirations Madison and his colleagues wished for the country at its founding. The field urgently needs new strategies and tactics for solving the new generation of puzzles the country faces. In coming together, practitioners and researchers build on these puzzles to chart an exciting road forward.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Donald F. Kettl": [
+              "University of Maryland School of Public Policy College Park Maryland USA"
+            ]
+          },
+          "authors": [
+            "Donald F. Kettl"
+          ],
+          "constructs": [
+            "Democratic Governance",
+            "Bureaucracy"
+          ],
+          "doi": "10.1111/puar.70213",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "이론/개념",
+          "method_detail": "개념적 진단",
+          "publication_date": "2026-10-22",
+          "stable_id": "doi:10.1111/puar.70213",
+          "summary_basis": "abstract",
+          "summary_ko": "미국 민주주의의 위기 속에서 행정에 대한 불신, 선출직 공직자와 경력관료 간 긴장, 행정성과의 미흡, 연구의 실천 지침 부족을 진단하고, 행정가와 연구자가 새로운 문제를 함께 해결하는 전략이 필요하다고 주장한다. 공공행정은 민주적 목표를 효과적 행동으로 전환하는 데 더욱 중요해졌다는 것이 핵심 결론이다.",
+          "title": "Public Administration and the Crisis of American Democracy",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1111/puar.70213"
+        },
+        {
+          "abstract": "Abstract Research on attitudes toward transgender and gender-diverse (TGD) individuals lags behind research on opinion on the lesbian, gay, and bisexual (LGB) population, leaving open questions about public opinion on these two LGBTQ+ subgroups, in general and in particular in the Global South. While a sizeable gap exists in US public opinion toward TGD and LGB rights, we do not know whether that finding is generalizable to other contexts. With a focus on Latin America, we draw on a range of scholarship to identify factors that could result in a similar divergence of attitudes toward these subgroups or, instead, relative convergence. Our analyses focus primarily on novel survey data from representative surveys across thirteen Latin American countries. Our results demonstrate a fair amount of convergence in mean levels, item nonresponse rates, and predictors of views on LGB versus TGD rights. We present some notable differences across countries and issues, with results for the former (countries) varying by socio-political context and the latter (issues) varying across political and nonpolitical domains. We identify these patterns as constituting a future agenda for researchers of opinion on LGBTQ+ topics. We conclude that, in the contemporary period, the Latin American public holds fairly similar mental schemas toward LGB and TGD groups.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Eli G Rau": [
+              ", Political Science, Tecnologico de Monterrey Assistant Professor , Monterrey, NL, ; and Visiting Fellow, , New Haven, CT,",
+              "Institution for Social and Policy Studies, Yale University Assistant Professor , Monterrey, NL, ; and Visiting Fellow, , New Haven, CT,"
+            ],
+            "Elizabeth J Zechmeister": [
+              "Department of Political Science, Vanderbilt University Cornelius Vanderbilt Professor of Political Science, , Nashville, TN,"
+            ],
+            "Oscar Castorena": [
+              "Survey Scientist, Survey 160 , Washington, DC,"
+            ],
+            "Valerie Schweizer-Robinson": [
+              "Student Success Science, National University Research Analyst, , San Diego, CA,"
+            ]
+          },
+          "authors": [
+            "Oscar Castorena",
+            "Eli G Rau",
+            "Valerie Schweizer-Robinson",
+            "Elizabeth J Zechmeister"
+          ],
+          "constructs": [
+            "Public Opinion",
+            "Attitude Convergence"
+          ],
+          "doi": "10.1093/poq/nfag067",
+          "journal": "Public Opinion Quarterly",
+          "journal_short": "POQ",
+          "method": "서베이",
+          "method_detail": "다국가 대표설문",
+          "publication_date": "2026-10-21",
+          "stable_id": "doi:10.1093/poq/nfag067",
+          "summary_basis": "abstract",
+          "summary_ko": "라틴아메리카 13개국의 대표성 설문자료를 활용해 LGB와 트랜스젠더·성별다양성(TGD) 권리에 대한 태도가 얼마나 수렴하거나 분화되는지 분석했다. 평균 수준, 무응답률, 태도 예측요인에서 두 집단에 대한 견해가 대체로 수렴했으며, 국가와 쟁점에 따른 일부 차이는 사회정치적 맥락 및 정치·비정치적 영역에 따라 달랐다.",
+          "title": "Attitudes Toward LGB and TGD Rights in Latin America",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1093/poq/nfag067"
+        },
+        {
+          "abstract": "Abstract How do ordinary citizens make sense of gender politics? While research has examined public support for feminism and gender equality either separately or as interchangeable concepts, far less is known about the meanings citizens attach to these labels and whether they evoke distinct political meanings. This article compares the textual, emotional, and symbolic associations of three related but distinct framings of gender politics: feminism, gender equality, and equality between men and women. Drawing on an original pre-registered survey experiment in Spain, respondents were randomly assigned to define and evaluate one of the three labels, allowing us to analyze their meanings across textual, emotional, and visual dimensions. We find that while most respondents express sympathy toward all three labels, feminism stands as the most contested. Feminism also has the sharpest sociopolitical profile, eliciting greater support from young, highly educated, progressive women. Text analyses reveal that the public frames feminism in terms of collective action, conflict, and women’s identity, drawing heavily on political language, while the other two labels emphasize policy and material concerns. Emotionally, gender politics elicits more positive than negative responses across all three labels, though men report slightly higher negative emotions toward feminism. Feminism is also the only label consistently associated with images of women’s mobilization and protest, reinforcing its distinctively political resonance. These findings show that feminism and gender equality tap related but meaningfully distinct constructs in the public mind, with implications for how scholars measure attitudes toward gender politics and interpret public support for equality-related policies.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Marta Fraile": [
+              "Consejo Superior de Investigaciones Científicas Full Professor, Institute of Public Goods and Policies (IPP), , Madrid,"
+            ],
+            "Nerea Gándara-Guerra": [
+              "Department of Social Sciences, Universidad Carlos III of Madrid Postdoctoral Researcher, , Madrid,"
+            ],
+            "Paula Zuluaga-Borrero": [
+              "Department of Political Science, Universitat Autònoma de Barcelona (UAB) Postdoctoral Researcher, , Barcelona,"
+            ]
+          },
+          "authors": [
+            "Marta Fraile",
+            "Nerea Gándara-Guerra",
+            "Paula Zuluaga-Borrero"
+          ],
+          "constructs": [
+            "Feminism",
+            "Gender Equality"
+          ],
+          "doi": "10.1093/poq/nfag068",
+          "journal": "Public Opinion Quarterly",
+          "journal_short": "POQ",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-21",
+          "stable_id": "doi:10.1093/poq/nfag068",
+          "summary_basis": "abstract",
+          "summary_ko": "시민들이 페미니즘, 성평등, 남녀 간 평등이라는 성정치 프레임을 어떻게 이해하고 서로 다른 의미를 부여하는지 스페인의 사전등록 설문실험으로 비교했다. 세 프레임 모두 대체로 긍정적으로 평가되었지만, 페미니즘은 집단행동·갈등·여성 정체성과 연결된 가장 논쟁적이고 정치적인 개념으로 나타났으며, 다른 두 프레임은 정책·물질적 관심을 더 강조했다.",
+          "title": "How the Public Makes Sense of Gender Politics: Textual, Emotional, and Symbolic Dimensions",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1093/poq/nfag068"
+        },
+        {
+          "abstract": "Public organizations face growing pressure to integrate data science and AI into their work, yet empirical insight into how such integration unfolds in practice remains limited. This article examines data science integration through a multiple embedded case study of intelligence agencies in the Netherlands and the United States, drawing on 28 semi-structured interviews with personnel in managerial, analytic, and data science roles. Using a strategy-as-practice perspective and a micro-level Ability-Motivation-Opportunity (AMO) lens, the study analyzes how public servants encounter and respond to organizational, technical, and legal challenges in everyday work. Interviewees linked integration to leadership literacy, data culture and expertise, opportunities for experimentation, technical and acquisition conditions, and legal and accountability requirements. The analysis identifies different patterns of integration, including fragmented and ad hoc use, incorporation into specific workflows, and more routinized use. The article contributes to public management research on digital governance by conceptualizing integration as a practice-based organizational process in which data-driven tools have to become useful and justifiable within everyday work. It also shows how the AMO framework can help explain the micro-level conditions under which personnel engage with such tools and identifies implications for strategic prioritization, validation, cross-role collaboration, and sustained integration.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Roy Lindelauf": [
+              "Faculty of Military Sciences, Netherlands Defence Academy",
+              "Tilburg School of Humanities and Digital Sciences, Tilburg University"
+            ],
+            "Sebastiaan Rietjens": [
+              "Faculty of Military Sciences, Netherlands Defence Academy",
+              "Institute of Security and Global Affairs, Leiden University"
+            ],
+            "Tess Horlings": [
+              "Faculty of Military Sciences, Netherlands Defence Academy",
+              "Institute of Security and Global Affairs, Leiden University"
+            ],
+            "V.S. Subrahmanian": [
+              "Department of Computer Science, Northwestern University"
+            ]
+          },
+          "authors": [
+            "Tess Horlings",
+            "Sebastiaan Rietjens",
+            "Roy Lindelauf",
+            "V.S. Subrahmanian"
+          ],
+          "constructs": [
+            "Strategy-as-Practice",
+            "AMO Framework"
+          ],
+          "doi": "10.1080/15309576.2026.2748976",
+          "journal": "Public Performance & Management Review",
+          "journal_short": "PPMR",
+          "method": "질적연구",
+          "method_detail": "다중 사례연구",
+          "publication_date": "2026-10-21",
+          "stable_id": "doi:10.1080/15309576.2026.2748976",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 네덜란드와 미국 정보기관의 자료과학·AI 통합이 일상 업무에서 어떻게 이루어지는지를 28명의 관리자·분석가·자료과학자 반구조화 인터뷰를 통한 다중 내재 사례연구로 분석했다. 통합은 조직·기술·법적 제약 속에서 리더십의 이해, 데이터 문화와 전문성, 실험 기회 등에 따라 단편적·임시적 활용에서 특정 업무흐름의 통합과 일상화된 활용까지 다양한 양상으로 나타났으며, AMO 관점은 이러한 미시적 조건을 설명하는 데 활용될 수 있다.",
+          "title": "Data Science Integration as Practice: Micro-Level Dynamics from Intelligence Agencies",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1080/15309576.2026.2748976"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -19095,7 +19427,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -19130,7 +19462,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -19155,7 +19487,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -19176,7 +19508,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -19197,7 +19529,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1080/01900692.2026.2733756": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -19222,7 +19554,32 @@
         "title": "Bureaucratic Capacity and Autonomy as Drivers of Innovation Climate",
         "url": "https://doi.org/10.1080/01900692.2026.2733756"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
+    },
+    "doi:10.1080/01900692.2026.2743076": {
+      "first_seen_at": "2026-10-22T11:47:19.714702+00:00",
+      "item": {
+        "author_affiliations": {
+          "Meghna Sabharwal": [
+            "The University of Texas at Dallas"
+          ],
+          "Seongdeok Oh": [
+            "Valdosta State University"
+          ]
+        },
+        "authors": [
+          "Seongdeok Oh",
+          "Meghna Sabharwal"
+        ],
+        "doi": "10.1080/01900692.2026.2743076",
+        "journal": "International Journal of Public Administration",
+        "journal_short": "IJPA",
+        "publication_date": "2026-10-21",
+        "stable_id": "doi:10.1080/01900692.2026.2743076",
+        "title": "Fostering Innovative Work Behavior to Improve Organizational Performance: The Roles of Public Service Motivation and Innovative Organizational Culture",
+        "url": "https://doi.org/10.1080/01900692.2026.2743076"
+      },
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1080/01900692.2026.2745162": {
       "first_seen_at": "2026-10-20T11:31:33.175140+00:00",
@@ -19243,44 +19600,28 @@
         "title": "Extending the Structure-In-Evolution Approach: Mechanisms and Patterns of Institutional Evolution",
         "url": "https://doi.org/10.1080/01900692.2026.2745162"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
-    "doi:10.1080/01900692.2026.2745166": {
-      "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
+    "doi:10.1080/01900692.2026.2747044": {
+      "first_seen_at": "2026-10-22T11:47:19.714702+00:00",
       "item": {
         "author_affiliations": {
-          "Alif Hizrafi Kandar": [
-            "Universitas Airlangga"
-          ],
-          "Antun Mardiyanta": [
-            "Universitas Airlangga"
-          ],
-          "Bintoro Wardiyanto": [
-            "Universitas Airlangga"
-          ],
-          "Elis Mardianti": [
-            "Universitas Airlangga"
-          ],
-          "Erna Setijaningrum": [
-            "Universitas Airlangga"
+          "Amos M. Rahat": [
+            "University of Bucharest"
           ]
         },
         "authors": [
-          "Erna Setijaningrum",
-          "Bintoro Wardiyanto",
-          "Antun Mardiyanta",
-          "Alif Hizrafi Kandar",
-          "Elis Mardianti"
+          "Amos M. Rahat"
         ],
-        "doi": "10.1080/01900692.2026.2745166",
+        "doi": "10.1080/01900692.2026.2747044",
         "journal": "International Journal of Public Administration",
         "journal_short": "IJPA",
-        "publication_date": "2026-10-20",
-        "stable_id": "doi:10.1080/01900692.2026.2745166",
-        "title": "Who Governs the Ungovernable? Policy Orphans and Public Service Innovation in the Voids of Indonesia’s Migration Governance",
-        "url": "https://doi.org/10.1080/01900692.2026.2745166"
+        "publication_date": "2026-10-22",
+        "stable_id": "doi:10.1080/01900692.2026.2747044",
+        "title": "Governance Convergence in the EU—A Matter for Interpretation",
+        "url": "https://doi.org/10.1080/01900692.2026.2747044"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1080/01900692.2026.2747048": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -19306,7 +19647,7 @@
         "title": "When Public Employment Spills Over into Civic Action: Environmental Co-Production in China",
         "url": "https://doi.org/10.1080/01900692.2026.2747048"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1080/14719037.2026.2748382": {
       "first_seen_at": "2026-10-15T11:24:26.713814+00:00",
@@ -19331,7 +19672,7 @@
         "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
         "url": "https://doi.org/10.1080/14719037.2026.2748382"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19356,7 +19697,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19381,7 +19722,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19402,7 +19743,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19423,7 +19764,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19452,7 +19793,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19481,7 +19822,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19506,7 +19847,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19527,7 +19868,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -19547,7 +19888,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -19564,7 +19905,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -19585,7 +19926,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -19602,7 +19943,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -19620,7 +19961,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -19640,7 +19981,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -19657,7 +19998,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -19675,7 +20016,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -19694,7 +20035,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -19712,7 +20053,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -19731,7 +20072,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -19749,7 +20090,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -19766,7 +20107,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -19785,7 +20126,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -19803,7 +20144,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/744574": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -19820,7 +20161,7 @@
         "title": "The Left Misunderstood: How Voters’ Perceptions of What Matters to the Left Benefit the Right",
         "url": "https://doi.org/10.1086/744574"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -19838,7 +20179,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -19859,7 +20200,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -19874,7 +20215,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -19889,7 +20230,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -19910,7 +20251,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -19925,7 +20266,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -19940,7 +20281,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-21T11:44:33.182624+00:00"
+      "last_checked_at": "2026-10-22T11:47:19.714702+00:00"
     }
   },
   "version": 1
