@@ -1416,6 +1416,14 @@
       "sent_at": "2026-10-19T13:15:38.309437+00:00",
       "title": "Mapping empathy in policy work: how public servants understand and use it"
     },
+    "doi:10.1080/14719037.2026.2750928": {
+      "batch_id": "2026-10-23-2b9ff10cddabdf09",
+      "doi": "10.1080/14719037.2026.2750928",
+      "journal": "Public Management Review",
+      "publication_date": "2026-10-22",
+      "sent_at": "2026-10-23T11:44:34.775887+00:00",
+      "title": "The blurred line between ends and means: how frontline workers factor production attributes into results in performance evaluations"
+    },
     "doi:10.1080/14719037.2026.2750930": {
       "batch_id": "2026-10-20-fcb5da62edba9adb",
       "doi": "10.1080/14719037.2026.2750930",
@@ -1975,6 +1983,22 @@
       "publication_date": "2026-08-31",
       "sent_at": "2026-09-01T15:35:08.163995+00:00",
       "title": "The territorial rights of wild animals: Justification"
+    },
+    "doi:10.1111/ajps.70088": {
+      "batch_id": "2026-10-23-2b9ff10cddabdf09",
+      "doi": "10.1111/ajps.70088",
+      "journal": "American Journal of Political Science",
+      "publication_date": "2026-10-23",
+      "sent_at": "2026-10-23T11:44:34.775887+00:00",
+      "title": "Learning traps"
+    },
+    "doi:10.1111/ajps.70090": {
+      "batch_id": "2026-10-23-2b9ff10cddabdf09",
+      "doi": "10.1111/ajps.70090",
+      "journal": "American Journal of Political Science",
+      "publication_date": "2026-10-22",
+      "sent_at": "2026-10-23T11:44:34.775887+00:00",
+      "title": "Structure and agency in emancipatory reform: A blueprint from a Black union"
     },
     "doi:10.1111/gove.70148": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -19568,7 +19592,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2750928"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-23T11:44:34.775887+00:00",
+      "status": "sent"
     }
   },
   "pending": {
