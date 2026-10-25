@@ -19993,6 +19993,196 @@
       ],
       "sent_at": "2026-10-24T11:04:57.858491+00:00",
       "status": "sent"
+    },
+    "2026-10-25-eefb0329436ecb37": {
+      "created_at": "2026-10-25T11:21:30.815109+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-25-eefb0329436ecb37",
+      "items": [
+        {
+          "abstract": "Traditional research on policy change offers valuable but fragmented accounts of policy evolution. Gradualist approaches identify types and mechanisms of incremental change, while other strands of scholarship propose processes associated with abrupt or punctuated shifts. These perspectives, however, tend to privilege one mode of change and do not address well how lower level mechanisms scale into system level patterns. The structure-in-evolution model overcomes the fragmentation by bringing together structure and different dynamics of change into an integrated, patterns-based approach to policy and institutional change. Despite its unifying potential, the model currently lacks a specification of the mechanisms that correspond to its patterned forms of change. This paper extends the model by identifying and systematically mapping such mechanisms. The resulting integration links causal processes across levels of analysis and enhances the model’s capacity to explain long term policy system evolution.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Oldrich Bubak": [
+              "University of Hradec Králové"
+            ]
+          },
+          "authors": [
+            "Oldrich Bubak"
+          ],
+          "constructs": [
+            "Structure-in-Evolution",
+            "Institutional Evolution"
+          ],
+          "doi": "10.1080/01900692.2026.2745162",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "method": "이론/개념",
+          "method_detail": "개념적 모형",
+          "publication_date": "2026-10-19",
+          "stable_id": "doi:10.1080/01900692.2026.2745162",
+          "summary_basis": "abstract",
+          "summary_ko": "이 논문은 정책·제도 변화의 다양한 양식을 통합하는 구조-진화 접근법에서 하위 수준의 변화 메커니즘이 체계 수준의 패턴으로 어떻게 연결되는지, 그리고 각 변화 패턴에 대응하는 메커니즘이 무엇인지 규명한다. 이론적·개념적 통합과 체계적 매핑을 통해 메커니즘과 변화 패턴을 연결하고, 장기적인 정책체계 진화를 설명하는 모형의 역량을 확장한다.",
+          "title": "Extending the Structure-In-Evolution Approach: Mechanisms and Patterns of Institutional Evolution",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1080/01900692.2026.2745162"
+        },
+        {
+          "abstract": "Governments face growing pressure to innovate in response to complex societal demands, yet little is known about how bureaucratic features shape public employees’ perceptions about innovation. This study examines how bureaucratic capacity and autonomy influence public employees’ perceptions of innovation climate. We argue that capacity, understood as organizational resources and capabilities, and autonomy, or insulation from political influence, foster conditions conducive to innovation. We analyze over 30,000 survey responses from public employees across the 32 Colombian intermediate governments between 2015 and 2023, combined with administrative data. Findings show that autonomy is consistently and positively associated with a stronger innovation climate. Capacity also matters, but only when measured through employees’ perceptions of sufficient resources, not through fiscal performance indicators. These results contribute to understanding organizational drivers of individual innovation antecedents. Specifically, the study underscores the role of bureaucratic features in fostering innovation climates in politically complex subnational contexts.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Mauricio Astudillo-Rodas": [
+              "Florida State University"
+            ],
+            "Ricardo A. Bello-Gomez": [
+              "Rutgers University"
+            ]
+          },
+          "authors": [
+            "Mauricio Astudillo-Rodas",
+            "Ricardo A. Bello-Gomez"
+          ],
+          "constructs": [
+            "Bureaucratic Capacity",
+            "Organizational Autonomy"
+          ],
+          "doi": "10.1080/01900692.2026.2733756",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "method": "서베이",
+          "method_detail": "패널 설문",
+          "publication_date": "2026-10-21",
+          "stable_id": "doi:10.1080/01900692.2026.2733756",
+          "summary_basis": "abstract",
+          "summary_ko": "콜롬비아 32개 중간정부의 공무원 3만 명 이상 설문응답과 행정자료를 분석해 관료적 역량과 자율성이 공무원의 혁신 분위기 인식에 미치는 영향을 검토했다. 정치적 영향으로부터의 자율성은 일관되게 더 강한 혁신 분위기와 관련되며, 역량은 재정성과 지표가 아니라 충분한 자원에 대한 직원 인식으로 측정할 때만 유의미했다.",
+          "title": "Bureaucratic Capacity and Autonomy as Drivers of Innovation Climate",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1080/01900692.2026.2733756"
+        },
+        {
+          "abstract": "Do public sector jobs foster civic engagement beyond the workplace? Using national survey data from the 2021 CGSS, this study examines whether Chinese public sector employees are more willing to engage in environmental co-production. The study disaggregates co-production into production, capturing routine pro-environmental behaviors, and cooperation, capturing multi-actor deliberation. The results show that public sector employment is significantly correlated with environmental cooperation but not production. Specifically, employees in public institutions and state-owned enterprises are more inclined toward neighborhood cooperation, whereas government agency employment is marginally positively correlated with stakeholder cooperation. Exploratory mediation analyses suggest that these associations are consistent with a pathway through institutionally embedded self-efficacy, rather than altruism or informational advantages. Managerial positions weaken the association between public sector employment and neighborhood cooperation. The findings suggest that promoting environmental sustainability requires not only moral mobilization and information provision, but also the cultivation of citizens’ civic efficacy and procedural confidence.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Hua Qin": [
+              "The Chinese University of Hong Kong"
+            ],
+            "Jin Zhu": [
+              "The Chinese University of Hong Kong",
+              "City University of Hong Kong"
+            ]
+          },
+          "authors": [
+            "Jin Zhu",
+            "Hua Qin"
+          ],
+          "constructs": [
+            "Civic Engagement",
+            "Self-Efficacy"
+          ],
+          "doi": "10.1080/01900692.2026.2747048",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "method": "서베이",
+          "method_detail": "횡단면 설문",
+          "publication_date": "2026-10-21",
+          "stable_id": "doi:10.1080/01900692.2026.2747048",
+          "summary_basis": "abstract",
+          "summary_ko": "2021년 중국사회종합조사(CGSS) 자료를 활용해 공공부문 고용이 환경 공동생산 참여와 관련되는지 분석한 결과, 공공부문 고용은 일상적 친환경 행동인 생산보다 다중 행위자 숙의를 포함하는 협력과 유의하게 관련되었다. 탐색적 매개분석은 이러한 연관성이 이타성이나 정보 우위보다 제도적으로 형성된 자기효능감을 통한 경로와 부합하며, 관리자 직위는 이 관계를 약화시킴을 시사한다.",
+          "title": "When Public Employment Spills Over into Civic Action: Environmental Co-Production in China",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1080/01900692.2026.2747048"
+        },
+        {
+          "abstract": "This study explains why criminal justice and prosecutorial reform often proceeds through gradual institutional adjustment rather than radical replacement despite severe politicization and legitimacy crises. Drawing on historical institutionalism, comparative judicial politics, legitimacy research, and prosecutorial-governance scholarship, it develops the concept of “constitutionally bounded sequential incrementalism,” in which constitutional constraints, bureaucratic embeddedness, and professional authority channel reform pressure into sequential layering and conversion. South Korea is the primary case, examined through comparative historical analysis and process tracing, with the United Kingdom, France, Germany, Japan, the United States, and Italy as structured reference cases. A brief Latin American comparison clarifies the concept’s scope conditions. The analysis shows that politicization increases reform pressure, but institutional constraints and implementation capacity shape reform outcomes. The study contributes by explaining when and why criminal justice reform follows recurring patterns of constrained institutional adaptation.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Youngjae Ra": [
+              "Konkuk University"
+            ]
+          },
+          "authors": [
+            "Youngjae Ra"
+          ],
+          "constructs": [
+            "Historical Institutionalism",
+            "Prosecutorial Governance"
+          ],
+          "doi": "10.1080/01900692.2026.2734529",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "method": "질적연구",
+          "method_detail": "비교역사·과정추적",
+          "publication_date": "2026-10-23",
+          "stable_id": "doi:10.1080/01900692.2026.2734529",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 정치화와 정당성 위기에도 형사사법·검찰 개혁이 급진적 대체보다 점진적 제도 조정으로 진행되는 이유와 조건을 묻는다. 한국을 중심 사례로 비교역사분석과 과정추적을 수행하고 여러 국가를 비교 준거로 삼아, 헌법적 제약·관료제적 내재성·전문직 권위가 개혁 압력을 순차적 제도 층화와 전환으로 유도하며 제도적 제약과 집행역량이 결과를 형성한다고 주장한다.",
+          "title": "Constitutionally Bounded Sequential Incrementalism: Criminal Justice Reform and Prosecutorial Governance in Comparative Perspective",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1080/01900692.2026.2734529"
+        },
+        {
+          "abstract": "Although research on administrative burdens has mainly focused on clients’ experiences, burdens also matter to employees in public bureaucracies. In this study, we examine how burdens shape public workers’ experiences, focusing on how they perceive the relationship between administrative burdens and performance. Using a choice experiment with 21,301 public healthcare professionals, this study estimates the relative causal impact of different costs embedded in job procedures on the perceived performance of a given work situation. Psychological costs exert the strongest causal impact on perceived performance, with stressful procedures having the largest negative effect, followed by procedures that diminish autonomy. Learning costs (stemming from complex or confusing procedures) and compliance costs (arising from time-consuming or effortful tasks) also lead to lower perceived performance, though to a lesser extent. Heterogeneous effects show that the negative impact of administrative burdens on performance is larger for medical doctors and less so for nurses, for those under-fifty, and for male professionals.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Donald P. Moynihan": [
+              "Ford School of Public Policy, University of Michigan"
+            ],
+            "Nicola Belle": [
+              "Sant’Anna School of Advanced Studies"
+            ],
+            "Paola Cantarelli": [
+              "Sant’Anna School of Advanced Studies"
+            ]
+          },
+          "authors": [
+            "Nicola Belle",
+            "Paola Cantarelli",
+            "Donald P. Moynihan"
+          ],
+          "constructs": [
+            "Administrative Burden",
+            "Performance"
+          ],
+          "doi": "10.1080/10967494.2026.2642317",
+          "journal": "International Public Management Journal",
+          "journal_short": "IPMJ",
+          "method": "실험",
+          "method_detail": "선택 실험",
+          "publication_date": "2026-10-22",
+          "stable_id": "doi:10.1080/10967494.2026.2642317",
+          "summary_basis": "abstract",
+          "summary_ko": "공공의료 종사자들이 행정적 부담의 여러 비용(심리적·학습·준수 비용)을 업무성과와 어떻게 연결해 인식하는지 알아보기 위해 21,301명을 대상으로 선택실험을 실시했다. 심리적 비용, 특히 스트레스를 유발하거나 자율성을 줄이는 절차가 인식된 성과에 가장 큰 부정적 영향을 미쳤으며, 이러한 영향은 의사와 50세 미만·남성 종사자에게 더 크게 나타났다.",
+          "title": "Which costs loom largest? How public employees view the relationship between administrative burdens and performance",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1080/10967494.2026.2642317"
+        },
+        {
+          "abstract": "Coalition politics presents a major challenge for citizens. Not only do they need to know the parties’ policy profiles, but also who the parties are willing to collaborate with. This task is becoming increasingly difficult as new coalition patterns emerge across Western Europe. Coalition politics may therefore be a major source of frustration for citizens, leading to a sense that politics is too complex to understand, that is, a sense of limited internal political efficacy. Surprisingly, we know little about whether this is actually the case. We analyze this question using a four-wave panel survey during and after the Danish 2022 general election, an unusually complex election where several parties defied traditional coalition structures. Despite this complexity, we demonstrate that Danish citizens gained more internal efficacy during this episode because they learned about the relevant facts. Yet, we find no evidence that people who learned similar facts in the post-government formation period felt more efficacious in response. This suggests that knowledge of coalition politics is critical for citizens’ internal efficacy, but only when complex coalition dynamics are on the agenda.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {},
+          "authors": [
+            "Christoffer Green-Pedersen",
+            "Ida Bæk Hjermitslev",
+            "Mathias Wessel Tromborg"
+          ],
+          "constructs": [
+            "Political Efficacy",
+            "Coalition Politics"
+          ],
+          "doi": "10.1007/s11109-026-10220-0",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "서베이",
+          "method_detail": "패널 설문",
+          "publication_date": "2026-10-25",
+          "stable_id": "doi:10.1007/s11109-026-10220-0",
+          "summary_basis": "abstract",
+          "summary_ko": "덴마크 2022년 총선 전후 4개 시점의 패널 설문을 통해, 복잡한 연립정치가 시민의 내적 정치적 효능감에 미치는 영향을 분석했다. 시민들은 관련 사실을 학습하면서 효능감이 높아졌지만, 정부 구성 이후 같은 사실을 학습한 경우에는 그러한 효과가 나타나지 않아 연립정치 지식의 효과가 복잡한 연립 동학이 의제일 때에 한정됨을 보였다.",
+          "title": "Learning from Coalition Politics: How Episodes of Increased Complexity Can Enhance Citizens’ Political Efficacy",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1007/s11109-026-10220-0"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -20015,7 +20205,25 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+    },
+    "doi:10.1007/s11109-026-10212-0": {
+      "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Henrik Bech Seeberg",
+          "Martin Bækgaard"
+        ],
+        "doi": "10.1007/s11109-026-10212-0",
+        "journal": "Political Behavior",
+        "journal_short": "PolBeh",
+        "publication_date": "2026-10-25",
+        "stable_id": "doi:10.1007/s11109-026-10212-0",
+        "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
+        "url": "https://doi.org/10.1007/s11109-026-10212-0"
+      },
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -20050,7 +20258,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -20075,7 +20283,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -20096,7 +20304,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1080/01900692.2026.2722298": {
       "first_seen_at": "2026-10-23T11:34:21.794633+00:00",
@@ -20119,7 +20327,7 @@
         "title": "Policy as Punchline: Algorithmic Attention and the Public Communication of Policy",
         "url": "https://doi.org/10.1080/01900692.2026.2722298"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -20140,53 +20348,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
-    },
-    "doi:10.1080/01900692.2026.2733756": {
-      "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
-      "item": {
-        "author_affiliations": {
-          "Mauricio Astudillo-Rodas": [
-            "Florida State University"
-          ],
-          "Ricardo A. Bello-Gomez": [
-            "Rutgers University"
-          ]
-        },
-        "authors": [
-          "Mauricio Astudillo-Rodas",
-          "Ricardo A. Bello-Gomez"
-        ],
-        "doi": "10.1080/01900692.2026.2733756",
-        "journal": "International Journal of Public Administration",
-        "journal_short": "IJPA",
-        "publication_date": "2026-10-21",
-        "stable_id": "doi:10.1080/01900692.2026.2733756",
-        "title": "Bureaucratic Capacity and Autonomy as Drivers of Innovation Climate",
-        "url": "https://doi.org/10.1080/01900692.2026.2733756"
-      },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
-    },
-    "doi:10.1080/01900692.2026.2734529": {
-      "first_seen_at": "2026-10-23T11:34:21.794633+00:00",
-      "item": {
-        "author_affiliations": {
-          "Youngjae Ra": [
-            "Konkuk University"
-          ]
-        },
-        "authors": [
-          "Youngjae Ra"
-        ],
-        "doi": "10.1080/01900692.2026.2734529",
-        "journal": "International Journal of Public Administration",
-        "journal_short": "IJPA",
-        "publication_date": "2026-10-23",
-        "stable_id": "doi:10.1080/01900692.2026.2734529",
-        "title": "Constitutionally Bounded Sequential Incrementalism: Criminal Justice Reform and Prosecutorial Governance in Comparative Perspective",
-        "url": "https://doi.org/10.1080/01900692.2026.2734529"
-      },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1080/01900692.2026.2743076": {
       "first_seen_at": "2026-10-22T11:47:19.714702+00:00",
@@ -20211,28 +20373,7 @@
         "title": "Fostering Innovative Work Behavior to Improve Organizational Performance: The Roles of Public Service Motivation and Innovative Organizational Culture",
         "url": "https://doi.org/10.1080/01900692.2026.2743076"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
-    },
-    "doi:10.1080/01900692.2026.2745162": {
-      "first_seen_at": "2026-10-20T11:31:33.175140+00:00",
-      "item": {
-        "author_affiliations": {
-          "Oldrich Bubak": [
-            "University of Hradec Králové"
-          ]
-        },
-        "authors": [
-          "Oldrich Bubak"
-        ],
-        "doi": "10.1080/01900692.2026.2745162",
-        "journal": "International Journal of Public Administration",
-        "journal_short": "IJPA",
-        "publication_date": "2026-10-19",
-        "stable_id": "doi:10.1080/01900692.2026.2745162",
-        "title": "Extending the Structure-In-Evolution Approach: Mechanisms and Patterns of Institutional Evolution",
-        "url": "https://doi.org/10.1080/01900692.2026.2745162"
-      },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1080/01900692.2026.2747044": {
       "first_seen_at": "2026-10-22T11:47:19.714702+00:00",
@@ -20253,62 +20394,7 @@
         "title": "Governance Convergence in the EU—A Matter for Interpretation",
         "url": "https://doi.org/10.1080/01900692.2026.2747044"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
-    },
-    "doi:10.1080/01900692.2026.2747048": {
-      "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
-      "item": {
-        "author_affiliations": {
-          "Hua Qin": [
-            "The Chinese University of Hong Kong"
-          ],
-          "Jin Zhu": [
-            "The Chinese University of Hong Kong",
-            "City University of Hong Kong"
-          ]
-        },
-        "authors": [
-          "Jin Zhu",
-          "Hua Qin"
-        ],
-        "doi": "10.1080/01900692.2026.2747048",
-        "journal": "International Journal of Public Administration",
-        "journal_short": "IJPA",
-        "publication_date": "2026-10-21",
-        "stable_id": "doi:10.1080/01900692.2026.2747048",
-        "title": "When Public Employment Spills Over into Civic Action: Environmental Co-Production in China",
-        "url": "https://doi.org/10.1080/01900692.2026.2747048"
-      },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
-    },
-    "doi:10.1080/10967494.2026.2642317": {
-      "first_seen_at": "2026-10-23T11:34:21.794633+00:00",
-      "item": {
-        "author_affiliations": {
-          "Donald P. Moynihan": [
-            "Ford School of Public Policy, University of Michigan"
-          ],
-          "Nicola Belle": [
-            "Sant’Anna School of Advanced Studies"
-          ],
-          "Paola Cantarelli": [
-            "Sant’Anna School of Advanced Studies"
-          ]
-        },
-        "authors": [
-          "Nicola Belle",
-          "Paola Cantarelli",
-          "Donald P. Moynihan"
-        ],
-        "doi": "10.1080/10967494.2026.2642317",
-        "journal": "International Public Management Journal",
-        "journal_short": "IPMJ",
-        "publication_date": "2026-10-22",
-        "stable_id": "doi:10.1080/10967494.2026.2642317",
-        "title": "Which costs loom largest? How public employees view the relationship between administrative burdens and performance",
-        "url": "https://doi.org/10.1080/10967494.2026.2642317"
-      },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1080/14719037.2026.2738181": {
       "first_seen_at": "2026-10-23T11:34:21.794633+00:00",
@@ -20333,7 +20419,7 @@
         "title": "Assessing performance in collaborative governance networks: testing the Productivity Performance Matrix",
         "url": "https://doi.org/10.1080/14719037.2026.2738181"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1080/14719037.2026.2748382": {
       "first_seen_at": "2026-10-15T11:24:26.713814+00:00",
@@ -20358,7 +20444,7 @@
         "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
         "url": "https://doi.org/10.1080/14719037.2026.2748382"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1080/14719037.2026.2749668": {
       "first_seen_at": "2026-10-23T11:34:21.794633+00:00",
@@ -20387,7 +20473,7 @@
         "title": "Threat perception, issue knowledge, and citizen coproduction preferences: evidence from a national public survey on environmental health",
         "url": "https://doi.org/10.1080/14719037.2026.2749668"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20412,7 +20498,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20437,7 +20523,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20458,7 +20544,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20479,7 +20565,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20508,7 +20594,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20537,7 +20623,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20562,7 +20648,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20583,7 +20669,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -20603,7 +20689,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -20620,7 +20706,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -20641,7 +20727,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -20658,7 +20744,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -20676,7 +20762,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -20696,7 +20782,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -20713,7 +20799,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -20731,7 +20817,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -20750,7 +20836,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -20768,7 +20854,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -20787,7 +20873,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -20805,7 +20891,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -20822,7 +20908,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -20841,7 +20927,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -20859,7 +20945,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/744574": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -20876,7 +20962,7 @@
         "title": "The Left Misunderstood: How Voters’ Perceptions of What Matters to the Left Benefit the Right",
         "url": "https://doi.org/10.1086/744574"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -20894,7 +20980,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -20915,7 +21001,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20930,7 +21016,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -20945,7 +21031,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -20966,7 +21052,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -20981,7 +21067,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -20996,7 +21082,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-24T10:54:41.274288+00:00"
+      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
     }
   },
   "version": 1
