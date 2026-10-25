@@ -264,6 +264,14 @@
       "sent_at": "2026-10-21T11:52:23.084817+00:00",
       "title": "Immigration and Nationalistic Attitudes: Panel Evidence from Chile"
     },
+    "doi:10.1007/s11109-026-10220-0": {
+      "batch_id": "2026-10-25-eefb0329436ecb37",
+      "doi": "10.1007/s11109-026-10220-0",
+      "journal": "Political Behavior",
+      "publication_date": "2026-10-25",
+      "sent_at": "2026-10-25T11:33:31.473615+00:00",
+      "title": "Learning from Coalition Politics: How Episodes of Increased Complexity Can Enhance Citizens’ Political Efficacy"
+    },
     "doi:10.1007/s11109-026-10221-z": {
       "batch_id": "2026-10-24-4383bebd27a4ce9c",
       "doi": "10.1007/s11109-026-10221-z",
@@ -712,6 +720,22 @@
       "sent_at": "2026-10-24T11:04:57.858491+00:00",
       "title": "Social and Behavioral Effects of Decentralization on Health Services Delivery: Evidence from the Honduran Health Sector"
     },
+    "doi:10.1080/01900692.2026.2733756": {
+      "batch_id": "2026-10-25-eefb0329436ecb37",
+      "doi": "10.1080/01900692.2026.2733756",
+      "journal": "International Journal of Public Administration",
+      "publication_date": "2026-10-21",
+      "sent_at": "2026-10-25T11:33:31.473615+00:00",
+      "title": "Bureaucratic Capacity and Autonomy as Drivers of Innovation Climate"
+    },
+    "doi:10.1080/01900692.2026.2734529": {
+      "batch_id": "2026-10-25-eefb0329436ecb37",
+      "doi": "10.1080/01900692.2026.2734529",
+      "journal": "International Journal of Public Administration",
+      "publication_date": "2026-10-23",
+      "sent_at": "2026-10-25T11:33:31.473615+00:00",
+      "title": "Constitutionally Bounded Sequential Incrementalism: Criminal Justice Reform and Prosecutorial Governance in Comparative Perspective"
+    },
     "doi:10.1080/01900692.2026.2741072": {
       "batch_id": "2026-10-21-97e4d3559cd3b284",
       "doi": "10.1080/01900692.2026.2741072",
@@ -728,6 +752,14 @@
       "sent_at": "2026-10-21T11:52:23.084817+00:00",
       "title": "Artificial Intelligence in Public Administration"
     },
+    "doi:10.1080/01900692.2026.2745162": {
+      "batch_id": "2026-10-25-eefb0329436ecb37",
+      "doi": "10.1080/01900692.2026.2745162",
+      "journal": "International Journal of Public Administration",
+      "publication_date": "2026-10-19",
+      "sent_at": "2026-10-25T11:33:31.473615+00:00",
+      "title": "Extending the Structure-In-Evolution Approach: Mechanisms and Patterns of Institutional Evolution"
+    },
     "doi:10.1080/01900692.2026.2745166": {
       "batch_id": "2026-10-22-c3f7de491c326b9f",
       "doi": "10.1080/01900692.2026.2745166",
@@ -735,6 +767,14 @@
       "publication_date": "2026-10-20",
       "sent_at": "2026-10-22T11:55:59.639147+00:00",
       "title": "Who Governs the Ungovernable? Policy Orphans and Public Service Innovation in the Voids of Indonesia’s Migration Governance"
+    },
+    "doi:10.1080/01900692.2026.2747048": {
+      "batch_id": "2026-10-25-eefb0329436ecb37",
+      "doi": "10.1080/01900692.2026.2747048",
+      "journal": "International Journal of Public Administration",
+      "publication_date": "2026-10-21",
+      "sent_at": "2026-10-25T11:33:31.473615+00:00",
+      "title": "When Public Employment Spills Over into Civic Action: Environmental Co-Production in China"
     },
     "doi:10.1080/10584609.2026.2701201": {
       "batch_id": "2026-08-14-8fbfacbd92e8e048",
@@ -943,6 +983,14 @@
       "publication_date": "2026-10-23",
       "sent_at": "2026-10-24T11:04:57.858491+00:00",
       "title": "Enhancing Democratic Listening in Online Discussions: The Role of Reaction Buttons, Discussion Moderation, and Large Language Models"
+    },
+    "doi:10.1080/10967494.2026.2642317": {
+      "batch_id": "2026-10-25-eefb0329436ecb37",
+      "doi": "10.1080/10967494.2026.2642317",
+      "journal": "International Public Management Journal",
+      "publication_date": "2026-10-22",
+      "sent_at": "2026-10-25T11:33:31.473615+00:00",
+      "title": "Which costs loom largest? How public employees view the relationship between administrative burdens and performance"
     },
     "doi:10.1080/10967494.2026.2691398": {
       "batch_id": "2026-09-12-0323b2c4e5631bf0",
@@ -20182,7 +20230,8 @@
           "url": "https://doi.org/10.1007/s11109-026-10220-0"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-25T11:33:31.473615+00:00",
+      "status": "sent"
     }
   },
   "pending": {
