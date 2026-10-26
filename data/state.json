@@ -20232,6 +20232,351 @@
       ],
       "sent_at": "2026-10-25T11:33:31.473615+00:00",
       "status": "sent"
+    },
+    "2026-10-26-9354dcfe04f535c9": {
+      "created_at": "2026-10-26T12:55:54.276461+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-26-9354dcfe04f535c9",
+      "items": [
+        {
+          "abstract": "Abstract Power‐sharing deals can potentially solve the autocrat's commitment problem, yet often fail to prevent conflict. This article develops a dynamic model to examine a largely overlooked friction: Sharing power within an authoritarian regime bolsters the opposition's coercive capabilities. The resultant threat‐enhancing effect creates two distinct commitment problems for the opposition, which determine if and when power sharing occurs. First, the opposition cannot commit to refrain from leveraging its enhanced threat. The ruler prefers to incur a revolt than peacefully share power if the threat‐enhancing effect is large. Second, the threat‐enhancing effect tempts the opposition to wait for a future power‐sharing deal, which undercuts the opposition's commitment to revolt today. New dynamic implications arise: delayed power sharing, conflict, or an increased willingness for the ruler to share power are all possible. Scrutinizing the opposition's limited commitment ability contrasts with the predominant existing focus on the autocrat's commitment problem.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Jack Paine": [
+              "Associate Professor, Department of Political Science Emory University Atlanta Georgia USA"
+            ]
+          },
+          "authors": [
+            "Jack Paine"
+          ],
+          "constructs": [
+            "Commitment Problem",
+            "Power Sharing"
+          ],
+          "doi": "10.1111/ajps.70089",
+          "journal": "American Journal of Political Science",
+          "journal_short": "AJPS",
+          "method": "이론/개념",
+          "method_detail": "동태적 모형",
+          "publication_date": "2026-10-25",
+          "stable_id": "doi:10.1111/ajps.70089",
+          "summary_basis": "abstract",
+          "summary_ko": "권위주의 정권 내 권력분점이 반대파의 강압 역량을 강화하는 효과가 권력분점의 시기와 성패에 어떻게 영향을 미치는지 동태적 모형으로 분석한다. 이 효과는 반대파의 두 가지 추가적 공약 문제를 낳아, 권력분점 지연·분쟁·또는 통치자의 권력분점 의향 증가를 초래할 수 있음을 보인다.",
+          "title": "The threat‐enhancing effect of authoritarian power sharing",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1111/ajps.70089"
+        },
+        {
+          "abstract": "Abstract Far-right political shifts have been linked to increased racism, raising concerns about their impact on minority access to public services. This study investigates whether far-right electoral victories encourage discrimination by street-level bureaucrats, who are expected to act impartially. We conducted a nested research design in Italy, combining a field-experimental audit with a regression discontinuity design focused on municipalities near the electoral threshold for far-right mayors. Research assistants with native-Italian and West-African accents contacted municipal healthcare offices to request registration with a general medical practitioner. Compared to native-Italian callers, those with West-African accents faced significantly higher rates of scrutiny and dismissive responses. Leveraging close elections, we find that this disparity was exacerbated in municipalities where far-right candidates narrowly won. These findings demonstrate that far-right electoral success can undermine impartiality and equal access to essential services.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "ALESSIO ROMARRI": [
+              "Autonomous University of Barcelona"
+            ],
+            "DINA ROSENBERG": [
+              "Rowan University"
+            ],
+            "KRZYSZTOF KRAKOWSKI": [
+              "Collegio Carlo Alberto"
+            ],
+            "MERLIN SCHAEFFER": [
+              "University of Copenhagen"
+            ]
+          },
+          "authors": [
+            "MERLIN SCHAEFFER",
+            "ALESSIO ROMARRI",
+            "DINA ROSENBERG",
+            "KRZYSZTOF KRAKOWSKI"
+          ],
+          "constructs": [
+            "Street-Level Bureaucracy",
+            "Discrimination"
+          ],
+          "doi": "10.1017/s0003055426101907",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "준실험",
+          "method_detail": "현장감사·회귀불연속",
+          "publication_date": "2026-10-26",
+          "stable_id": "doi:10.1017/s0003055426101907",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 극우 후보의 선거 승리가 일선 관료의 의료서비스 접근 차별을 심화하는지 이탈리아에서 검토했다. 현장감사 실험과 극우 시장의 근소한 당선에 초점을 둔 회귀불연속설계를 결합한 결과, 서아프리카 억양의 전화 신청자는 이탈리아 원어민 신청자보다 더 많은 조사와 무시하는 응답을 받았으며, 이러한 격차는 극우 후보가 근소하게 승리한 지방자치단체에서 확대됐다.",
+          "title": "When Politics Enters the Waiting Room: Far-Right Electoral Victories Exacerbate Discrimination in Access to Healthcare",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1017/s0003055426101907"
+        },
+        {
+          "abstract": "This study examines how innovative work behavior is associated with organizational performance, focusing on the mediating role of public service motivation and the moderating role of innovative organizational culture in public organizations. Based on responses of 4,133 Korean central and local government employees, the findings indicated that innovative work behavior is positively associated with organizational performance. The results also show that public service motivation partially mediates this relationship and that innovative organizational culture moderates the association between innovative work behavior and organizational performance. These findings advance understanding of the relationship between innovative work behavior and organizational performance by highlighting the motivational role of public service motivation and the contextual role of innovative organizational culture in public organizations.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Meghna Sabharwal": [
+              "The University of Texas at Dallas"
+            ],
+            "Seongdeok Oh": [
+              "Valdosta State University"
+            ]
+          },
+          "authors": [
+            "Seongdeok Oh",
+            "Meghna Sabharwal"
+          ],
+          "constructs": [
+            "Public Service Motivation",
+            "Innovative Organizational Culture"
+          ],
+          "doi": "10.1080/01900692.2026.2743076",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "method": "서베이",
+          "method_detail": "횡단면 설문",
+          "publication_date": "2026-10-21",
+          "stable_id": "doi:10.1080/01900692.2026.2743076",
+          "summary_basis": "abstract",
+          "summary_ko": "한국 중앙·지방정부 공무원 4,133명의 설문자료를 바탕으로 혁신적 업무행동이 조직성과와 어떤 관련이 있는지, 공공봉사동기의 매개효과와 혁신적 조직문화의 조절효과를 분석했다. 혁신적 업무행동은 조직성과와 긍정적으로 관련되었고, 공공봉사동기는 이 관계를 부분적으로 매개했으며 혁신적 조직문화는 그 관계를 조절했다.",
+          "title": "Fostering Innovative Work Behavior to Improve Organizational Performance: The Roles of Public Service Motivation and Innovative Organizational Culture",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1080/01900692.2026.2743076"
+        },
+        {
+          "abstract": "European Union (EU) enlargement represents an ambitious institutional transformation. Our analysis explores whether recent EU accessions have resulted in governance quality convergence. Using the World Bank Worldwide Governance Indicators, we examine the progression of governance quality across both EU and non-EU countries and assess whether it has converged toward EU Core member states’ performance level. We apply panel regression and dispersion trend analysis to measure beta and sigma convergence, within and in-between pre-specified country groups. Results are of strong beta and mixed sigma convergence. We find that NonEU_East former communist countries and recently EU‑integrated, predominantly former communist countries, experience convergence regardless of EU membership, with consistently stronger convergence among the latter, suggesting EU accession may play an important role in governance convergence. Importantly, our findings support an interpretation of governance performance deterioration within EU Core member states as a possible contributing factor to the observed convergence outcomes.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Amos M. Rahat": [
+              "University of Bucharest"
+            ]
+          },
+          "authors": [
+            "Amos M. Rahat"
+          ],
+          "constructs": [
+            "Governance Quality",
+            "Beta Convergence"
+          ],
+          "doi": "10.1080/01900692.2026.2747044",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "method": "혼합방법론",
+          "method_detail": "패널회귀·분산분석",
+          "publication_date": "2026-10-22",
+          "stable_id": "doi:10.1080/01900692.2026.2747044",
+          "summary_basis": "abstract",
+          "summary_ko": "EU 가입이 거버넌스 질의 EU 핵심국 수준 수렴과 관련되는지를 세계은행 Worldwide Governance Indicators로 EU·비EU 국가를 비교해 패널회귀와 분산 추세 분석으로 검토했다. 강한 베타 수렴과 혼합된 시그마 수렴이 나타났으며, 수렴은 EU 가입 여부와 무관하게 관찰되지만 최근 가입국에서 더 강해 EU 가입의 역할 가능성과 EU 핵심국의 거버넌스 성과 저하 가능성을 함께 시사한다.",
+          "title": "Governance Convergence in the EU—A Matter for Interpretation",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/01900692.2026.2747044"
+        },
+        {
+          "abstract": "In the run-up to the 2025 New York City mayoral election, a candidate waded into the winter Atlantic at Coney Island in an inexpensive suit and, on emerging, delivered a single line: he was there t...",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Anastasios Stavropoulos": [
+              "Hellenic Ministry of Education",
+              "Hellenic Open University",
+              "University of Western Macedonia"
+            ]
+          },
+          "authors": [
+            "Anastasios Stavropoulos"
+          ],
+          "constructs": [
+            "Algorithmic Attention",
+            "Policy Communication"
+          ],
+          "doi": "10.1080/01900692.2026.2722298",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "method": "방법 미상",
+          "method_detail": "방법 미상",
+          "publication_date": "2026-10-23",
+          "stable_id": "doi:10.1080/01900692.2026.2722298",
+          "summary_basis": "abstract",
+          "summary_ko": "2025년 뉴욕시장 선거를 앞두고 후보가 코니아일랜드의 겨울 바다에 뛰어든 뒤 한 문장으로 정책을 전달한 사례를 바탕으로, 알고리즘적 주목이 정책의 대중적 커뮤니케이션을 어떻게 형성하는지 탐구한다. 초록에 제시된 내용만으로는 구체적 연구 접근과 주요 발견을 확인할 수 없다.",
+          "title": "Policy as Punchline: Algorithmic Attention and the Public Communication of Policy",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1080/01900692.2026.2722298"
+        },
+        {
+          "abstract": "ABSTRACT Interest groups are key actors in shaping political agendas. Yet, we know surprisingly little about how they determine their lobbying priorities at the earliest stage of the policy process. This study advances a novel conceptual framework for studying interest groups' issue prioritization in the agenda setting stage along three complementary dimensions: agenda breadth, agenda direction, and agenda responsiveness. Drawing on original survey data from 630 EU level interest groups, our results show that issue prioritization is driven primarily by the type of constituents a group represents. Economic interest groups tend to pursue broader lobbying agendas, focus on defending the policy status quo, and are more responsive to internal member pressures when prioritizing undesired issues. Citizen groups, by contrast, typically adopt narrower agendas, prioritize challenging the status quo, and respond more strongly to external issue salience when determining their lobbying priorities. Overall, the study advances our understanding of how interest groups navigate competition for political attention and contributes to broader debates on agenda‐setting in contemporary democracies.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Darren Halpin": [
+              "School of Politics &amp; International Relations Australian National University Canberra Australia"
+            ],
+            "Frederik Stevens": [
+              "Department of Political Science University of Antwerp Antwerp Belgium"
+            ]
+          },
+          "authors": [
+            "Frederik Stevens",
+            "Darren Halpin"
+          ],
+          "constructs": [
+            "Agenda Setting",
+            "Interest Groups"
+          ],
+          "doi": "10.1111/psj.70172",
+          "journal": "Policy Studies Journal",
+          "journal_short": "PSJ",
+          "method": "서베이",
+          "method_detail": "횡단면 설문",
+          "publication_date": "2026-10-25",
+          "stable_id": "doi:10.1111/psj.70172",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 이익집단이 의제설정 초기 단계에서 로비 우선순위를 어떻게 정하는지 알아보기 위해 EU 수준 이익집단 630곳의 설문자료를 분석했다. 경제적 이익집단은 더 폭넓은 의제를 추구하고 현상 유지를 방어하는 경향이 있으며 내부 구성원 압력에 더 반응하는 반면, 시민집단은 더 좁은 의제와 현상 변경을 우선시하고 외부의 쟁점 현저성에 더 강하게 반응했다.",
+          "title": "Lobbying Priorities in Agenda‐Setting: Agenda Breadth, Direction, and Responsiveness Across Economic and Citizen Groups",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1111/psj.70172"
+        },
+        {
+          "abstract": "Performance measurement for collaborative governance presents significant challenges both practically and theoretically. With the goal of refining theory grounded in empirical application, we use Emerson and Nabatchi’s Productivity Performance Matrix and their Integrative Framework for Collaborative Governance, to examine data from a five-year longitudinal comparative case study of collaborative governance regimes (CGRs) in three European cities.Our research showed that the indicators of the Productivity Performance Matrix (PPM) had significant relevance to actual performance outcomes observed in the CGRs studied, albeit with some modifications. Proposed modifications include removing the ‘participant organization’ as a distinct level of analysis in network-centred evaluations, reconceptualization of equity as ‘perceived equity’, distinguishing between internal and external legitimacy, and shifting from ‘sustainability’ to ‘systemic change’ as a performance indicator for adaptation. The refinement of performance indicators and the improved conceptual coherence between the PPM and the Integrative Framework are the primary contributions of this work.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Mary Lee Rhodes": [
+              "Trinity College Dublin"
+            ],
+            "Siobhan McQuaid": [
+              "Trinity College Dublin"
+            ]
+          },
+          "authors": [
+            "Siobhan McQuaid",
+            "Mary Lee Rhodes"
+          ],
+          "constructs": [
+            "Productivity Performance Matrix",
+            "Collaborative Governance"
+          ],
+          "doi": "10.1080/14719037.2026.2738181",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "종단 비교사례",
+          "publication_date": "2026-10-22",
+          "stable_id": "doi:10.1080/14719037.2026.2738181",
+          "summary_basis": "abstract",
+          "summary_ko": "본 연구는 Emerson와 Nabatchi의 Productivity Performance Matrix(PPM) 및 Integrative Framework for Collaborative Governance를 적용해 유럽 3개 도시의 협력적 거버넌스 체제를 5년간 비교·종단적으로 분석하고, PPM 지표가 실제 성과를 얼마나 설명하는지 검토했다. 분석 결과 PPM 지표는 대체로 유의미했지만, 조직 수준의 재구성, 형평성의 ‘인지된 형평성’화, 내부·외부 정당성의 구분, 적응 지표를 지속가능성에서 체계적 변화로 전환하는 수정이 제안되었다.",
+          "title": "Assessing performance in collaborative governance networks: testing the Productivity Performance Matrix",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/14719037.2026.2738181"
+        },
+        {
+          "abstract": "Building on the literature on citizen coproduction, this study examines how threat perception and issue knowledge influence individual citizens’ coproduction preferences in the issue domain of environmental health. Drawing on prior research, we propose a conceptual framework and derive theoretical expectations about the relationships between threat perception, issue knowledge, and citizens’ willingness to engage in coproduction. Empirically, we use data from a nationally representative public survey (N = 1,207) to test our hypotheses. Across multiple model specifications and robustness checks, the regression results consistently support our expectations: holding other factors constant, individuals who perceive greater threats and those who possess more issue knowledge tend to express stronger willingness to participate in co-planning and co-investment activities with public entities. In conclusion, we discuss the study’s key contributions, directions for future research, and practical implications for environmental health policy and management.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Arnold Vedlitz": [
+              "Texas A&M University"
+            ],
+            "Rotem Dvir": [
+              "Texas A&M University"
+            ],
+            "Xinsheng Liu": [
+              "Texas A&M University"
+            ]
+          },
+          "authors": [
+            "Xinsheng Liu",
+            "Rotem Dvir",
+            "Arnold Vedlitz"
+          ],
+          "constructs": [
+            "Citizen Coproduction",
+            "Threat Perception"
+          ],
+          "doi": "10.1080/14719037.2026.2749668",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "서베이",
+          "method_detail": "전국 대표 설문",
+          "publication_date": "2026-10-22",
+          "stable_id": "doi:10.1080/14719037.2026.2749668",
+          "summary_basis": "abstract",
+          "summary_ko": "환경보건 영역에서 위협 인식과 이슈 지식이 시민의 공동생산 참여 의향에 어떤 영향을 미치는지 검토하기 위해 전국 대표 표본 설문자료(N=1,207)를 활용해 여러 회귀모형과 강건성 검정을 실시했다. 다른 요인을 통제할 때 위협을 크게 인식하고 이슈 지식이 많은 개인일수록 공공기관과의 공동기획 및 공동투자에 참여하려는 의향이 강한 것으로 나타났다.",
+          "title": "Threat perception, issue knowledge, and citizen coproduction preferences: evidence from a national public survey on environmental health",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1080/14719037.2026.2749668"
+        },
+        {
+          "abstract": "This study examines how sustainable human resource management (SHRM) has been incorporated into public sector HRM policy in Aotearoa/New Zealand before and after the introduction of the United Nations Sustainable Development Goals (SDGs). Drawing on a longitudinal qualitative analysis of HRM policies from 10 local councils between 2010 and 2021, it explores how sustainability concerns across social, economic, and environmental domains were integrated into public HRM. The findings show that sustainability entered public HRM primarily through incremental layering onto existing HRM frameworks rather than transformational change. Following the SDGs, policy attention to equity, diversity, and wellbeing increased; however, broader social justice commitments remained uneven, while environmental sustainability received limited attention. By examining HRM policies as organizational signals, the study contributes to public HRM and SHRM scholarship by showing how sustainability priorities are communicated before implementation and may remain constrained by institutional logics of compliance, efficiency, risk management, and organizational performance.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Adeel Akmal": [
+              "University of Iceland, Reykjavik, Iceland"
+            ],
+            "Andrea Clark": [
+              "University of Otago, Dunedin, New Zealand"
+            ],
+            "Fiona Edgar": [
+              "University of Otago, Dunedin, New Zealand"
+            ],
+            "Nataliya Podgorodnichenko": [
+              "University of Otago, Dunedin, New Zealand"
+            ]
+          },
+          "authors": [
+            "Nataliya Podgorodnichenko",
+            "Adeel Akmal",
+            "Fiona Edgar",
+            "Andrea Clark"
+          ],
+          "constructs": [
+            "Sustainable HRM",
+            "Institutional Logics"
+          ],
+          "doi": "10.1177/0734371x261497122",
+          "journal": "Review of Public Personnel Administration",
+          "journal_short": "ROPPA",
+          "method": "질적연구",
+          "method_detail": "종단 정책분석",
+          "publication_date": "2026-10-25",
+          "stable_id": "doi:10.1177/0734371x261497122",
+          "summary_basis": "abstract",
+          "summary_ko": "본 연구는 2010~2021년 아오테아로아·뉴질랜드의 지방의회 10곳 HRM 정책을 종단적으로 질적 분석해, 유엔 SDGs 도입 전후 지속가능성이 공공부문 HRM 정책에 어떻게 통합되었는지 검토했다. 지속가능성은 기존 HRM 체계에 점진적으로 덧붙는 방식으로 도입되었고, SDGs 이후 형평성·다양성·웰빙에 대한 관심은 커졌지만 사회정의는 고르지 않았으며 환경적 지속가능성은 제한적으로 다뤄졌다.",
+          "title": "From Policy to Sustainability: The Evolution of Sustainability in Public HRM in Aotearoa/New Zealand in the SDG Era",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1177/0734371x261497122"
+        },
+        {
+          "abstract": "Teacher turnover poses a significant challenge to educational quality worldwide, with turnover intention serving as a critical precursor to actual turnover. This study explores how people management—defined as the integration of the implementation of human resource management practices and leadership behavior—affects teachers’ intentions to leave their positions. Grounded in conservation of resources theory, we examine how people management can serve as a crucial resource in reducing turnover intentions by alleviating role ambiguity and emotional exhaustion, two key issues in the teaching profession. Role ambiguity arises from the increasing demands placed on teachers, while emotional exhaustion exacerbates intentions to leave. Our results show support for the (serial) mediating role of role ambiguity and emotional exhaustion, providing new insights into how people management impacts teacher retention. The findings contribute to the understanding of how people management activities can effectively support teachers, reducing turnover intentions and ultimately enhancing overall education quality.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Adelien Decramer": [
+              "Ghent University, Belgium"
+            ],
+            "Eva Knies": [
+              "Utrecht University, The Netherlands"
+            ],
+            "Mieke Audenaert": [
+              "Ghent University, Belgium"
+            ],
+            "Willemijn Gils": [
+              "Ghent University, Belgium"
+            ]
+          },
+          "authors": [
+            "Willemijn Gils",
+            "Mieke Audenaert",
+            "Eva Knies",
+            "Adelien Decramer"
+          ],
+          "constructs": [
+            "Conservation of Resources",
+            "Role Ambiguity"
+          ],
+          "doi": "10.1177/0734371x261497117",
+          "journal": "Review of Public Personnel Administration",
+          "journal_short": "ROPPA",
+          "method": "혼합방법론",
+          "method_detail": "연쇄 매개 분석",
+          "publication_date": "2026-10-26",
+          "stable_id": "doi:10.1177/0734371x261497117",
+          "summary_basis": "abstract",
+          "summary_ko": "교사 이직의도에 대한 인사관리의 영향을 분석하고, 역할 모호성과 정서적 소진의 매개역할을 검토했다. 분석 결과, 인사관리는 역할 모호성과 정서적 소진을 연쇄적으로 완화해 이직의도를 낮추는 것으로 나타났다.",
+          "title": "Turning the Tide. Studying the Impact of People Management on Teacher Turnover Intentions: The Mediating Roles of Role Ambiguity and Emotional Exhaustion",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1177/0734371x261497117"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -20254,7 +20599,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -20272,7 +20617,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -20307,7 +20652,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -20332,7 +20677,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -20353,30 +20698,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
-    },
-    "doi:10.1080/01900692.2026.2722298": {
-      "first_seen_at": "2026-10-23T11:34:21.794633+00:00",
-      "item": {
-        "author_affiliations": {
-          "Anastasios Stavropoulos": [
-            "Hellenic Ministry of Education",
-            "Hellenic Open University",
-            "University of Western Macedonia"
-          ]
-        },
-        "authors": [
-          "Anastasios Stavropoulos"
-        ],
-        "doi": "10.1080/01900692.2026.2722298",
-        "journal": "International Journal of Public Administration",
-        "journal_short": "IJPA",
-        "publication_date": "2026-10-23",
-        "stable_id": "doi:10.1080/01900692.2026.2722298",
-        "title": "Policy as Punchline: Algorithmic Attention and the Public Communication of Policy",
-        "url": "https://doi.org/10.1080/01900692.2026.2722298"
-      },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -20397,78 +20719,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
-    },
-    "doi:10.1080/01900692.2026.2743076": {
-      "first_seen_at": "2026-10-22T11:47:19.714702+00:00",
-      "item": {
-        "author_affiliations": {
-          "Meghna Sabharwal": [
-            "The University of Texas at Dallas"
-          ],
-          "Seongdeok Oh": [
-            "Valdosta State University"
-          ]
-        },
-        "authors": [
-          "Seongdeok Oh",
-          "Meghna Sabharwal"
-        ],
-        "doi": "10.1080/01900692.2026.2743076",
-        "journal": "International Journal of Public Administration",
-        "journal_short": "IJPA",
-        "publication_date": "2026-10-21",
-        "stable_id": "doi:10.1080/01900692.2026.2743076",
-        "title": "Fostering Innovative Work Behavior to Improve Organizational Performance: The Roles of Public Service Motivation and Innovative Organizational Culture",
-        "url": "https://doi.org/10.1080/01900692.2026.2743076"
-      },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
-    },
-    "doi:10.1080/01900692.2026.2747044": {
-      "first_seen_at": "2026-10-22T11:47:19.714702+00:00",
-      "item": {
-        "author_affiliations": {
-          "Amos M. Rahat": [
-            "University of Bucharest"
-          ]
-        },
-        "authors": [
-          "Amos M. Rahat"
-        ],
-        "doi": "10.1080/01900692.2026.2747044",
-        "journal": "International Journal of Public Administration",
-        "journal_short": "IJPA",
-        "publication_date": "2026-10-22",
-        "stable_id": "doi:10.1080/01900692.2026.2747044",
-        "title": "Governance Convergence in the EU—A Matter for Interpretation",
-        "url": "https://doi.org/10.1080/01900692.2026.2747044"
-      },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
-    },
-    "doi:10.1080/14719037.2026.2738181": {
-      "first_seen_at": "2026-10-23T11:34:21.794633+00:00",
-      "item": {
-        "author_affiliations": {
-          "Mary Lee Rhodes": [
-            "Trinity College Dublin"
-          ],
-          "Siobhan McQuaid": [
-            "Trinity College Dublin"
-          ]
-        },
-        "authors": [
-          "Siobhan McQuaid",
-          "Mary Lee Rhodes"
-        ],
-        "doi": "10.1080/14719037.2026.2738181",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-10-22",
-        "stable_id": "doi:10.1080/14719037.2026.2738181",
-        "title": "Assessing performance in collaborative governance networks: testing the Productivity Performance Matrix",
-        "url": "https://doi.org/10.1080/14719037.2026.2738181"
-      },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1080/14719037.2026.2748382": {
       "first_seen_at": "2026-10-15T11:24:26.713814+00:00",
@@ -20493,36 +20744,7 @@
         "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
         "url": "https://doi.org/10.1080/14719037.2026.2748382"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
-    },
-    "doi:10.1080/14719037.2026.2749668": {
-      "first_seen_at": "2026-10-23T11:34:21.794633+00:00",
-      "item": {
-        "author_affiliations": {
-          "Arnold Vedlitz": [
-            "Texas A&M University"
-          ],
-          "Rotem Dvir": [
-            "Texas A&M University"
-          ],
-          "Xinsheng Liu": [
-            "Texas A&M University"
-          ]
-        },
-        "authors": [
-          "Xinsheng Liu",
-          "Rotem Dvir",
-          "Arnold Vedlitz"
-        ],
-        "doi": "10.1080/14719037.2026.2749668",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-10-22",
-        "stable_id": "doi:10.1080/14719037.2026.2749668",
-        "title": "Threat perception, issue knowledge, and citizen coproduction preferences: evidence from a national public survey on environmental health",
-        "url": "https://doi.org/10.1080/14719037.2026.2749668"
-      },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20547,7 +20769,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20572,7 +20794,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20593,7 +20815,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20614,7 +20836,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20643,7 +20865,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20672,7 +20894,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20697,7 +20919,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20718,7 +20940,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -20738,7 +20960,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -20755,7 +20977,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -20776,7 +20998,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -20793,7 +21015,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -20811,7 +21033,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -20831,7 +21053,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -20848,7 +21070,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -20866,7 +21088,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -20885,7 +21107,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -20903,7 +21125,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -20922,7 +21144,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -20940,7 +21162,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -20957,7 +21179,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -20976,7 +21198,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -20994,7 +21216,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/744574": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -21011,7 +21233,7 @@
         "title": "The Left Misunderstood: How Voters’ Perceptions of What Matters to the Left Benefit the Right",
         "url": "https://doi.org/10.1086/744574"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -21029,7 +21251,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -21050,7 +21272,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21065,7 +21287,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -21080,7 +21302,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -21101,7 +21323,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -21116,7 +21338,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -21131,7 +21353,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-25T11:21:30.815109+00:00"
+      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
     }
   },
   "version": 1
