@@ -20658,6 +20658,89 @@
       ],
       "sent_at": "2026-10-26T13:07:19.116260+00:00",
       "status": "sent"
+    },
+    "2026-10-27-f843e15ce361cfcf": {
+      "created_at": "2026-10-27T12:06:36.550371+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-27-f843e15ce361cfcf",
+      "items": [
+        {
+          "abstract": "Abstract Standard approaches in generalizability often focus on generalizing the intent-to-treat effect. However, in practice, a more policy-relevant quantity is the generalized impact of an intervention across compliers. While instrumental variable methods are commonly used to estimate the complier average causal effect (CACE) within samples, standard approaches cannot be applied to a target population with a different distribution from the study sample. This article makes several key contributions. First, we introduce a new set of identifying assumptions in the form of a population-level exclusion restriction that allows for identification of the target CACE (T-CACE) in both randomized experiments and observational studies. This allows researchers to identify the T-CACE without relying on standard principal ignorability assumptions. Second, we propose a class of inverse-weighted estimators for the T-CACE and derive their asymptotic properties. We provide extensions for settings in which researchers have access to auxiliary compliance information across the target population. Finally, we introduce a sensitivity analysis for researchers to evaluate the robustness of the estimators in the presence of unmeasured confounding and extend existing tests to evaluate instrument validity in this context. We illustrate our proposed method through extensive simulations and a study evaluating the impact of deep canvassing on reducing exclusionary attitudes.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Melody Huang": [
+              "Yale University"
+            ],
+            "Zhongren Chen": [
+              "Yale University"
+            ]
+          },
+          "authors": [
+            "Zhongren Chen",
+            "Melody Huang"
+          ],
+          "constructs": [
+            "CACE",
+            "Noncompliance"
+          ],
+          "doi": "10.1017/pan.2026.10063",
+          "journal": "Political Analysis",
+          "journal_short": "PolAnalysis",
+          "method": "준실험",
+          "method_detail": "역가중 추정",
+          "publication_date": "2026-10-26",
+          "stable_id": "doi:10.1017/pan.2026.10063",
+          "summary_basis": "abstract",
+          "summary_ko": "표본과 목표집단의 순응자 분포가 다를 때 정책 개입의 목표집단 순응자 평균 인과효과(T-CACE)를 식별·추정하는 방법을 제시한다. 모집단 수준의 배제제약에 기반한 역가중 추정량과 민감도 분석·도구변수 타당성 검정을 개발하고, 심층 캔버싱 실험 사례와 시뮬레이션으로 적용 가능성을 보인다.",
+          "title": "Generalizing Causal Effects with Noncompliance: Application to Deep Canvassing Experiments",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1017/pan.2026.10063"
+        },
+        {
+          "abstract": "Recruitment is critical for equipping public service organizations with the competencies required to advance the sustainable development goals (SDGs). This is particularly salient for public utilities, hybrid organizations mandated to contribute to the SDGs through essential services in water, waste, and energy management. This study examines employer attractiveness for profiles considered critical to SDG implementation in Italian utilities. Drawing on self-determination theory, we combine semi-structured interviews with HR and Employer Branding managers from 16 utilities with two discrete-choice experiments involving STEM and vocational-technical students and professionals. Salary and competence-related opportunities are consistently important across both groups. Remote work does not significantly affect STEM respondents’ choices, whereas workplace proximity is the strongest driver for vocational-technical respondents. Relatedness, operationalized as environmental and community impact, is not a significant differentiating attribute, suggesting that in organizations whose public value mission is already highly visible, social and environmental impact may function as a baseline expectation.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Francesco Vidè": [
+              "SDA Bocconi School of Management, Milan, Italy"
+            ],
+            "Giovanni Valotti": [
+              "Bocconi University, Milan, Italy"
+            ],
+            "Lavinia Lenzi": [
+              "SDA Bocconi School of Management, Milan, Italy"
+            ],
+            "Lorenzo Luciano": [
+              "SDA Bocconi School of Management, Milan, Italy"
+            ],
+            "Marta Barbieri": [
+              "SDA Bocconi School of Management, Milan, Italy"
+            ]
+          },
+          "authors": [
+            "Lavinia Lenzi",
+            "Lorenzo Luciano",
+            "Francesco Vidè",
+            "Marta Barbieri",
+            "Giovanni Valotti"
+          ],
+          "constructs": [
+            "Self-Determination Theory",
+            "Employer Attractiveness"
+          ],
+          "doi": "10.1177/0734371x261497110",
+          "journal": "Review of Public Personnel Administration",
+          "journal_short": "ROPPA",
+          "method": "혼합방법론",
+          "method_detail": "순차 혼합",
+          "publication_date": "2026-10-26",
+          "stable_id": "doi:10.1177/0734371x261497110",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 이탈리아 공공서비스 유틸리티에서 SDG 이행에 필요한 인재의 고용주 매력도를 결정하는 요인을 분석하기 위해 HR·고용주브랜딩 관리자 16개 기관의 반구조화 면접과 STEM·직업기술 분야 학생 및 전문가 대상 이산선택실험을 결합했다. 두 집단 모두 급여와 역량개발 기회를 중요하게 평가했으며, STEM 응답자에게 원격근무는 유의한 영향을 주지 않았고 직업기술 응답자에게는 직장과의 근접성이 가장 강한 요인이었으며, 환경·지역사회 영향은 유의한 차별 요인이 아니었다.",
+          "title": "Recruiting for SDGs-Oriented Profiles: Unpacking Drivers of Employer Attractiveness in Hybrid Organizations",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1177/0734371x261497110"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -20680,12 +20763,40 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+    },
+    "doi:10.1002/pam.70141": {
+      "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
+      "item": {
+        "author_affiliations": {
+          "Jason R. Motsick": [
+            "Department of Politics &amp; Policy Claremont Graduate University (CGU) Claremont California USA"
+          ]
+        },
+        "authors": [
+          "Jason R. Motsick"
+        ],
+        "doi": "10.1002/pam.70141",
+        "journal": "Journal of Policy Analysis and Management",
+        "journal_short": "JPAM",
+        "publication_date": "2026-10-26",
+        "stable_id": "doi:10.1002/pam.70141",
+        "title": "Democracy in Power: A History of Electrification in the United States",
+        "url": "https://doi.org/10.1002/pam.70141"
+      },
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
       "item": {
-        "author_affiliations": {},
+        "author_affiliations": {
+          "Henrik Bech Seeberg": [
+            "Aarhus University"
+          ],
+          "Martin Bækgaard": [
+            "Aarhus University"
+          ]
+        },
         "authors": [
           "Henrik Bech Seeberg",
           "Martin Bækgaard"
@@ -20698,7 +20809,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -20733,7 +20844,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -20758,7 +20869,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -20779,7 +20890,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1080/01900692.2026.2725002": {
       "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
@@ -20800,7 +20911,7 @@
         "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
         "url": "https://doi.org/10.1080/01900692.2026.2725002"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1080/14719037.2026.2748382": {
       "first_seen_at": "2026-10-15T11:24:26.713814+00:00",
@@ -20825,7 +20936,7 @@
         "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
         "url": "https://doi.org/10.1080/14719037.2026.2748382"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20850,7 +20961,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20875,7 +20986,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20896,7 +21007,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20917,7 +21028,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20946,7 +21057,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20975,7 +21086,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21000,7 +21111,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21021,7 +21132,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -21041,7 +21152,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -21058,7 +21169,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -21079,7 +21190,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -21096,7 +21207,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -21114,7 +21225,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -21134,7 +21245,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21151,7 +21262,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21169,7 +21280,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21188,7 +21299,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21206,7 +21317,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21225,7 +21336,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -21243,7 +21354,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -21260,7 +21371,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -21279,7 +21390,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -21297,7 +21408,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/744574": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -21314,7 +21425,7 @@
         "title": "The Left Misunderstood: How Voters’ Perceptions of What Matters to the Left Benefit the Right",
         "url": "https://doi.org/10.1086/744574"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -21332,7 +21443,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -21353,7 +21464,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21368,7 +21479,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -21383,7 +21494,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -21404,7 +21515,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -21419,7 +21530,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -21434,7 +21545,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-26T12:55:54.276461+00:00"
+      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
     }
   },
   "version": 1
