@@ -432,6 +432,14 @@
       "sent_at": "2026-10-14T11:54:30.601808+00:00",
       "title": "The Synthetic Imputation Approach: Using LLMs to Generate Synthetic Texts for Underrepresented Categories in Supervised Classification Tasks"
     },
+    "doi:10.1017/pan.2026.10063": {
+      "batch_id": "2026-10-27-f843e15ce361cfcf",
+      "doi": "10.1017/pan.2026.10063",
+      "journal": "Political Analysis",
+      "publication_date": "2026-10-26",
+      "sent_at": "2026-10-27T12:14:15.584401+00:00",
+      "title": "Generalizing Causal Effects with Noncompliance: Application to Deep Canvassing Experiments"
+    },
     "doi:10.1017/s0003055426101774": {
       "batch_id": "2026-10-03-7757ef6e672473a1",
       "doi": "10.1017/s0003055426101774",
@@ -3447,6 +3455,14 @@
       "publication_date": "2026-09-22",
       "sent_at": "2026-09-23T11:38:22.380172+00:00",
       "title": "Classification Drift: Decisions Passing Quietly but Compounding Inequity"
+    },
+    "doi:10.1177/0734371x261497110": {
+      "batch_id": "2026-10-27-f843e15ce361cfcf",
+      "doi": "10.1177/0734371x261497110",
+      "journal": "Review of Public Personnel Administration",
+      "publication_date": "2026-10-26",
+      "sent_at": "2026-10-27T12:14:15.584401+00:00",
+      "title": "Recruiting for SDGs-Oriented Profiles: Unpacking Drivers of Employer Attractiveness in Hybrid Organizations"
     },
     "doi:10.1177/0734371x261497117": {
       "batch_id": "2026-10-26-9354dcfe04f535c9",
@@ -20740,7 +20756,8 @@
           "url": "https://doi.org/10.1177/0734371x261497110"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-27T12:14:15.584401+00:00",
+      "status": "sent"
     }
   },
   "pending": {
