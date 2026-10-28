@@ -20758,6 +20758,267 @@
       ],
       "sent_at": "2026-10-27T12:14:15.584401+00:00",
       "status": "sent"
+    },
+    "2026-10-28-76e232541b4242da": {
+      "created_at": "2026-10-28T12:48:28.930203+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-28-76e232541b4242da",
+      "items": [
+        {
+          "abstract": "A formidable corpus of scholarship explores the role of economic self-interest in shaping public support for redistribution. One striking feature of this literature is its near-exclusive reliance on reported preferences in surveys, with little-to-no research analyzing revealed preferences in the form of actual voting on redistribution. Leveraging eight redistributive ballot initiatives across six American states and a total of 73,053 observations of revealed support for redistribution, we uncover consistent evidence that the economic standing of precinct voters is systematically related to their support for redistribution. We find that lower- to upper-middle-income precincts are each significantly more supportive of redistribution than upper-income precincts, with pronounced decreases in support associated with the increasing prevalence of high-income households subject to proposed tax increases. Finally, we observe the largest class differential in support for redistribution in more heavily Republican precincts.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "BENJAMIN J. NEWMAN": [
+              "University of California, Riverside"
+            ],
+            "E. GRANT BALDWIN": [
+              "University of California, Los Angeles"
+            ],
+            "G. AGUSTIN MARKARIAN": [
+              "Loyola University Chicago"
+            ],
+            "JIEUN LEE": [
+              "University of California, Riverside"
+            ]
+          },
+          "authors": [
+            "JIEUN LEE",
+            "E. GRANT BALDWIN",
+            "G. AGUSTIN MARKARIAN",
+            "BENJAMIN J. NEWMAN"
+          ],
+          "constructs": [
+            "Economic Self-Interest",
+            "Redistribution"
+          ],
+          "doi": "10.1017/s000305542610207x",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "혼합방법론",
+          "method_detail": "선거결과 자료분석",
+          "publication_date": "2026-10-28",
+          "stable_id": "doi:10.1017/s000305542610207x",
+          "summary_basis": "abstract",
+          "summary_ko": "재분배에 대한 경제적 자기이익이 실제 투표행동과 어떻게 관련되는지 분석하기 위해, 미국 6개 주의 재분배 관련 주민투표 발의안 8건과 73,053개 선거구 관측치를 활용했다. 하위소득 및 중상위소득 선거구는 고소득 선거구보다 재분배를 더 지지했으며, 증세 대상 고소득 가구가 많을수록 지지는 크게 감소했고, 공화당 성향이 강한 선거구에서 계급 간 지지 격차가 가장 컸다.",
+          "title": "Economic Self-Interest and Support for Redistribution: New Evidence Using Election Results Data",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1017/s000305542610207x"
+        },
+        {
+          "abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0003055425101147/resource/name/firstPage-pdf-S0003055425101147a.jpg",
+          "abstract_source": "Publisher",
+          "author_affiliations": {},
+          "authors": [],
+          "constructs": [
+            "_"
+          ],
+          "doi": "10.1017/s0003055425101147",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "방법 미상",
+          "method_detail": "초록 미제공",
+          "publication_date": "2026-10-28",
+          "stable_id": "doi:10.1017/s0003055425101147",
+          "summary_basis": "abstract",
+          "summary_ko": "이 자료는 연구 논문이 아니라 『American Political Science Review』 제120권 4호의 표지와 후면 수록물이다. 제공된 초록이 없어 연구 질문, 접근법, 주요 발견은 확인할 수 없다.",
+          "title": "PSR volume 120 issue 4 Cover and Back matter",
+          "topic_area": "분야 미상",
+          "url": "https://doi.org/10.1017/s0003055425101147"
+        },
+        {
+          "abstract": "//static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0003055425101135/resource/name/firstPage-pdf-S0003055425101135a.jpg",
+          "abstract_source": "Publisher",
+          "author_affiliations": {},
+          "authors": [],
+          "constructs": [
+            "Political Science"
+          ],
+          "doi": "10.1017/s0003055425101135",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "방법 미상",
+          "method_detail": "초록 미제공",
+          "publication_date": "2026-10-28",
+          "stable_id": "doi:10.1017/s0003055425101135",
+          "summary_basis": "abstract",
+          "summary_ko": "제공된 자료는 연구 초록이 아니라 『American Political Science Review』 120권 4호의 표지 및 앞부분으로, 연구 질문·접근법·주요 발견을 확인할 수 없다.",
+          "title": "PSR volume 120 issue 4 Cover and Front matter",
+          "topic_area": "분야 미상",
+          "url": "https://doi.org/10.1017/s0003055425101135"
+        },
+        {
+          "abstract": "Abstract The expansion of mixed-provider welfare systems has intensified debates about the consequences of public, nonprofit, and for-profit provision. Existing research focuses primarily on efficiency, service quality, and citizens' outcomes, while less is known about ownership conversions’ consequences for employees. We depart from research suggesting that ownership conversions can disrupt employee-organization value congruence as well as change the incentive structures. Leveraging population-wide administrative data from Norwegian childcare services (2015-2019), we examine whether ownership conversions are associated with changes in employee sickness absence. Using a staggered difference-in-differences design, we find that sickness absence increases following nonprofit-to-for-profit conversions. At the same time, public-to-for-profit transitions show little consistent relationship with sickness absence. These findings suggest that employee responses to ownership change are shaped less by the public-private divide than by differences in organizational missions and values. More broadly, the study highlights organizational value congruence as a potential mechanism linking ownership arrangements to employee well-being, and suggests that the nonprofit-for-profit boundary may be more consequential for employees than the conventional public-private divide.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Dag Arne Christensen": [
+              "NORCE Research AS , Bergen,"
+            ],
+            "Håvard Thorsen Rydland": [
+              "NORCE Research AS , Bergen,"
+            ]
+          },
+          "authors": [
+            "Håvard Thorsen Rydland",
+            "Dag Arne Christensen"
+          ],
+          "constructs": [
+            "Organizational Value Congruence",
+            "Employee Well-Being"
+          ],
+          "doi": "10.1093/jopart/muag036",
+          "journal": "Journal of Public Administration Research and Theory",
+          "journal_short": "JPART",
+          "method": "준실험",
+          "method_detail": "시차적 이중차분",
+          "publication_date": "2026-10-28",
+          "stable_id": "doi:10.1093/jopart/muag036",
+          "summary_basis": "abstract",
+          "summary_ko": "노르웨이 유아교육기관의 소유권 전환이 직원의 병가에 미치는 영향을 전국 행정자료와 시차적 이중차분 설계로 분석했다. 비영리에서 영리로 전환한 기관에서는 병가가 증가했지만, 공공에서 영리로 전환한 경우에는 일관된 관계가 거의 나타나지 않았다.",
+          "title": "Sick of change? Sickness absence following ownership conversions in Norwegian kindergartens",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1093/jopart/muag036"
+        },
+        {
+          "abstract": "Abstract Addressing the climate crisis is going to require behavioral change in many aspects of daily life. A growing literature suggests the promise of “warm glow” messaging that features the pleasure and satisfaction one experiences from acting sustainably. Yet previous research has relied almost exclusively on self‐reported behavioral intentions, leaving open whether such appeals meaningfully affect real‐world, costly choices. We partnered with a local organization to conduct a field experiment on energy choices in Hanover, New Hampshire. Using a randomized roll‐out design in early 2025, we systematically varied the timing of postcard mailers that contain a warm glow message encouraging customers to increase the renewable content of their energy option. Analyses of administrative data on consumer energy choices reveal that warm glow messages delivered in a field setting have a null effect on adoption of higher‐renewable power choices, with a small number of customers changing to the greener but more costly option. Our study provides novel behavioral evidence on the real‐world impact of intrinsic motivation appeals in the climate domain.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Hwayong Shin": [
+              "Weidenbaum Center on the Economy, Government, and Public Policy Washington University in St. Louis St. Louis Missouri USA"
+            ],
+            "Jason Barabas": [
+              "Department of Government Dartmouth College Hanover New Hampshire USA",
+              "Rockefeller Center for Public Policy Dartmouth College Hanover New Hampshire USA"
+            ],
+            "Jennifer Jerit": [
+              "Department of Government Dartmouth College Hanover New Hampshire USA"
+            ],
+            "Molly Gahagen": [
+              "Department of Politics Princeton University Princeton New Jersey USA"
+            ],
+            "Scott May": [
+              "Community Power Coalition of New Hampshire Concord New Hampshire USA"
+            ]
+          },
+          "authors": [
+            "Jennifer Jerit",
+            "Jason Barabas",
+            "Hwayong Shin",
+            "Molly Gahagen",
+            "Scott May"
+          ],
+          "constructs": [
+            "Warm Glow",
+            "Climate Mitigation"
+          ],
+          "doi": "10.1111/pops.70216",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "실험",
+          "method_detail": "현장 무작위실험",
+          "publication_date": "2026-10-27",
+          "stable_id": "doi:10.1111/pops.70216",
+          "summary_basis": "abstract",
+          "summary_ko": "실제 비용이 드는 소비자 에너지 선택에서 ‘따뜻한 감정(warm glow)’ 메시지가 재생에너지 비중이 높은 전력 상품의 선택에 영향을 미치는지 검토하기 위해, 뉴햄프셔주 하노버에서 엽서 발송 시점을 무작위로 배정하고 행정자료를 분석했다. 메시지는 더 친환경적이지만 비용이 높은 선택의 채택에 유의미한 영향을 미치지 않았으며, 소수의 고객만 해당 상품으로 변경했다.",
+          "title": "Do “warm glow” feelings affect climate mitigation behaviors? A field experiment on consumer electric energy choices",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70216"
+        },
+        {
+          "abstract": "Abstract Politics can substantially harm physical and mental health, especially in polarized contexts, making political polarization a major non‐medical cause of disease and suffering. We examined whether citizens can protect their health without undermining civic engagement. Across three studies with over 2000 participants during the 2022 U.S. midterms and 2024 presidential election, we show that interoceptive sensibility, that is, the ability to perceive and trust one's internal bodily signals, protects against politics' adverse health effects. Higher interoceptive sensibility consistently predicted lower emotional, physical, behavioral, and social health costs, controlling for political identity, demographics, and emotion regulation. During the charged 2024 election, it further predicted fewer negative emotions, more hope for the future, and less fear, particularly when their candidate lost. Interoceptive sensibility also correlated with political engagement and efficacy, suggesting it enhances rather than inhibits participation. Our findings highlight it as a promising trait for mitigating political stress without reducing civic involvement.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Manos Tsakiris": [
+              "Centre for the Politics of Feelings, School of Advanced Study University of London London UK",
+              "Department of Psychology Royal Holloway University of London Egham UK"
+            ],
+            "Mariana Von Mohr": [
+              "Centre for the Politics of Feelings, School of Advanced Study University of London London UK",
+              "Department of Psychology Royal Holloway University of London Egham UK",
+              "School of Psychology University of Kent Canterbury UK"
+            ]
+          },
+          "authors": [
+            "Mariana Von Mohr",
+            "Manos Tsakiris"
+          ],
+          "constructs": [
+            "Interoceptive Sensibility",
+            "Political Engagement"
+          ],
+          "doi": "10.1111/pops.70217",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "서베이",
+          "method_detail": "선거기간 설문",
+          "publication_date": "2026-10-28",
+          "stable_id": "doi:10.1111/pops.70217",
+          "summary_basis": "abstract",
+          "summary_ko": "2022년 미국 중간선거와 2024년 대통령선거 기간에 2,000명 이상을 대상으로 세 연구를 실시해, 내수용감각이 정치적 스트레스의 건강상 비용과 부정적 정서를 줄이는지 검토했다. 내수용감각이 높을수록 정서적·신체적·행동적·사회적 건강 비용이 낮았고, 정치적 참여와 효능감은 높았으며, 특히 지지 후보가 패배했을 때 미래에 대한 희망이 더 크고 두려움이 적었다.",
+          "title": "Feeling the body politic: Interoception as a mechanism of political stress resilience",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70217"
+        },
+        {
+          "abstract": "This timely book by Löfgren and Hall discusses a phenomenon that can be observed in the public sector of multiple Western countries: apparently unchecked growth of “organizational professionals” oc...",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Glenn Houtgraaf": [
+              "Erasmus University Rotterdam"
+            ]
+          },
+          "authors": [
+            "Glenn Houtgraaf"
+          ],
+          "constructs": [
+            "Organizational Professionals",
+            "Bureaucracy"
+          ],
+          "doi": "10.1080/01900692.2026.2725002",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "method": "이론/개념",
+          "method_detail": "개념적 논의",
+          "publication_date": "2026-09-07",
+          "stable_id": "doi:10.1080/01900692.2026.2725002",
+          "summary_basis": "abstract",
+          "summary_ko": "이 책은 여러 서구 국가의 공공부문에서 ‘조직 전문직(organizational professionals)’이 사실상 통제되지 않은 채 증가하는 현상을 다룬다.",
+          "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1080/01900692.2026.2725002"
+        },
+        {
+          "abstract": "Federal and state governments increasingly adopt collaborative governance as a policy instrument, using collaborative platforms to foster multiple local collaborations. While collaborative platforms provide design rules and resources to facilitate collaborations, it remains unclear whether they promote equitable distribution of outputs within local collaborations. This study examines how following collaborative platforms’ membership rules and support mechanisms shape power asymmetries and equitable distribution of benefits among participants. We focus on local disaster mitigation planning in Florida, where the Florida Division of Emergency Management serves as a state-level collaborative platform supporting local collaborative planning. Drawing on quantitative and qualitative data, we find that membership rules provide a foundation for initiating collaboration. Specifically, collaborative groups following rules recommending department representation with specialized knowledge are more likely to prioritize projects from smaller jurisdictions. In addition, including platform representatives to provide personnel support serves as an effective mechanism for ensuring equitable collaboration.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Heewon Lee": [
+              "University of Georgia"
+            ],
+            "Tian Tang": [
+              "Florida State University"
+            ]
+          },
+          "authors": [
+            "Heewon Lee",
+            "Tian Tang"
+          ],
+          "constructs": [
+            "Collaborative Governance",
+            "Power Asymmetry"
+          ],
+          "doi": "10.1080/14719037.2026.2748382",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "혼합방법론",
+          "method_detail": "순차 혼합",
+          "publication_date": "2026-10-14",
+          "stable_id": "doi:10.1080/14719037.2026.2748382",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 재난 완화 계획에서 협력 플랫폼의 회원 규칙과 지원 방식이 참여자 간 권력 비대칭과 편익의 공평한 분배에 어떤 영향을 미치는지 정량·정성 자료로 분석했다. 플로리다 사례에서 전문지식을 가진 부서 대표를 포함하라는 규칙은 소규모 관할구역의 사업을 우선시할 가능성을 높였고, 플랫폼 담당자의 인력 지원은 협력의 형평성을 보장하는 효과적인 장치로 나타났다.",
+          "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/14719037.2026.2748382"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -20780,7 +21041,22 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+    },
+    "doi:10.1002/pam.70138": {
+      "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [],
+        "doi": "10.1002/pam.70138",
+        "journal": "Journal of Policy Analysis and Management",
+        "journal_short": "JPAM",
+        "publication_date": "2026-10-27",
+        "stable_id": "doi:10.1002/pam.70138",
+        "title": "Issue Information",
+        "url": "https://doi.org/10.1002/pam.70138"
+      },
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -20801,7 +21077,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -20826,7 +21102,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -20861,7 +21137,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -20886,7 +21162,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -20907,53 +21183,82 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
-    "doi:10.1080/01900692.2026.2725002": {
-      "first_seen_at": "2026-09-07T16:26:29.885339+00:00",
+    "doi:10.1080/01900692.2026.2750357": {
+      "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
       "item": {
         "author_affiliations": {
-          "Glenn Houtgraaf": [
-            "Erasmus University Rotterdam"
+          "Seyed Mojtaba Moussavi Neghabi": [
+            "University of Gonabad"
+          ],
+          "Yousef Ramezani": [
+            "University of Gonabad"
           ]
         },
         "authors": [
-          "Glenn Houtgraaf"
+          "Yousef Ramezani",
+          "Seyed Mojtaba Moussavi Neghabi"
         ],
-        "doi": "10.1080/01900692.2026.2725002",
+        "doi": "10.1080/01900692.2026.2750357",
         "journal": "International Journal of Public Administration",
         "journal_short": "IJPA",
-        "publication_date": "2026-09-07",
-        "stable_id": "doi:10.1080/01900692.2026.2725002",
-        "title": "Karl Löfgren and Patrik Hall, The New Public Bureaucracy: The Expansion of Organisational Professionals in the Public Secto ,",
-        "url": "https://doi.org/10.1080/01900692.2026.2725002"
+        "publication_date": "2026-10-28",
+        "stable_id": "doi:10.1080/01900692.2026.2750357",
+        "title": "Toxic Managerialism in Public Organizations: A Thematic Network Analysis",
+        "url": "https://doi.org/10.1080/01900692.2026.2750357"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
-    "doi:10.1080/14719037.2026.2748382": {
-      "first_seen_at": "2026-10-15T11:24:26.713814+00:00",
+    "doi:10.1080/10584609.2026.2751954": {
+      "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
       "item": {
         "author_affiliations": {
-          "Heewon Lee": [
-            "University of Georgia"
+          "Ajit Phadnis": [
+            "Indian Institute of Management Indore"
           ],
-          "Tian Tang": [
-            "Florida State University"
+          "S. Sivanandham": [
+            "Indian Administrative Service, Finance Department, Government of Tamil Nadu, Chennai, India"
           ]
         },
         "authors": [
-          "Heewon Lee",
-          "Tian Tang"
+          "Ajit Phadnis",
+          "S. Sivanandham"
         ],
-        "doi": "10.1080/14719037.2026.2748382",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-10-14",
-        "stable_id": "doi:10.1080/14719037.2026.2748382",
-        "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
-        "url": "https://doi.org/10.1080/14719037.2026.2748382"
+        "doi": "10.1080/10584609.2026.2751954",
+        "journal": "Political Communication",
+        "journal_short": "PolComm",
+        "publication_date": "2026-10-27",
+        "stable_id": "doi:10.1080/10584609.2026.2751954",
+        "title": "The Effect of Broadcasting Parliamentary Proceedings on Legislative Disruption: Evidence from India",
+        "url": "https://doi.org/10.1080/10584609.2026.2751954"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+    },
+    "doi:10.1080/15309576.2026.2749342": {
+      "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
+      "item": {
+        "author_affiliations": {
+          "Aaron Deslatte": [
+            "Indiana University Bloomington"
+          ],
+          "Yunchen Zhu": [
+            "Indiana University Bloomington"
+          ]
+        },
+        "authors": [
+          "Aaron Deslatte",
+          "Yunchen Zhu"
+        ],
+        "doi": "10.1080/15309576.2026.2749342",
+        "journal": "Public Performance & Management Review",
+        "journal_short": "PPMR",
+        "publication_date": "2026-10-27",
+        "stable_id": "doi:10.1080/15309576.2026.2749342",
+        "title": "Feedback Control for Sustainability: Integrated Planning, Capabilities and Performance Management in Constrained Local Governments",
+        "url": "https://doi.org/10.1080/15309576.2026.2749342"
+      },
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -20978,7 +21283,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21003,7 +21308,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21024,7 +21329,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21045,7 +21350,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21074,7 +21379,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21103,7 +21408,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21128,7 +21433,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21149,7 +21454,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -21169,7 +21474,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -21186,7 +21491,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -21207,7 +21512,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -21224,7 +21529,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -21242,7 +21547,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -21262,7 +21567,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21279,7 +21584,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21297,7 +21602,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21316,7 +21621,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21334,7 +21639,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21353,7 +21658,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -21371,7 +21676,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -21388,7 +21693,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -21407,7 +21712,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -21425,7 +21730,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/744574": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -21442,7 +21747,7 @@
         "title": "The Left Misunderstood: How Voters’ Perceptions of What Matters to the Left Benefit the Right",
         "url": "https://doi.org/10.1086/744574"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -21460,7 +21765,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -21481,7 +21786,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21496,7 +21801,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -21511,7 +21816,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -21532,7 +21837,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -21547,7 +21852,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -21562,7 +21867,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-27T12:06:36.550371+00:00"
+      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
     }
   },
   "version": 1
