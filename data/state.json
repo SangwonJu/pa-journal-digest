@@ -21084,6 +21084,229 @@
       ],
       "sent_at": "2026-10-28T12:57:19.486861+00:00",
       "status": "sent"
+    },
+    "2026-10-29-81f7c19a2c681fd3": {
+      "created_at": "2026-10-29T12:55:50.323142+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-29-81f7c19a2c681fd3",
+      "items": [
+        {
+          "abstract": "The growing political divide between rural and urban regions is often attributed to rural deindustrialization and import competition in manufacturing. Yet this cleavage emerged in many countries well before rural industrialization, pointing to underlying economic forces that existing accounts have overlooked. We argue that comparative advantage in agriculture is one such force: rural voters are more likely to support protectionist parties and policies when local agriculture is uncompetitive, since this sector is often central to their communities’ economic and social life. Using a new harmonized dataset of surveys from 123 countries and extensive data on voting behavior in the European Union, we find strong support for our argument. An additional analysis exploiting exogenous subnational variation in agricultural competitiveness in the United States post-NAFTA further corroborates our findings: the political divide between rural and urban voters is pronounced in uncompetitive regions but negligible in those possessing a comparative advantage in agriculture.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "EDWARD D. MANSFIELD": [
+              "University of Pennsylvania"
+            ],
+            "OMER SOLODOCH": [
+              "Hebrew University of Jerusalem"
+            ]
+          },
+          "authors": [
+            "EDWARD D. MANSFIELD",
+            "OMER SOLODOCH"
+          ],
+          "constructs": [
+            "Comparative Advantage",
+            "Rural–Urban Divide"
+          ],
+          "doi": "10.1017/s0003055426102111",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "혼합방법론",
+          "method_detail": "국가간 설문·투표분석",
+          "publication_date": "2026-10-29",
+          "stable_id": "doi:10.1017/s0003055426102111",
+          "summary_basis": "abstract",
+          "summary_ko": "농촌·도시 간 정치적 분열이 지역 농업의 비교우위와 어떤 관련이 있는지 분석하고, 123개국 설문자료와 유럽연합 투표자료, 미국의 NAFTA 이후 지역별 외생적 변이를 활용해 검증했다. 농업의 경쟁력이 낮은 지역에서는 농촌 유권자가 보호주의 정당·정책을 더 지지해 농촌·도시 간 정치적 분열이 뚜렷하지만, 농업에 비교우위가 있는 지역에서는 그 분열이 거의 나타나지 않았다.",
+          "title": "Globalization and the Hinterland: International Trade and the Rural–Urban Divide",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1017/s0003055426102111"
+        },
+        {
+          "abstract": "This study explores how managerialist arrangements interact with organizational contexts to enable, legitimize, and reproduce toxic managerial behavior in public organizations. While research on toxic leadership has largely focused on individual traits and interpersonal dynamics, less attention has been paid to the structural and ideological conditions through which harmful managerial practices become accepted and sustained. Using an expert-informed qualitative interpretivist design, this study analyzes semi-structured interviews with 22 management experts through thematic network analysis. The findings identify four overarching themes: managerialism as a public-sector governing logic, manifestations of toxic managerial behavior, legitimation and reproduction of toxic managerial behavior, and erosion of human capital, service quality, and public trust. The findings suggest that managerialist arrangements may redefine competence through numerical achievement, prioritize upward accountability, legitimize harmful practices, and normalize authoritarian control and psychological pressure. The study advances toxic leadership research by highlighting organizational conditions beyond leader pathology.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Seyed Mojtaba Moussavi Neghabi": [
+              "University of Gonabad"
+            ],
+            "Yousef Ramezani": [
+              "University of Gonabad"
+            ]
+          },
+          "authors": [
+            "Yousef Ramezani",
+            "Seyed Mojtaba Moussavi Neghabi"
+          ],
+          "constructs": [
+            "Managerialism",
+            "Toxic Leadership"
+          ],
+          "doi": "10.1080/01900692.2026.2750357",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "method": "질적연구",
+          "method_detail": "주제 네트워크 분석",
+          "publication_date": "2026-10-28",
+          "stable_id": "doi:10.1080/01900692.2026.2750357",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 관리주의적 조직 arrangements가 공공조직에서 유해한 관리행동을 어떻게 가능하게 하고 정당화하며 재생산하는지 탐구했다. 22명의 관리 전문가를 대상으로 한 반구조화 인터뷰의 주제 네트워크 분석 결과, 관리주의가 수치 성과와 상향 책임을 우선시하고 권위주의적 통제와 심리적 압박을 정상화하여 인적 자본·서비스 질·공공신뢰를 약화시킬 수 있음이 나타났다.",
+          "title": "Toxic Managerialism in Public Organizations: A Thematic Network Analysis",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1080/01900692.2026.2750357"
+        },
+        {
+          "abstract": "ABSTRACT Meritocratic recruitment is a central tenet in Weber's theory of bureaucracy, which states that employees should be hired based on merit. However, extensive research has shown evidence of hiring discrimination against minorities, breaking with basic principles in bureaucratic selection. This paper examines whether ethnic and racial minorities are discriminated against when bureaucratic organizations use civil service exams to assess candidates' merit and fitness for positions. Drawing on data from the local government of New York City and a candidate list fixed effects approach, we find that Black and Hispanic candidates are slightly more likely to be hired than White candidates with similar exam scores, suggesting that these ethnic minorities hold a small advantage in bureaucratic selection. However, examining the starting compensation levels of new hires, we show that minorities are hired at lower salaries and are compensated less for high exam scores than comparable White hires. Our findings suggest that civil service exams might be an important lever for securing fair and unbiased bureaucratic selection but also that they do not prevent discrimination in later steps of the recruitment process.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Jens Lemb": [
+              "Independent Researcher"
+            ],
+            "Thorbjørn Sejr Guul": [
+              "University of Southern Denmark Odense Denmark"
+            ]
+          },
+          "authors": [
+            "Thorbjørn Sejr Guul",
+            "Jens Lemb"
+          ],
+          "constructs": [
+            "bureaucracy",
+            "Meritocracy"
+          ],
+          "doi": "10.1002/pam.70137",
+          "journal": "Journal of Policy Analysis and Management",
+          "journal_short": "JPAM",
+          "method": "준실험",
+          "method_detail": "후보자 고정효과",
+          "publication_date": "2026-10-28",
+          "stable_id": "doi:10.1002/pam.70137",
+          "summary_basis": "abstract",
+          "summary_ko": "뉴욕시 지방정부 자료와 후보자 명부 고정효과 분석을 통해, 유사한 시험점수의 흑인·히스패닉 지원자는 백인보다 약간 더 채용될 가능성이 높지만, 신규 채용 시 초임이 더 낮고 높은 시험점수에 대한 보상도 적다는 점을 보였다.",
+          "title": "Discrimination in Bureaucratic Recruitment Under Civil Service Exams",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1002/pam.70137"
+        },
+        {
+          "abstract": "Can broadcasting parliamentary proceedings encourage more responsible legislative behavior? Existing theories remain divided on whether increasing transparency through visual media enhances parliamentary functioning or, conversely, promotes grandstanding and protests. This paper examines the effects of televising the proceedings of the Indian parliament on legislative disruption – behavior that violates chamber rules. Although broadcasting was introduced to enhance transparency, multi-method evidence from 1,590 parliamentary sittings shows that the shift from print coverage to live visual broadcasting increased disruption. Original data further support the proposed mechanism: broadcasting redirected legislators’ incentives away from intra-legislative signaling and toward extra-legislative position-taking, fostering voter-oriented and sustained disruption. These findings contribute to broader debates on the effects of political communication technologies, showing that transparency reforms, while well-intentioned, can undermine institutional performance. The results suggest that decisions to broadcast parliamentary proceedings must be calibrated to the legislative context.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Ajit Phadnis": [
+              "Indian Institute of Management Indore"
+            ],
+            "S. Sivanandham": [
+              "Indian Administrative Service, Finance Department, Government of Tamil Nadu, Chennai, India"
+            ]
+          },
+          "authors": [
+            "Ajit Phadnis",
+            "S. Sivanandham"
+          ],
+          "constructs": [
+            "Transparency",
+            "Political Communication"
+          ],
+          "doi": "10.1080/10584609.2026.2751954",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "method": "혼합방법론",
+          "method_detail": "다방법 분석",
+          "publication_date": "2026-10-27",
+          "stable_id": "doi:10.1080/10584609.2026.2751954",
+          "summary_basis": "abstract",
+          "summary_ko": "인도 의회 의사 중계방송이 의회 규칙을 위반하는 입법 방해를 증가시키는지, 1,590회 회의에 대한 다방법 분석과 추가 원자료를 통해 검토했다. 방송 도입 이후 의원들의 신호 전략이 의회 내부에서 유권자 대상 입장 표명으로 이동하면서, 유권자 지향적이고 지속적인 방해가 증가한 것으로 나타났다.",
+          "title": "The Effect of Broadcasting Parliamentary Proceedings on Legislative Disruption: Evidence from India",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1080/10584609.2026.2751954"
+        },
+        {
+          "abstract": "ABSTRACT The political fictions used in political discourse, during the English Civil War period, remain relevant to contemporary public policy and administration. Mainstream public administration discourse has too often employed the fiction of a singular and unbounded popular sovereignty that emerged during this period, leaving public administration ill‐equipped to deal with the authoritarian impulses of contemporary populist governments. What is needed in public administration discourse, in dealing with these authoritarian impulses, is not an ethic of administrative neutrality, such as has traditionally dominated much of our field, but an ethic of constitutionalism that draws on the fiction of the individual that was also articulated during the English Civil War period by the English Levellers and subsequently by the founders of the American Constitution.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Michael W. Spicer": [
+              "Cleveland State University Cleveland Ohio USA"
+            ]
+          },
+          "authors": [
+            "Michael W. Spicer"
+          ],
+          "constructs": [
+            "Constitutionalism",
+            "Popular Sovereignty"
+          ],
+          "doi": "10.1111/puar.70230",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "이론/개념",
+          "method_detail": "역사적 개념 분석",
+          "publication_date": "2026-10-28",
+          "stable_id": "doi:10.1111/puar.70230",
+          "summary_basis": "abstract",
+          "summary_ko": "영국 내전기 정치 담론의 ‘정치적 허구’가 오늘날 포퓰리즘과 권위주의적 충동에 대응하는 행정·민주주의 담론에 어떤 함의를 갖는지를 개념적으로 논의한다. 단일하고 무제한적인 인민주권이라는 허구는 행정을 권위주의에 취약하게 만들며, 행정적 중립성보다 개인의 권리와 헌정주의에 기반한 윤리가 필요하다고 주장한다.",
+          "title": "Dueling Political Fictions and Public Administration and Democracy in an Era of Populism and Authoritarian Impulses",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1111/puar.70230"
+        },
+        {
+          "abstract": "Abstract Interviewer gender has been shown to affect responses to survey questions on gender attitudes and norms, but does its influence vary across groups with different migration backgrounds? I study this question using the Between Origin and Destination (BOnD) survey, conducted in Lombardy, Italy, between 2024 and 2025. Consistent with gender-of-interviewer effects, a type of social desirability bias, female interviewers elicit more progressive responses on a summary index of gender norms and on an index of the acceptability of homosexuality, abortion, divorce, casual sex, and premarital sex. The effect is concentrated among natives and second-generation individuals; first-generation immigrants show little response to interviewer gender. One possible explanation is that social desirability pressure from a female interviewer operates through host-country social norms: Individuals more embedded in the Italian normative context are more responsive to cues from a female interviewer. These findings have implications for the design of surveys administered to mixed native-immigrant populations.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Christina Sarah Hauser": [
+              "School of Economics, University College Dublin, Ireland; and Research Fellow, UCD Geary Institute for Public Policy Assistant Professor, , Dublin,"
+            ]
+          },
+          "authors": [
+            "Christina Sarah Hauser"
+          ],
+          "constructs": [
+            "Social Desirability",
+            "Gender Norms"
+          ],
+          "doi": "10.1093/poq/nfag072",
+          "journal": "Public Opinion Quarterly",
+          "journal_short": "POQ",
+          "method": "서베이",
+          "method_detail": "횡단 설문",
+          "publication_date": "2026-10-28",
+          "stable_id": "doi:10.1093/poq/nfag072",
+          "summary_basis": "abstract",
+          "summary_ko": "이탈리아 롬바르디아에서 실시한 BOnD 설문을 활용해 이주 배경에 따라 면접자 성별이 성 규범과 동성애·낙태·이혼 등의 수용성 응답에 미치는 영향이 달라지는지 분석했다. 여성 면접자는 더 진보적인 응답을 이끌었으며 그 효과는 내국인과 2세대 이주민에게 집중되고 1세대 이주민에게서는 거의 나타나지 않았다.",
+          "title": "Do Gender-of-Interviewer Effects Differ Across Immigrant Generations? Survey Evidence from Italy",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1093/poq/nfag072"
+        },
+        {
+          "abstract": "Local governments worldwide are increasingly experiencing the impacts of extreme climate events such as flooding, drought and wildfires. This has created a growing impetus on the part of public administrators to better assess and address the sustainability of the infrastructures which support public goods or services. This study investigates efforts to integrate local government sustainability-related planning, capabilities and performance information use as a means of regulatory feedback control. Our primary research objective is to better understand how and why constrained, smaller governments enhance the types of feedback they process in the Anthropocene. Drawing from a unique dataset of text, environmental and survey data from municipalities in the U.S. state of Indiana, we find greater exploratory information-gathering in comprehensive land-use and capital planning, and greater financial investment in sustainability efforts, are positively associated with sustainability-related performance information use. We find no linkage between sustainability-focused economic development planning, dedicated administrative capacity and performance use, indicative of the resource-constraints and challenges in adapting existing processes and capacities for ambiguous threats.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Aaron Deslatte": [
+              "Indiana University Bloomington"
+            ],
+            "Yunchen Zhu": [
+              "Indiana University Bloomington"
+            ]
+          },
+          "authors": [
+            "Aaron Deslatte",
+            "Yunchen Zhu"
+          ],
+          "constructs": [
+            "Feedback Control",
+            "Performance Information Use"
+          ],
+          "doi": "10.1080/15309576.2026.2749342",
+          "journal": "Public Performance & Management Review",
+          "journal_short": "PPMR",
+          "method": "혼합방법론",
+          "method_detail": "순차 혼합",
+          "publication_date": "2026-10-27",
+          "stable_id": "doi:10.1080/15309576.2026.2749342",
+          "summary_basis": "abstract",
+          "summary_ko": "미국 인디애나주의 지방자치단체를 대상으로 텍스트·환경·설문 자료를 활용해, 지속가능성 관련 계획·역량·성과정보 이용의 통합이 어떻게 규제적 피드백 통제로 작동하는지 분석했다. 종합 토지이용·자본계획에서의 탐색적 정보수집과 지속가능성에 대한 재정투자는 성과정보 이용과 양의 관련이 있었지만, 지속가능성 중심 경제개발계획 및 전담 행정역량과의 연계는 나타나지 않았다.",
+          "title": "Feedback Control for Sustainability: Integrated Planning, Capabilities and Performance Management in Constrained Local Governments",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1080/15309576.2026.2749342"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -21106,7 +21329,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -21121,7 +21344,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -21142,7 +21365,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -21167,7 +21390,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -21202,7 +21425,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -21227,7 +21450,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -21248,82 +21471,40 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
-    "doi:10.1080/01900692.2026.2750357": {
-      "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
+    "doi:10.1080/15309576.2026.2752096": {
+      "first_seen_at": "2026-10-29T12:55:50.323142+00:00",
       "item": {
         "author_affiliations": {
-          "Seyed Mojtaba Moussavi Neghabi": [
-            "University of Gonabad"
+          "Hulugalla Niranjala": [
+            "Ritsumeikan University"
           ],
-          "Yousef Ramezani": [
-            "University of Gonabad"
+          "Kyohei Yamada": [
+            "International University of Japan"
+          ],
+          "Mai Seki": [
+            "Gakushuin University"
+          ],
+          "Makoto Kakinaka": [
+            "Ritsumeikan University"
           ]
         },
         "authors": [
-          "Yousef Ramezani",
-          "Seyed Mojtaba Moussavi Neghabi"
+          "Hulugalla Niranjala",
+          "Mai Seki",
+          "Kyohei Yamada",
+          "Makoto Kakinaka"
         ],
-        "doi": "10.1080/01900692.2026.2750357",
-        "journal": "International Journal of Public Administration",
-        "journal_short": "IJPA",
-        "publication_date": "2026-10-28",
-        "stable_id": "doi:10.1080/01900692.2026.2750357",
-        "title": "Toxic Managerialism in Public Organizations: A Thematic Network Analysis",
-        "url": "https://doi.org/10.1080/01900692.2026.2750357"
-      },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
-    },
-    "doi:10.1080/10584609.2026.2751954": {
-      "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
-      "item": {
-        "author_affiliations": {
-          "Ajit Phadnis": [
-            "Indian Institute of Management Indore"
-          ],
-          "S. Sivanandham": [
-            "Indian Administrative Service, Finance Department, Government of Tamil Nadu, Chennai, India"
-          ]
-        },
-        "authors": [
-          "Ajit Phadnis",
-          "S. Sivanandham"
-        ],
-        "doi": "10.1080/10584609.2026.2751954",
-        "journal": "Political Communication",
-        "journal_short": "PolComm",
-        "publication_date": "2026-10-27",
-        "stable_id": "doi:10.1080/10584609.2026.2751954",
-        "title": "The Effect of Broadcasting Parliamentary Proceedings on Legislative Disruption: Evidence from India",
-        "url": "https://doi.org/10.1080/10584609.2026.2751954"
-      },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
-    },
-    "doi:10.1080/15309576.2026.2749342": {
-      "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
-      "item": {
-        "author_affiliations": {
-          "Aaron Deslatte": [
-            "Indiana University Bloomington"
-          ],
-          "Yunchen Zhu": [
-            "Indiana University Bloomington"
-          ]
-        },
-        "authors": [
-          "Aaron Deslatte",
-          "Yunchen Zhu"
-        ],
-        "doi": "10.1080/15309576.2026.2749342",
+        "doi": "10.1080/15309576.2026.2752096",
         "journal": "Public Performance & Management Review",
         "journal_short": "PPMR",
-        "publication_date": "2026-10-27",
-        "stable_id": "doi:10.1080/15309576.2026.2749342",
-        "title": "Feedback Control for Sustainability: Integrated Planning, Capabilities and Performance Management in Constrained Local Governments",
-        "url": "https://doi.org/10.1080/15309576.2026.2749342"
+        "publication_date": "2026-10-29",
+        "stable_id": "doi:10.1080/15309576.2026.2752096",
+        "title": "Assessing Villagers’ Preferences of Gender-Stereotypic Leaders in Village Development Programs: The Case of Rural Sri Lanka",
+        "url": "https://doi.org/10.1080/15309576.2026.2752096"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21348,7 +21529,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21373,7 +21554,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21394,7 +21575,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21415,7 +21596,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21444,7 +21625,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21473,7 +21654,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21498,7 +21679,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21519,7 +21700,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -21539,7 +21720,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -21556,7 +21737,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -21577,7 +21758,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -21594,7 +21775,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -21612,7 +21793,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -21632,7 +21813,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21649,7 +21830,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21667,7 +21848,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21686,7 +21867,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21704,7 +21885,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21723,7 +21904,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -21741,7 +21922,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -21758,7 +21939,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -21777,7 +21958,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -21795,7 +21976,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/744574": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -21812,7 +21993,7 @@
         "title": "The Left Misunderstood: How Voters’ Perceptions of What Matters to the Left Benefit the Right",
         "url": "https://doi.org/10.1086/744574"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -21830,7 +22011,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -21851,7 +22032,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21866,7 +22047,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -21881,7 +22062,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -21902,7 +22083,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -21917,7 +22098,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -21932,7 +22113,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-28T12:48:28.930203+00:00"
+      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
     }
   },
   "version": 1
