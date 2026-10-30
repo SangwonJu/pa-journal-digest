@@ -16,6 +16,14 @@
       "sent_at": "2026-09-03T15:05:53.210352+00:00",
       "title": "Administrative Burden and the Access–Fraud Trade‐Off"
     },
+    "doi:10.1002/pam.70129": {
+      "batch_id": "2026-10-30-913d9baa4de78daf",
+      "doi": "10.1002/pam.70129",
+      "journal": "Journal of Policy Analysis and Management",
+      "publication_date": "2026-10-30",
+      "sent_at": "2026-10-30T12:57:46.401127+00:00",
+      "title": "An Informational Letter From the Federal Government Increases Naturalization Submissions"
+    },
     "doi:10.1002/pam.70134": {
       "batch_id": "2026-10-15-53ff636cf819e984",
       "doi": "10.1002/pam.70134",
@@ -199,6 +207,14 @@
       "publication_date": "2026-10-15",
       "sent_at": "2026-10-15T11:32:38.992812+00:00",
       "title": "Voice After Exit: the Prioritization of Homeland-Facing Foreign Policy Among the Hong Kong Diaspora"
+    },
+    "doi:10.1007/s11109-026-10208-w": {
+      "batch_id": "2026-10-30-913d9baa4de78daf",
+      "doi": "10.1007/s11109-026-10208-w",
+      "journal": "Political Behavior",
+      "publication_date": "2026-10-30",
+      "sent_at": "2026-10-30T12:57:46.401127+00:00",
+      "title": "Distinction Without a Difference: American Public Opinion on Immigrants and Refugees"
     },
     "doi:10.1007/s11109-026-10209-9": {
       "batch_id": "2026-10-06-5276ba1beeee03e4",
@@ -480,6 +496,14 @@
       "sent_at": "2026-10-08T13:32:22.735438+00:00",
       "title": "When Can Clientelism Serve Democratic Ends? A Democratic Theory of Distributive Politics"
     },
+    "doi:10.1017/s000305542610183x": {
+      "batch_id": "2026-10-30-913d9baa4de78daf",
+      "doi": "10.1017/s000305542610183x",
+      "journal": "American Political Science Review",
+      "publication_date": "2026-10-30",
+      "sent_at": "2026-10-30T12:57:46.401127+00:00",
+      "title": "Councils and Indirect Rule in British Africa"
+    },
     "doi:10.1017/s0003055426101841": {
       "batch_id": "2026-09-01-1560b88b8d2d7127",
       "doi": "10.1017/s0003055426101841",
@@ -495,6 +519,14 @@
       "publication_date": "2026-09-01",
       "sent_at": "2026-09-01T15:35:08.163995+00:00",
       "title": "Are Voters Myopic or Looking for Improvement?"
+    },
+    "doi:10.1017/s0003055426101865": {
+      "batch_id": "2026-10-30-913d9baa4de78daf",
+      "doi": "10.1017/s0003055426101865",
+      "journal": "American Political Science Review",
+      "publication_date": "2026-10-30",
+      "sent_at": "2026-10-30T12:57:46.401127+00:00",
+      "title": "When Business Speaks, Legislators Listen: Experimental and Qualitative Evidence from Brazil"
     },
     "doi:10.1017/s0003055426101877": {
       "batch_id": "2026-09-26-a3eb08fa8cf14287",
@@ -567,6 +599,14 @@
       "publication_date": "2026-08-10",
       "sent_at": "2026-08-10T13:57:29.002543+00:00",
       "title": "Instrumentally Inclusive: The Political Psychology of Homonationalism – CORRIGENDUM"
+    },
+    "doi:10.1017/s0003055426101981": {
+      "batch_id": "2026-10-30-913d9baa4de78daf",
+      "doi": "10.1017/s0003055426101981",
+      "journal": "American Political Science Review",
+      "publication_date": "2026-10-30",
+      "sent_at": "2026-10-30T12:57:46.401127+00:00",
+      "title": "Trade Interdependence in the Modern Global Economy"
     },
     "doi:10.1017/s0003055426102007": {
       "batch_id": "2026-10-06-5276ba1beeee03e4",
@@ -2056,6 +2096,14 @@
       "sent_at": "2026-10-28T12:57:19.486861+00:00",
       "title": "Sick of change? Sickness absence following ownership conversions in Norwegian kindergartens"
     },
+    "doi:10.1093/jopart/muag038": {
+      "batch_id": "2026-10-30-913d9baa4de78daf",
+      "doi": "10.1093/jopart/muag038",
+      "journal": "Journal of Public Administration Research and Theory",
+      "publication_date": "2026-10-29",
+      "sent_at": "2026-10-30T12:57:46.401127+00:00",
+      "title": "Every Mile Counts: Geographical Distance as Administrative Burden in Intellectual Property Services"
+    },
     "doi:10.1093/poq/nfag060": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
       "doi": "10.1093/poq/nfag060",
@@ -2111,6 +2159,14 @@
       "publication_date": "2026-10-21",
       "sent_at": "2026-10-22T11:55:59.639147+00:00",
       "title": "How the Public Makes Sense of Gender Politics: Textual, Emotional, and Symbolic Dimensions"
+    },
+    "doi:10.1093/poq/nfag069": {
+      "batch_id": "2026-10-30-913d9baa4de78daf",
+      "doi": "10.1093/poq/nfag069",
+      "journal": "Public Opinion Quarterly",
+      "publication_date": "2026-10-29",
+      "sent_at": "2026-10-30T12:57:46.401127+00:00",
+      "title": "Investigating the Utility of LLM-Based “Silicon Samples” in Political Science Conjoint Experiments"
     },
     "doi:10.1093/poq/nfag072": {
       "batch_id": "2026-10-29-81f7c19a2c681fd3",
@@ -21599,7 +21655,8 @@
           "url": "https://doi.org/10.1093/poq/nfag069"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-30T12:57:46.401127+00:00",
+      "status": "sent"
     }
   },
   "pending": {
