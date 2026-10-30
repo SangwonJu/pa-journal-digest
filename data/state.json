@@ -21364,6 +21364,242 @@
       ],
       "sent_at": "2026-10-29T13:06:15.690690+00:00",
       "status": "sent"
+    },
+    "2026-10-30-913d9baa4de78daf": {
+      "created_at": "2026-10-30T12:49:32.777716+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-30-913d9baa4de78daf",
+      "items": [
+        {
+          "abstract": "Did Western colonial rule transform African political institutions? Despite extensive research on indirect rule, we have little systematic evidence about how colonizers’ aims interacted with the structure of indigenous institutions to shape local governance. We explain why colonizers faced incentives to delegate authority to traditionally legitimate institutions, even in historically decentralized areas. Empirically, we analyze originally compiled data on African political institutions in the precolonial and colonial periods for more than 450 subnational units across British Africa. We focus on councils as a form of executive constraints. Subnational councils were widespread, exhibited strong correlations with precolonial institutions and patterns of socioeconomic development, and exerted meaningful decision-making powers. These indirect-rule institutions reflected reforms to replace ineffective installed agents. Pressure from below prompted British officials to reintroduce systems of executive constraints based on precolonial models. Our findings reject widespread claims that colonizers could unilaterally implement indirect-rule institutions while disregarding precolonial precedents.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "JACK PAINE": [
+              "Emory University"
+            ],
+            "JAMES A. ROBINSON": [
+              "University of Chicago"
+            ],
+            "JENNIFER KÖHLER": [
+              "London School of Economics and Political Science"
+            ],
+            "JUTTA BOLT": [
+              "University of Groningen"
+            ],
+            "LEIGH GARDNER": [
+              "London School of Economics and Political Science"
+            ]
+          },
+          "authors": [
+            "JUTTA BOLT",
+            "LEIGH GARDNER",
+            "JENNIFER KÖHLER",
+            "JACK PAINE",
+            "JAMES A. ROBINSON"
+          ],
+          "constructs": [
+            "Indirect Rule",
+            "Executive Constraints"
+          ],
+          "doi": "10.1017/s000305542610183x",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "질적연구",
+          "method_detail": "비교 사례 분석",
+          "publication_date": "2026-10-30",
+          "stable_id": "doi:10.1017/s000305542610183x",
+          "summary_basis": "abstract",
+          "summary_ko": "영국령 아프리카에서 식민 통치가 토착 정치제도와 어떻게 상호작용해 지방 거버넌스를 형성했는지를 묻고, 식민지 이전·식민지 시기의 450개 이상 하위지역 정치제도 자료를 분석했다. 집행부 제약의 한 형태인 지방의회는 토착 제도 및 사회경제적 발전과 강하게 연관되었고 실질적 의사결정 권한을 행사했으며, 영국 관리들이 비효율적인 임명 대리인을 대체하고 아래로부터의 압력에 대응하는 과정에서 식민지 이전 모델에 기반해 재도입한 것으로 나타났다.",
+          "title": "Councils and Indirect Rule in British Africa",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1017/s000305542610183x"
+        },
+        {
+          "abstract": "Analyzing global trade interdependence requires an approach that incorporates fundamental features of the modern economy: intense trade in intermediates and the changing availability of alternative partners and substitute products. We use theoretical models of structural gravity to construct measures of dyadic dependence that directly incorporate these features. The measures describe (1) how much trade interruptions damage a country’s welfare and (2) how much additional trade it would take from their existing trade partners to compensate. We then show three important findings. First, the new measures differ from traditional measures based on aggregate trade statistics. Second, they show how, contrary to much common wisdom, the world has not marched inexorably toward greater interdependence. Third, we use China’s foreign assistance, as exemplified by the Belt and Road Initiative, to assess the consequences of one major government policy. Chinese assistance has increased partners’ dependence on China, without a reciprocal increase in Chinese dependence.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "MICHAEL-DAVID MANGINI": [
+              "University of Southern California"
+            ],
+            "STEPHEN CHAUDOIN": [
+              "Harvard University"
+            ]
+          },
+          "authors": [
+            "MICHAEL-DAVID MANGINI",
+            "STEPHEN CHAUDOIN"
+          ],
+          "constructs": [
+            "Trade Interdependence",
+            "Structural Gravity"
+          ],
+          "doi": "10.1017/s0003055426101981",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "이론/개념",
+          "method_detail": "구조적 중력모형",
+          "publication_date": "2026-10-30",
+          "stable_id": "doi:10.1017/s0003055426101981",
+          "summary_basis": "abstract",
+          "summary_ko": "현대 경제의 중간재 교역과 대체 거래상대·상품의 가용성을 반영하는 구조적 중력모형으로 양자 간 무역 의존도를 측정하고, 무역 중단에 따른 복지 손실과 기존 상대국으로부터의 보상 필요 교역량을 분석했다. 새로운 지표는 전통적 총무역 지표와 다르며 세계가 지속적으로 상호의존성을 높여 온 것은 아님을 보이고, 중국의 대외원조는 중국에 대한 수원국의 의존도를 높였지만 중국의 상호 의존도는 높이지 않았다고 분석했다.",
+          "title": "Trade Interdependence in the Modern Global Economy",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1017/s0003055426101981"
+        },
+        {
+          "abstract": "The influence of interest groups on policy making is a central concern in representative democracies, yet identifying causal effects remains a significant challenge. This article argues that legislators respond to informational cues about the economic importance and coalition breadth of interest groups. A field experiment in Brazil, which randomized the receipt of printed and WhatsApp messages from a pro-reform business organization, reveals that legislators are more likely to vote in favor of the group’s position when its membership size, economic importance, and sectoral reach are emphasized. A survey experiment with lobbyists supports this mechanism, showing that messages highlighting group characteristics increase legislators’ expected engagement and support. In-depth interviews with key political figures—including a former president, ministers, and deputies—further corroborate these findings. This study contributes to the literature on informational lobbying and cue-based persuasion by employing realistic experimental treatments and mixed-methods evidence.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "FERNANDO B. MELLO": [
+              "University Carlos III Madrid"
+            ]
+          },
+          "authors": [
+            "FERNANDO B. MELLO"
+          ],
+          "constructs": [
+            "Informational Lobbying",
+            "Cue-Based Persuasion"
+          ],
+          "doi": "10.1017/s0003055426101865",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "혼합방법론",
+          "method_detail": "순차 혼합",
+          "publication_date": "2026-10-30",
+          "stable_id": "doi:10.1017/s0003055426101865",
+          "summary_basis": "abstract",
+          "summary_ko": "브라질의 현장실험, 로비스트 대상 설문실험, 정치 엘리트 심층 인터뷰를 결합해, 이익집단의 경제적 중요성·회원 규모·연합 범위에 관한 정보가 의원들의 지지와 투표에 미치는 영향을 분석했다. 이러한 특성을 강조한 메시지를 받은 의원일수록 해당 집단의 입장을 지지할 가능성이 높았으며, 설문실험과 인터뷰도 이 정보 단서의 설득 효과를 뒷받침했다.",
+          "title": "When Business Speaks, Legislators Listen: Experimental and Qualitative Evidence from Brazil",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1017/s0003055426101865"
+        },
+        {
+          "abstract": "ABSTRACT Citizenship offers enhanced opportunities for immigrants, but the complex naturalization process can be a barrier. We evaluate a preregistered, large‐scale randomized trial that tested the impact of a low‐cost letter that combined informational content with active encouragement from the United States Citizenship and Immigration Services (USCIS) to potentially eligible Lawful Permanent Residents (LPRs) to apply for naturalization. Within a nationwide population of 1,861,178 individuals in LPR status for 6 to 9 years, we find that the letter increased naturalization applications by 1 percentage point (12%). This increase was positive across all groups tested, though the effects were larger for families in higher income zip codes and those who did not submit the fee waiver application, suggesting that financial and time constraints, along with administrative burdens, play a role in naturalization submission rates.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Amanda Girard": [
+              "Federation of American Scientists Queensbury New York USA"
+            ],
+            "Elisa Cascardi": [
+              "Stanford University Stanford California USA"
+            ],
+            "Oded Gurantz": [
+              "University of Colorado ‐ Boulder Boulder Colorado USA"
+            ],
+            "Sofia Avila": [
+              "Princeton University Princeton New Jersey USA"
+            ],
+            "Tomás R. Jiménez": [
+              "Stanford University Stanford California USA"
+            ]
+          },
+          "authors": [
+            "Oded Gurantz",
+            "Amanda Girard",
+            "Elisa Cascardi",
+            "Sofia Avila",
+            "Tomás R. Jiménez"
+          ],
+          "constructs": [
+            "Administrative Burden",
+            "Active Encouragement"
+          ],
+          "doi": "10.1002/pam.70129",
+          "journal": "Journal of Policy Analysis and Management",
+          "journal_short": "JPAM",
+          "method": "실험",
+          "method_detail": "무작위 대조 실험",
+          "publication_date": "2026-10-30",
+          "stable_id": "doi:10.1002/pam.70129",
+          "summary_basis": "abstract",
+          "summary_ko": "미국 시민권 취득 자격 가능성이 있는 영주권자에게 미국 이민국(USCIS)이 정보와 적극적 권유를 담은 편지를 보내는 것이 귀화 신청을 늘리는지, 전국 186만 1,178명을 대상으로 사전등록된 대규모 무작위 실험으로 평가했다. 편지는 귀화 신청을 1%포인트(12%) 증가시켰으며, 효과는 모든 집단에서 나타났지만 고소득 지역 거주자와 수수료 면제 신청서를 제출하지 않은 사람들에게 더 컸다.",
+          "title": "An Informational Letter From the Federal Government Increases Naturalization Submissions",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1002/pam.70129"
+        },
+        {
+          "abstract": "Abstract While existing research has examined procedural and informational sources of administrative burden, this paper examines how organizational design choices about the geographic location of administrative authority institutionalize spatial burdens on firms. We leverage China's decentralization reform in trademark registration services as a natural experiment to test this theory. This reform reduced geographic distance by establishing local acceptance windows across the country from 2016 to 2019. Prior to this reform, trademark applications had to be submitted exclusively at the centralized Beijing office, imposing substantial geographic barriers on firms nationwide. Using a unique dataset covering over 37 million trademark applications from 294 Chinese cities, we employ a staggered difference-in-differences approach to estimate the causal effects of reduced geographic distance on trademark filings. We find that establishing local acceptance windows increased trademark applications by approximately 4.4 percent, or roughly 209,000 additional filings in 2019 alone. Moreover, the reform generated compound distributional outcomes: small and medium-sized enterprises responded more strongly than larger firms, and the new applicants drawn into the trademark system were concentrated in cities with thinner infrastructure. Mechanism analysis confirms that this increase is primarily driven by distance reduction rather than improvements in administrative efficiency or reductions in corruption. The findings provide large-scale causal evidence on the behavioral consequences of redistributing administrative service delivery across space, demonstrating that physical accessibility remains crucial for equitable service uptake even amid the digital transformation of administrative services.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Shenghua Lu": [
+              "Zhejiang University Assistant Professor, School of Public Affairs,"
+            ]
+          },
+          "authors": [
+            "Shenghua Lu"
+          ],
+          "constructs": [
+            "Administrative Burden",
+            "Geographic Accessibility"
+          ],
+          "doi": "10.1093/jopart/muag038",
+          "journal": "Journal of Public Administration Research and Theory",
+          "journal_short": "JPART",
+          "method": "준실험",
+          "method_detail": "시차적 이중차분",
+          "publication_date": "2026-10-29",
+          "stable_id": "doi:10.1093/jopart/muag038",
+          "summary_basis": "abstract",
+          "summary_ko": "중국의 상표등록 서비스를 대상으로 지리적 거리가 행정부담으로 작용하는지 검증하기 위해, 2016~2019년 지역 접수창구 도입을 활용한 시차적 이중차분 분석을 실시했다. 지역 접수창구는 상표출원을 약 4.4% 증가시켰으며, 효과는 대기업보다 중소기업에서 크고 기반시설이 취약한 도시에 새로 유입된 신청자에게 집중되어, 증가는 행정 효율성이나 부패 감소보다 거리 축소에 기인한 것으로 나타났다.",
+          "title": "Every Mile Counts: Geographical Distance as Administrative Burden in Intellectual Property Services",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1093/jopart/muag038"
+        },
+        {
+          "abstract": "Abstract Do Americans hold refugees in higher regard than immigrants? If so, why? We theorize that refugees activate humanitarian concerns and perceptions of deservingness, while immigrants trigger threat perceptions and competition, leading to divergent mental associations toward each group. We investigate these questions with a nationally representative online survey experiment fielded in 2024 that contrasts Americans’ attitudes toward refugees and immigrants using both open- and close-ended questions. Open-ended mentions reveal that refugees trigger themes of involuntariness, conflict, and humanitarianism, while immigrants elicit themes of domestic politics, fairness, and threat. Close-ended responses indicate that Americans view immigrants as more competent and more agentic than refugees, and they associate refugees and immigrants with different reasons for coming to the United States. Despite these differences in beliefs, respondents report no significant differences on warmth stereotypes, group affect, or policy preferences. Thus, while Americans do possess some divergent beliefs about refugees and immigrants, ultimately these are distinctions without a difference when it comes to group affect and policy opinions.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {},
+          "authors": [
+            "Alexander Tripp",
+            "Cindy D. Kam"
+          ],
+          "constructs": [
+            "Deservingness",
+            "Threat Perception"
+          ],
+          "doi": "10.1007/s11109-026-10208-w",
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-30",
+          "stable_id": "doi:10.1007/s11109-026-10208-w",
+          "summary_basis": "abstract",
+          "summary_ko": "미국인이 난민을 이민자보다 더 호의적으로 인식하는지, 그리고 그 이유를 알아보기 위해 2024년 전국 대표 온라인 설문실험에서 개방형·폐쇄형 문항으로 두 집단에 대한 태도를 비교했다. 난민은 비자발성·분쟁·인도주의, 이민자는 국내정치·공정성·위협과 연관되었고, 역량·행위성 및 입국 이유에 대한 인식은 달랐지만 온정성 고정관념·집단 감정·정책 선호에는 유의한 차이가 없었다.",
+          "title": "Distinction Without a Difference: American Public Opinion on Immigrants and Refugees",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1007/s11109-026-10208-w"
+        },
+        {
+          "abstract": "Abstract This research note is the first study to explore the viability of using LLM-generated respondents in forced-choice conjoint experiments. I generate naive “silicon samples” using three models, GPT 4o-Mini, Llama 3.2, and Magistral-small-2506, benchmarked to a large sample of live conjoint respondents, allowing for direct comparisons between human and silicon choices. The resulting analyses suggest that naively generated silicon samples are insufficient to simulate human decision-making in conjoint tasks; these results also suggest that there are systemic differences in the way demographic covariates shape LLM and human choices in experimental contexts. In total, this analysis makes two important contributions: it establishes a descriptive baseline understanding of LLM-generated respondent performance in conjoint experiments and suggests that naive silicon samples cannot accurately infer human choices using demographic traits in experimental decision making contexts. Finally, the implications of these results imply that LLMs consider covariates differently than live respondents do in micro-level decision making contexts.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Alice Malmberg": [
+              "Postdoctoral Fellow, SNF Agora Institute, Johns Hopkins University , Baltimore, MD,"
+            ]
+          },
+          "authors": [
+            "Alice Malmberg"
+          ],
+          "constructs": [
+            "Conjoint Analysis",
+            "Demographic Covariates"
+          ],
+          "doi": "10.1093/poq/nfag069",
+          "journal": "Public Opinion Quarterly",
+          "journal_short": "POQ",
+          "method": "실험",
+          "method_detail": "컨조인트 실험",
+          "publication_date": "2026-10-29",
+          "stable_id": "doi:10.1093/poq/nfag069",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 LLM이 생성한 ‘실리콘 표본’을 강제선택 컨조인트 실험에서 인간 응답자의 선택을 모사하는 데 활용할 수 있는지 검토했다. GPT-4o-Mini, Llama 3.2, Magistral-small-2506으로 생성한 표본을 대규모 실제 응답자 표본과 비교한 결과, 순진하게 생성한 실리콘 표본은 인간의 선택을 충분히 모사하지 못했으며 인구통계학적 공변량이 LLM과 인간의 선택에 미치는 방식에도 체계적 차이가 나타났다.",
+          "title": "Investigating the Utility of LLM-Based “Silicon Samples” in Political Science Conjoint Experiments",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1093/poq/nfag069"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -21386,7 +21622,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -21401,7 +21637,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -21422,7 +21658,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -21447,7 +21683,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -21482,7 +21718,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -21507,7 +21743,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -21528,7 +21764,33 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+    },
+    "doi:10.1080/01900692.2026.2725006": {
+      "first_seen_at": "2026-10-30T12:49:32.777716+00:00",
+      "item": {
+        "author_affiliations": {
+          "Camilo Ignacio Gonzalez": [
+            "School of Government, Universidad de Los Andes"
+          ],
+          "Jorge Alberto Guerra-España": [
+            "School of Government, Universidad de Los Andes",
+            "Fiscal Division, Interamerican Development Bank"
+          ]
+        },
+        "authors": [
+          "Jorge Alberto Guerra-España",
+          "Camilo Ignacio Gonzalez"
+        ],
+        "doi": "10.1080/01900692.2026.2725006",
+        "journal": "International Journal of Public Administration",
+        "journal_short": "IJPA",
+        "publication_date": "2026-10-29",
+        "stable_id": "doi:10.1080/01900692.2026.2725006",
+        "title": "When Autonomy Works: Capacity and Performance in Subnational Public Organizations in Colombia",
+        "url": "https://doi.org/10.1080/01900692.2026.2725006"
+      },
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1080/15309576.2026.2752096": {
       "first_seen_at": "2026-10-29T12:55:50.323142+00:00",
@@ -21561,7 +21823,7 @@
         "title": "Assessing Villagers’ Preferences of Gender-Stereotypic Leaders in Village Development Programs: The Case of Rural Sri Lanka",
         "url": "https://doi.org/10.1080/15309576.2026.2752096"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21586,7 +21848,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21611,7 +21873,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21632,7 +21894,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21653,7 +21915,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21682,7 +21944,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21711,7 +21973,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21736,7 +21998,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21757,7 +22019,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -21777,7 +22039,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -21794,7 +22056,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -21815,7 +22077,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -21832,7 +22094,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -21850,7 +22112,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -21870,7 +22132,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21887,7 +22149,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21905,7 +22167,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21924,7 +22186,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21942,7 +22204,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -21961,7 +22223,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -21979,7 +22241,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -21996,7 +22258,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -22015,7 +22277,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -22033,7 +22295,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/744574": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -22050,7 +22312,7 @@
         "title": "The Left Misunderstood: How Voters’ Perceptions of What Matters to the Left Benefit the Right",
         "url": "https://doi.org/10.1086/744574"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -22068,7 +22330,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -22089,7 +22351,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -22104,7 +22366,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -22119,7 +22381,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -22140,7 +22402,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -22155,7 +22417,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -22170,7 +22432,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-29T12:55:50.323142+00:00"
+      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
     }
   },
   "version": 1
