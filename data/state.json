@@ -21657,6 +21657,53 @@
       ],
       "sent_at": "2026-10-30T12:57:46.401127+00:00",
       "status": "sent"
+    },
+    "2026-10-31-bdcc386d84486eaa": {
+      "created_at": "2026-10-31T12:21:48.211753+00:00",
+      "idempotency_key": "pa-journal-digest-2026-10-31-bdcc386d84486eaa",
+      "items": [
+        {
+          "abstract": "This study examines how villagers evaluate leadership candidates in community-based programs by distinguishing between category-based evaluation (preferences based on a candidate’s gender) and attribute-based evaluation (preferences based on gender-associated leadership characteristics). Although recent studies suggest that leadership qualities commonly associated with femininity are increasingly viewed positively, women remain underrepresented in leadership roles in many rural communities. This discrepancy raises the question of whether gender itself or gender-associated leadership characteristics play a stronger role in leader selection. To investigate this issue, we conducted a choice-based conjoint experiment with 1,147 villagers in rural Sri Lanka, in which respondents evaluated hypothetical candidates for the chairperson position of Village Development Programs. Candidate profiles randomly varied across five dimensions: gender, leadership trait (agentic or communal), leadership style (autocratic or democratic), policy priority area (finance, infrastructure, education, or healthcare), and gender ideology (conservative or liberal). The results reveal an important pattern in villagers’ leadership evaluations. Although respondents prefer candidates with democratic leadership styles and liberal gender ideologies, they consistently favor male candidates over female candidates. In contrast, leadership traits and policy priorities do not significantly influence candidate choice. These findings indicate that category-based gender bias persists even when leadership attributes associated with femininity are valued.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Hulugalla Niranjala": [
+              "Ritsumeikan University"
+            ],
+            "Kyohei Yamada": [
+              "International University of Japan"
+            ],
+            "Mai Seki": [
+              "Gakushuin University"
+            ],
+            "Makoto Kakinaka": [
+              "Ritsumeikan University"
+            ]
+          },
+          "authors": [
+            "Hulugalla Niranjala",
+            "Mai Seki",
+            "Kyohei Yamada",
+            "Makoto Kakinaka"
+          ],
+          "constructs": [
+            "Gender Bias",
+            "Leadership Style"
+          ],
+          "doi": "10.1080/15309576.2026.2752096",
+          "journal": "Public Performance & Management Review",
+          "journal_short": "PPMR",
+          "method": "실험",
+          "method_detail": "선택기반 컨조인트",
+          "publication_date": "2026-10-29",
+          "stable_id": "doi:10.1080/15309576.2026.2752096",
+          "summary_basis": "abstract",
+          "summary_ko": "농촌 스리랑카 주민들이 마을개발사업의 지도자를 선택할 때 후보자의 성별 자체와 성별 연관 리더십 특성 중 무엇을 더 중시하는지 분석했다. 1,147명을 대상으로 성별·리더십 특성·리더십 스타일·정책 우선순위·성 이데올로기를 무작위로 조합한 선택기반 컨조인트 실험을 실시한 결과, 주민들은 민주적 리더십과 자유주의적 성 이데올로기를 선호했지만 리더십 특성과 정책 우선순위의 효과 없이 여성보다 남성 후보를 일관되게 선호했다.",
+          "title": "Assessing Villagers’ Preferences of Gender-Stereotypic Leaders in Village Development Programs: The Case of Rural Sri Lanka",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1080/15309576.2026.2752096"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -21679,7 +21726,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -21694,7 +21741,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -21715,7 +21762,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -21740,7 +21787,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -21775,7 +21822,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -21800,7 +21847,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -21821,7 +21868,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1080/01900692.2026.2725006": {
       "first_seen_at": "2026-10-30T12:49:32.777716+00:00",
@@ -21847,40 +21894,7 @@
         "title": "When Autonomy Works: Capacity and Performance in Subnational Public Organizations in Colombia",
         "url": "https://doi.org/10.1080/01900692.2026.2725006"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
-    },
-    "doi:10.1080/15309576.2026.2752096": {
-      "first_seen_at": "2026-10-29T12:55:50.323142+00:00",
-      "item": {
-        "author_affiliations": {
-          "Hulugalla Niranjala": [
-            "Ritsumeikan University"
-          ],
-          "Kyohei Yamada": [
-            "International University of Japan"
-          ],
-          "Mai Seki": [
-            "Gakushuin University"
-          ],
-          "Makoto Kakinaka": [
-            "Ritsumeikan University"
-          ]
-        },
-        "authors": [
-          "Hulugalla Niranjala",
-          "Mai Seki",
-          "Kyohei Yamada",
-          "Makoto Kakinaka"
-        ],
-        "doi": "10.1080/15309576.2026.2752096",
-        "journal": "Public Performance & Management Review",
-        "journal_short": "PPMR",
-        "publication_date": "2026-10-29",
-        "stable_id": "doi:10.1080/15309576.2026.2752096",
-        "title": "Assessing Villagers’ Preferences of Gender-Stereotypic Leaders in Village Development Programs: The Case of Rural Sri Lanka",
-        "url": "https://doi.org/10.1080/15309576.2026.2752096"
-      },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21905,7 +21919,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21930,7 +21944,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21951,7 +21965,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21972,7 +21986,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -22001,7 +22015,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -22030,7 +22044,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -22055,7 +22069,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -22076,7 +22090,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -22096,7 +22110,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -22113,7 +22127,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -22134,7 +22148,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -22151,7 +22165,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -22169,7 +22183,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -22189,7 +22203,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22206,7 +22220,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22224,7 +22238,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22243,7 +22257,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22261,7 +22275,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22280,7 +22294,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -22298,7 +22312,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -22315,7 +22329,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -22334,7 +22348,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -22352,7 +22366,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/744574": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -22369,7 +22383,7 @@
         "title": "The Left Misunderstood: How Voters’ Perceptions of What Matters to the Left Benefit the Right",
         "url": "https://doi.org/10.1086/744574"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -22387,7 +22401,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -22408,7 +22422,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -22423,7 +22437,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -22438,7 +22452,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -22459,7 +22473,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -22474,7 +22488,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -22489,7 +22503,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-30T12:49:32.777716+00:00"
+      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
     }
   },
   "version": 1
