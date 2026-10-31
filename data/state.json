@@ -1800,6 +1800,14 @@
       "sent_at": "2026-10-29T13:06:15.690690+00:00",
       "title": "Feedback Control for Sustainability: Integrated Planning, Capabilities and Performance Management in Constrained Local Governments"
     },
+    "doi:10.1080/15309576.2026.2752096": {
+      "batch_id": "2026-10-31-bdcc386d84486eaa",
+      "doi": "10.1080/15309576.2026.2752096",
+      "journal": "Public Performance & Management Review",
+      "publication_date": "2026-10-29",
+      "sent_at": "2026-10-31T12:27:43.005358+00:00",
+      "title": "Assessing Villagers’ Preferences of Gender-Stereotypic Leaders in Village Development Programs: The Case of Rural Sri Lanka"
+    },
     "doi:10.1086/735504": {
       "batch_id": "2026-10-01-6dbca5bf4d57c8e5",
       "doi": "10.1086/735504",
@@ -21703,7 +21711,8 @@
           "url": "https://doi.org/10.1080/15309576.2026.2752096"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-10-31T12:27:43.005358+00:00",
+      "status": "sent"
     }
   },
   "pending": {
