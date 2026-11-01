@@ -816,6 +816,14 @@
       "sent_at": "2026-09-13T21:11:27.583467+00:00",
       "title": "Data-Driven Collaboration in Mandated Networks: US Homelessness Services"
     },
+    "doi:10.1080/01900692.2026.2725006": {
+      "batch_id": "2026-11-01-127be748e3340223",
+      "doi": "10.1080/01900692.2026.2725006",
+      "journal": "International Journal of Public Administration",
+      "publication_date": "2026-10-29",
+      "sent_at": "2026-11-01T14:22:21.305648+00:00",
+      "title": "When Autonomy Works: Capacity and Performance in Subnational Public Organizations in Colombia"
+    },
     "doi:10.1080/01900692.2026.2729136": {
       "batch_id": "2026-10-24-4383bebd27a4ce9c",
       "doi": "10.1080/01900692.2026.2729136",
@@ -21752,7 +21760,8 @@
           "url": "https://doi.org/10.1080/01900692.2026.2725006"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-01T14:22:21.305648+00:00",
+      "status": "sent"
     }
   },
   "pending": {
