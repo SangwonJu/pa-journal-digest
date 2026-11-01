@@ -21713,6 +21713,46 @@
       ],
       "sent_at": "2026-10-31T12:27:43.005358+00:00",
       "status": "sent"
+    },
+    "2026-11-01-127be748e3340223": {
+      "created_at": "2026-11-01T14:15:20.641858+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-01-127be748e3340223",
+      "items": [
+        {
+          "abstract": "Autonomy is often tied to public-sector performance, yet when and through which dimensions autonomy improves performance remains unclear. Using Colombian panel data (2018–2024), we study how autonomy shapes performance across municipalities and State Industrial and Commercial Enterprises (SICEs). We proxy municipal managerial autonomy with an organizational index and SICE autonomy with fiscal and spending-flexibility measures. Two-way fixed-effects models relate autonomy to the Institutional Performance Index (IPI) and the Fiscal Performance Index (FPI), allowing heterogeneity by municipality capacity tier. In municipalities, the autonomy–IPI relationship is nonlinear: gains occur below a threshold in low-capacity municipalities and above a threshold in high-capacity ones. These patterns are consistent with differences in managerial capacity. Autonomy is positively associated with FPI, mainly in higher-capacity municipalities. In SICEs, own-revenue autonomy and operational discretion are positively associated with institutional performance, whereas personnel rigidity lowers it, with tier-specific differences. Autonomy is thus not a universal lever; gains arise when aligned with capacity and strengthen decisions without eroding coordination and oversight.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Camilo Ignacio Gonzalez": [
+              "School of Government, Universidad de Los Andes"
+            ],
+            "Jorge Alberto Guerra-España": [
+              "School of Government, Universidad de Los Andes",
+              "Fiscal Division, Interamerican Development Bank"
+            ]
+          },
+          "authors": [
+            "Jorge Alberto Guerra-España",
+            "Camilo Ignacio Gonzalez"
+          ],
+          "constructs": [
+            "organizational autonomy",
+            "managerial capacity"
+          ],
+          "doi": "10.1080/01900692.2026.2725006",
+          "journal": "International Journal of Public Administration",
+          "journal_short": "IJPA",
+          "method": "준실험",
+          "method_detail": "패널 고정효과",
+          "publication_date": "2026-10-29",
+          "stable_id": "doi:10.1080/01900692.2026.2725006",
+          "summary_basis": "abstract",
+          "summary_ko": "콜롬비아 지방정부와 국가산업·상업기업을 대상으로 자율성이 어떤 조건과 경로로 성과에 영향을 미치는지 2018~2024년 패널자료와 양방향 고정효과 모형으로 분석했다. 자율성의 효과는 역량에 따라 비선형적으로 달랐으며, 자체수입·운영 재량은 성과와 양의 관계를 보인 반면 인사 경직성은 성과를 낮췄다.",
+          "title": "When Autonomy Works: Capacity and Performance in Subnational Public Organizations in Colombia",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1080/01900692.2026.2725006"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -21735,7 +21775,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -21750,7 +21790,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -21771,7 +21811,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -21796,7 +21836,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -21831,7 +21871,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -21856,7 +21896,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -21877,33 +21917,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
-    },
-    "doi:10.1080/01900692.2026.2725006": {
-      "first_seen_at": "2026-10-30T12:49:32.777716+00:00",
-      "item": {
-        "author_affiliations": {
-          "Camilo Ignacio Gonzalez": [
-            "School of Government, Universidad de Los Andes"
-          ],
-          "Jorge Alberto Guerra-España": [
-            "School of Government, Universidad de Los Andes",
-            "Fiscal Division, Interamerican Development Bank"
-          ]
-        },
-        "authors": [
-          "Jorge Alberto Guerra-España",
-          "Camilo Ignacio Gonzalez"
-        ],
-        "doi": "10.1080/01900692.2026.2725006",
-        "journal": "International Journal of Public Administration",
-        "journal_short": "IJPA",
-        "publication_date": "2026-10-29",
-        "stable_id": "doi:10.1080/01900692.2026.2725006",
-        "title": "When Autonomy Works: Capacity and Performance in Subnational Public Organizations in Colombia",
-        "url": "https://doi.org/10.1080/01900692.2026.2725006"
-      },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/736695": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21928,7 +21942,7 @@
         "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
         "url": "https://doi.org/10.1086/736695"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/736696": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21953,7 +21967,7 @@
         "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
         "url": "https://doi.org/10.1086/736696"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/736697": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21974,7 +21988,7 @@
         "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
         "url": "https://doi.org/10.1086/736697"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/736802": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -21995,7 +22009,7 @@
         "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
         "url": "https://doi.org/10.1086/736802"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -22024,7 +22038,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/737850": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -22053,7 +22067,7 @@
         "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
         "url": "https://doi.org/10.1086/737850"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/738580": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -22078,7 +22092,7 @@
         "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
         "url": "https://doi.org/10.1086/738580"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/738972": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -22099,7 +22113,7 @@
         "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
         "url": "https://doi.org/10.1086/738972"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -22119,7 +22133,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -22136,7 +22150,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -22157,7 +22171,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -22174,7 +22188,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -22192,7 +22206,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -22212,7 +22226,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22229,7 +22243,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22247,7 +22261,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22266,7 +22280,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22284,7 +22298,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22303,7 +22317,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -22321,7 +22335,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -22338,7 +22352,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -22357,7 +22371,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -22375,7 +22389,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/744574": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -22392,7 +22406,7 @@
         "title": "The Left Misunderstood: How Voters’ Perceptions of What Matters to the Left Benefit the Right",
         "url": "https://doi.org/10.1086/744574"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -22410,7 +22424,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -22431,7 +22445,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -22446,7 +22460,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -22461,7 +22475,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -22482,7 +22496,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -22497,7 +22511,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -22512,7 +22526,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-10-31T12:21:48.211753+00:00"
+      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
     }
   },
   "version": 1
