@@ -21762,6 +21762,537 @@
       ],
       "sent_at": "2026-11-01T14:22:21.305648+00:00",
       "status": "sent"
+    },
+    "2026-11-02-7299e97b392d6b08": {
+      "created_at": "2026-11-02T17:01:54.193976+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-02-7299e97b392d6b08",
+      "items": [
+        {
+          "abstract": "Variation in safety net participation in the United States exists across states and demographic groups, but it is stark among programs. Although the Supplemental Nutrition Assistance Program (SNAP) reaches around 80% of those eligible, Temporary Assistance for Needy Families (TANF) reaches only around 20% of families in poverty. This study analyzes semi-structured interviews with nine SNAP recipients who appear to be eligible for TANF to explore the reasons some households choose to apply SNAP but not TANF. Findings highlight the differences in administrative burden present in each program, and the compliance costs of TANF that outweigh the benefits for some families.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Stephanie Walsh": [
+              "Rutgers University, New Brunswick, NJ, USA"
+            ]
+          },
+          "authors": [
+            "Stephanie Walsh"
+          ],
+          "constructs": [
+            "Administrative Burden",
+            "Compliance Costs"
+          ],
+          "doi": "10.1177/00953997261497706",
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "method": "질적연구",
+          "method_detail": "반구조화 인터뷰",
+          "publication_date": "2026-11-01",
+          "stable_id": "doi:10.1177/00953997261497706",
+          "summary_basis": "abstract",
+          "summary_ko": "본 연구는 SNAP 수급자 중 TANF 대상일 가능성이 있는 9명을 대상으로 반구조화 인터뷰를 실시해, 일부 가구가 SNAP은 신청하면서 TANF는 신청하지 않는 이유를 분석했다. TANF의 행정부담과 준수 비용이 일부 가구에는 편익보다 커서 참여를 포기하게 만드는 것으로 나타났다.",
+          "title": "Disentangling Administrative Burden: Why Some Families Forgo TANF Benefits",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1177/00953997261497706"
+        },
+        {
+          "abstract": "ABSTRACT In times of crises, do governments coordinate or do they make their own choices independent of what others do? Convergence of COVID‐19 policy at the beginning of the pandemic has been widely studied in federal countries. Yet, there is limited literature looking at the mechanisms that made policy between jurisdictions so similar. Utilizing Canada's decentralized federal system, this paper posits that convergence can be explained by a process of policy diffusion through emulation and a series of leader‐follower relationships. Drawing on the policy diffusion literature, this paper proposes three hypotheses for why some jurisdictions take on leadership roles in crisis policy while others follow. Synthesized as proximity, capacity, and urgency, these hypotheses are tested using a series of pairwise vector autoregressions identifying significant leader‐follower relationships between Canadian provinces. The findings suggest that policy primarily flowed from only a small number of large provinces (Quebec and Ontario), lending partial evidence, but also exceptions to the hypotheses proposed.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Liddell Hastings": [
+              "University of Western Ontario London Ontario Canada"
+            ]
+          },
+          "authors": [
+            "Liddell Hastings"
+          ],
+          "constructs": [
+            "policy diffusion",
+            "emulation"
+          ],
+          "doi": "10.1111/gove.70159",
+          "journal": "Governance",
+          "journal_short": "Governance",
+          "method": "실험",
+          "method_detail": "쌍별 벡터자기회귀",
+          "publication_date": "2026-11-01",
+          "stable_id": "doi:10.1111/gove.70159",
+          "summary_basis": "abstract",
+          "summary_ko": "캐나다 연방체제에서 위기 시 관할구역 간 정책 수렴이 조정이 아니라 정책 확산과 지도자-추종자 관계의 모방을 통해 어떻게 나타나는지 분석했다. 캐나다 주들의 쌍별 벡터자기회귀분석 결과, 정책은 주로 소수의 대규모 주인 퀘벡과 온타리오에서 다른 주로 흘렀으며, 근접성·역량·긴급성 가설은 부분적으로만 지지되고 예외도 확인됐다.",
+          "title": "Emulate the Leader? Explaining Crisis Policy Change in the Canadian Federal System",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1111/gove.70159"
+        },
+        {
+          "abstract": "ABSTRACT In his classic 1976 study on organizational survival, Kaufman argued that public organizations are “immortal”. More recent research, however, has come to the opposite conclusion, finding that public organizations are frequently terminated. These findings largely relate to contexts where changes to the ruling party occur regularly. In contrast, this study examines the survival of government agencies in Japan, where the postwar political system has been characterized by one‐party dominance and short‐lived political leadership. The findings suggest that Japanese agencies remain largely “immortal,” and that when they do undergo transitions this tends to be linked to prime ministers with longer tenures who are able to implement minor, cosmetic changes; hence agencies typically persist even after such events. This study thus sheds new light on how political–administrative relations shape patterns of agency transition and highlights the importance of leadership tenure in sustaining commitments to organizational change.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Ayako Nakamura": [
+              "Graduate School of International Relations International University of Japan Minamiuonuma Japan"
+            ]
+          },
+          "authors": [
+            "Ayako Nakamura"
+          ],
+          "constructs": [
+            "Organizational Survival",
+            "Political Tenure"
+          ],
+          "doi": "10.1111/gove.70160",
+          "journal": "Governance",
+          "journal_short": "Governance",
+          "method": "질적연구",
+          "method_detail": "사례 기반 분석",
+          "publication_date": "2026-11-01",
+          "stable_id": "doi:10.1111/gove.70160",
+          "summary_basis": "abstract",
+          "summary_ko": "일본의 일당 지배와 단명하는 정치 지도자라는 맥락에서 정부기관의 존속이 어떻게 나타나는지를 분석한 결과, 기관은 대체로 지속되며 기관 전환은 장기 재임 총리가 추진하는 소폭·외관상의 변화와 연관되지만 조직 자체는 대체로 존속하는 것으로 나타났다.",
+          "title": "The Immortality Paradox: One‐Party Dominance, Political Tenure, and Organizational Continuity in Japanese Agencies",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1111/gove.70160"
+        },
+        {
+          "abstract": "Abstract The street-level bureaucracy literature shows that frontline workers’ decisions about clients are shaped by perceptions of deservingness based on clients’ demographic characteristics and behavioral conduct. Yet, we know little about whether frontline workers also act on clients’ financial resources and mental health, despite the administrative burden literature identifying these two factors as central to how citizens experience compliance demands. We contribute to both literatures by developing and testing preregistered hypotheses that examine how information about clients’ financial resources and mental health shapes frontline workers’ burden reduction and client prioritization. To do this, we run a large-scale vignette experiment with 775 caseworkers across 39 Danish unemployment agencies, manipulating client age, financial situation, mental health, and motivation but holding gender constant (all clients were male). We find strong evidence that caseworkers reduce burdens and prioritize clients with mental health issues and–consistent with prior work–clients displaying high motivation, alongside some evidence for clients struggling with financial hardship. Importantly, mental health appears more consequential than motivation and financial resources. Contrary to our preregistered expectation, clients with mental health issues received the most support when they also displayed low as opposed to high motivation. Rather than indicating that frontline workers reward low motivation, this pattern most likely reflects that caseworkers interpret low motivation as a symptom of the underlying condition, and thus as a signal of greater need. Our findings show how frontline discretion can operate as a redistributive mechanism that channels support toward clients signaling the greatest need.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Jonas Krogh Madsen": [
+              "Roskilde University Associate Professor, ,"
+            ],
+            "Niels Bjørn Grund Petersen": [
+              "The Danish Center for Social Science Research (VIVE) Senior Researcher, ,"
+            ]
+          },
+          "authors": [
+            "Niels Bjørn Grund Petersen",
+            "Jonas Krogh Madsen"
+          ],
+          "constructs": [
+            "Street-Level Bureaucracy",
+            "Administrative Burden"
+          ],
+          "doi": "10.1093/jopart/muag040",
+          "journal": "Journal of Public Administration Research and Theory",
+          "journal_short": "JPART",
+          "method": "실험",
+          "method_detail": "비네트 실험",
+          "publication_date": "2026-11-02",
+          "stable_id": "doi:10.1093/jopart/muag040",
+          "summary_basis": "abstract",
+          "summary_ko": "본 연구는 실업급여 사례관리자가 구직자의 재정 상황, 정신건강, 동기 관련 정보를 바탕으로 행정 부담을 줄이고 지원 우선순위를 정하는지 검토했다. 덴마크 39개 실업기관의 사례관리자 775명을 대상으로 한 사전등록 비네트 실험에서, 사례관리자는 정신건강 문제와 높은 동기를 보이는 구직자를 더 지원했으며, 정신건강 문제가 있는 경우 낮은 동기일 때 오히려 가장 많은 지원을 제공했다.",
+          "title": "The Effect of Clients’ Financial Resources, Mental Health, and Motivation on Frontline Workers’ Burden Reduction and Prioritizations",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1093/jopart/muag040"
+        },
+        {
+          "abstract": "Does the target of speech shape public support for hate speech laws? Regulating hate speech is controversial, partly because partisans are assumed to disagree over which groups such laws should protect. This article conducts a comprehensive test of how support for hate speech laws varies across partisan lines when speech targets ethnic, religious, gender, or political groups. Based on conjoint experiments in Denmark and the United States, the results show that support for regulation increases by up to 32% points when severity increases from “incivility” to “incitement to violence.” Target characteristics increase support for regulation by up to 6.3% points and exert the strongest effects when speech targets ethnic and religious groups rather than gender or political groups. These effects persist when severity is held constant and are broadly stable across severity levels. They are also heterogeneous across partisan groups, mostly ranging from 3 to 7.2% points, with one exception reaching 11.9% points. In neither country are partisans more willing to regulate hate speech targeting their political opponents than hate speech targeting their political allies. Overall, severity has the strongest effect on support for hate speech regulation, while target characteristics have smaller, heterogeneous effects that are largest when speech targets ethnic or religious groups.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Jesper Sommer Rasmussen": [
+              "Aarhus University"
+            ]
+          },
+          "authors": [
+            "Jesper Sommer Rasmussen"
+          ],
+          "constructs": [
+            "Hate Speech",
+            "Partisanship"
+          ],
+          "doi": "10.1080/10584609.2026.2754162",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "method": "실험",
+          "method_detail": "결합실험",
+          "publication_date": "2026-11-01",
+          "stable_id": "doi:10.1080/10584609.2026.2754162",
+          "summary_basis": "abstract",
+          "summary_ko": "덴마크와 미국에서 결합실험을 실시해, 발화의 대상 집단이 정당 성향별 혐오표현 규제 지지에 미치는 영향을 분석했다. 규제 지지는 발화의 심각성이 높아질 때 최대 32%포인트 증가했고, 대상 특성의 효과는 최대 6.3%포인트로 민족·종교 집단을 대상으로 할 때 가장 컸으며, 정치적 동맹이나 반대 집단에 대한 차이는 일관되게 나타나지 않았다.",
+          "title": "The Effects of Target Characteristics on Public Support for Hate Speech Laws",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1080/10584609.2026.2754162"
+        },
+        {
+          "abstract": "This article interrogates the information deficit model in studies of political misinformation by examining how a rural Indonesian community with recent and shallow digital connectivity responded to electoral misinformation during the 2024 presidential campaign. Digital divide scholarship assumes that limited access and skills leave rural populations vulnerable to misinformation and reliant on external intervention. Drawing on a survey (_n_ = 400), 20 interviews, and field and digital observation in the transmigrant communities of the Banyuasin waterways, where mobile internet arrived only in late 2019, we find a different pattern. Although residents rely heavily on social media they distrust for electoral information, a large majority neither forwarded nor amplified political content, and recorded disputes were absent during the period observed. We identify three socio-cultural mechanisms that account for this: bonding social capital that embeds information evaluation in dense face-to-face networks; partisan identity that, under conditions of economic interdependence, is expressed through restraint rather than confrontation; and dual-sphere norms that separate offline political talk from a deliberately quiet online presence. We argue that these mechanisms produce social resilience – the community absorbs false claims without fracturing – but that this is distinct from, and costly to, democratic vitality: the same practices that limit the circulation of misinformation also limit its correction and mute those least embedded in local networks. Theoretically, the relationship between digital access, skill, and democratic outcomes is not merely non-linear but differently specified: communities may be socially resilient to misinformation without being epistemically resilient to it. Empirically, the study offers rare micro-level evidence from rural Southeast Asia. Practically, it cautions against reading the absence of visible conflict as evidence that a community is managing information well.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Ainur Ropik": [
+              "Universitas Islam Negeri Raden Fatah Palembang"
+            ],
+            "Eko Bagus Sholihin": [
+              "Universitas Islam Negeri Raden Fatah Palembang"
+            ],
+            "Ismail Alviano": [
+              "Universitas Islam Internasional Indonesia"
+            ],
+            "Wahyu Wulandari": [
+              "Universitas Islam Negeri Raden Fatah Palembang"
+            ],
+            "Yulion Zalpa": [
+              "Universitas Gadjah Mada"
+            ]
+          },
+          "authors": [
+            "Eko Bagus Sholihin",
+            "Yulion Zalpa",
+            "Wahyu Wulandari",
+            "Ainur Ropik",
+            "Ismail Alviano"
+          ],
+          "constructs": [
+            "Social Capital",
+            "Political Identity"
+          ],
+          "doi": "10.1080/10584609.2026.2751953",
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "method": "혼합방법론",
+          "method_detail": "순차 혼합",
+          "publication_date": "2026-11-02",
+          "stable_id": "doi:10.1080/10584609.2026.2751953",
+          "summary_basis": "abstract",
+          "summary_ko": "2024년 인도네시아 농촌 지역의 선거 허위정보 대응을 설문(400명), 인터뷰 20건, 현장·디지털 관찰로 분석한 결과, 결속형 사회자본·당파적 절제·온·오프라인 정치 대화의 분리 규범이 허위정보의 확산과 갈등을 억제하는 사회적 회복력을 형성하지만, 허위정보 교정과 민주적 활력도 함께 제한하는 것으로 나타났다.",
+          "title": "Beyond Digital Access: Social Resilience to Political Misinformation in Rural Indonesia",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1080/10584609.2026.2751953"
+        },
+        {
+          "abstract": "Abstract Pairing neuroimaging and behavioral testing, we offer new insights into affective polarization, hyper‐partisanship, and their effects. Our findings introduce a temporal dimension to existing theoretical frameworks concerning the impact of social identity on political perceptions. We demonstrate that group‐identity shapes in‐the‐moment neural processing of real‐world experiences in a functional magnetic resonance imaging (fMRI) protocol and Cyberball game where participants experience varying levels of inclusion/exclusion from in/out‐group members. In other words, people don't simply rely upon group membership (e.g., partisanship, national identity) to post‐hoc rationalize an experience, but instead that group membership also actively biases neural processing of otherwise objectively identical experiences, shaping (and distorting) political perception, with significant behavioral effects.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Adam Moore": [
+              "Psychology, School of Philosophy, Psychology and Language Sciences University of Edinburgh Edinburgh UK"
+            ],
+            "Agamemnon Krasoulis": [
+              "Bindbridge Ltd Cambridge UK"
+            ],
+            "Alexa M. Morcom": [
+              "School of Psychology University of Sussex Brighton UK"
+            ],
+            "Cyril R. Pernet": [
+              "Neurobiology Research Unit Copenhagen University Hospital Copenhagen Denmark"
+            ],
+            "Laura Cram": [
+              "Neuropolitics Research Lab University of Edinburgh Edinburgh UK"
+            ],
+            "Neil Roberts": [
+              "Centre for Reproductive Health (CPH) University of Edinburgh Edinburgh UK"
+            ],
+            "Sujin Hong": [
+              "Laboratory of Hearing, Balance and Integrated Neuroscience Hallym University College of Medicine Anyang Republic of Korea"
+            ]
+          },
+          "authors": [
+            "Adam Moore",
+            "Sujin Hong",
+            "Cyril R. Pernet",
+            "Alexa M. Morcom",
+            "Neil Roberts",
+            "Agamemnon Krasoulis",
+            "Laura Cram"
+          ],
+          "constructs": [
+            "Affective Polarization",
+            "Social Identity"
+          ],
+          "doi": "10.1111/pops.70219",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "실험",
+          "method_detail": "fMRI Cyberball 실험",
+          "publication_date": "2026-11-02",
+          "stable_id": "doi:10.1111/pops.70219",
+          "summary_basis": "abstract",
+          "summary_ko": "정당성향·국가정체성과 같은 집단정체성이 배제·포함 경험에 대한 신경 처리와 정치적 지각에 즉각적인 편향을 일으키는지, fMRI와 Cyberball 행동 실험으로 검토했다. 집단 소속은 경험 후 정당화에만 작용하는 것이 아니라 동일한 경험의 신경 처리 자체를 왜곡하며 행동에도 영향을 미치는 것으로 나타났다.",
+          "title": "Partisan social cognition and biased experiences in a polarized world: The neural processing of identity‐based group membership",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70219"
+        },
+        {
+          "abstract": "Institutional fragmentation poses a significant challenge to effective social governance, particularly in the health sector. Prevailing literature often examines the drivers of integration – such as fiscal capacity and political will – in a linear, isolated manner, failing to capture their complex interplay. This study argues for a configurational approach to understanding institutional integration. Using the integration of China’s fragmented social health insurance system as a critical case, we employ fuzzy-set Qualitative Comparative Analysis (fsQCA) to analyse a large sample of 251 cities in their varying integration pathways. The analytical framework captures capacity and incentives as critical factors for institutional integration. The QCA analysis identifies four distinct configurations: the Capacitor, the Stabilizer, the Risk Manager, and the Negotiator. These findings suggest multiple equifinal pathways to successful institutional integration, highlighting the crucial conjunctural effects of economic strength, administrative status, coordinative capacity, and financial conditions.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Alex Jingwei He": [
+              "The Hong Kong University of Science and Technology"
+            ],
+            "Xin Zeng": [
+              "Li Ka Shing Faculty of Medicine, The University of Hong Kong"
+            ],
+            "Yingying Ma": [
+              "South China Agricultural University"
+            ],
+            "Yumeng Fan": [
+              "The University of York, York"
+            ]
+          },
+          "authors": [
+            "Yingying Ma",
+            "Alex Jingwei He",
+            "Xin Zeng",
+            "Yumeng Fan"
+          ],
+          "constructs": [
+            "Institutional Integration",
+            "Equifinality"
+          ],
+          "doi": "10.1080/14719037.2026.2756935",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "퍼지셋 QCA",
+          "publication_date": "2026-11-01",
+          "stable_id": "doi:10.1080/14719037.2026.2756935",
+          "summary_basis": "abstract",
+          "summary_ko": "중국 사회건강보험의 제도적 통합에서 재정 역량과 정치적 의지 같은 요인들이 어떻게 결합하는지를 파악하기 위해, 251개 도시를 대상으로 퍼지셋 질적비교분석(fsQCA)을 실시했다. 분석 결과 경제력·행정적 지위·조정 역량·재정 여건의 결합에 기반한 네 가지 통합 경로(역량 강화자, 안정화자, 위험 관리자, 협상자)가 확인되어, 성공적 통합에는 다중의 등가 경로가 존재함을 보였다.",
+          "title": "Resolving institutional fragmentation in a multilevel governance system: configurational logics of social health insurance integration in China",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/14719037.2026.2756935"
+        },
+        {
+          "abstract": "Artificial intelligence (AI) is rapidly entering public administration, yet adoption across U.S. local governments remains uneven. Existing explanations emphasize structural capacity, expecting internal barriers to constrain adoption. Drawing on Weick’s sensemaking perspective as an interpretive lens, this study examines AI adoption as shaped by how organizations interpret technological opportunity and enact deliberate responses. Using the 2024 ICMA Artificial Intelligence Survey, this study tests whether internal barriers, AI potential, and organizational initiative explain variation in adoption. Findings show that internal barriers are not significantly associated with adoption, whereas AI potential and organizational initiative are positively associated with it. These findings suggest that in equivocal technological contexts, structural conditions operate through interpretive processes, and that what organizations possess shapes adoption through how they make sense of emerging technologies and mobilize action. This study demonstrates the analytical value of sensemaking as a framework for understanding public sector responses to technological change.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Jihoon Jeong": [
+              "Texas A&M International University"
+            ]
+          },
+          "authors": [
+            "Jihoon Jeong"
+          ],
+          "constructs": [
+            "Sensemaking",
+            "Organizational Initiative"
+          ],
+          "doi": "10.1080/14719037.2026.2756938",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "서베이",
+          "method_detail": "횡단면 설문",
+          "publication_date": "2026-11-02",
+          "stable_id": "doi:10.1080/14719037.2026.2756938",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 Weick의 의미형성 관점을 바탕으로 미국 지방정부에서 내부 장벽, AI 잠재력, 조직적 주도성이 AI 도입의 차이를 설명하는지 2024년 ICMA 인공지능 설문자료로 분석했다. 내부 장벽은 도입과 유의한 관련이 없었지만, AI 잠재력과 조직적 주도성은 도입과 긍정적으로 관련되었다.",
+          "title": "Organizational sensemaking and AI adoption in U.S. local governments",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1080/14719037.2026.2756938"
+        },
+        {
+          "abstract": "Studies suggest that the life experiences of politicians influence their behavior in office. Yet the underlying reasons for behavioral differences we observe are often unclear. One possible explanation is socialization, meaning that individuals change their beliefs or behavior as a result of their preoffice experiences. Another possibility is self-selection, implying that individuals choose experiences based on their existing beliefs. We design a study that allows us to empirically isolate these two mechanisms in one particular context: business experience among heads of government. Leveraging variation in the timing of business experience, we compare leaders who worked in the business world before assuming public office with those who entered the business world only after assuming office. An analysis of defense expenditures in 17 NATO countries from 1952 to 2010 indicates that a socialization effect, rather than a selection effect, best explains why former business leaders spend less on national defense.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "James D. Kim": [
+              "University of Washington"
+            ],
+            "Matthew Fuhrmann": [
+              "University of Texas at Austin"
+            ]
+          },
+          "authors": [
+            "Matthew Fuhrmann",
+            "James D. Kim"
+          ],
+          "constructs": [
+            "Socialization",
+            "Self-Selection"
+          ],
+          "doi": "10.1086/736695",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "준실험",
+          "method_detail": "시점 변이 비교",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736695",
+          "summary_basis": "abstract",
+          "summary_ko": "정치 지도자의 사업 경험이 국방비 지출에 미치는 차이가 사회화와 자기선택 중 어떤机制으로 설명되는지 검토하기 위해, 17개 NATO 국가의 1952~2010년 자료에서 취임 전 사업 경험 지도자와 취임 후 사업 경험 지도자를 비교했다. 분석 결과, 전직 기업 지도자가 국방비를 덜 지출하는 이유는 자기선택보다 사회화 효과에 의해 더 잘 설명되었다.",
+          "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
+          "topic_area": "재무·예산",
+          "url": "https://doi.org/10.1086/736695"
+        },
+        {
+          "abstract": "What explains cabinet diversity, both gender and ethnicity? Contrary to the literature that (1) focuses singularly on one minority dimension, whether it is gender or ethnicity, or (2) assumes the two dimensions operate in a zero-sum game, we consider the intersection of the two. We argue we see more cabinet diversity in general and double-minority ministers— that is, women from ethnic minority groups—specifically when (1) there is political competition from minority groups and (2) there are popular norms about minority inclusion. We test our argument using original cabinet data from Asia (𝑛=5 4 No alternative text available) from 1960 to 2015. We identify the gender and ethnicity of 60,000 country-year-minister observations using multiple coders, double-checked against country expert surveys, and triple verified using country experts and local crowdsourcing. While we find evidence that political competition and popular norms can increase the proportion of double-minorities, there is a limit on the prestige of their portfolios. This article offers a way to study intersectionality, identity, and institutions.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Amy H. Liu": [
+              "University of Texas at Austin"
+            ],
+            "Keith Padraic Chew": [
+              "Arizona State University"
+            ]
+          },
+          "authors": [
+            "Keith Padraic Chew",
+            "Amy H. Liu"
+          ],
+          "constructs": [
+            "Intersectionality",
+            "Political Competition"
+          ],
+          "doi": "10.1086/736696",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "혼합방법론",
+          "method_detail": "내각자료 코딩",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736696",
+          "summary_basis": "abstract",
+          "summary_ko": "아시아 54개국의 1960~2015년 내각 자료에서 성별·민족별 장관 정체성을 코딩해, 소수집단의 정치적 경쟁과 소수자 포용에 관한 대중 규범이 여성 민족소수자 장관을 포함한 내각 다양성을 높이는지 분석했다. 두 요인은 이중소수자 비율을 높였지만, 이들이 맡는 포트폴리오의 위신에는 한계가 있었다.",
+          "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1086/736696"
+        },
+        {
+          "abstract": "This article explores two key biases underpinning heteronormativity: those against homosexuality and gender nonconformity. Through a novel experimental design deploying visual and audio stimuli to manipulate the sexuality and gender presentation of men as political candidates, I uncover persisting biases among American voters. Republicans and voters desiring order and certainty penalize gay candidates, while Democrats prefer them. However, both Democrats and Republicans penalize gender nonconformity. I show the acceptance of gay candidates by Democrats comes with a demand for candidates to look and sound “straight.” Moreover, I find voters penalize gender nonconformity in both gay and straight men, highlighting that heteronormative ideologies, while privileging heterosexuality over homosexuality, do not (dis)advantage all gay and straight candidates equally. Probing the contours of our egalitarianism and our understanding of who gets to walk the halls of power, these findings underscore the importance of considering status differentials both across and within census-style identity categories.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Martin Naunov": [
+              "Northwestern University"
+            ]
+          },
+          "authors": [
+            "Martin Naunov"
+          ],
+          "constructs": [
+            "Heteronormativity",
+            "Gender Conformity"
+          ],
+          "doi": "10.1086/736697",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736697",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 미국 유권자들이 남성 정치 후보자의 동성애 여부와 성별 표현을 어떻게 평가하는지 실험적으로 분석한다. 공화당원과 질서·확실성을 중시하는 유권자는 동성애자 후보를, 민주당원과 공화당원 모두 성별 비순응적 후보를 불리하게 평가했으며, 민주당의 동성애자 후보 수용도 ‘이성애자처럼’ 보이고 들리는 후보를 선호하는 조건부 수용으로 나타났다.",
+          "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/736697"
+        },
+        {
+          "abstract": "This study examines how Americans allocate public benefits to men and women. While extant work shows that women’s work is undervalued relative to men’s, scholarly intuition is unclear if these patterns persist when men and women are in competition for scarce public aid resources. I find that, on average, male applicants receive less than female applicants with identical needs. Furthermore, I find the amount awarded to women, but not men, varies conditional on their work history. Women with excellent work histories are awarded significantly more than comparable men. The totality of these results suggests an important caveat to the established finding that women’s hard work is valued less than men’s—when competing for _help_, women’s work is rewarded more than their male counterparts.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Dot Sawler": [
+              "University of Rochester"
+            ]
+          },
+          "authors": [
+            "Dot Sawler"
+          ],
+          "constructs": [
+            "Deservingness",
+            "Gender Bias"
+          ],
+          "doi": "10.1086/736802",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/736802",
+          "summary_basis": "abstract",
+          "summary_ko": "미국인이 희소한 공공부조를 남녀 신청자에게 어떻게 배분하며, 성별과 근로 이력이 수급자의 자격성 인식과 지원액에 어떤 영향을 미치는지 설문 실험으로 분석했다. 동일한 필요를 가진 경우에도 남성 신청자는 평균적으로 여성보다 적게 받았고, 특히 근로 이력이 우수한 여성은 유사한 남성보다 유의하게 더 많은 지원을 받았다.",
+          "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/736802"
+        },
+        {
+          "abstract": "Underrepresented in positions of political leadership, women face higher barriers in recruitment and promotion for high-level positions in politics. We show that higher barriers to entry for women, compared to men, extend to the lowest positions in politics. Using a field experiment with state legislators, we find women receive less information and fewer opportunities when inquiring about state legislative internships and that these patterns are driven by Republicans. In addition, we show that women legislators are as discriminatory against women students inquiring about internships as are men legislators. Lastly, we also show differences in response rates disappear when students provide information about previous political volunteering experience with local and campus party organizations. Overall, our results shed light on the nature and origins of the barriers women face to enter the political arena.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Hans J. G. Hassell": [
+              "Brigham Young University"
+            ],
+            "Joshua McCrain": [
+              "University of Utah"
+            ],
+            "Matthew R. Miles": [
+              "Brigham Young University, Idaho"
+            ]
+          },
+          "authors": [
+            "Hans J. G. Hassell",
+            "Joshua McCrain",
+            "Matthew R. Miles"
+          ],
+          "constructs": [
+            "Gender Discrimination",
+            "Political Recruitment"
+          ],
+          "doi": "10.1086/737850",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "실험",
+          "method_detail": "현장 실험",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/737850",
+          "summary_basis": "abstract",
+          "summary_ko": "주(州) 의회 인턴십 문의에 대한 응답을 분석하기 위해 주 의원들을 대상으로 현장실험을 실시한 결과, 여성 학생은 남성 학생보다 적은 정보와 기회를 받았으며 이러한 차이는 공화당 의원들에게서 나타났다. 그러나 학생이 지역·캠퍼스 정당 조직에서의 과거 정치 자원봉사 경험을 제시하면 응답률 차이는 사라졌다.",
+          "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1086/737850"
+        },
+        {
+          "abstract": "We estimate the effect of emancipation on the likelihood that formerly enslaved individuals were incarcerated in an urban setting—a context that lacked the economic incentives for incarceration present in plantation economies such as the US South. Focusing on early nineteenth-century Buenos Aires, we reconstruct the incarceration histories of the city’s residents as of 1810 by digitizing a full-count manuscript census and manually linking individuals to police records through 1830. To establish causality, we study a lottery that randomly granted certificates of freedom to a subset of enslaved persons. We find that emancipation increased the probability of incarceration by 11.8 percentage points. Evidence on mechanisms suggests that this effect was not driven by rural labor shortages but rather by the criminalization of petty offenses targeting the urban poor.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Guadalupe Tuñón": [
+              "Princeton University"
+            ],
+            "Valentín Figueroa": [
+              "Massachusetts Institute of Technology"
+            ]
+          },
+          "authors": [
+            "Valentín Figueroa",
+            "Guadalupe Tuñón"
+          ],
+          "constructs": [
+            "Emancipation",
+            "Criminalization"
+          ],
+          "doi": "10.1086/738580",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "실험",
+          "method_detail": "무작위 추첨",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/738580",
+          "summary_basis": "abstract",
+          "summary_ko": "19세기 초 도시 부에노스아이레스에서 해방이 노예였던 사람들의 투옥 가능성에 미친 효과를 추정하기 위해, 1810년 인구조사와 1830년까지의 경찰 기록을 연결하고 무작위 해방증서 추첨을 활용했다. 해방은 투옥 확률을 11.8%포인트 높였으며, 이는 농촌 노동력 부족보다 도시 빈곤층을 겨냥한 경미한 범죄의 형사처벌과 관련된 것으로 나타났다.",
+          "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/738580"
+        },
+        {
+          "abstract": "In the mass public, the threat of police violence is often classified and framed as a concern facing Black men. Yet, the anecdotal accounts of Black Americans who experience the threat of policing suggest that there are heterogeneous patterns that shape their lived experiences with police in the United States. To examine the nature of these heterogeneous effects, I introduce a new theory of threat: intersectional threat. It refers to those threats to marginalized groups that occur across gender, sexuality, and class lines based on varying orientations to power. From my subset of 50 in-depth interviews with young Black Americans in Chicago, I find that young Black Americans are socialized to employ diverse tactics and strategies to cope with and avert threat linked directly to their interlocking identities at the intersections of race, gender, class, and sexuality. These encounters are dualistic in nature and vary drastically from white Americans.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Jenn M. Jackson": [
+              "Syracuse University"
+            ]
+          },
+          "authors": [
+            "Jenn M. Jackson"
+          ],
+          "constructs": [
+            "Intersectionality",
+            "Intersectional Threat"
+          ],
+          "doi": "10.1086/738972",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "질적연구",
+          "method_detail": "심층 인터뷰",
+          "publication_date": "2026-10-01",
+          "stable_id": "doi:10.1086/738972",
+          "summary_basis": "abstract",
+          "summary_ko": "인종·성별·성적 지향·계층의 교차적 정체성이 미국 흑인 청년의 경찰 위협 인식과 대응을 어떻게 형성하는지 분석하기 위해 시카고의 흑인 청년 50명을 대상으로 심층 인터뷰를 실시했다. 이들은 서로 얽힌 정체성에 따른 위협에 대처하고 회피하기 위해 다양한 전략을 사용했으며, 경찰과의 경험은 백인 미국인과 크게 다른 양상으로 나타났다.",
+          "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/738972"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -21784,7 +22315,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -21799,7 +22330,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -21820,7 +22351,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -21845,7 +22376,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -21880,7 +22411,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -21905,7 +22436,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -21926,99 +22457,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
-    },
-    "doi:10.1086/736695": {
-      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
-      "item": {
-        "author_affiliations": {
-          "James D. Kim": [
-            "University of Washington"
-          ],
-          "Matthew Fuhrmann": [
-            "University of Texas at Austin"
-          ]
-        },
-        "authors": [
-          "Matthew Fuhrmann",
-          "James D. Kim"
-        ],
-        "doi": "10.1086/736695",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-10-01",
-        "stable_id": "doi:10.1086/736695",
-        "title": "Socialization, Self-Selection, and the Life Experiences of World Leaders: Why Business Experience Influences Defense Spending",
-        "url": "https://doi.org/10.1086/736695"
-      },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
-    },
-    "doi:10.1086/736696": {
-      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
-      "item": {
-        "author_affiliations": {
-          "Amy H. Liu": [
-            "University of Texas at Austin"
-          ],
-          "Keith Padraic Chew": [
-            "Arizona State University"
-          ]
-        },
-        "authors": [
-          "Keith Padraic Chew",
-          "Amy H. Liu"
-        ],
-        "doi": "10.1086/736696",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-10-01",
-        "stable_id": "doi:10.1086/736696",
-        "title": "Gender, Ethnicity, and Intersectionality: Double-Minorities in Asian Cabinets",
-        "url": "https://doi.org/10.1086/736696"
-      },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
-    },
-    "doi:10.1086/736697": {
-      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
-      "item": {
-        "author_affiliations": {
-          "Martin Naunov": [
-            "Northwestern University"
-          ]
-        },
-        "authors": [
-          "Martin Naunov"
-        ],
-        "doi": "10.1086/736697",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-10-01",
-        "stable_id": "doi:10.1086/736697",
-        "title": "The Right Kind of (Gay) Man? Sexuality, Gender Presentation, and Heteronormative Constraints on Electability",
-        "url": "https://doi.org/10.1086/736697"
-      },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
-    },
-    "doi:10.1086/736802": {
-      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
-      "item": {
-        "author_affiliations": {
-          "Dot Sawler": [
-            "University of Rochester"
-          ]
-        },
-        "authors": [
-          "Dot Sawler"
-        ],
-        "doi": "10.1086/736802",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-10-01",
-        "stable_id": "doi:10.1086/736802",
-        "title": "Who Benefits? How Gender Shapes the Perceived Deservingness of Welfare Claimants",
-        "url": "https://doi.org/10.1086/736802"
-      },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -22047,82 +22486,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
-    },
-    "doi:10.1086/737850": {
-      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
-      "item": {
-        "author_affiliations": {
-          "Hans J. G. Hassell": [
-            "Brigham Young University"
-          ],
-          "Joshua McCrain": [
-            "University of Utah"
-          ],
-          "Matthew R. Miles": [
-            "Brigham Young University, Idaho"
-          ]
-        },
-        "authors": [
-          "Hans J. G. Hassell",
-          "Joshua McCrain",
-          "Matthew R. Miles"
-        ],
-        "doi": "10.1086/737850",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-10-01",
-        "stable_id": "doi:10.1086/737850",
-        "title": "Gendered Barriers to Entry: Responses to Requests for State Legislative Internships",
-        "url": "https://doi.org/10.1086/737850"
-      },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
-    },
-    "doi:10.1086/738580": {
-      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
-      "item": {
-        "author_affiliations": {
-          "Guadalupe Tuñón": [
-            "Princeton University"
-          ],
-          "Valentín Figueroa": [
-            "Massachusetts Institute of Technology"
-          ]
-        },
-        "authors": [
-          "Valentín Figueroa",
-          "Guadalupe Tuñón"
-        ],
-        "doi": "10.1086/738580",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-10-01",
-        "stable_id": "doi:10.1086/738580",
-        "title": "Oppression Beyond Plantations: The Effect of Emancipation on Incarceration in Urban Buenos Aires",
-        "url": "https://doi.org/10.1086/738580"
-      },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
-    },
-    "doi:10.1086/738972": {
-      "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
-      "item": {
-        "author_affiliations": {
-          "Jenn M. Jackson": [
-            "Syracuse University"
-          ]
-        },
-        "authors": [
-          "Jenn M. Jackson"
-        ],
-        "doi": "10.1086/738972",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-10-01",
-        "stable_id": "doi:10.1086/738972",
-        "title": "Intersectional Threat: How Race, Gender, and Sexuality Shape Black Americans’ Perspectives on Policing",
-        "url": "https://doi.org/10.1086/738972"
-      },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -22142,7 +22506,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -22159,7 +22523,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -22180,7 +22544,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -22197,7 +22561,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -22215,7 +22579,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -22235,7 +22599,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22252,7 +22616,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22270,7 +22634,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22289,7 +22653,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22307,7 +22671,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22326,7 +22690,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -22344,7 +22708,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -22361,7 +22725,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -22380,7 +22744,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -22398,7 +22762,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1086/744574": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -22415,7 +22779,7 @@
         "title": "The Left Misunderstood: How Voters’ Perceptions of What Matters to the Left Benefit the Right",
         "url": "https://doi.org/10.1086/744574"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -22433,7 +22797,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -22454,7 +22818,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -22469,7 +22833,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -22484,7 +22848,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -22505,7 +22869,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -22520,7 +22884,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -22535,7 +22899,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-01T14:15:20.641858+00:00"
+      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
     }
   },
   "version": 1
