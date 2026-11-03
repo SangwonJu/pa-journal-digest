@@ -464,6 +464,14 @@
       "sent_at": "2026-10-27T12:14:15.584401+00:00",
       "title": "Generalizing Causal Effects with Noncompliance: Application to Deep Canvassing Experiments"
     },
+    "doi:10.1017/pan.2026.10064": {
+      "batch_id": "2026-11-03-4fc5f560df8d8774",
+      "doi": "10.1017/pan.2026.10064",
+      "journal": "Political Analysis",
+      "publication_date": "2026-11-03",
+      "sent_at": "2026-11-03T15:11:31.405120+00:00",
+      "title": "Retrieval-Augmented Surveys"
+    },
     "doi:10.1017/s0003055425101135": {
       "batch_id": "2026-10-28-76e232541b4242da",
       "doi": "10.1017/s0003055425101135",
@@ -2312,6 +2320,14 @@
       "sent_at": "2026-10-24T11:04:57.858491+00:00",
       "title": "“A bridge over troubled water?”: conceptualizing third parties’ involvement in administrative burden"
     },
+    "doi:10.1093/ppmgov/gvag011": {
+      "batch_id": "2026-11-03-4fc5f560df8d8774",
+      "doi": "10.1093/ppmgov/gvag011",
+      "journal": "Perspectives on Public Management and Governance",
+      "publication_date": "2026-11-02",
+      "sent_at": "2026-11-03T15:11:31.405120+00:00",
+      "title": "Concept promotion and the study of government"
+    },
     "doi:10.1111/ajps.70070": {
       "batch_id": "2026-09-07-42a6062e9863389d",
       "doi": "10.1111/ajps.70070",
@@ -2431,6 +2447,14 @@
       "publication_date": "2026-10-22",
       "sent_at": "2026-10-23T11:44:34.775887+00:00",
       "title": "Structure and agency in emancipatory reform: A blueprint from a Black union"
+    },
+    "doi:10.1111/ajps.70091": {
+      "batch_id": "2026-11-03-4fc5f560df8d8774",
+      "doi": "10.1111/ajps.70091",
+      "journal": "American Journal of Political Science",
+      "publication_date": "2026-11-03",
+      "sent_at": "2026-11-03T15:11:31.405120+00:00",
+      "title": "Women and the double standard of ambition"
     },
     "doi:10.1111/gove.70148": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -2799,6 +2823,14 @@
       "publication_date": "2026-09-21",
       "sent_at": "2026-09-21T12:50:18.636048+00:00",
       "title": "From referendum to reconciliation: How shared values and identities align with a commitment to long‐term collective action"
+    },
+    "doi:10.1111/pops.70196": {
+      "batch_id": "2026-11-03-4fc5f560df8d8774",
+      "doi": "10.1111/pops.70196",
+      "journal": "Political Psychology",
+      "publication_date": "2026-11-02",
+      "sent_at": "2026-11-03T15:11:31.405120+00:00",
+      "title": "The rhythm of persuasion: Media channels, psychological priming, and voting decisions through political music in Nigeria"
     },
     "doi:10.1111/pops.70197": {
       "batch_id": "2026-10-03-7757ef6e672473a1",
@@ -22572,7 +22604,8 @@
           "url": "https://doi.org/10.1111/pops.70196"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-03T15:11:31.405120+00:00",
+      "status": "sent"
     }
   },
   "pending": {
