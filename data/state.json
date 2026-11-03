@@ -22422,6 +22422,157 @@
       ],
       "sent_at": "2026-11-02T17:12:36.986972+00:00",
       "status": "sent"
+    },
+    "2026-11-03-4fc5f560df8d8774": {
+      "created_at": "2026-11-03T15:04:13.937237+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-03-4fc5f560df8d8774",
+      "items": [
+        {
+          "abstract": "Abstract Few human qualities are as morally unstable as ambition: We seem unable to decide whether to admire or condemn the desire for self‐advancement. This instability guarantees double standards—and none has been more enduring than that of women's ambition. This article traces the emergence of this double standard in early modern England, when ambition came to be widely accepted as natural and even virtuous in men, yet remained unnatural and vicious in women. It then turns to four seventeenth‐century feminists—Rachel Speght, Margaret Cavendish, Mary Astell, and Judith Drake—who challenged this emerging double standard. They reimagined ambition as a feminist tool, using it to argue for women's equality and even superiority. Unearthing this neglected strand of ambitious feminism not only contributes to the history of political thought but also points the way to a reconciliation between feminism and ambition that avoids the pitfalls identified by feminist theorists today.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Geertje J. Bol": [
+              "History Department University of Fribourg Fribourg Switzerland"
+            ]
+          },
+          "authors": [
+            "Geertje J. Bol"
+          ],
+          "constructs": [
+            "Gender Double Standard",
+            "Feminist Ambition"
+          ],
+          "doi": "10.1111/ajps.70091",
+          "journal": "American Journal of Political Science",
+          "journal_short": "AJPS",
+          "method": "이론/개념",
+          "method_detail": "사상사적 분석",
+          "publication_date": "2026-11-03",
+          "stable_id": "doi:10.1111/ajps.70091",
+          "summary_basis": "abstract",
+          "summary_ko": "이 글은 근대 초기 영국에서 남성의 야망은 자연스럽고 덕 있는 것으로, 여성의 야망은 부자연스럽고 악덕한 것으로 간주된 이중 기준이 어떻게 형성되었는지를 추적하고, 네 명의 17세기 여성주의자가 야망을 여성의 평등과 우월성을 주장하는 도구로 재구성했는지를 분석한다. 이를 통해 여성주의와 야망의 양립 가능성을 제시한다.",
+          "title": "Women and the double standard of ambition",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/ajps.70091"
+        },
+        {
+          "abstract": "Abstract “Governance,” “performance,” “innovation.” These concepts share a large attractivity. Christopher Pollitt and Peter Hupe characterized them as magic concepts. The broad character of such concepts enables them to live a life of their own. In public institutions, they may fulfill mobilizing functions. In academia, they enhance the formation of scholarly niches. Concept-driven analysis appears to be an important feature of contemporary public administration scholarship. Promoting a particular, stand-alone concept is rewarding, while the logic of academic practice breeds what can be framed as concept entrepreneurship. At the same time, apart from talking about government, what remains central is understanding and explaining how government works. Causes and consequences in relation to society do matter. Apart from concept promotion, therefore problem-driven analysis remains required.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Peter Hupe": [
+              "Public Governance Institute, KU Leuven , Leuven 3000,"
+            ]
+          },
+          "authors": [
+            "Peter Hupe"
+          ],
+          "constructs": [
+            "Governance",
+            "Concept Entrepreneurship"
+          ],
+          "doi": "10.1093/ppmgov/gvag011",
+          "journal": "Perspectives on Public Management and Governance",
+          "journal_short": "PPMG",
+          "method": "이론/개념",
+          "method_detail": "개념적 논의",
+          "publication_date": "2026-11-02",
+          "stable_id": "doi:10.1093/ppmgov/gvag011",
+          "summary_basis": "abstract",
+          "summary_ko": "이 글은 ‘거버넌스’, ‘성과’, ‘혁신’과 같은 매력적인 개념이 공공기관에서는 동원 기능을, 학계에서는 학문적 틈새 형성 기능을 하며 개념 기업가정신을 낳는 과정을 논의한다. 그러나 정부가 어떻게 작동하는지를 이해·설명하려면 개념 촉진을 넘어 원인과 결과에 초점을 둔 문제 중심 분석이 계속 필요하다고 주장한다.",
+          "title": "Concept promotion and the study of government",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1093/ppmgov/gvag011"
+        },
+        {
+          "abstract": "Abstract We introduce retrieval-augmented surveys, a novel survey approach that links respondents’ open-ended priorities to concrete policy proposals in institutional databases, enabling personalized measures of how citizens’ concerns map onto formal agendas. Our pipeline elicits and clarifies each respondent’s top issue concern, summarizes items in a policy database and retrieves semantically relevant candidates (“nearest neighbors”) for inclusion in a respondent-tailored survey. We illustrate the approach with an application to political representation in Congress, evaluating performance across four metrics. First, large majorities of respondents judge the retrieved policy items as mostly or fully addressing their concerns. Second, a hand-coding audit corroborates the alignment of retrieved items with respondent issue stances. Third, support for retrieved items is stable over a short-term panel, with 82% of respondents at the top of the support scale remaining there three weeks later. Fourth, in a tailored conjoint, alignment on the nearest neighbor item has a larger estimated effect on candidate choice than benchmark policies. The framework is modular and portable to other settings, such as rulemaking, municipal agendas, and public budgets, enabling scholars to identify where representation succeeds or fails in the institutional pipeline.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Alec Ewig": [
+              "Columbia University"
+            ],
+            "Yamil Velez": [
+              "Columbia University"
+            ]
+          },
+          "authors": [
+            "Yamil Velez",
+            "Alec Ewig"
+          ],
+          "constructs": [
+            "Political Representation",
+            "Policy Alignment"
+          ],
+          "doi": "10.1017/pan.2026.10064",
+          "journal": "Political Analysis",
+          "journal_short": "PolAnalysis",
+          "method": "서베이",
+          "method_detail": "패널·컨조인트 설문",
+          "publication_date": "2026-11-03",
+          "stable_id": "doi:10.1017/pan.2026.10064",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 응답자의 개방형 정책 우선순위를 제도적 정책 데이터베이스의 구체적 제안과 연결해, 시민의 관심사가 공식 의제와 얼마나 부합하는지 개인화해 측정하는 검색증강 설문을 제안한다. 의회 정책 사례에서 검색된 항목이 응답자의 우려와 대체로 일치했고, 단기적으로 지지가 안정적이며, 근접 항목과 후보자 입장 간 일치가 후보자 선택에 유의미한 영향을 미치는 것으로 나타났다.",
+          "title": "Retrieval-Augmented Surveys",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1017/pan.2026.10064"
+        },
+        {
+          "abstract": "Abstract The objective of this study was to determine the effect of exposure to political music on voting decisions among Nigerian voters. Data were collected from a multistage sample of 388 participants, and logistic and linear regression models were applied to evaluate the hypotheses. The findings revealed that an individual's overall exposure to political music significantly predicts their likelihood of voting, demonstrating a small positive effect size (Odds Ratio = 1.08). Rather than operating through indirect moderation pathways, exposure media and geographic location emerged as the strongest direct predictors of persuasive influence. Specifically, direct exposure via local radio ( β = .21) and shared audio files ( β = .12) significantly predicted a voter's influence score. Furthermore, rural voters reported being significantly more influenced by political music than their urban counterparts, with geographic location operating as the strongest overall direct baseline predictor ( β = −.48). The study concludes that the psychological effectiveness of political music lies not in generalized, blanket exposure, but in a targeted strategic focus that leverages specific media channels and subcultural demographic segments to maximize persuasive impact on voter behavior.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Agaba Joseph David": [
+              "Department of Political Science Prince Abubakar Audu University Anyigba Nigeria"
+            ],
+            "Anibueze U. Anselm": [
+              "Department of Guidance and Counselling Federal University Oye‐Ekiti Nigeria"
+            ],
+            "Charles Chukwudi Eze": [
+              "Department of Mass Communication University of Nigeria Nsukka Nigeria"
+            ],
+            "Chinasa Emelda Nnanyelugo": [
+              "Department of Music University of Nigeria Nsukka Nigeria"
+            ],
+            "Gever Verlumun Celestine": [
+              "Department of Mass Communication University of Nigeria Nsukka Nigeria"
+            ],
+            "Jude Chukwudi Agbo": [
+              "Department of Mass Communication University of Nigeria Nsukka Nigeria"
+            ],
+            "Success Esomchi Obi": [
+              "Department of Public Administration, School of Management Studies Kogi State Polytechnic Lokoja Nigeria"
+            ],
+            "Ukamaka C. M. Ozioko": [
+              "Department of Mass Communication University of Nigeria Nsukka Nigeria"
+            ]
+          },
+          "authors": [
+            "Ukamaka C. M. Ozioko",
+            "Success Esomchi Obi",
+            "Anibueze U. Anselm",
+            "Agaba Joseph David",
+            "Chinasa Emelda Nnanyelugo",
+            "Charles Chukwudi Eze",
+            "Jude Chukwudi Agbo",
+            "Gever Verlumun Celestine"
+          ],
+          "constructs": [
+            "Political Priming",
+            "Political Persuasion"
+          ],
+          "doi": "10.1111/pops.70196",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "서베이",
+          "method_detail": "다단계 표본조사",
+          "publication_date": "2026-11-02",
+          "stable_id": "doi:10.1111/pops.70196",
+          "summary_basis": "abstract",
+          "summary_ko": "나이지리아 유권자를 대상으로 정치 음악 노출이 투표 결정과 설득에 미치는 영향을 다단계 표본 388명의 자료와 로지스틱·선형 회귀로 분석했다. 정치 음악의 전반적 노출은 투표 가능성을 소폭 높였으며, 특히 지역 라디오와 공유 오디오 파일을 통한 직접 노출 및 농촌 거주가 더 큰 설득 효과와 관련됐다.",
+          "title": "The rhythm of persuasion: Media channels, psychological priming, and voting decisions through political music in Nigeria",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70196"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -22444,7 +22595,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -22459,7 +22610,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -22480,7 +22631,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -22505,7 +22656,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -22540,7 +22691,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -22565,7 +22716,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -22586,7 +22737,73 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+    },
+    "doi:10.1080/14719037.2026.2752047": {
+      "first_seen_at": "2026-11-03T15:04:13.937237+00:00",
+      "item": {
+        "author_affiliations": {
+          "Aurore Darmandieu": [
+            "Université de Pau et des Pays de l’Adour, E2S, collège EEI, LiREM"
+          ],
+          "David Carassus": [
+            "Université de Pau et des Pays de l’Adour, collège EEI, Lirem, Optima"
+          ],
+          "Elodie Arnéguy": [
+            "Université de Pau et des Pays de l’Adour, E2S, collège EEI, LiREM"
+          ],
+          "Marc Ohana": [
+            "Kedge Business School"
+          ],
+          "Mathieu Molines": [
+            "Kedge Business School"
+          ]
+        },
+        "authors": [
+          "Marc Ohana",
+          "Mathieu Molines",
+          "Elodie Arnéguy",
+          "Aurore Darmandieu",
+          "David Carassus"
+        ],
+        "doi": "10.1080/14719037.2026.2752047",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-11-02",
+        "stable_id": "doi:10.1080/14719037.2026.2752047",
+        "title": "The virtue paradox: how perceived organizational social responsibility and organizational shame fuel resistance to change among motivated public servants",
+        "url": "https://doi.org/10.1080/14719037.2026.2752047"
+      },
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+    },
+    "doi:10.1080/14719037.2026.2752994": {
+      "first_seen_at": "2026-11-03T15:04:13.937237+00:00",
+      "item": {
+        "author_affiliations": {
+          "Aidan Hudson-Lapore": [
+            "SWPS University"
+          ],
+          "Karol Olejniczak": [
+            "SWPS University"
+          ],
+          "Yaerin Park": [
+            "Hainan University"
+          ]
+        },
+        "authors": [
+          "Yaerin Park",
+          "Karol Olejniczak",
+          "Aidan Hudson-Lapore"
+        ],
+        "doi": "10.1080/14719037.2026.2752994",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-11-02",
+        "stable_id": "doi:10.1080/14719037.2026.2752994",
+        "title": "Towards more impactful co-design: insights from a systematic review of food loss and waste solutions",
+        "url": "https://doi.org/10.1080/14719037.2026.2752994"
+      },
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -22615,7 +22832,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -22635,7 +22852,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -22652,7 +22869,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -22673,7 +22890,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -22690,7 +22907,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -22708,7 +22925,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -22728,7 +22945,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22745,7 +22962,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22763,7 +22980,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22782,7 +22999,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22800,7 +23017,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22819,7 +23036,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -22837,7 +23054,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -22854,7 +23071,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -22873,7 +23090,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -22891,7 +23108,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1086/744574": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -22908,7 +23125,7 @@
         "title": "The Left Misunderstood: How Voters’ Perceptions of What Matters to the Left Benefit the Right",
         "url": "https://doi.org/10.1086/744574"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -22926,7 +23143,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -22947,7 +23164,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -22962,7 +23179,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -22977,7 +23194,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -22998,7 +23215,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -23013,7 +23230,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -23028,7 +23245,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-02T17:01:54.193976+00:00"
+      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
     }
   },
   "version": 1
