@@ -432,6 +432,14 @@
       "sent_at": "2026-09-10T15:04:47.519495+00:00",
       "title": "Get Out the Volunteer: Encouraging Diverse Political Party Activism"
     },
+    "doi:10.1017/pan.2026.10054": {
+      "batch_id": "2026-11-04-07e249fb29fc7593",
+      "doi": "10.1017/pan.2026.10054",
+      "journal": "Political Analysis",
+      "publication_date": "2026-11-04",
+      "sent_at": "2026-11-04T15:31:46.842932+00:00",
+      "title": "How Accurate Are Survey Measurements of Objective Phenomena?"
+    },
     "doi:10.1017/pan.2026.10055": {
       "batch_id": "2026-09-04-c54d468a72806a69",
       "doi": "10.1017/pan.2026.10055",
@@ -455,6 +463,14 @@
       "publication_date": "2026-10-14",
       "sent_at": "2026-10-14T11:54:30.601808+00:00",
       "title": "The Synthetic Imputation Approach: Using LLMs to Generate Synthetic Texts for Underrepresented Categories in Supervised Classification Tasks"
+    },
+    "doi:10.1017/pan.2026.10058": {
+      "batch_id": "2026-11-04-07e249fb29fc7593",
+      "doi": "10.1017/pan.2026.10058",
+      "journal": "Political Analysis",
+      "publication_date": "2026-11-04",
+      "sent_at": "2026-11-04T15:31:46.842932+00:00",
+      "title": "Euclidean Ideal Point Estimation from Roll-Call Data via Distance-Based Bipartite Network Models"
     },
     "doi:10.1017/pan.2026.10063": {
       "batch_id": "2026-10-27-f843e15ce361cfcf",
@@ -1728,6 +1744,22 @@
       "sent_at": "2026-10-20T11:38:56.949096+00:00",
       "title": "Lack of public service motivation as a value-constraining mechanism in entrepreneurial ecosystems"
     },
+    "doi:10.1080/14719037.2026.2752047": {
+      "batch_id": "2026-11-04-07e249fb29fc7593",
+      "doi": "10.1080/14719037.2026.2752047",
+      "journal": "Public Management Review",
+      "publication_date": "2026-11-02",
+      "sent_at": "2026-11-04T15:31:46.842932+00:00",
+      "title": "The virtue paradox: how perceived organizational social responsibility and organizational shame fuel resistance to change among motivated public servants"
+    },
+    "doi:10.1080/14719037.2026.2752994": {
+      "batch_id": "2026-11-04-07e249fb29fc7593",
+      "doi": "10.1080/14719037.2026.2752994",
+      "journal": "Public Management Review",
+      "publication_date": "2026-11-02",
+      "sent_at": "2026-11-04T15:31:46.842932+00:00",
+      "title": "Towards more impactful co-design: insights from a systematic review of food loss and waste solutions"
+    },
     "doi:10.1080/14719037.2026.2756935": {
       "batch_id": "2026-11-02-7299e97b392d6b08",
       "doi": "10.1080/14719037.2026.2756935",
@@ -1855,6 +1887,14 @@
       "publication_date": "2026-10-29",
       "sent_at": "2026-10-31T12:27:43.005358+00:00",
       "title": "Assessing Villagers’ Preferences of Gender-Stereotypic Leaders in Village Development Programs: The Case of Rural Sri Lanka"
+    },
+    "doi:10.1080/15309576.2026.2756919": {
+      "batch_id": "2026-11-04-07e249fb29fc7593",
+      "doi": "10.1080/15309576.2026.2756919",
+      "journal": "Public Performance & Management Review",
+      "publication_date": "2026-11-04",
+      "sent_at": "2026-11-04T15:31:46.842932+00:00",
+      "title": "When Technology Meets Culture: Digital Co-Production and Public Value Creation"
     },
     "doi:10.1086/735504": {
       "batch_id": "2026-10-01-6dbca5bf4d57c8e5",
@@ -2128,6 +2168,14 @@
       "sent_at": "2026-10-15T11:32:38.992812+00:00",
       "title": "Are Citizens Inoculated by Past Democratic Backsliding?"
     },
+    "doi:10.1086/744772": {
+      "batch_id": "2026-11-04-07e249fb29fc7593",
+      "doi": "10.1086/744772",
+      "journal": "The Journal of Politics",
+      "publication_date": "2026-11-03",
+      "sent_at": "2026-11-04T15:31:46.842932+00:00",
+      "title": "How does Coethnicity with Refugees Shape their Reception? Evidence from Afghan Refugees in Pakistan"
+    },
     "doi:10.1093/jopart/muag020": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1093/jopart/muag020",
@@ -2208,6 +2256,14 @@
       "sent_at": "2026-10-28T12:57:19.486861+00:00",
       "title": "Sick of change? Sickness absence following ownership conversions in Norwegian kindergartens"
     },
+    "doi:10.1093/jopart/muag037": {
+      "batch_id": "2026-11-04-07e249fb29fc7593",
+      "doi": "10.1093/jopart/muag037",
+      "journal": "Journal of Public Administration Research and Theory",
+      "publication_date": "2026-11-03",
+      "sent_at": "2026-11-04T15:31:46.842932+00:00",
+      "title": "Toward an “Identity Turn” in Public Service Motivation Theory: A Problematizing Review and Research Agenda"
+    },
     "doi:10.1093/jopart/muag038": {
       "batch_id": "2026-10-30-913d9baa4de78daf",
       "doi": "10.1093/jopart/muag038",
@@ -2287,6 +2343,14 @@
       "publication_date": "2026-10-29",
       "sent_at": "2026-10-30T12:57:46.401127+00:00",
       "title": "Investigating the Utility of LLM-Based “Silicon Samples” in Political Science Conjoint Experiments"
+    },
+    "doi:10.1093/poq/nfag071": {
+      "batch_id": "2026-11-04-07e249fb29fc7593",
+      "doi": "10.1093/poq/nfag071",
+      "journal": "Public Opinion Quarterly",
+      "publication_date": "2026-11-03",
+      "sent_at": "2026-11-04T15:31:46.842932+00:00",
+      "title": "Cult of Personality or Lack of Competition? Determining Trump’s Sway Over Republican Partisans on a Critical Case"
     },
     "doi:10.1093/poq/nfag072": {
       "batch_id": "2026-10-29-81f7c19a2c681fd3",
@@ -2455,6 +2519,14 @@
       "publication_date": "2026-11-03",
       "sent_at": "2026-11-03T15:11:31.405120+00:00",
       "title": "Women and the double standard of ambition"
+    },
+    "doi:10.1111/ajps.70095": {
+      "batch_id": "2026-11-04-07e249fb29fc7593",
+      "doi": "10.1111/ajps.70095",
+      "journal": "American Journal of Political Science",
+      "publication_date": "2026-11-04",
+      "sent_at": "2026-11-04T15:31:46.842932+00:00",
+      "title": "Can citizen election observation increase public confidence in US elections?"
     },
     "doi:10.1111/gove.70148": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -2888,6 +2960,14 @@
       "sent_at": "2026-10-17T10:47:38.017785+00:00",
       "title": "Between reconciliation and peace making and brutalization: The Israeli case"
     },
+    "doi:10.1111/pops.70205": {
+      "batch_id": "2026-11-04-07e249fb29fc7593",
+      "doi": "10.1111/pops.70205",
+      "journal": "Political Psychology",
+      "publication_date": "2026-11-04",
+      "sent_at": "2026-11-04T15:31:46.842932+00:00",
+      "title": "Unrequited: Zero‐sum asymmetry in the political domain fuels affective polarization"
+    },
     "doi:10.1111/pops.70206": {
       "batch_id": "2026-10-22-c3f7de491c326b9f",
       "doi": "10.1111/pops.70206",
@@ -2959,6 +3039,14 @@
       "publication_date": "2026-10-28",
       "sent_at": "2026-10-28T12:57:19.486861+00:00",
       "title": "Feeling the body politic: Interoception as a mechanism of political stress resilience"
+    },
+    "doi:10.1111/pops.70218": {
+      "batch_id": "2026-11-04-07e249fb29fc7593",
+      "doi": "10.1111/pops.70218",
+      "journal": "Political Psychology",
+      "publication_date": "2026-11-03",
+      "sent_at": "2026-11-04T15:31:46.842932+00:00",
+      "title": "The critical role of political trust in the energy transition"
     },
     "doi:10.1111/pops.70219": {
       "batch_id": "2026-11-02-7299e97b392d6b08",
@@ -3631,6 +3719,14 @@
       "publication_date": "2026-10-12",
       "sent_at": "2026-10-13T14:14:22.617282+00:00",
       "title": "Flattening Without Leveling: Visibility-Driven Flexible Re-Hierarchization in Government Digital Communication"
+    },
+    "doi:10.1177/00953997261489773": {
+      "batch_id": "2026-11-04-07e249fb29fc7593",
+      "doi": "10.1177/00953997261489773",
+      "journal": "Administration & Society",
+      "publication_date": "2026-11-04",
+      "sent_at": "2026-11-04T15:31:46.842932+00:00",
+      "title": "FOI Publicity in Small Municipalities: Evidence From Italy"
     },
     "doi:10.1177/00953997261494491": {
       "batch_id": "2026-10-17-a7b1623936c13712",
@@ -23062,7 +23158,8 @@
           "url": "https://doi.org/10.1086/744772"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-04T15:31:46.842932+00:00",
+      "status": "sent"
     }
   },
   "pending": {
