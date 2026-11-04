@@ -22606,6 +22606,463 @@
       ],
       "sent_at": "2026-11-03T15:11:31.405120+00:00",
       "status": "sent"
+    },
+    "2026-11-04-07e249fb29fc7593": {
+      "created_at": "2026-11-04T15:23:27.749479+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-04-07e249fb29fc7593",
+      "items": [
+        {
+          "abstract": "This empirical study investigates the implementation patterns of freedom of information (FOI) publicity within small municipalities. These municipalities, characterized by limited financial and human resources, are likely to face substantial challenges in executing national policies. Our analysis leverages data collected from an examination of the official websites of a specific sample of Italian municipalities. Utilizing hierarchical cluster and regression analysis techniques, our findings underscore the critical challenges in the FOI publicity implementation among small municipalities",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Fabrizio di Mascio": [
+              "University of Turin, Italy"
+            ],
+            "Giuseppe Lucio Gaeta": [
+              "University of Naples L’Orientale, Italy"
+            ],
+            "Lorenzo Cicatiello": [
+              "University of Naples L’Orientale, Italy"
+            ],
+            "Sabrina Ruberto": [
+              "University Magna Graecia of Catanzaro, Italy"
+            ]
+          },
+          "authors": [
+            "Lorenzo Cicatiello",
+            "Giuseppe Lucio Gaeta",
+            "Sabrina Ruberto",
+            "Fabrizio di Mascio"
+          ],
+          "constructs": [
+            "Freedom of Information",
+            "Policy Implementation"
+          ],
+          "doi": "10.1177/00953997261489773",
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "method": "혼합방법론",
+          "method_detail": "웹사이트 분석·회귀",
+          "publication_date": "2026-11-04",
+          "stable_id": "doi:10.1177/00953997261489773",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 재정·인력 자원이 제한된 소규모 지방자치단체에서 정보공개(FOI) 공개의 실행 양상을 이탈리아 지방자치단체 공식 웹사이트 자료를 분석해 규명한다. 계층적 군집분석과 회귀분석 결과, 소규모 지방자치단체의 FOI 공개 실행에는 중대한 어려움이 있는 것으로 나타났다.",
+          "title": "FOI Publicity in Small Municipalities: Evidence From Italy",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1177/00953997261489773"
+        },
+        {
+          "abstract": "Abstract Nonpartisan citizen election observation plays an important role in promoting the credibility of electoral processes around the world. This article assesses whether nonpartisan observation can shape attitudes among the US public, randomizing information about nonpartisan domestic observers in a series of survey experiments fielded to nearly 10,000 respondents. These included both hypothetical vignettes and information about a real‐world nonpartisan domestic observation mission undertaken by The Carter Center during the 2022 midterm elections in Fulton County, Georgia. The results show that information about positive assessments by nonpartisan observers of the hypothetical and Fulton County elections increased respondents' confidence in electoral results and processes, and also made respondents more likely to identify the officially announced winner over the candidate they favored as the candidate who won. Alternative ways of framing observers were largely inconsequential.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Jennie Barker": [
+              "SNF Agora Academy Postdoctoral Fellow, SNF Agora Institute Johns Hopkins University Baltimore Maryland USA"
+            ],
+            "Oren Samet": [
+              "Assistant Professor, Department of Political Science Rice University Houston Texas USA"
+            ],
+            "Susan D. Hyde": [
+              "Robson Professor, Department of Political Science University of California Berkeley California USA"
+            ]
+          },
+          "authors": [
+            "Jennie Barker",
+            "Oren Samet",
+            "Susan D. Hyde"
+          ],
+          "constructs": [
+            "Election Confidence",
+            "Election Observation"
+          ],
+          "doi": "10.1111/ajps.70095",
+          "journal": "American Journal of Political Science",
+          "journal_short": "AJPS",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-11-04",
+          "stable_id": "doi:10.1111/ajps.70095",
+          "summary_basis": "abstract",
+          "summary_ko": "비당파적 시민 선거감시 정보가 미국 시민의 선거 결과·과정에 대한 신뢰와 공식 승자 식별에 미치는 영향을 약 1만 명 대상 설문실험으로 분석했다. 가상 선거와 2022년 조지아주 풀턴 카운티 사례 모두에서 감시단의 긍정적 평가를 제시하면 선거 신뢰와 공식 승자 식별이 높아졌지만, 감시단을 제시하는 방식의 차이는 대체로 영향이 없었다.",
+          "title": "Can citizen election observation increase public confidence in US elections?",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/ajps.70095"
+        },
+        {
+          "abstract": "Abstract Since its inception, Public Service Motivation (PSM) has been recognized as a key driver of behavior in public institutions. Despite its prominence, skepticism has emerged. In response, research has primarily focused on empirical analysis and measurement refinement rather than on conceptual development. This conceptual path dependency has become problematic as mixed empirical results increasingly challenge core theoretical propositions of PSM theory. We argue that one potential cause lies in a dominant assumption shaping the field: its positioning within motivation theory. To address this, we conducted a problematizing review across concepts and disciplines, comparing how PSM is understood in Public Administration with related concepts–such as motivation, altruism, and identity–in Management, Psychology, Sociology, and Economics. Based on this analysis, we propose a novel theoretical framework that reconceptualizes PSM as a social identity. In doing so, we outline a research agenda that (i) revises PSM’s core conceptual features and develops a new measurement approach informed by identity theory; (ii) introduces new ways of understanding PSM's functioning through identity work theory; and (iii) situates PSM theory within the broader debate on the “identity turn” in motivation research, highlighting its potential contribution to this multidisciplinary discourse.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Adrian Ritz": [
+              "University of Bern KPM Center for Public Management, , Schanzeneckstrasse 1, Bern,"
+            ],
+            "Lorenza Micacchi": [
+              "University of Bern KPM Center for Public Management, , Schanzeneckstrasse 1, Bern,"
+            ]
+          },
+          "authors": [
+            "Lorenza Micacchi",
+            "Adrian Ritz"
+          ],
+          "constructs": [
+            "Public Service Motivation",
+            "Social Identity"
+          ],
+          "doi": "10.1093/jopart/muag037",
+          "journal": "Journal of Public Administration Research and Theory",
+          "journal_short": "JPART",
+          "method": "이론/개념",
+          "method_detail": "문제제기적 문헌검토",
+          "publication_date": "2026-11-03",
+          "stable_id": "doi:10.1093/jopart/muag037",
+          "summary_basis": "abstract",
+          "summary_ko": "이 논문은 PSM 연구가 동기이론에 편중되어 개념 발전보다 실증·측정 개선에 치우쳤다는 문제의식에서, 여러 학문 분야의 동기·이타주의·정체성 개념을 비교하는 문제제기적 문헌검토를 수행한다. 그 결과 PSM을 사회적 정체성으로 재개념화하고, 정체성 이론과 정체성 작업 이론에 기반한 개념·측정 및 연구 의제를 제안한다.",
+          "title": "Toward an “Identity Turn” in Public Service Motivation Theory: A Problematizing Review and Research Agenda",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1093/jopart/muag037"
+        },
+        {
+          "abstract": "Abstract Conventional ideal point models rely on Gaussian or quadratic utility functions that violate the triangle inequality, producing non-metric distances that complicate geometric interpretation and undermine clustering and dispersion-based analyses. We introduce a distance-based alternative that adapts the latent space item response model (LSIRM) to roll-call data, treating legislators and bills as nodes in a bipartite network jointly embedded in a Euclidean metric space. Through controlled simulations, Euclidean LSIRM consistently recovers latent coalition structure with superior cluster separation relative to existing methods. Applied to the 118th U.S. House, the model provides competitive predictive performance while yielding bill embeddings that clarify cross-cutting issue alignments. The results show that restoring metric structure to ideal point estimation provides a clearer and more coherent inference about party cohesion, factional divisions and multidimensional legislative behavior.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Ick Hoon Jin": [
+              "Yonsei University"
+            ],
+            "In Kyun Kim": [
+              "Yonsei University",
+              "Seoul National University"
+            ],
+            "Jong Hee Park": [
+              "Seoul National University"
+            ],
+            "Seungju Lee": [
+              "Yonsei University"
+            ]
+          },
+          "authors": [
+            "Seungju Lee",
+            "In Kyun Kim",
+            "Jong Hee Park",
+            "Ick Hoon Jin"
+          ],
+          "constructs": [
+            "Ideal Points",
+            "Latent Space Model"
+          ],
+          "doi": "10.1017/pan.2026.10058",
+          "journal": "Political Analysis",
+          "journal_short": "PolAnalysis",
+          "method": "혼합방법론",
+          "method_detail": "시뮬레이션·응용분석",
+          "publication_date": "2026-11-04",
+          "stable_id": "doi:10.1017/pan.2026.10058",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 기존 이상점 모형의 비유클리드 거리를 개선하기 위해, 입법자와 법안을 유클리드 공간에 함께 배치하는 이분 네트워크 기반 잠재공간 모형을 제안한다. 시뮬레이션과 미국 제118대 하원 자료 분석에서 이 모형은 잠재 연합 구조와 정당·파벌 및 다차원적 입법 행태를 더 명확히 포착하면서도 경쟁력 있는 예측 성능을 보였다.",
+          "title": "Euclidean Ideal Point Estimation from Roll-Call Data via Distance-Based Bipartite Network Models",
+          "topic_area": "분야 미상",
+          "url": "https://doi.org/10.1017/pan.2026.10058"
+        },
+        {
+          "abstract": "Abstract How accurate are survey measurements of phenomena that can be objectively verified? This article reports a review of various types of evidence assessing accuracy (vs. benchmarks not derived from self-reports) across a wide spectrum of content areas, including demographics, healthcare, labor force statistics, substance use and more. The vast majority of measurements were accurate, according to three assessment methods. Individual respondents’ self-reports closely matched objective records of the same phenomena for the same individual. Small aggregate differences were observed between survey sample means and aggregate means derived from objective records. Self-reports correlated strongly with measures of the same attributes of those individuals from secondary data not based on self-reports. Taken together, the evidence suggests that survey measurements of objective phenomena are highly accurate.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Amanda Scott": [
+              "Independent Scholar"
+            ],
+            "David Chapman": [
+              "Hope Strategies, Inc."
+            ],
+            "Elaine Albertson": [
+              "Stanford University"
+            ],
+            "Elizabeth Elder": [
+              "Stanford University"
+            ],
+            "Elizabeth Quinlan": [
+              "Stanford University"
+            ],
+            "Jon Krosnick": [
+              "Stanford University"
+            ],
+            "Linchiat Chang": [
+              "Independent Scholar"
+            ],
+            "Lisanne Wichgers": [
+              "Independent Scholar"
+            ],
+            "Matt Berent": [
+              "Independent Scholar"
+            ]
+          },
+          "authors": [
+            "Lisanne Wichgers",
+            "Linchiat Chang",
+            "David Chapman",
+            "Elizabeth Elder",
+            "Jon Krosnick",
+            "Matt Berent",
+            "Amanda Scott",
+            "Elaine Albertson",
+            "Elizabeth Quinlan"
+          ],
+          "constructs": [
+            "Survey Measurement",
+            "Measurement Accuracy"
+          ],
+          "doi": "10.1017/pan.2026.10054",
+          "journal": "Political Analysis",
+          "journal_short": "PolAnalysis",
+          "method": "이론/개념",
+          "method_detail": "근거 종합 검토",
+          "publication_date": "2026-11-04",
+          "stable_id": "doi:10.1017/pan.2026.10054",
+          "summary_basis": "abstract",
+          "summary_ko": "객관적으로 검증 가능한 현상에 대한 설문 측정이 얼마나 정확한지 다양한 분야의 비자기보고 기준을 활용한 검토를 통해 평가했다. 개인별 자기보고는 객관적 기록과 밀접하게 일치했고, 표본 평균과 객관적 집계 평균의 차이는 작았으며, 자기보고는 비자기보고 자료와도 강하게 상관되어 설문 측정이 전반적으로 매우 정확한 것으로 나타났다.",
+          "title": "How Accurate Are Survey Measurements of Objective Phenomena?",
+          "topic_area": "분야 미상",
+          "url": "https://doi.org/10.1017/pan.2026.10054"
+        },
+        {
+          "abstract": "Abstract Achieving net‐zero CO 2 emissions requires sustained collaboration between civil society and the private and public sectors across time and geographies, but low trust in and among these actors impedes coordinated action. This multidisciplinary review examines how different forms of trust, in particular political trust (i.e., trust between actors with differential power), shape the energy transition, addressing four core questions: How does trust impact energy project development and outcomes? How do the processes of building, maintaining, eroding, and repairing trust differ? What are the asymmetries in trust gain and loss? How does a project's history and stage determine which process is at play and whether trust repair is possible? A narrative literature review and analysis of fifteen case studies spanning diverse energy contexts identifies key trust dyads: government‐community, developer‐community, regulator‐developer. Mapping these trust dyads on project outcomes reveals when trust functions as either a barrier or a pathway to success. We complement our literature review and case analysis with primary data from stakeholder surveys and expert workshops that validate the real‐world relevance of trust research insights and identify the largest trust deficits and effective trust‐building strategies perceived by expert practitioners. Our findings across sources of evidence converge to show that political trust operates through distinct mechanisms across different actor relationships, with direct implications for project design, stakeholder engagement, and policy implementation. The review concludes by outlining future research directions and opportunities for cross‐disciplinary collaboration to address trust challenges in the energy transition.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Anandita Sabherwal": [
+              "Department of Psychology and Andlinger Center for Energy and the Environment Princeton University Princeton New Jersey USA",
+              "Department of Psychology and Neuroscience Boston College Chestnut Hill Massachusetts USA"
+            ],
+            "Elke U. Weber": [
+              "Department of Psychology and Andlinger Center for Energy and the Environment Princeton University Princeton New Jersey USA"
+            ],
+            "Jordana W. Composto": [
+              "Marketing and Behavioural Science Division, UBC Sauder School of Business University of British Columbia Vancouver BC Canada"
+            ],
+            "Sofía Silvosa": [
+              "Department of Psychology and Andlinger Center for Energy and the Environment Princeton University Princeton New Jersey USA"
+            ]
+          },
+          "authors": [
+            "Jordana W. Composto",
+            "Sofía Silvosa",
+            "Anandita Sabherwal",
+            "Elke U. Weber"
+          ],
+          "constructs": [
+            "Political Trust",
+            "Stakeholder Engagement"
+          ],
+          "doi": "10.1111/pops.70218",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "이론/개념",
+          "method_detail": "서술적 문헌검토",
+          "publication_date": "2026-11-03",
+          "stable_id": "doi:10.1111/pops.70218",
+          "summary_basis": "abstract",
+          "summary_ko": "이 논문은 정부·지역사회·개발사업자·규제기관 간 정치적 신뢰가 에너지 프로젝트의 개발과 성과에 어떤 영향을 미치며, 신뢰의 형성·유지·약화·회복 과정이 어떻게 다른지를 검토한다. 서술적 문헌검토와 15개 사례 분석, 이해관계자 설문 및 전문가 워크숍을 종합한 결과, 정치적 신뢰는 행위자 관계별로 서로 다른 메커니즘을 통해 에너지 전환의 장벽 또는 성공 경로로 작용한다.",
+          "title": "The critical role of political trust in the energy transition",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1111/pops.70218"
+        },
+        {
+          "abstract": "Abstract Zero‐sum beliefs about political relationships—the conviction that one party's gains are inevitably offset by another party's losses—have often been cited as drivers of partisan conflicts. However, across five studies with diverse samples of U.S. residents ( n = 1383), four of which were preregistered, we find that overall zero‐sum endorsement shows weak and inconsistent associations with affective polarization. Instead, beliefs are frequently one‐sided: Many individuals endorse the idea that their political opponents' gains are harmful while rejecting the notion that their own gains come at others' expense. We refer to the strength of this outgroup‐ingroup imbalance as zero‐sum asymmetry . Across correlational and experimental studies, higher zero‐sum asymmetry reliably predicts heightened partisan animosity. At the same time, it is associated with higher civic efficacy and, in several samples, greater political participation and democratic commitment. Notably, symmetric zero‐sum endorsement is relatively rare compared to asymmetric patterns. Together, these findings highlight the directional structure of perceived political trade‐offs as a key contributor to affective polarization, with broader implications for how citizens interpret partisan competition and evaluate the health of democratic systems.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "David Kidd": [
+              "Edmond &amp; Lily Safra Center for Ethics Harvard University Cambridge Massachusetts USA"
+            ],
+            "Martino Ongis": [
+              "Franklin Switzerland Sorengo Switzerland",
+              "Edmond &amp; Lily Safra Center for Ethics Harvard University Cambridge Massachusetts USA"
+            ]
+          },
+          "authors": [
+            "Martino Ongis",
+            "David Kidd"
+          ],
+          "constructs": [
+            "Affective Polarization",
+            "Zero-Sum Asymmetry"
+          ],
+          "doi": "10.1111/pops.70205",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "혼합방법론",
+          "method_detail": "상관·실험 연구",
+          "publication_date": "2026-11-04",
+          "stable_id": "doi:10.1111/pops.70205",
+          "summary_basis": "abstract",
+          "summary_ko": "미국 거주자 1,383명을 대상으로 한 5개 연구(이 중 4개는 사전등록)를 통해, 정치적 이익과 손실에 대한 제로섬 믿음의 비대칭성이 정서적 양극화와 어떻게 관련되는지 분석했다. 전체적인 제로섬 믿음은 정서적 양극화와 약하고 일관되지 않게 연관되었지만, 상대 정당의 이익은 해롭다고 보면서 자신의 이익이 타인의 손실이라고는 보지 않는 비대칭적 믿음은 당파적 반감을 일관되게 높였으며, 시민적 효능감과 일부 표본에서 정치 참여 및 민주주의적 헌신도 높였다.",
+          "title": "Unrequited: Zero‐sum asymmetry in the political domain fuels affective polarization",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70205"
+        },
+        {
+          "abstract": "Public organizations increasingly adopt corporate social responsibility frameworks, yet little is known about how employees react emotionally when their organization falls short of its professed standards. Drawing on appraisal theories of moral emotion, we examine whether organizational shame links perceived organizational social responsibility (OSR) to resistance to change, and whether public service motivation (PSM) moderates this process. Three-wave data from 113 French local government employees show that lower perceived OSR is associated with greater shame, especially among high-PSM employees, and that shame relates to greater resistance to change. Paradoxically, responsibility initiatives may fuel resistance among the most committed public servants.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Aurore Darmandieu": [
+              "Université de Pau et des Pays de l’Adour, E2S, collège EEI, LiREM"
+            ],
+            "David Carassus": [
+              "Université de Pau et des Pays de l’Adour, collège EEI, Lirem, Optima"
+            ],
+            "Elodie Arnéguy": [
+              "Université de Pau et des Pays de l’Adour, E2S, collège EEI, LiREM"
+            ],
+            "Marc Ohana": [
+              "Kedge Business School"
+            ],
+            "Mathieu Molines": [
+              "Kedge Business School"
+            ]
+          },
+          "authors": [
+            "Marc Ohana",
+            "Mathieu Molines",
+            "Elodie Arnéguy",
+            "Aurore Darmandieu",
+            "David Carassus"
+          ],
+          "constructs": [
+            "Organizational Social Responsibility",
+            "Organizational Shame"
+          ],
+          "doi": "10.1080/14719037.2026.2752047",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "서베이",
+          "method_detail": "3시점 설문",
+          "publication_date": "2026-11-02",
+          "stable_id": "doi:10.1080/14719037.2026.2752047",
+          "summary_basis": "abstract",
+          "summary_ko": "프랑스 지방정부 공무원 113명을 대상으로 3시점 자료를 분석해, 인지된 조직의 사회적 책임(OSR)이 조직수치심을 통해 변화저항과 어떻게 연결되는지, 그리고 공공봉사동기(PSM)가 이를 조절하는지 검토했다. 인지된 OSR이 낮을수록 수치심이 커졌고, 특히 PSM이 높은 직원에서 그 관계가 강했으며, 수치심은 더 큰 변화저항과 관련되었다.",
+          "title": "The virtue paradox: how perceived organizational social responsibility and organizational shame fuel resistance to change among motivated public servants",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1080/14719037.2026.2752047"
+        },
+        {
+          "abstract": "Co-design, as a component of broader co-production processes, has gained attention in public policy as a means of addressing complex policy challenges. Yet comparative research remains limited on what occurs under participatory and design-led approaches labelled co-design, what policy solutions these processes produce, and how they are expected to generate change. We address this gap through a PRISMA-guided systematic literature review of 38 studies on food loss and waste (FLW). Findings indicate that co-design labels inconsistently reflect participatory and iterative design practices; creative engagement methods remain underutilized. Co-designed outputs remain at ideation and prototyping stages, while interventions often lack a clear theory of change. We introduce a coding scheme to document co-design implementation and propose CIMO (Context, Intervention, Mechanism, Outcome) as an ex ante evaluation heuristic to articulate the theory of change of co-designed interventions. We conclude with a research agenda emphasizing enhanced reporting practice, theory-building, and implementation-focused research.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Aidan Hudson-Lapore": [
+              "SWPS University"
+            ],
+            "Karol Olejniczak": [
+              "SWPS University"
+            ],
+            "Yaerin Park": [
+              "Hainan University"
+            ]
+          },
+          "authors": [
+            "Yaerin Park",
+            "Karol Olejniczak",
+            "Aidan Hudson-Lapore"
+          ],
+          "constructs": [
+            "co-design",
+            "CIMO"
+          ],
+          "doi": "10.1080/14719037.2026.2752994",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "이론/개념",
+          "method_detail": "PRISMA 문헌고찰",
+          "publication_date": "2026-11-02",
+          "stable_id": "doi:10.1080/14719037.2026.2752994",
+          "summary_basis": "abstract",
+          "summary_ko": "식품 손실·폐기물 문제에서 ‘공동설계’로 불리는 참여적·설계 주도 접근이 실제로 어떻게 수행되고 어떤 정책 해법과 변화 경로를 산출하는지 체계적으로 검토했다. PRISMA에 따른 38개 연구의 문헌고찰 결과, 공동설계 실행과 창의적 참여 방법의 보고가 일관되지 않고 산출물은 주로 아이디어·시제품 단계에 머물며, 개입의 변화이론도 명확하지 않은 것으로 나타났다.",
+          "title": "Towards more impactful co-design: insights from a systematic review of food loss and waste solutions",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1080/14719037.2026.2752994"
+        },
+        {
+          "abstract": "Abstract It is well established that partisans follow their leaders. While this potentially has important implications for political accountability, studies of opinion leadership rarely examine accountability directly. We test whether partisans are able to hold a dominant leader accountable under favorable conditions using a critical case: Trump’s position on the Epstein files. Two preregistered experiments, fielded before the release of the Epstein files, show that partisans follow Trump and do not hold him accountable when he is unopposed or contested by the Democrats. However, when Trump faces opposition from within his own bloc—especially countermessaging from right-coded media elites—both issue-specific and overall approval decline substantially, and following is halved. Our results have two important implications. First, opinion leadership does not imply the absence of political accountability. Second, meaningful political competition in polarized societies may need to originate from within ideological blocs. While Trump is powerful, credible opposition can make him accountable.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Love Christensen": [
+              "Associate Senior Lecturer, Department of Political Science, University of Gothenburg , Gothenburg, ; and Assistant Professor, , Aarhus,",
+              "Department of Political Science, Aarhus University , Gothenburg, ; and Assistant Professor, , Aarhus,"
+            ],
+            "Mattias Agerberg": [
+              "Senior Lecturer, Department of Political Science, University of Gothenburg , Gothenburg,"
+            ]
+          },
+          "authors": [
+            "Love Christensen",
+            "Mattias Agerberg"
+          ],
+          "constructs": [
+            "Political Accountability",
+            "Opinion Leadership"
+          ],
+          "doi": "10.1093/poq/nfag071",
+          "journal": "Public Opinion Quarterly",
+          "journal_short": "POQ",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-11-03",
+          "stable_id": "doi:10.1093/poq/nfag071",
+          "summary_basis": "abstract",
+          "summary_ko": "트럼프가 공화당 지지자들의 책임 추궁을 받는 조건을 확인하기 위해, 엡스타인 파일 공개 전 사전등록된 두 차례 실험에서 트럼프의 입장에 대한 지지자들의 반응을 검증했다. 트럼프가 무경쟁이거나 민주당의 반대만 받을 때 지지자들은 그를 따랐지만, 특히 우파 성향 미디어 엘리트가 당내 반대 메시지를 제시할 때 쟁점별·전반적 지지도가 크게 하락하고 추종도 절반으로 줄었다.",
+          "title": "Cult of Personality or Lack of Competition? Determining Trump’s Sway Over Republican Partisans on a Critical Case",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1093/poq/nfag071"
+        },
+        {
+          "abstract": "Digital technologies are widely assumed to democratize citizen participation, yet their actual effects on co-production remain theoretically underspecified. This study examines how digital technologies shape co-production through a qualitative analysis of Taiwan’s Street Doctor Improvement Program—a national-level digital co-production initiative for pedestrian safety. The findings challenge prevailing assumptions in the digital governance literature and lead to three theoretical modifications. First, digital platforms exhibit a dual nature—empowering citizens through lowered participation barriers while enabling governmental control through agenda-setting and data ownership. Second, effective digital co-production depends on dynamic institutional work; Taiwan’s full government funding mechanism and citizen voting system demonstrate how policy actors innovate beyond existing institutional constraints. Third, public value creation proves culturally contextualized rather than universal; participation took the form of organized platform appropriation, as neighborhood representatives and other organized actors mobilized and contested it in ways that challenge individual-centered accounts of digital co-production. By integrating co-production theory, public service ecosystem perspectives, and institutional work concepts, this study advances digital governance scholarship beyond single-level analyses toward a multi-actor, multi-level framework. The findings offer practical guidance for designing culturally sensitive digital governance and inform the debate over whether digital participation creates genuine public value or merely symbolic inclusion.",
+          "abstract_source": "Publisher",
+          "author_affiliations": {
+            "Huan-Sheng Lin": [
+              "National Chung Cheng University"
+            ]
+          },
+          "authors": [
+            "Huan-Sheng Lin"
+          ],
+          "constructs": [
+            "Co-production",
+            "Institutional Work"
+          ],
+          "doi": "10.1080/15309576.2026.2756919",
+          "journal": "Public Performance & Management Review",
+          "journal_short": "PPMR",
+          "method": "질적연구",
+          "method_detail": "사례 분석",
+          "publication_date": "2026-11-04",
+          "stable_id": "doi:10.1080/15309576.2026.2756919",
+          "summary_basis": "abstract",
+          "summary_ko": "대만의 보행자 안전 디지털 공동생산 사업을 질적 분석하여 디지털 기술이 공동생산을 어떻게 형성하는지 검토했다. 디지털 플랫폼은 참여 장벽을 낮추는 동시에 정부의 의제 설정과 데이터 소유를 통한 통제를 가능하게 하며, 제도적 작업과 문화적으로 맥락화된 조직적 플랫폼 전유가 공공가치 창출을 좌우하는 것으로 나타났다.",
+          "title": "When Technology Meets Culture: Digital Co-Production and Public Value Creation",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/15309576.2026.2756919"
+        },
+        {
+          "abstract": "How does coethnicity shape host attitudes toward refugees? Existing research often assumes that refugees who share the ethnic or cultural background of host populations will face less backlash. We test this assumption in Pakistan, where both refugee and host communities include substantial Pashtun populations. Drawing on original survey experimental, observational, and qualitative data, we find that while coethnicity increases refugee acceptance on average, this result masks sharp internal variation. Coethnic hosts who live in provinces where they are ethnic minorities are far more likely to express inclusive attitudes than those living in their ethnic homeland. The impact of coethnicity therefore depends on local context: in settings where ethnic identity is politically salient and shaped by marginalization, coethnicity with refugees can carry both instrumental and symbolic value. These findings complicate standard assumptions about the primacy of cultural threat and underscore the need to attend to subnational variation in refugee-host dynamics.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {},
+          "authors": [
+            "Mashail Malik",
+            "Niloufer Siddiqui",
+            "Yang-Yang Zhou"
+          ],
+          "constructs": [
+            "Coethnicity",
+            "Refugee Attitudes"
+          ],
+          "doi": "10.1086/744772",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "혼합방법론",
+          "method_detail": "순차 혼합",
+          "publication_date": "2026-11-03",
+          "stable_id": "doi:10.1086/744772",
+          "summary_basis": "abstract",
+          "summary_ko": "파키스탄에서 난민과의 동족성이 난민 수용 태도에 어떤 영향을 미치는지 설문 실험·관찰자료·질적 자료로 분석했다. 동족성은 평균적으로 수용성을 높였지만, 동족 집단이 소수인 지역의 주민에게서 그 효과가 훨씬 강했으며, 민족 정체성의 정치적 중요성과 주변화 맥락에 따라 달라졌다.",
+          "title": "How does Coethnicity with Refugees Shape their Reception? Evidence from Afghan Refugees in Pakistan",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/744772"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -22628,7 +23085,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -22643,7 +23100,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -22664,7 +23121,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -22689,7 +23146,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -22724,7 +23181,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -22749,7 +23206,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -22770,73 +23227,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
-    },
-    "doi:10.1080/14719037.2026.2752047": {
-      "first_seen_at": "2026-11-03T15:04:13.937237+00:00",
-      "item": {
-        "author_affiliations": {
-          "Aurore Darmandieu": [
-            "Université de Pau et des Pays de l’Adour, E2S, collège EEI, LiREM"
-          ],
-          "David Carassus": [
-            "Université de Pau et des Pays de l’Adour, collège EEI, Lirem, Optima"
-          ],
-          "Elodie Arnéguy": [
-            "Université de Pau et des Pays de l’Adour, E2S, collège EEI, LiREM"
-          ],
-          "Marc Ohana": [
-            "Kedge Business School"
-          ],
-          "Mathieu Molines": [
-            "Kedge Business School"
-          ]
-        },
-        "authors": [
-          "Marc Ohana",
-          "Mathieu Molines",
-          "Elodie Arnéguy",
-          "Aurore Darmandieu",
-          "David Carassus"
-        ],
-        "doi": "10.1080/14719037.2026.2752047",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-11-02",
-        "stable_id": "doi:10.1080/14719037.2026.2752047",
-        "title": "The virtue paradox: how perceived organizational social responsibility and organizational shame fuel resistance to change among motivated public servants",
-        "url": "https://doi.org/10.1080/14719037.2026.2752047"
-      },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
-    },
-    "doi:10.1080/14719037.2026.2752994": {
-      "first_seen_at": "2026-11-03T15:04:13.937237+00:00",
-      "item": {
-        "author_affiliations": {
-          "Aidan Hudson-Lapore": [
-            "SWPS University"
-          ],
-          "Karol Olejniczak": [
-            "SWPS University"
-          ],
-          "Yaerin Park": [
-            "Hainan University"
-          ]
-        },
-        "authors": [
-          "Yaerin Park",
-          "Karol Olejniczak",
-          "Aidan Hudson-Lapore"
-        ],
-        "doi": "10.1080/14719037.2026.2752994",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-11-02",
-        "stable_id": "doi:10.1080/14719037.2026.2752994",
-        "title": "Towards more impactful co-design: insights from a systematic review of food loss and waste solutions",
-        "url": "https://doi.org/10.1080/14719037.2026.2752994"
-      },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -22865,7 +23256,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -22885,7 +23276,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -22902,7 +23293,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1086/743970": {
       "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
@@ -22923,7 +23314,7 @@
         "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
         "url": "https://doi.org/10.1086/743970"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -22940,7 +23331,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -22958,7 +23349,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1086/744065": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -22978,7 +23369,7 @@
         "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
         "url": "https://doi.org/10.1086/744065"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -22995,7 +23386,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1086/744217": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -23013,7 +23404,7 @@
         "title": "The Left-Wing Peace & The Right-Wing Peace",
         "url": "https://doi.org/10.1086/744217"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -23032,7 +23423,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -23050,7 +23441,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -23069,7 +23460,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -23087,7 +23478,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -23104,7 +23495,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -23123,7 +23514,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -23141,7 +23532,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1086/744574": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -23158,7 +23549,7 @@
         "title": "The Left Misunderstood: How Voters’ Perceptions of What Matters to the Left Benefit the Right",
         "url": "https://doi.org/10.1086/744574"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -23176,7 +23567,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -23197,7 +23588,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -23212,7 +23603,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -23227,7 +23618,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -23248,7 +23639,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -23263,7 +23654,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -23278,7 +23669,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-03T15:04:13.937237+00:00"
+      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
     }
   },
   "version": 1
