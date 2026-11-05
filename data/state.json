@@ -472,6 +472,14 @@
       "sent_at": "2026-11-04T15:31:46.842932+00:00",
       "title": "Euclidean Ideal Point Estimation from Roll-Call Data via Distance-Based Bipartite Network Models"
     },
+    "doi:10.1017/pan.2026.10062": {
+      "batch_id": "2026-11-05-7d38aa43c48a8a47",
+      "doi": "10.1017/pan.2026.10062",
+      "journal": "Political Analysis",
+      "publication_date": "2026-11-05",
+      "sent_at": "2026-11-05T15:33:41.437769+00:00",
+      "title": "An Image Is Worth K Topics: A Visual Structural Topic Model with Pretrained Image Embeddings"
+    },
     "doi:10.1017/pan.2026.10063": {
       "batch_id": "2026-10-27-f843e15ce361cfcf",
       "doi": "10.1017/pan.2026.10063",
@@ -2128,6 +2136,22 @@
       "sent_at": "2026-08-08T07:27:21.078868+00:00",
       "title": "Attacking Women or their Policies? Understanding Violence against Women in Politics"
     },
+    "doi:10.1086/743970": {
+      "batch_id": "2026-11-05-7d38aa43c48a8a47",
+      "doi": "10.1086/743970",
+      "journal": "The Journal of Politics",
+      "publication_date": "2026-09-08",
+      "sent_at": "2026-11-05T15:33:41.437769+00:00",
+      "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism"
+    },
+    "doi:10.1086/744065": {
+      "batch_id": "2026-11-05-7d38aa43c48a8a47",
+      "doi": "10.1086/744065",
+      "journal": "The Journal of Politics",
+      "publication_date": "2026-09-14",
+      "sent_at": "2026-11-05T15:33:41.437769+00:00",
+      "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil"
+    },
     "doi:10.1086/744066": {
       "batch_id": "2026-09-15-ab693daac4e307cb",
       "doi": "10.1086/744066",
@@ -2143,6 +2167,14 @@
       "publication_date": "2026-09-29",
       "sent_at": "2026-10-13T14:14:22.617282+00:00",
       "title": "“When they go low, we kick them”: The reciprocal nature of citizens’ support for democratic transgressions"
+    },
+    "doi:10.1086/744217": {
+      "batch_id": "2026-11-05-7d38aa43c48a8a47",
+      "doi": "10.1086/744217",
+      "journal": "The Journal of Politics",
+      "publication_date": "2026-09-29",
+      "sent_at": "2026-11-05T15:33:41.437769+00:00",
+      "title": "The Left-Wing Peace & The Right-Wing Peace"
     },
     "doi:10.1086/744220": {
       "batch_id": "2026-10-13-a80e628f8ac1e1af",
@@ -2167,6 +2199,14 @@
       "publication_date": "2026-10-13",
       "sent_at": "2026-10-15T11:32:38.992812+00:00",
       "title": "Are Citizens Inoculated by Past Democratic Backsliding?"
+    },
+    "doi:10.1086/744574": {
+      "batch_id": "2026-11-05-7d38aa43c48a8a47",
+      "doi": "10.1086/744574",
+      "journal": "The Journal of Politics",
+      "publication_date": "2026-10-20",
+      "sent_at": "2026-11-05T15:33:41.437769+00:00",
+      "title": "The Left Misunderstood: How Voters’ Perceptions of What Matters to the Left Benefit the Right"
     },
     "doi:10.1086/744772": {
       "batch_id": "2026-11-04-07e249fb29fc7593",
@@ -3607,6 +3647,14 @@
       "publication_date": "2026-10-16",
       "sent_at": "2026-10-17T10:47:38.017785+00:00",
       "title": "Institutional Amnesia and the Loss of “The Why Rationale” in Central Government Agencies"
+    },
+    "doi:10.1111/puar.70234": {
+      "batch_id": "2026-11-05-7d38aa43c48a8a47",
+      "doi": "10.1111/puar.70234",
+      "journal": "Public Administration Review",
+      "publication_date": "2026-11-05",
+      "sent_at": "2026-11-05T15:33:41.437769+00:00",
+      "title": "Digging Into the Subsoil: Considering and Theorizing Human Services Delivery at the Sub‐Micro‐Level of the Public Service Ecosystem"
     },
     "doi:10.1177/00953997261467698": {
       "batch_id": "2026-08-17-92d20fbd959228aa",
@@ -23346,7 +23394,8 @@
           "url": "https://doi.org/10.1086/744574"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-05T15:33:41.437769+00:00",
+      "status": "sent"
     }
   },
   "pending": {
