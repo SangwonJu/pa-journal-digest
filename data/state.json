@@ -23160,6 +23160,193 @@
       ],
       "sent_at": "2026-11-04T15:31:46.842932+00:00",
       "status": "sent"
+    },
+    "2026-11-05-7d38aa43c48a8a47": {
+      "created_at": "2026-11-05T15:26:17.862959+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-05-7d38aa43c48a8a47",
+      "items": [
+        {
+          "abstract": "Abstract Political scientists are increasingly interested in analyzing visual content at scale. However, the existing computational toolbox is still in need of methods and models attuned to the specific challenges and goals of social and political inquiry. In this article, we introduce a visual structural topic model (vSTM) that combines continuous image embeddings with a structural topic model. This has important advantages compared to existing approaches. First, continuous embeddings allow the model to capture the semantic complexity of images, which is relevant to the study of politics. A consequence of using continuous embeddings is that we can directly use off-the-shelf pretrained deep learning models, offering state-of-the-art performance in image analysis tasks while saving time, cost and resources. Second, the structural topic model provides the ability to analyze how topics and covariates are related, while maintaining a nuanced representation of images as a mixture of multiple topics. In our experiments, we show that the vSTM is able to identify topics that are interpretable, coherent and relevant to the study of online political communication.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Alexandra Segerberg": [
+              "Uppsala University"
+            ],
+            "Matteo Magnani": [
+              "Uppsala University"
+            ],
+            "Matías Piqueras": [
+              "Uppsala University"
+            ],
+            "Måns Magnusson": [
+              "Uppsala University"
+            ],
+            "Nataša Sladoje": [
+              "Uppsala University"
+            ]
+          },
+          "authors": [
+            "Matías Piqueras",
+            "Alexandra Segerberg",
+            "Matteo Magnani",
+            "Måns Magnusson",
+            "Nataša Sladoje"
+          ],
+          "constructs": [
+            "Image Embeddings",
+            "Structural Topic Model"
+          ],
+          "doi": "10.1017/pan.2026.10062",
+          "journal": "Political Analysis",
+          "journal_short": "PolAnalysis",
+          "method": "혼합방법론",
+          "method_detail": "이미지 임베딩 토픽모형",
+          "publication_date": "2026-11-05",
+          "stable_id": "doi:10.1017/pan.2026.10062",
+          "summary_basis": "abstract",
+          "summary_ko": "정치적·사회적 연구에서 이미지의 의미와 주제 및 공변량 간 관계를 분석하기 위해, 사전학습 이미지 임베딩과 구조적 토픽 모형을 결합한 시각적 구조적 토픽 모형(vSTM)을 제안한다. 실험에서 vSTM은 온라인 정치 커뮤니케이션 이미지에서 해석 가능하고 일관되며 연구 관련성이 높은 복수의 주제를 식별했다.",
+          "title": "An Image Is Worth K Topics: A Visual Structural Topic Model with Pretrained Image Embeddings",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1017/pan.2026.10062"
+        },
+        {
+          "abstract": "ABSTRACT Public services are often delivered in partnership with families and communities, yet these relationships receive limited attention within public service ecosystem (PSE) theory. Responding to call to develop the sub‐micro‐level of the PSE, we introduce the concept of subsoil sensitivity to foreground the family and community ecosystems that underpin public service value creation. These informal systems are active sites of value creation and destruction with sensitivities arising from their alignment or misalignment with public services. We propose legislative and policy nodes as connectors that translate macrolevel policy into microlevel practice. Drawing on child protection vignettes, we show how nodes create the conditions for interaction, while subsoil dynamics influence whether value is cocreated or codestroyed amid power asymmetries and differing belief systems. The paper extends the sub‐micro‐level of the PSE and offers a framework for examining family and community ecosystems in public service delivery.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Kate Broadhurst": [
+              "Loughborough Business School Loughborough University Loughborough UK"
+            ],
+            "Steven Parker": [
+              "Department for Public Leadership and Social Enterprise Open University Milton Keynes UK"
+            ]
+          },
+          "authors": [
+            "Kate Broadhurst",
+            "Steven Parker"
+          ],
+          "constructs": [
+            "Public Service Ecosystem",
+            "Subsoil Sensitivity"
+          ],
+          "doi": "10.1111/puar.70234",
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "이론/개념",
+          "method_detail": "개념적 모형",
+          "publication_date": "2026-11-05",
+          "stable_id": "doi:10.1111/puar.70234",
+          "summary_basis": "abstract",
+          "summary_ko": "공공서비스 생태계의 하위 미시 수준에서 가족·지역사회 생태계가 공공서비스 가치의 공동창출 또는 공동파괴에 어떻게 영향을 미치는지 이론화한다. 아동보호 비네트를 바탕으로, 입법·정책 노드가 거시 정책과 미시 실천을 연결하는 조건을 만들며 권력 비대칭과 신념체계의 차이 속에서 하위 토양 역학과의 정합성에 따라 가치 결과가 달라진다고 제시한다.",
+          "title": "Digging Into the Subsoil: Considering and Theorizing Human Services Delivery at the Sub‐Micro‐Level of the Public Service Ecosystem",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1111/puar.70234"
+        },
+        {
+          "abstract": "Past research has shown that racial group norms are highly effective at unifying political behavior within the Black American community. Given the salience of racism within the Black community, it might be expected that Black Americans are especially united on the question of what does and does not count as racism. Using national surveys, we find that, not only do Blacks' personal beliefs about what does and does not count as racism vary substantially, so do their expectations about what other Black Americans believe, suggesting norms for how to apply the term racism are unclear within the Black community. However, despite the weakness of these norms, experimentally priming racial group norms causes Black Americans to express personal beliefs that are more consistent with group norms. Ultimately, this broadens the perception of what counts as racism within the Black American community.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {},
+          "authors": [
+            "Antoine Banks",
+            "Eric Groenendyk",
+            "Ja'nae Jackson",
+            "Erik Kimbrough",
+            "Mark Pickup"
+          ],
+          "constructs": [
+            "Racial Group Norms",
+            "Racial Identity"
+          ],
+          "doi": "10.1086/743970",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "혼합방법론",
+          "method_detail": "전국 설문 실험",
+          "publication_date": "2026-09-08",
+          "stable_id": "doi:10.1086/743970",
+          "summary_basis": "abstract",
+          "summary_ko": "전국 설문조사를 통해 흑인 미국인들이 인종차별로 간주하는 행위에 대한 개인적 신념과 다른 흑인들의 신념에 대한 기대가 상당히 다양해, 인종차별 개념 적용에 관한 집단 규범이 불명확함을 보였다. 그러나 인종 집단 규범을 점화한 실험에서는 응답자들이 집단 규범에 더 부합하는 개인적 신념을 표현했고, 그 결과 인종차별로 간주되는 범위가 확대되었다.",
+          "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/743970"
+        },
+        {
+          "abstract": "Political signals can influence behavior through information that alters enforcement expectations. We provide causal evidence from Brazil’s 2019 political transition, asking whether anti-environmental signals from the Bolsonaro government increased Amazon deforestation without formal regulatory change. We combine monthly government tweets with pre-2019 municipal Twitter attention to forest issues in a shift-share design across 578 Legal Amazon municipalities. A one-standard-deviation increase in exposure raises monthly deforestation by 6.8%. Effects are largest where agricultural returns are high and conservation enforcement was historically strong. Exposure does not predict municipal fines or embargoes and effects do not vary with political allegiance, pointing to perceived enforcement risk rather than immediate local enforcement or partisan interpretation. Political speech can weaken environmental institutions even without new formal policy.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {},
+          "authors": [
+            "Gustavo Magalhães de Oliveira",
+            "Elías Cisneros",
+            "Jorge Sellare",
+            "Jan Börner"
+          ],
+          "constructs": [
+            "Political Signals",
+            "Enforcement Expectations"
+          ],
+          "doi": "10.1086/744065",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "준실험",
+          "method_detail": "시프트-셰어 설계",
+          "publication_date": "2026-09-14",
+          "stable_id": "doi:10.1086/744065",
+          "summary_basis": "abstract",
+          "summary_ko": "브라질 2019년 정권 교체에서 나타난 반환경적 정치 신호가 공식 규제 변화 없이 아마존 산림 파괴를 증가시켰는지를, 정부 트윗과 2019년 이전 지방정부의 산림 관련 트위터 관심도를 결합한 578개 법정 아마존 지방자치단체의 시프트-셰어 설계로 분석했다. 반환경 신호 노출이 1표준편차 증가하면 월별 산림 파괴가 6.8% 증가했으며, 이는 즉각적인 지방 집행이나 정파적 해석보다 집행 위험에 대한 인식 변화와 관련된 것으로 나타났다.",
+          "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1086/744065"
+        },
+        {
+          "abstract": "How strong is the nexus between domestic and international politics? The democratic peace contends that democracies do not fight interstate wars against each other. We argue there is also a “left-wing peace” and a “right-wing peace,” where people are less likely to support the use of force against countries that share their left-wing or right-wing ideology. This effect holds independent of whether a foreign country is democratic or nondemocratic. Observers view out-ideology states as more threatening than in-ideology states due to out-group bias, which is exacerbated by increasing polarization. Two survey experiments among the American public, and an analysis of militarized interstate disputes, provide strong evidence for our argument. Our theory connects major literatures across political science subfields, including social identity theory, political polarization, and the democratic peace. It significantly contributes to debates about whether politics “stops at the water’s edge” and the impact of polarization on political violence.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {},
+          "authors": [
+            "Joshua A. Schwartz",
+            "Dominic Tierney"
+          ],
+          "constructs": [
+            "Social Identity Theory",
+            "Political Polarization"
+          ],
+          "doi": "10.1086/744217",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "혼합방법론",
+          "method_detail": "설문 실험·분쟁 분석",
+          "publication_date": "2026-09-29",
+          "stable_id": "doi:10.1086/744217",
+          "summary_basis": "abstract",
+          "summary_ko": "국내 정치와 국제정치의 연계를 검토하며, 사람들이 자신과 좌파 또는 우파 이념을 공유하는 국가에 대한 무력 사용을 덜 지지하는지 두 차례의 미국인 설문실험과 군사화된 국가 간 분쟁 분석으로 검증했다. 그 결과 민주주의 여부와 무관하게 ‘좌파 평화’와 ‘우파 평화’가 나타났고, 정치적 양극화가 심할수록 외집단 이념 국가를 더 위협적으로 인식하는 경향이 강화되었다.",
+          "title": "The Left-Wing Peace & The Right-Wing Peace",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/744217"
+        },
+        {
+          "abstract": "Why do low-income, lower-educated voters vote against their economic interests by supporting conservative and radical right parties and candidates? I propose a new explanation arguing that these voters' misperceptions of the policy priorities of economically progressive parties drive them to parties on the right. In two population surveys in the Netherlands and Unites States, I show that many low-income, lower-educated voters believe that economic issues are not a policy priority for the left, and that holding such perceptions influences vote intention for the left. Using 'prior-updating' survey experiments, I test the effect of presenting voters with the actual policy priorities of the (Social) Democrats, as measured in an original survey with Dutch politicians and based on US House roll calls. The results indicate that updating misperceptions of the salience of economic issues to the left can significantly alter voting patterns.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {},
+          "authors": [
+            "Jonne Kamphorst"
+          ],
+          "constructs": [
+            "Issue Salience",
+            "Prior Updating"
+          ],
+          "doi": "10.1086/744574",
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "혼합방법론",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-10-20",
+          "stable_id": "doi:10.1086/744574",
+          "summary_basis": "abstract",
+          "summary_ko": "저소득·저학력 유권자가 진보 정당의 정책 우선순위를 잘못 인식하는 것이 우파 정당에 대한 투표 의향에 어떤 영향을 미치는지 분석한다. 네덜란드와 미국의 설문 및 ‘우선순위 갱신’ 설문실험을 통해, 진보 진영이 경제 문제를 중시한다는 실제 정보를 제시하면 투표 선택이 유의하게 달라질 수 있음을 보인다.",
+          "title": "The Left Misunderstood: How Voters’ Perceptions of What Matters to the Left Benefit the Right",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/744574"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -23182,7 +23369,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -23197,7 +23384,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -23218,7 +23405,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -23243,7 +23430,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -23278,7 +23465,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -23303,7 +23490,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -23324,7 +23511,93 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+    },
+    "doi:10.1080/10967494.2026.2716261": {
+      "first_seen_at": "2026-11-05T15:26:17.862959+00:00",
+      "item": {
+        "author_affiliations": {
+          "Daniel Bromberg": [
+            "Vermont Law and Graduate School"
+          ],
+          "Geneviève Morin": [
+            "École nationale d’administration publique;",
+            "Vermont Law and Graduate School"
+          ],
+          "Étienne Charbonneau": [
+            "École nationale d’administration publique;"
+          ]
+        },
+        "authors": [
+          "Geneviève Morin",
+          "Étienne Charbonneau",
+          "Daniel Bromberg"
+        ],
+        "doi": "10.1080/10967494.2026.2716261",
+        "journal": "International Public Management Journal",
+        "journal_short": "IPMJ",
+        "publication_date": "2026-11-04",
+        "stable_id": "doi:10.1080/10967494.2026.2716261",
+        "title": "Safeguarding online panel surveys from LLM pollution: evidence from Canadian federal survey contracts",
+        "url": "https://doi.org/10.1080/10967494.2026.2716261"
+      },
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+    },
+    "doi:10.1080/14719037.2026.2759174": {
+      "first_seen_at": "2026-11-05T15:26:17.862959+00:00",
+      "item": {
+        "author_affiliations": {
+          "David Scott": [
+            "Karlstad University",
+            "Umeå University"
+          ],
+          "Malin Rönnblom": [
+            "Karlstad University",
+            "Umeå University"
+          ]
+        },
+        "authors": [
+          "David Scott",
+          "Malin Rönnblom"
+        ],
+        "doi": "10.1080/14719037.2026.2759174",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-11-04",
+        "stable_id": "doi:10.1080/14719037.2026.2759174",
+        "title": "The only game in town: NPM’s resilience and depoliticizing effects in (r)urban sustainability transition",
+        "url": "https://doi.org/10.1080/14719037.2026.2759174"
+      },
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+    },
+    "doi:10.1080/14719037.2026.2759315": {
+      "first_seen_at": "2026-11-05T15:26:17.862959+00:00",
+      "item": {
+        "author_affiliations": {
+          "Alec Fraser": [
+            "King’s College London"
+          ],
+          "Alice Moore": [
+            "King’s College London"
+          ],
+          "Rene Wiedner": [
+            "University of Warwick"
+          ]
+        },
+        "authors": [
+          "Rene Wiedner",
+          "Alice Moore",
+          "Alec Fraser"
+        ],
+        "doi": "10.1080/14719037.2026.2759315",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-11-05",
+        "stable_id": "doi:10.1080/14719037.2026.2759315",
+        "title": "The difficulties of reducing administrative burden via the nonprofit sector: how sedimented governance stifles care coordination",
+        "url": "https://doi.org/10.1080/14719037.2026.2759315"
+      },
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -23353,7 +23626,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -23373,7 +23646,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -23390,28 +23663,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
-    },
-    "doi:10.1086/743970": {
-      "first_seen_at": "2026-09-09T15:06:06.398835+00:00",
-      "item": {
-        "author_affiliations": {},
-        "authors": [
-          "Antoine Banks",
-          "Eric Groenendyk",
-          "Ja'nae Jackson",
-          "Erik Kimbrough",
-          "Mark Pickup"
-        ],
-        "doi": "10.1086/743970",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-09-08",
-        "stable_id": "doi:10.1086/743970",
-        "title": "Beliefs and Racial Identity Norms among Black Americans: An Examination of How Black Americans Understand Racism",
-        "url": "https://doi.org/10.1086/743970"
-      },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -23428,7 +23680,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -23446,27 +23698,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
-    },
-    "doi:10.1086/744065": {
-      "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
-      "item": {
-        "author_affiliations": {},
-        "authors": [
-          "Gustavo Magalhães de Oliveira",
-          "Elías Cisneros",
-          "Jorge Sellare",
-          "Jan Börner"
-        ],
-        "doi": "10.1086/744065",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-09-14",
-        "stable_id": "doi:10.1086/744065",
-        "title": "Anti-Environmental Signals and Deforestation: Evidence from Brazil",
-        "url": "https://doi.org/10.1086/744065"
-      },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -23483,25 +23715,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
-    },
-    "doi:10.1086/744217": {
-      "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
-      "item": {
-        "author_affiliations": {},
-        "authors": [
-          "Joshua A. Schwartz",
-          "Dominic Tierney"
-        ],
-        "doi": "10.1086/744217",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-09-29",
-        "stable_id": "doi:10.1086/744217",
-        "title": "The Left-Wing Peace & The Right-Wing Peace",
-        "url": "https://doi.org/10.1086/744217"
-      },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -23520,7 +23734,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -23538,7 +23752,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -23557,7 +23771,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -23575,7 +23789,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -23592,7 +23806,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -23611,7 +23825,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -23629,24 +23843,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
-    },
-    "doi:10.1086/744574": {
-      "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
-      "item": {
-        "author_affiliations": {},
-        "authors": [
-          "Jonne Kamphorst"
-        ],
-        "doi": "10.1086/744574",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-10-20",
-        "stable_id": "doi:10.1086/744574",
-        "title": "The Left Misunderstood: How Voters’ Perceptions of What Matters to the Left Benefit the Right",
-        "url": "https://doi.org/10.1086/744574"
-      },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -23664,7 +23861,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -23685,7 +23882,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -23700,7 +23897,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -23715,7 +23912,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -23736,7 +23933,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -23751,7 +23948,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -23766,7 +23963,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-04T15:23:27.749479+00:00"
+      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
     }
   },
   "version": 1
