@@ -616,6 +616,14 @@
       "sent_at": "2026-10-13T14:14:22.617282+00:00",
       "title": "Public Service Decline and Support for the Populist Right: Evidence from England’s National Health Service"
     },
+    "doi:10.1017/s0003055426101956": {
+      "batch_id": "2026-11-06-83894f7c049c5911",
+      "doi": "10.1017/s0003055426101956",
+      "journal": "American Political Science Review",
+      "publication_date": "2026-11-06",
+      "sent_at": "2026-11-06T15:08:10.195885+00:00",
+      "title": "The Influence of Police Unions in Local Elections: Evidence from U.S. Cities’ Spending and Performance"
+    },
     "doi:10.1017/s0003055426101968": {
       "batch_id": "2026-09-29-66b14dcf36a3e330",
       "doi": "10.1017/s0003055426101968",
@@ -639,6 +647,14 @@
       "publication_date": "2026-10-30",
       "sent_at": "2026-10-30T12:57:46.401127+00:00",
       "title": "Trade Interdependence in the Modern Global Economy"
+    },
+    "doi:10.1017/s0003055426101993": {
+      "batch_id": "2026-11-06-83894f7c049c5911",
+      "doi": "10.1017/s0003055426101993",
+      "journal": "American Political Science Review",
+      "publication_date": "2026-11-06",
+      "sent_at": "2026-11-06T15:08:10.195885+00:00",
+      "title": "The Seeds of State Capture: Merit and Patrimonialism in the Colonial Bureaucracy"
     },
     "doi:10.1017/s0003055426102007": {
       "batch_id": "2026-10-06-5276ba1beeee03e4",
@@ -1272,6 +1288,14 @@
       "sent_at": "2026-09-18T11:17:24.477239+00:00",
       "title": "The promises and pitfalls of AI in public service: a review of AI snake oil,"
     },
+    "doi:10.1080/10967494.2026.2716261": {
+      "batch_id": "2026-11-06-83894f7c049c5911",
+      "doi": "10.1080/10967494.2026.2716261",
+      "journal": "International Public Management Journal",
+      "publication_date": "2026-11-04",
+      "sent_at": "2026-11-06T15:08:10.195885+00:00",
+      "title": "Safeguarding online panel surveys from LLM pollution: evidence from Canadian federal survey contracts"
+    },
     "doi:10.1080/10967494.2026.2716270": {
       "batch_id": "2026-09-23-44e485dedc948b31",
       "doi": "10.1080/10967494.2026.2716270",
@@ -1783,6 +1807,22 @@
       "publication_date": "2026-11-02",
       "sent_at": "2026-11-02T17:12:36.986972+00:00",
       "title": "Organizational sensemaking and AI adoption in U.S. local governments"
+    },
+    "doi:10.1080/14719037.2026.2759174": {
+      "batch_id": "2026-11-06-83894f7c049c5911",
+      "doi": "10.1080/14719037.2026.2759174",
+      "journal": "Public Management Review",
+      "publication_date": "2026-11-04",
+      "sent_at": "2026-11-06T15:08:10.195885+00:00",
+      "title": "The only game in town: NPM’s resilience and depoliticizing effects in (r)urban sustainability transition"
+    },
+    "doi:10.1080/14719037.2026.2759315": {
+      "batch_id": "2026-11-06-83894f7c049c5911",
+      "doi": "10.1080/14719037.2026.2759315",
+      "journal": "Public Management Review",
+      "publication_date": "2026-11-05",
+      "sent_at": "2026-11-06T15:08:10.195885+00:00",
+      "title": "The difficulties of reducing administrative burden via the nonprofit sector: how sedimented governance stifles care coordination"
     },
     "doi:10.1080/15309576.2026.2700771": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -3056,6 +3096,14 @@
       "sent_at": "2026-10-22T11:55:59.639147+00:00",
       "title": "Rejecting authoritarianism: When threats to democracy shape values"
     },
+    "doi:10.1111/pops.70213": {
+      "batch_id": "2026-11-06-83894f7c049c5911",
+      "doi": "10.1111/pops.70213",
+      "journal": "Political Psychology",
+      "publication_date": "2026-11-05",
+      "sent_at": "2026-11-06T15:08:10.195885+00:00",
+      "title": "Beyond remembrance: Genocide commemoration as a lens for understanding collective victimhood and contemporary conflicts"
+    },
     "doi:10.1111/pops.70214": {
       "batch_id": "2026-10-21-97e4d3559cd3b284",
       "doi": "10.1111/pops.70214",
@@ -3239,6 +3287,22 @@
       "publication_date": "2026-10-25",
       "sent_at": "2026-10-26T13:07:19.116260+00:00",
       "title": "Lobbying Priorities in Agenda‐Setting: Agenda Breadth, Direction, and Responsiveness Across Economic and Citizen Groups"
+    },
+    "doi:10.1111/psj.70173": {
+      "batch_id": "2026-11-06-83894f7c049c5911",
+      "doi": "10.1111/psj.70173",
+      "journal": "Policy Studies Journal",
+      "publication_date": "2026-11-05",
+      "sent_at": "2026-11-06T15:08:10.195885+00:00",
+      "title": "When More Is More: Committee Overlap and the Diversity of Information in Problem Definition"
+    },
+    "doi:10.1111/psj.70174": {
+      "batch_id": "2026-11-06-83894f7c049c5911",
+      "doi": "10.1111/psj.70174",
+      "journal": "Policy Studies Journal",
+      "publication_date": "2026-11-05",
+      "sent_at": "2026-11-06T15:08:10.195885+00:00",
+      "title": "Volatility in Evidence Use: A Computational Analysis of Punctuated Equilibrium Theory"
     },
     "doi:10.1111/puar.70165": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -23684,7 +23748,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2759315"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-06T15:08:10.195885+00:00",
+      "status": "sent"
     }
   },
   "pending": {
