@@ -23396,6 +23396,295 @@
       ],
       "sent_at": "2026-11-05T15:33:41.437769+00:00",
       "status": "sent"
+    },
+    "2026-11-06-83894f7c049c5911": {
+      "created_at": "2026-11-06T14:59:44.495619+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-06-83894f7c049c5911",
+      "items": [
+        {
+          "abstract": "Despite growing attention to local policies governing public safety issues, and mounting reports of police union spending to local candidates, the role of police unions in local politics remains understudied. We address this gap by assembling a novel, large-scale dataset on campaign finance in U.S. mayoral elections, covering 2,303 races across 1,073 cities from 2001 to 2019. We document that police unions frequently donate to mayoral candidates—especially in mid-sized and large cities—targeting likely winners and incumbents, and without displaying clear partisan bias. Using a within-city design that accounts for heterogeneous treatment effects in the presence of staggered treatment timing, we find that the election of a police-union-backed mayor leads to an expansion in police department size. However, we do not find improvements in police performance in these cities, suggesting that unions’ political involvement, while providing additional resources, might also be associated with reduced incentives for effort.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "EDOARDO TESO": [
+              "Bocconi University"
+            ],
+            "MARIA CARRERI": [
+              "Bocconi University"
+            ],
+            "RUI YU": [
+              "Amazon"
+            ]
+          },
+          "authors": [
+            "MARIA CARRERI",
+            "EDOARDO TESO",
+            "RUI YU"
+          ],
+          "constructs": [
+            "Interest Groups",
+            "Police Unions"
+          ],
+          "doi": "10.1017/s0003055426101956",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "준실험",
+          "method_detail": "도시 내 비교",
+          "publication_date": "2026-11-06",
+          "stable_id": "doi:10.1017/s0003055426101956",
+          "summary_basis": "abstract",
+          "summary_ko": "미국 도시 시장선거에서 경찰노조의 후보 후원이 지방정치와 경찰정책에 미치는 영향을 대규모 선거·캠페인 재정 자료와 도시 내 비교 설계로 분석했다. 경찰노조가 후원한 시장의 당선은 경찰부서 규모 확대와 관련되지만, 경찰 성과 개선은 나타나지 않았다.",
+          "title": "The Influence of Police Unions in Local Elections: Evidence from U.S. Cities’ Spending and Performance",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1017/s0003055426101956"
+        },
+        {
+          "abstract": "Bureaucracies vary in the extent to which hiring is meritocratic versus patrimonial. Such outcomes are typically seen as the result of politicians’ behavior. However, politicians often delegate hiring to existing bureaucrats. When political leaders are socially distant from communities they seek to govern and these areas are peripheral to politicians’ core interests, bureaucrats’ private preferences can dominate hiring decisions instead. Colonial and other forms of external state-building typify cases where patrimonialism created by bureaucrats, not politicians, can emerge. Digitizing individual-level records across six decades of British rule in Ghana, we find evidence of patrimonialism rather than meritocracy in the hiring of African staff, with large inequities across ethnic groups. Our results demonstrate the underexplored agency of local bureaucrats in state-building and highlight conditions under which bureaucrats’ preferences, rather than only political principals’, shape state institutions. They also challenge conventional wisdom about why, and when, newly-independent African states became “neopatrimonial.”",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "GEORGE KWAKU OFOSU": [
+              "London School of Economics and Political Science"
+            ],
+            "NOAH NATHAN": [
+              "Massachusetts Institute of Technology"
+            ],
+            "SARAH BRIERLEY": [
+              "London School of Economics and Political Science"
+            ],
+            "TINGXUAN ZHU": [
+              "Massachusetts Institute of Technology"
+            ]
+          },
+          "authors": [
+            "SARAH BRIERLEY",
+            "NOAH NATHAN",
+            "GEORGE KWAKU OFOSU",
+            "TINGXUAN ZHU"
+          ],
+          "constructs": [
+            "bureaucracy",
+            "patrimonialism"
+          ],
+          "doi": "10.1017/s0003055426101993",
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "질적연구",
+          "method_detail": "개인기록 분석",
+          "publication_date": "2026-11-06",
+          "stable_id": "doi:10.1017/s0003055426101993",
+          "summary_basis": "abstract",
+          "summary_ko": "정치 지도자가 채용을 기존 관료에게 위임하고 통치 지역과 사회적으로 멀리 떨어져 있을 때, 관료의 사적 선호가 식민 관료제의 채용을 좌우할 수 있는지를 검토한다. 60년에 걸친 영국령 가나의 개인별 기록을 디지털화해 분석한 결과, 아프리카인 직원 채용에서 능력주의보다 관료가 만든 세습주의가 나타났고 민족집단 간 불평등도 컸다.",
+          "title": "The Seeds of State Capture: Merit and Patrimonialism in the Colonial Bureaucracy",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1017/s0003055426101993"
+        },
+        {
+          "abstract": "Bots and large language model (LLM) agents can now complete online surveys convincingly enough to pass as real respondents, a risk long flagged in other fields but rarely addressed in public management research. Drawing on disheartening empirical findings from previous efforts to validate responses to online panel surveys, this research note offers a portrait of efforts to ensure the integrity of data collected by firms that survey citizens on behalf of Canadian federal departments and ministries, a case study likely representative of the challenges facing online survey practices across countries and levels of governments.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Daniel Bromberg": [
+              "Vermont Law and Graduate School"
+            ],
+            "Geneviève Morin": [
+              "École nationale d’administration publique;",
+              "Vermont Law and Graduate School"
+            ],
+            "Étienne Charbonneau": [
+              "École nationale d’administration publique;"
+            ]
+          },
+          "authors": [
+            "Geneviève Morin",
+            "Étienne Charbonneau",
+            "Daniel Bromberg"
+          ],
+          "constructs": [
+            "Online Panels",
+            "LLM Agents"
+          ],
+          "doi": "10.1080/10967494.2026.2716261",
+          "journal": "International Public Management Journal",
+          "journal_short": "IPMJ",
+          "method": "질적연구",
+          "method_detail": "사례 연구",
+          "publication_date": "2026-11-04",
+          "stable_id": "doi:10.1080/10967494.2026.2716261",
+          "summary_basis": "abstract",
+          "summary_ko": "캐나다 연방 부처·기관을 대신해 시민을 조사하는 기업의 온라인 패널 설문에서 LLM 에이전트와 봇으로 인한 응답 오염을 어떻게 방지하고 데이터 무결성을 확보하는지, 기존 검증 시도의 경험을 바탕으로 사례를 제시한다. 온라인 설문 응답을 실제 응답자처럼 생성하는 행위자를 식별·차단하는 데 중대한 어려움이 있음을 보여준다.",
+          "title": "Safeguarding online panel surveys from LLM pollution: evidence from Canadian federal survey contracts",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1080/10967494.2026.2716261"
+        },
+        {
+          "abstract": "ABSTRACT How does the use of evidence in policy documents change over time, and what explains differences between stable, incremental, and abrupt shifts in its use? This study introduces a computational framework to evaluate change in evidence use across Congressional Research Service (CRS) reports. Using a combination of large language models and supervised machine learning, each document is scored on its alignment with evidence‐based policymaking principles and aggregated to the policy‐topic level. The results show that most policy areas exhibit gradual change, while punctuated shifts are less common and highly variable. Public salience is associated with punctuated evidence‐use trajectories, while media and executive attention are associated primarily with gradual change; partisan control plays a limited role once attention and institutional demand are taken into account. Substantial variation remains across policy topics, with areas such as Macroeconomics and Government Operations exhibiting relatively high dispersion in evidence‐use scores. These findings demonstrate that evidence use in policymaking is dynamic and attention‐sensitive over time.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Stefani Langehennig": [
+              "Department of Business Information &amp; Analytics University of Denver Denver Colorado USA"
+            ]
+          },
+          "authors": [
+            "Stefani Langehennig"
+          ],
+          "constructs": [
+            "Punctuated Equilibrium Theory",
+            "Evidence-Based Policymaking"
+          ],
+          "doi": "10.1111/psj.70174",
+          "journal": "Policy Studies Journal",
+          "journal_short": "PSJ",
+          "method": "혼합방법론",
+          "method_detail": "언어모형 분석",
+          "publication_date": "2026-11-05",
+          "stable_id": "doi:10.1111/psj.70174",
+          "summary_basis": "abstract",
+          "summary_ko": "정책문서에서 증거 활용이 시간에 따라 어떻게 변화하고, 안정적·점진적·급격한 변화의 차이를 무엇이 설명하는지 분석하기 위해 CRS 보고서를 대상으로 대규모 언어모형과 지도학습을 결합한 계산적 분석을 수행했다. 대부분의 정책 분야에서는 점진적 변화가 나타났고, 급격한 변화는 드물지만 변동성이 컸으며, 대중적 현저성은 급격한 궤적과, 언론 및 행정부의 관심은 주로 점진적 변화와 관련되었다.",
+          "title": "Volatility in Evidence Use: A Computational Analysis of Punctuated Equilibrium Theory",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1111/psj.70174"
+        },
+        {
+          "abstract": "ABSTRACT Congress relies on a fragmented bureaucracy to monitor complex problems, raising concerns over whether it can aggregate the diverse information needed for effective policy‐making. I argue that competition among committees with different institutional ties to agencies should produce informational diversity without any coordinating body. Analyzing 92,375 instances of agency testimony across 131 agencies from 1973 to 2021, I find that a greater number of committees examining a problem is consistently associated with a broader and less concentrated set of agencies supplying information. I find little evidence that this association is systematically moderated by public salience.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Connor Dye": [
+              "Department of Political Science and Geography University of Texas at San Antonio San Antonio Texas USA"
+            ]
+          },
+          "authors": [
+            "Connor Dye"
+          ],
+          "constructs": [
+            "Committee Overlap",
+            "Informational Diversity"
+          ],
+          "doi": "10.1111/psj.70173",
+          "journal": "Policy Studies Journal",
+          "journal_short": "PSJ",
+          "method": "질적연구",
+          "method_detail": "증언자료 분석",
+          "publication_date": "2026-11-05",
+          "stable_id": "doi:10.1111/psj.70173",
+          "summary_basis": "abstract",
+          "summary_ko": "의회가 복잡한 문제를 감시할 때 위원회 간 경쟁과 중복이 기관과의 상이한 관계를 통해 정보의 다양성을 높이는지 분석했다. 1973~2021년 131개 기관의 증언 92,375건을 분석한 결과, 문제를 심사하는 위원회 수가 많을수록 정보를 제공하는 기관의 범위가 넓고 집중도는 낮았으며, 이 관계가 공적 현저성에 따라 체계적으로 달라진다는 증거는 거의 없었다.",
+          "title": "When More Is More: Committee Overlap and the Diversity of Information in Problem Definition",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1111/psj.70173"
+        },
+        {
+          "abstract": "Abstract Genocide commemorations are a key societal mechanism through which collective victimhood is constructed and transmitted across generations, yet their implications for contemporary conflicts remain underexamined. We conducted parallel naturalistic longitudinal studies in Armenia around Armenian Genocide Remembrance Day and Israel around Holocaust Remembrance Day (Time 1), with a lower‐salience comparison 2 months later (Time 2). Across both studies, Armenian and Jewish‐Israeli participants reported heightened existential threat and reduced inclusive victim consciousness around Remembrance Day than at the post‐Remembrance Day assessment. Armenian participants also reported lower willingness to reconcile with Azerbaijan, while their attitudes toward Ukrainian victims of the Russia–Ukraine war did not differ significantly across time. In Israel, attitudes toward the conflict with Palestinians did not differ significantly across time, but participants reported greater willingness to help Ukrainian victims at Time 1. Time 1 indirect effect analyses further revealed competing pathways: greater personal involvement in commemoration was indirectly associated with more conflict‐supportive attitudes (via heightened threat, moral entitlement, and reduced inclusive victimhood) and with more conciliatory and prosocial attitudes (via heightened moral obligation). These findings highlight that genocide commemorations are linked to competing psychological processes, which may explain their divergent implications for intergroup relations, a tension discussed in the paper.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Ani Grigoryan": [
+              "Department of Personality Psychology Yerevan State University Yerevan Armenia"
+            ],
+            "Anna Baumert": [
+              "Max Planck Institute for Research on Collective Goods Bonn Germany",
+              "School of Human and Social Sciences University of Wuppertal Wuppertal Germany"
+            ],
+            "Mengyao Li": [
+              "School of Psychology Queen's University Belfast Belfast Northern Ireland UK",
+              "Max Planck Institute for Research on Collective Goods Bonn Germany"
+            ],
+            "Slieman Halabi": [
+              "School of Human and Social Sciences University of Wuppertal Wuppertal Germany",
+              "Department of Psychology RPTU University Kaiserslautern‐Landau Landau Germany"
+            ]
+          },
+          "authors": [
+            "Mengyao Li",
+            "Ani Grigoryan",
+            "Slieman Halabi",
+            "Anna Baumert"
+          ],
+          "constructs": [
+            "Collective Victimhood",
+            "Existential Threat"
+          ],
+          "doi": "10.1111/pops.70213",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "준실험",
+          "method_detail": "자연주의 종단",
+          "publication_date": "2026-11-05",
+          "stable_id": "doi:10.1111/pops.70213",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 아르메니아와 이스라엘에서 집단학살 추모일 전후의 자연주의적 종단 연구를 통해 추모가 집단적 피해의식과 현대 분쟁 태도에 미치는 영향을 검토했다. 추모일에는 실존적 위협이 높고 포괄적 피해의식이 낮아졌으며, 위협·도덕적 자격·도덕적 의무를 매개로 분쟁 지지적 태도와 화해·친사회적 태도로 이어지는 상반된 경로가 나타났다.",
+          "title": "Beyond remembrance: Genocide commemoration as a lens for understanding collective victimhood and contemporary conflicts",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70213"
+        },
+        {
+          "abstract": "This article explains the resilience of New Public Management (NPM) by conceptualizing it as a ‘mobile assemblage’ of flexible ideas and practices translated across contexts. Drawing on a qualitative study of four Swedish municipalities undergoing (r)urban sustainability transition, we demonstrate how NPM is mobilized as a set of flexible resources – managerial tools, entrepreneurial identities, market-making devices, legitimizing discursive resources, and behaviour-prescribing scripts – to organize transition initiatives. NPM thus becomes raw material for four governing arrangements – temporary projects, consultant collaboration, municipally owned companies, and public-private partnerships. Through these arrangements, NPM embeds market and management logics into local governance, fostering silent depoliticization.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "David Scott": [
+              "Karlstad University",
+              "Umeå University"
+            ],
+            "Malin Rönnblom": [
+              "Karlstad University",
+              "Umeå University"
+            ]
+          },
+          "authors": [
+            "David Scott",
+            "Malin Rönnblom"
+          ],
+          "constructs": [
+            "New Public Management",
+            "Depoliticization"
+          ],
+          "doi": "10.1080/14719037.2026.2759174",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "사례 비교 분석",
+          "publication_date": "2026-11-04",
+          "stable_id": "doi:10.1080/14719037.2026.2759174",
+          "summary_basis": "abstract",
+          "summary_ko": "이 논문은 NPM이 맥락에 따라 번역되는 유연한 ‘이동적 조합’으로서 어떻게 지속되는지를, 지속가능성 전환을 겪는 스웨덴 지방자치단체 4곳에 대한 질적 연구로 분석한다. NPM은 관리 도구, 기업가적 정체성, 시장 형성 장치, 정당화 담론, 행동 규범으로 동원되어 임시 프로젝트·컨설턴트 협업·지방공기업·민관협력이라는 통치 배열을 구성하고, 이를 통해 시장 및 관리 논리를 지역 거버넌스에 내재화하며 조용한 탈정치화를 촉진한다.",
+          "title": "The only game in town: NPM’s resilience and depoliticizing effects in (r)urban sustainability transition",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1080/14719037.2026.2759174"
+        },
+        {
+          "abstract": "Care coordination services are designed to reduce administrative burden. However, they may not always achieve this aim. This paper, which draws from care coordination service user experiences, provides insights concerning why policies designed to reduce administrative burden may struggle when embedded in existing institutional systems, and how they might inadvertently contribute to new costs. We thematically analyse a multi-modal dataset concerning dementia care navigation services provided by non-profits in two English counties and find that stakeholders’ efforts to deal with administrative burden-related costs may be unsuccessful and potentially counterproductive: attempts to maximize information provision, reduce psychological costs and avoid compliance costs may obscure the role of a care coordination service so that learning costs remain high or even increase. We show that while studies have argued that non-profits in pluralist, networked governance models can reduce burdens, the ways they interact with sedimented governance logics can stifle such efforts.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Alec Fraser": [
+              "King’s College London"
+            ],
+            "Alice Moore": [
+              "King’s College London"
+            ],
+            "Rene Wiedner": [
+              "University of Warwick"
+            ]
+          },
+          "authors": [
+            "Rene Wiedner",
+            "Alice Moore",
+            "Alec Fraser"
+          ],
+          "constructs": [
+            "Administrative Burden",
+            "Sedimented Governance"
+          ],
+          "doi": "10.1080/14719037.2026.2759315",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "주제 분석",
+          "publication_date": "2026-11-05",
+          "stable_id": "doi:10.1080/14719037.2026.2759315",
+          "summary_basis": "abstract",
+          "summary_ko": "본 연구는 잉글랜드 두 지역에서 비영리기관이 제공하는 치매 돌봄 내비게이션 서비스 이용자 경험을 다중양식 자료로 주제 분석하여, 행정 부담을 줄이려는 돌봄 조정이 기존 제도적 체계에 내재될 때 어떤 어려움과 새로운 비용을 낳는지 분석한다. 정보 제공 극대화, 심리적 비용 감소, 준수 비용 회피 시도가 서비스의 역할을 불분명하게 만들어 학습 비용을 유지하거나 증가시킬 수 있으며, 퇴적된 거버넌스 논리가 비영리 부문의 부담 완화 노력을 저해할 수 있음을 보인다.",
+          "title": "The difficulties of reducing administrative burden via the nonprofit sector: how sedimented governance stifles care coordination",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/14719037.2026.2759315"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -23418,7 +23707,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -23433,7 +23722,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -23454,7 +23743,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -23479,7 +23768,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -23514,7 +23803,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -23539,7 +23828,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -23560,93 +23849,28 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
-    "doi:10.1080/10967494.2026.2716261": {
-      "first_seen_at": "2026-11-05T15:26:17.862959+00:00",
+    "doi:10.1080/14719037.2026.2747054": {
+      "first_seen_at": "2026-11-06T14:59:44.495619+00:00",
       "item": {
         "author_affiliations": {
-          "Daniel Bromberg": [
-            "Vermont Law and Graduate School"
-          ],
-          "Geneviève Morin": [
-            "École nationale d’administration publique;",
-            "Vermont Law and Graduate School"
-          ],
-          "Étienne Charbonneau": [
-            "École nationale d’administration publique;"
+          "Ina Kubbe": [
+            "Tel Aviv University"
           ]
         },
         "authors": [
-          "Geneviève Morin",
-          "Étienne Charbonneau",
-          "Daniel Bromberg"
+          "Ina Kubbe"
         ],
-        "doi": "10.1080/10967494.2026.2716261",
-        "journal": "International Public Management Journal",
-        "journal_short": "IPMJ",
-        "publication_date": "2026-11-04",
-        "stable_id": "doi:10.1080/10967494.2026.2716261",
-        "title": "Safeguarding online panel surveys from LLM pollution: evidence from Canadian federal survey contracts",
-        "url": "https://doi.org/10.1080/10967494.2026.2716261"
-      },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
-    },
-    "doi:10.1080/14719037.2026.2759174": {
-      "first_seen_at": "2026-11-05T15:26:17.862959+00:00",
-      "item": {
-        "author_affiliations": {
-          "David Scott": [
-            "Karlstad University",
-            "Umeå University"
-          ],
-          "Malin Rönnblom": [
-            "Karlstad University",
-            "Umeå University"
-          ]
-        },
-        "authors": [
-          "David Scott",
-          "Malin Rönnblom"
-        ],
-        "doi": "10.1080/14719037.2026.2759174",
+        "doi": "10.1080/14719037.2026.2747054",
         "journal": "Public Management Review",
         "journal_short": "PMR",
-        "publication_date": "2026-11-04",
-        "stable_id": "doi:10.1080/14719037.2026.2759174",
-        "title": "The only game in town: NPM’s resilience and depoliticizing effects in (r)urban sustainability transition",
-        "url": "https://doi.org/10.1080/14719037.2026.2759174"
+        "publication_date": "2026-11-06",
+        "stable_id": "doi:10.1080/14719037.2026.2747054",
+        "title": "Anti-corruption policies: examining and evaluating the integration of agencies and whistleblower systems",
+        "url": "https://doi.org/10.1080/14719037.2026.2747054"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
-    },
-    "doi:10.1080/14719037.2026.2759315": {
-      "first_seen_at": "2026-11-05T15:26:17.862959+00:00",
-      "item": {
-        "author_affiliations": {
-          "Alec Fraser": [
-            "King’s College London"
-          ],
-          "Alice Moore": [
-            "King’s College London"
-          ],
-          "Rene Wiedner": [
-            "University of Warwick"
-          ]
-        },
-        "authors": [
-          "Rene Wiedner",
-          "Alice Moore",
-          "Alec Fraser"
-        ],
-        "doi": "10.1080/14719037.2026.2759315",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-11-05",
-        "stable_id": "doi:10.1080/14719037.2026.2759315",
-        "title": "The difficulties of reducing administrative burden via the nonprofit sector: how sedimented governance stifles care coordination",
-        "url": "https://doi.org/10.1080/14719037.2026.2759315"
-      },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -23675,7 +23899,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -23695,7 +23919,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -23712,7 +23936,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -23729,7 +23953,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -23747,7 +23971,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -23764,7 +23988,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -23783,7 +24007,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -23801,7 +24025,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -23820,7 +24044,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -23838,7 +24062,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -23855,7 +24079,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -23874,7 +24098,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -23892,7 +24116,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -23910,7 +24134,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -23931,7 +24155,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -23946,7 +24170,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -23961,7 +24185,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -23982,7 +24206,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -23997,7 +24221,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -24012,7 +24236,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-05T15:26:17.862959+00:00"
+      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
     }
   },
   "version": 1
