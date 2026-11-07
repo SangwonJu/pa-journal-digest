@@ -1712,6 +1712,14 @@
       "sent_at": "2026-10-17T10:47:38.017785+00:00",
       "title": "Staging the invisible: tracing public value co-creation through sub-micro infrastructures configured by information coordination organizations in China’s disaster information services"
     },
+    "doi:10.1080/14719037.2026.2747054": {
+      "batch_id": "2026-11-07-8d278217c7b37781",
+      "doi": "10.1080/14719037.2026.2747054",
+      "journal": "Public Management Review",
+      "publication_date": "2026-11-06",
+      "sent_at": "2026-11-07T14:04:40.074216+00:00",
+      "title": "Anti-corruption policies: examining and evaluating the integration of agencies and whistleblower systems"
+    },
     "doi:10.1080/14719037.2026.2748379": {
       "batch_id": "2026-10-17-a7b1623936c13712",
       "doi": "10.1080/14719037.2026.2748379",
@@ -3847,6 +3855,14 @@
       "publication_date": "2026-10-17",
       "sent_at": "2026-10-17T10:47:38.017785+00:00",
       "title": "Institutional Logics, Empowerment Structures, and the Service Space Production of the Communist Youth League—A Case Study of the “Youth Homeland” Project in City G"
+    },
+    "doi:10.1177/00953997261495484": {
+      "batch_id": "2026-11-07-8d278217c7b37781",
+      "doi": "10.1177/00953997261495484",
+      "journal": "Administration & Society",
+      "publication_date": "2026-11-06",
+      "sent_at": "2026-11-07T14:04:40.074216+00:00",
+      "title": "Governance, Infrastructure, and Multidimensional Poverty Policies: Comparative Insights From Global Studies"
     },
     "doi:10.1177/00953997261497706": {
       "batch_id": "2026-11-02-7299e97b392d6b08",
@@ -23844,7 +23860,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2747054"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-07T14:04:40.074216+00:00",
+      "status": "sent"
     }
   },
   "pending": {
