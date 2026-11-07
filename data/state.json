@@ -23750,6 +23750,101 @@
       ],
       "sent_at": "2026-11-06T15:08:10.195885+00:00",
       "status": "sent"
+    },
+    "2026-11-07-8d278217c7b37781": {
+      "created_at": "2026-11-07T13:58:03.864013+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-07-8d278217c7b37781",
+      "items": [
+        {
+          "abstract": "Poverty remains a persistent global challenge driven by social inequality, limited access to essential services, and environmental risks. Despite progress in reducing extreme poverty, inclusive and sustainable alleviation requires effective governance, infrastructure development, and multidimensional policy interventions. This study employs a mixed-methods review design that combines bibliometric analysis with a systematic literature review (SLR) using the PRISMA framework. The bibliometric analysis was conducted on 1,017 records retrieved from Scopus to examine publication trends, geographical patterns, key contributors, and thematic evolution, while the SLR synthesized 51 eligible peer-reviewed articles published between 2015 and 2024 for in-depth examination of governance, infrastructure, policy interventions, and multidimensional poverty. Findings reveal growing scholarly attention, with China leading empirical research and Western countries advancing conceptual and methodological innovations. Bibliometric mapping identifies emerging signals related to big data-driven analysis, climate and environmental risks, social inclusion, gender, and targeted poverty alleviation, and the SLR indicates that gender-related research remains substantively underrepresented. The study highlights a shift from rural development toward interdisciplinary, evidence-based, and context-sensitive approaches, offering insights for policymakers and researchers in advancing strategies aligned with Sustainable Development Goal 1 (No Poverty).",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Burhanuddin": [
+              "Universitas Sulawesi Barat, Majene, Indonesia"
+            ],
+            "Laila Qadrini": [
+              "Universitas Sulawesi Barat, Majene, Indonesia"
+            ],
+            "Milyan": [
+              "Universitas Lakidende Unaaha, Konawe, Indonesia"
+            ],
+            "Mu’man Nuryana": [
+              "National Research and Innovation Agency of the Republic of Indonesia, Jakarta, Indonesia"
+            ],
+            "Ratu Noorita A": [
+              "STIE AMKOP Makassar, Makassar, Indonesia"
+            ],
+            "Septiawan Ardiputra": [
+              "Universitas Sulawesi Barat, Majene, Indonesia"
+            ],
+            "Sri Astuty Ratnasari Manggu": [
+              "Universitas Sulawesi Barat, Majene, Indonesia"
+            ],
+            "Thamrin Pawalluri": [
+              "Institut Cokroaminoto Pinrang, Pinrang, Indonesia"
+            ],
+            "Ul Qadri": [
+              "Politeknik Negeri Pontianak, Pontianak, Indonesia"
+            ]
+          },
+          "authors": [
+            "Septiawan Ardiputra",
+            "Laila Qadrini",
+            "Mu’man Nuryana",
+            "Burhanuddin",
+            "Thamrin Pawalluri",
+            "Milyan",
+            "Ul Qadri",
+            "Ratu Noorita A",
+            "Sri Astuty Ratnasari Manggu"
+          ],
+          "constructs": [
+            "Governance",
+            "Multidimensional Poverty"
+          ],
+          "doi": "10.1177/00953997261495484",
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "method": "혼합방법론",
+          "method_detail": "서지분석·문헌고찰",
+          "publication_date": "2026-11-06",
+          "stable_id": "doi:10.1177/00953997261495484",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 거버넌스, 인프라, 다차원적 정책 개입이 빈곤 완화와 어떻게 연결되는지 파악하기 위해 Scopus 1,017편의 서지분석과 PRISMA에 따른 51편의 체계적 문헌고찰을 결합했다. 분석 결과, 연구는 증가하고 있으며 빅데이터, 기후·환경 위험, 사회적 포용, 성별, 표적 빈곤 완화로 주제가 확장되었지만 성별 관련 연구는 여전히 부족한 것으로 나타났다.",
+          "title": "Governance, Infrastructure, and Multidimensional Poverty Policies: Comparative Insights From Global Studies",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1177/00953997261495484"
+        },
+        {
+          "abstract": "This article interrogates dominant anti-corruption evaluation models by foregrounding the integration between Anti-Corruption Agencies (ACAs) and whistleblower systems as a critical yet underexamined determinant of institutional effectiveness. Drawing on institutional theory, regulatory governance, and structured cross-country comparison, it develops a four-part typology of ACA–whistleblower integration regimes (complementary, substitutive, fragmented, and minimalist) based on document-based qualitative evaluation across 13 countries. The findings suggest that institutional coordination and interoperability, rather than the formal existence of anti-corruption institutions alone, are consistently associated with stronger enforcement capacity, greater institutional legitimacy, and higher public trust. The study challenges checklist-based global evaluation models that privilege institutional presence over institutional interaction and proposes an integration-centred framework for assessing integrity systems. By shifting attention from institutional design to institutional integration, the study offers a context-sensitive diagnostic approach for evaluating anti-corruption governance across diverse political and administrative settings.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "Ina Kubbe": [
+              "Tel Aviv University"
+            ]
+          },
+          "authors": [
+            "Ina Kubbe"
+          ],
+          "constructs": [
+            "Institutional Theory",
+            "Regulatory Governance"
+          ],
+          "doi": "10.1080/14719037.2026.2747054",
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "국가 간 문서 비교",
+          "publication_date": "2026-11-06",
+          "stable_id": "doi:10.1080/14719037.2026.2747054",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 반부패기관(ACA)과 내부고발자 시스템의 통합이 제도적 효과성을 어떻게 좌우하는지 검토하기 위해 제도이론과 규제거버넌스에 기반한 13개국 문서 중심 질적 비교를 실시했다. 분석 결과, 기관의 형식적 존재보다 조정과 상호운용성이 강한 집행역량·제도적 정당성·시민 신뢰와 일관되게 연관되며, 이에 따라 네 가지 ACA-내부고발자 통합 유형과 통합 중심 평가 틀을 제시한다.",
+          "title": "Anti-corruption policies: examining and evaluating the integration of agencies and whistleblower systems",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/14719037.2026.2747054"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -23772,7 +23867,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -23787,7 +23882,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -23808,7 +23903,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -23833,7 +23928,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -23868,7 +23963,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -23893,7 +23988,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -23914,28 +24009,40 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
-    "doi:10.1080/14719037.2026.2747054": {
-      "first_seen_at": "2026-11-06T14:59:44.495619+00:00",
+    "doi:10.1080/10967494.2026.2728693": {
+      "first_seen_at": "2026-11-07T13:58:03.864013+00:00",
       "item": {
         "author_affiliations": {
-          "Ina Kubbe": [
-            "Tel Aviv University"
+          "André Carlos Busanelli de Aquino": [
+            "University of São Paulo"
+          ],
+          "André Feliciano Lino": [
+            "University of Essex"
+          ],
+          "Elke Loeffler": [
+            "University of Birmingham"
+          ],
+          "Patrícia Maria Emerenciano de Mendonça": [
+            "University of São Paulo"
           ]
         },
         "authors": [
-          "Ina Kubbe"
+          "André Feliciano Lino",
+          "Elke Loeffler",
+          "Patrícia Maria Emerenciano de Mendonça",
+          "André Carlos Busanelli de Aquino"
         ],
-        "doi": "10.1080/14719037.2026.2747054",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
+        "doi": "10.1080/10967494.2026.2728693",
+        "journal": "International Public Management Journal",
+        "journal_short": "IPMJ",
         "publication_date": "2026-11-06",
-        "stable_id": "doi:10.1080/14719037.2026.2747054",
-        "title": "Anti-corruption policies: examining and evaluating the integration of agencies and whistleblower systems",
-        "url": "https://doi.org/10.1080/14719037.2026.2747054"
+        "stable_id": "doi:10.1080/10967494.2026.2728693",
+        "title": "Peer workers as bridge-makers: symbolic representation and co-production of services for stigmatized groups",
+        "url": "https://doi.org/10.1080/10967494.2026.2728693"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -23964,7 +24071,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -23984,7 +24091,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -24001,7 +24108,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -24018,7 +24125,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -24036,7 +24143,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -24053,7 +24160,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -24072,7 +24179,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -24090,7 +24197,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -24109,7 +24216,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -24127,7 +24234,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -24144,7 +24251,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -24163,7 +24270,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -24181,7 +24288,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -24199,7 +24306,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -24220,7 +24327,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -24235,7 +24342,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -24250,7 +24357,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -24271,7 +24378,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -24286,7 +24393,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -24301,7 +24408,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-06T14:59:44.495619+00:00"
+      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
     }
   },
   "version": 1
