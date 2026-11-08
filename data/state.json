@@ -23862,6 +23862,12 @@
       ],
       "sent_at": "2026-11-07T14:04:40.074216+00:00",
       "status": "sent"
+    },
+    "2026-11-08-e3b0c44298fc1c14": {
+      "created_at": "2026-11-08T14:16:10.186825+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-08-e3b0c44298fc1c14",
+      "items": [],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -23884,7 +23890,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -23899,7 +23905,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -23920,7 +23926,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -23945,7 +23951,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -23980,7 +23986,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -24005,7 +24011,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -24026,7 +24032,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1080/10967494.2026.2728693": {
       "first_seen_at": "2026-11-07T13:58:03.864013+00:00",
@@ -24059,7 +24065,7 @@
         "title": "Peer workers as bridge-makers: symbolic representation and co-production of services for stigmatized groups",
         "url": "https://doi.org/10.1080/10967494.2026.2728693"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -24088,7 +24094,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -24108,7 +24114,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -24125,7 +24131,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -24142,7 +24148,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -24160,7 +24166,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -24177,7 +24183,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -24196,7 +24202,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -24214,7 +24220,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -24233,7 +24239,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -24251,7 +24257,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -24268,7 +24274,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -24287,7 +24293,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -24305,7 +24311,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -24323,7 +24329,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -24344,7 +24350,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -24359,7 +24365,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -24374,7 +24380,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -24395,7 +24401,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -24410,7 +24416,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -24425,7 +24431,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-07T13:58:03.864013+00:00"
+      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
     }
   },
   "version": 1
