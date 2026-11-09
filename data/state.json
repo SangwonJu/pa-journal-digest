@@ -23869,6 +23869,147 @@
       "items": [],
       "sent_at": "2026-11-08T14:23:09.717374+00:00",
       "status": "sent"
+    },
+    "2026-11-09-0eccf34fdb5c9370": {
+      "created_at": "2026-11-09T17:26:51.222422+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-09-0eccf34fdb5c9370",
+      "items": [
+        {
+          "abstract": "Mental health care professionals have faced increased work pressure and moral stress since the implementation of bureaucratic and NPM policies. We interviewed Dutch psychologists to investigate how they cope, using Hirschman’s Exit , Voice , and Loyalty framework. Reflecting the solitary nature of their work, many psychologists developed individual approaches, creatively alternating between strategies to relieve pressure. Inadvertently, this contributes to a situation where issues are insufficiently problematized to induce change, while professionals themselves grow more cynical. We recommend system changes to protect professionals’ moral engagement and support collective strategies to address problems effectively and achieve necessary improvements.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Evelien Tonkens": [
+              "University of Humanistic Studies, Utrecht, Netherlands"
+            ],
+            "Linda Krikken Mulders": [
+              "University of Humanistic Studies, Utrecht, Netherlands"
+            ],
+            "Margo Trappenburg": [
+              "University of Humanistic Studies, Utrecht, Netherlands",
+              "Utrecht University, Netherlands"
+            ]
+          },
+          "authors": [
+            "Linda Krikken Mulders",
+            "Evelien Tonkens",
+            "Margo Trappenburg"
+          ],
+          "constructs": [
+            "Exit-Voice-Loyalty",
+            "moral stress"
+          ],
+          "doi": "10.1177/00953997261501534",
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "method": "질적연구",
+          "method_detail": "심층 인터뷰",
+          "publication_date": "2026-11-08",
+          "stable_id": "doi:10.1177/00953997261501534",
+          "summary_basis": "abstract",
+          "summary_ko": "관료제 및 신공공관리 정책 시행 이후 심화된 업무 압박과 도덕적 스트레스에 심리학자들이 어떻게 대응하는지 알아보기 위해 네덜란드 심리학자들을 인터뷰하고 Hirschman의 Exit·Voice·Loyalty 틀로 분석했다. 심리학자들은 개별적으로 대응 전략을 창의적으로 번갈아 사용했지만, 그 결과 문제가 변화를 촉발할 만큼 충분히 제기되지 않고 냉소가 커지는 경향이 나타났다.",
+          "title": "Being a Therapist in an Age of Bureaucracy and Marketization: Psychologists’ Responses to Moral Stress",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1177/00953997261501534"
+        },
+        {
+          "abstract": "Public services often struggle to reach stigmatized populations, as professionals may lack the trust, cultural knowledge, or standing needed to engage them effectively. Peer workers—people involved in service delivery who share an identity or lived experience with the population served—are increasingly used to bridge this gap. This study investigates these bridge-making benefits of peer workers through the lens of symbolic representation and co-production. Specifically, we analyze which approaches of “symbolic peer co-production” enable peer workers to engage effectively with both professionals and stigmatized groups, and the variety of roles played by peer workers with different identities as bridge-makers. Using a case study of HIV prevention in São Paulo, we conducted a documentary and social media analysis to examine how symbolic representation and lived experience help peer workers to act as bridge-makers between professionals and stigmatized groups. The findings suggest that peer workers enhance service accessibility by leveraging shared identities and experiences, reducing stigma, and building trusting relationships. This study contributes a novel theoretical framework integrating symbolic representation and co-production, and offers insights for designing more inclusive public services for stigmatized populations.",
+          "abstract_source": "OpenAlex",
+          "author_affiliations": {
+            "André Carlos Busanelli de Aquino": [
+              "University of São Paulo"
+            ],
+            "André Feliciano Lino": [
+              "University of Essex"
+            ],
+            "Elke Loeffler": [
+              "University of Birmingham"
+            ],
+            "Patrícia Maria Emerenciano de Mendonça": [
+              "University of São Paulo"
+            ]
+          },
+          "authors": [
+            "André Feliciano Lino",
+            "Elke Loeffler",
+            "Patrícia Maria Emerenciano de Mendonça",
+            "André Carlos Busanelli de Aquino"
+          ],
+          "constructs": [
+            "Symbolic Representation",
+            "Co-production"
+          ],
+          "doi": "10.1080/10967494.2026.2728693",
+          "journal": "International Public Management Journal",
+          "journal_short": "IPMJ",
+          "method": "질적연구",
+          "method_detail": "문서·소셜미디어 분석",
+          "publication_date": "2026-11-06",
+          "stable_id": "doi:10.1080/10967494.2026.2728693",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 상징적 동료 공동생산의 어떤 방식과 역할이 전문직 종사자 및 낙인집단과의 연결을 가능하게 하는지, 상파울루 HIV 예방 사례를 문서·소셜미디어 분석으로 검토했다. 동료 노동자는 공유된 정체성과 경험을 활용해 낙인을 줄이고 신뢰를 형성함으로써 서비스 접근성을 높이는 것으로 나타났다.",
+          "title": "Peer workers as bridge-makers: symbolic representation and co-production of services for stigmatized groups",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/10967494.2026.2728693"
+        },
+        {
+          "abstract": "Abstract This research investigates how distinct emotional responses to immigrants—namely, compassion, anger, and anxiety—are connected to welfare chauvinist attitudes within varying welfare policy funding contexts. Leveraging Turkey's experience with large‐scale immigration and the exogenous nature of EU funding, a population‐representative survey experiment was conducted, manipulating claimant identity (native vs. immigrant) and the funding source of welfare assistance (state vs. EU‐funded). Results show that a “care deficit” operates as a key mechanism linking immigrant identity and lower support for immigrant welfare access, but only within the nation‐bound welfare system. Once compassion is evoked, however, it operates similarly for natives and immigrants. Furthermore, moderation analyses reveal divergent patterns of compassion, anger, and anxiety in shaping welfare chauvinist attitudes across different policy funding structures. Highlighting the crucial interplay between emotions and the policy funding schemes in which welfare assistance is delivered, this research contributes to the debate on what drives welfare chauvinism. Drawing on the political psychology literature, this study offers a perspective on the emotional dynamics associated with the persistent native‐immigrant welfare support gap and discusses potential factors that may contribute to narrowing this disparity.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Duygu Merve Uysal": [
+              "Amsterdam Institute for Social Science Research, University of Amsterdam Amsterdam the Netherlands",
+              "Department of International Relations, Koç University İstanbul Turkey"
+            ]
+          },
+          "authors": [
+            "Duygu Merve Uysal"
+          ],
+          "constructs": [
+            "Welfare Chauvinism",
+            "Political Emotions"
+          ],
+          "doi": "10.1111/pops.70215",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-11-09",
+          "stable_id": "doi:10.1111/pops.70215",
+          "summary_basis": "abstract",
+          "summary_ko": "이 연구는 이민자에 대한 연민·분노·불안이 복지 배타주의 태도와 어떻게 연결되는지, 복지 지원의 재원 구조(국가 재원 대 EU 재원)에 따라 그 관계가 달라지는지를 터키의 대표성 있는 설문실험으로 분석했다. 이민자 복지 접근에 대한 지지 격차를 잇는 ‘돌봄 결핍’은 국가 중심 복지체계에서만 나타났으며, 연민·분노·불안의 영향 양상도 재원 구조에 따라 달랐다.",
+          "title": "Affective dynamics of welfare chauvinism under different policy funding structures",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70215"
+        },
+        {
+          "abstract": "Abstract Terror attacks occurring in one jurisdiction can shape the perceived political attitudes of populations in a separate jurisdiction—through diasporic ties or the mediation of political discourses via social media. This study examines how left‐ and center‐leaning Jewish influencers addressing American audiences perceived and expressed the impact of the Hamas terrorist attack on October 7, 2023, on their political attitudes and messaging in the context of the 2024 US Presidential election. This study implemented a three‐pronged digital ethnographic approach: digital observation on Instagram, 15 in‐depth interviews, and digital fieldwork analyzing interviewees' political posts in the lead‐up and aftermath of the election. Findings reveal heterogeneity of political attitude and orientation in the face of transnational terror and perceived threat to Jewish life—from preference falsification to single‐issue voting and calls for bipartisanship. Rather than describing a political transformation away from liberal or progressive thought, interviewees described a refocusing of political energy around Jewish safety. This study argues that the transnational threat of October 7, compounded by feelings of political abandonment domestically, was accompanied by a process of attitudinal navigation—complicating expectations of in‐group solidarity, threat‐to‐conservatism pathways, and the strategic communication of political influencers as emergent opinion leaders on social media.",
+          "abstract_source": "Crossref",
+          "author_affiliations": {
+            "Gabrielle D. Beacken": [
+              "School of Journalism and Media The University of Texas at Austin Austin Texas USA"
+            ]
+          },
+          "authors": [
+            "Gabrielle D. Beacken"
+          ],
+          "constructs": [
+            "Political Identity",
+            "Attitudinal Navigation"
+          ],
+          "doi": "10.1111/pops.70222",
+          "journal": "Political Psychology",
+          "journal_short": "PolPsych",
+          "method": "질적연구",
+          "method_detail": "디지털 민족지",
+          "publication_date": "2026-11-09",
+          "stable_id": "doi:10.1111/pops.70222",
+          "summary_basis": "abstract",
+          "summary_ko": "본 연구는 2024년 미국 대선을 앞두고 미국 청중을 대상으로 활동하는 진보·중도 성향 유대인 인플루언서들이 2023년 10월 7일 하마스 테러가 자신의 정치적 태도와 메시지에 미친 영향을 어떻게 인식하고 표현했는지 분석했다. 인스타그램 디지털 관찰, 15명 심층 인터뷰, 선거 전후 정치 게시물 분석을 통해, 이들이 진보적 성향을 버리기보다 유대인 안전을 중심으로 정치적 관심을 재조정했으며, 태도는 선호 위장부터 단일 쟁점 투표와 초당적 협력 요구까지 다양했음을 밝혔다.",
+          "title": "Terror across borders, politics at home: Political influencers navigating diasporic threat and political identity on social media",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/pops.70222"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -23891,7 +24032,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -23906,7 +24047,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -23927,7 +24068,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -23952,7 +24093,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -23987,7 +24128,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1016/j.giq.2026.102163": {
       "first_seen_at": "2026-09-04T14:56:47.174803+00:00",
@@ -24012,7 +24153,7 @@
         "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
         "url": "https://doi.org/10.1016/j.giq.2026.102163"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -24033,40 +24174,65 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
-    "doi:10.1080/10967494.2026.2728693": {
-      "first_seen_at": "2026-11-07T13:58:03.864013+00:00",
+    "doi:10.1080/10584609.2026.2757594": {
+      "first_seen_at": "2026-11-09T17:26:51.222422+00:00",
       "item": {
         "author_affiliations": {
-          "André Carlos Busanelli de Aquino": [
-            "University of São Paulo"
+          "Corinna M. Oschatz": [
+            "University of Amsterdam"
           ],
-          "André Feliciano Lino": [
-            "University of Essex"
-          ],
-          "Elke Loeffler": [
-            "University of Birmingham"
-          ],
-          "Patrícia Maria Emerenciano de Mendonça": [
-            "University of São Paulo"
+          "Frederic R. Hopp": [
+            "Germany Trier University"
           ]
         },
         "authors": [
-          "André Feliciano Lino",
-          "Elke Loeffler",
-          "Patrícia Maria Emerenciano de Mendonça",
-          "André Carlos Busanelli de Aquino"
+          "Corinna M. Oschatz",
+          "Frederic R. Hopp"
         ],
-        "doi": "10.1080/10967494.2026.2728693",
-        "journal": "International Public Management Journal",
-        "journal_short": "IPMJ",
-        "publication_date": "2026-11-06",
-        "stable_id": "doi:10.1080/10967494.2026.2728693",
-        "title": "Peer workers as bridge-makers: symbolic representation and co-production of services for stigmatized groups",
-        "url": "https://doi.org/10.1080/10967494.2026.2728693"
+        "doi": "10.1080/10584609.2026.2757594",
+        "journal": "Political Communication",
+        "journal_short": "PolComm",
+        "publication_date": "2026-11-09",
+        "stable_id": "doi:10.1080/10584609.2026.2757594",
+        "title": "Morale in Political Campaigning: Are Political Candidates’ Moral Concerns Coherent with Their Campaign Rhetoric?",
+        "url": "https://doi.org/10.1080/10584609.2026.2757594"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
+    },
+    "doi:10.1080/14719037.2026.2758867": {
+      "first_seen_at": "2026-11-09T17:26:51.222422+00:00",
+      "item": {
+        "author_affiliations": {
+          "Amy E. Smith": [
+            "University of Massachusetts Boston"
+          ],
+          "Kayla Schwoerer": [
+            "Vrije Universiteit Amsterdam (VU Amsterdam)"
+          ],
+          "Leisha DeHart-Davis": [
+            "The University of North Carolina at Chapel Hill"
+          ],
+          "Travis Whetsell": [
+            "Georgia Institute of Technology"
+          ]
+        },
+        "authors": [
+          "Leisha DeHart-Davis",
+          "Amy E. Smith",
+          "Travis Whetsell",
+          "Kayla Schwoerer"
+        ],
+        "doi": "10.1080/14719037.2026.2758867",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-11-09",
+        "stable_id": "doi:10.1080/14719037.2026.2758867",
+        "title": "Exhaustion intensified? The confluence of coworker and citizen incivility in local government",
+        "url": "https://doi.org/10.1080/14719037.2026.2758867"
+      },
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -24095,7 +24261,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -24115,7 +24281,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -24132,7 +24298,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -24149,7 +24315,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -24167,7 +24333,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -24184,7 +24350,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -24203,7 +24369,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -24221,7 +24387,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -24240,7 +24406,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -24258,7 +24424,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -24275,7 +24441,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -24294,7 +24460,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -24312,7 +24478,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -24330,7 +24496,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -24351,7 +24517,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -24366,7 +24532,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -24381,7 +24547,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -24402,7 +24568,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -24417,7 +24583,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -24432,7 +24598,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-08T14:16:10.186825+00:00"
+      "last_checked_at": "2026-11-09T17:26:51.222422+00:00"
     }
   },
   "version": 1
