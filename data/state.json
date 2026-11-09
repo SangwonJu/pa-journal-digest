@@ -1344,6 +1344,14 @@
       "sent_at": "2026-09-18T11:17:24.477239+00:00",
       "title": "Preferences for symbolic representation: identity, context, and selection of mental health providers"
     },
+    "doi:10.1080/10967494.2026.2728693": {
+      "batch_id": "2026-11-09-0eccf34fdb5c9370",
+      "doi": "10.1080/10967494.2026.2728693",
+      "journal": "International Public Management Journal",
+      "publication_date": "2026-11-06",
+      "sent_at": "2026-11-09T17:32:32.524438+00:00",
+      "title": "Peer workers as bridge-makers: symbolic representation and co-production of services for stigmatized groups"
+    },
     "doi:10.1080/10967494.2026.2728697": {
       "batch_id": "2026-09-23-44e485dedc948b31",
       "doi": "10.1080/10967494.2026.2728697",
@@ -3120,6 +3128,14 @@
       "sent_at": "2026-10-21T11:52:23.084817+00:00",
       "title": "Climate change and conflict: The vicious cycles undermining climate action, and what can be done to break them"
     },
+    "doi:10.1111/pops.70215": {
+      "batch_id": "2026-11-09-0eccf34fdb5c9370",
+      "doi": "10.1111/pops.70215",
+      "journal": "Political Psychology",
+      "publication_date": "2026-11-09",
+      "sent_at": "2026-11-09T17:32:32.524438+00:00",
+      "title": "Affective dynamics of welfare chauvinism under different policy funding structures"
+    },
     "doi:10.1111/pops.70216": {
       "batch_id": "2026-10-28-76e232541b4242da",
       "doi": "10.1111/pops.70216",
@@ -3151,6 +3167,14 @@
       "publication_date": "2026-11-02",
       "sent_at": "2026-11-02T17:12:36.986972+00:00",
       "title": "Partisan social cognition and biased experiences in a polarized world: The neural processing of identity‐based group membership"
+    },
+    "doi:10.1111/pops.70222": {
+      "batch_id": "2026-11-09-0eccf34fdb5c9370",
+      "doi": "10.1111/pops.70222",
+      "journal": "Political Psychology",
+      "publication_date": "2026-11-09",
+      "sent_at": "2026-11-09T17:32:32.524438+00:00",
+      "title": "Terror across borders, politics at home: Political influencers navigating diasporic threat and political identity on social media"
     },
     "doi:10.1111/psj.70144": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -3871,6 +3895,14 @@
       "publication_date": "2026-11-01",
       "sent_at": "2026-11-02T17:12:36.986972+00:00",
       "title": "Disentangling Administrative Burden: Why Some Families Forgo TANF Benefits"
+    },
+    "doi:10.1177/00953997261501534": {
+      "batch_id": "2026-11-09-0eccf34fdb5c9370",
+      "doi": "10.1177/00953997261501534",
+      "journal": "Administration & Society",
+      "publication_date": "2026-11-08",
+      "sent_at": "2026-11-09T17:32:32.524438+00:00",
+      "title": "Being a Therapist in an Age of Bureaucracy and Marketization: Psychologists’ Responses to Moral Stress"
     },
     "doi:10.1177/02750740261473616": {
       "batch_id": "2026-08-10-379897b0e0907946",
@@ -24009,7 +24041,8 @@
           "url": "https://doi.org/10.1111/pops.70222"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-09T17:32:32.524438+00:00",
+      "status": "sent"
     }
   },
   "pending": {
