@@ -304,6 +304,22 @@
       "sent_at": "2026-10-24T11:04:57.858491+00:00",
       "title": "Beliefs About Public Opinion and the Perceived Legitimacy of Policy Decisions"
     },
+    "doi:10.1007/s11109-026-10223-x": {
+      "batch_id": "2026-11-10-cb6dcd34f098a666",
+      "doi": "10.1007/s11109-026-10223-x",
+      "journal": "Political Behavior",
+      "publication_date": "2026-11-10",
+      "sent_at": "2026-11-10T15:41:40.075396+00:00",
+      "title": "Delayed Date and Motivated Vote: How Election Postponement Shapes Turnout"
+    },
+    "doi:10.1007/s11109-026-10224-w": {
+      "batch_id": "2026-11-10-cb6dcd34f098a666",
+      "doi": "10.1007/s11109-026-10224-w",
+      "journal": "Political Behavior",
+      "publication_date": "2026-11-10",
+      "sent_at": "2026-11-10T15:41:40.075396+00:00",
+      "title": "Rivals Within: Intra-Party Competition and the Origins of Particularistic Campaign Appeals"
+    },
     "doi:10.1016/j.giq.2026.102149": {
       "batch_id": "2026-09-01-1560b88b8d2d7127",
       "doi": "10.1016/j.giq.2026.102149",
@@ -1199,6 +1215,14 @@
       "publication_date": "2026-11-01",
       "sent_at": "2026-11-02T17:12:36.986972+00:00",
       "title": "The Effects of Target Characteristics on Public Support for Hate Speech Laws"
+    },
+    "doi:10.1080/10584609.2026.2757594": {
+      "batch_id": "2026-11-10-cb6dcd34f098a666",
+      "doi": "10.1080/10584609.2026.2757594",
+      "journal": "Political Communication",
+      "publication_date": "2026-11-09",
+      "sent_at": "2026-11-10T15:41:40.075396+00:00",
+      "title": "Morale in Political Campaigning: Are Political Candidates’ Moral Concerns Coherent with Their Campaign Rhetoric?"
     },
     "doi:10.1080/10967494.2026.2642317": {
       "batch_id": "2026-10-25-eefb0329436ecb37",
@@ -24129,7 +24153,8 @@
           "url": "https://doi.org/10.1080/10584609.2026.2757594"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-10T15:41:40.075396+00:00",
+      "status": "sent"
     }
   },
   "pending": {
