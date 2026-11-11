@@ -51,6 +51,7 @@ def prepare(args: argparse.Namespace) -> int:
     if not mailto:
         raise RuntimeError("CROSSREF_MAILTO is required")
     metadata = MetadataClient(mailto)
+    summarizer = ArticleSummarizer()
     pending_changed = False
     try:
         active = state.active_prepared_batch(now)
@@ -75,7 +76,9 @@ def prepare(args: argparse.Namespace) -> int:
             resent = True
         else:
             start = local_today - timedelta(days=args.lookback_days - 1)
-            discovered = metadata.discover(start, local_today)
+            discovered = metadata.discover(
+                start, local_today, relevance_filter=summarizer.select_ai_social
+            )
             candidates = {article.stable_id: article for article in discovered}
             for record in state.pending_records:
                 pending_article = metadata.by_public_record(record)
@@ -115,7 +118,6 @@ def prepare(args: argparse.Namespace) -> int:
 
     articles = [article for article in articles if article.abstract]
 
-    summarizer = ArticleSummarizer()
     for article in articles:
         summarizer.summarize(article)
     subject, html, text = render_newsletter(articles, local_today)

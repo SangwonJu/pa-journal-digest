@@ -133,3 +133,41 @@ def test_openalex_backfills_missing_affiliation() -> None:
         ],
     )
     assert article.author_affiliations == {"Jane Doe": ["Example University"]}
+
+
+def test_discover_screens_broad_journals_and_skips_them_without_a_filter(monkeypatch) -> None:
+    from pa_digest import sources
+    from pa_digest.config import JOURNAL_BY_NAME
+
+    pnas = JOURNAL_BY_NAME["Proceedings of the National Academy of Sciences"]
+    governance = JOURNAL_BY_NAME["Governance"]
+
+    def fake_journal(self, journal, start, end):
+        if journal not in (pnas, governance):
+            return []
+        return [
+            Article(
+                doi=f"10.1/{journal.short_name}-{n}",
+                title=f"{journal.short_name} paper {n}",
+                journal=journal.name,
+                journal_short=journal.short_name,
+                publication_date=date(2026, 11, 5),
+                url="https://example.test",
+                abstract="An abstract.",
+                authors=[],
+            )
+            for n in range(2)
+        ]
+
+    monkeypatch.setattr(sources.MetadataClient, "_crossref_journal", fake_journal)
+    client = sources.MetadataClient("test@example.test")
+    try:
+        screened = client.discover(
+            date(2026, 11, 1), date(2026, 11, 7), relevance_filter=lambda items: items[:1]
+        )
+        unscreened = client.discover(date(2026, 11, 1), date(2026, 11, 7))
+    finally:
+        client.close()
+
+    assert sorted(a.journal_short for a in screened) == ["Governance", "Governance", "PNAS"]
+    assert sorted(a.journal_short for a in unscreened) == ["Governance", "Governance"]

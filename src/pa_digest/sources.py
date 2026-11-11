@@ -8,7 +8,7 @@ import textwrap
 import time
 from datetime import date
 from html.parser import HTMLParser
-from typing import Any
+from typing import Any, Callable
 from urllib.parse import quote
 
 import httpx
@@ -154,10 +154,20 @@ class MetadataClient:
             time.sleep(min(delay, 8))
         raise RuntimeError("unreachable")
 
-    def discover(self, start: date, end: date) -> list[Article]:
+    def discover(
+        self,
+        start: date,
+        end: date,
+        relevance_filter: Callable[[list[Article]], list[Article]] | None = None,
+    ) -> list[Article]:
         found: dict[str, Article] = {}
         for journal in JOURNALS:
-            for article in self._crossref_journal(journal, start, end):
+            articles = self._crossref_journal(journal, start, end)
+            if journal.ai_social_only:
+                # Screen before metadata enrichment so off-topic PNAS papers cost no extra calls.
+                # Without a filter, broad journals are skipped rather than flooding the digest.
+                articles = relevance_filter(articles) if relevance_filter and articles else []
+            for article in articles:
                 found.setdefault(article.stable_id, article)
         articles = sorted(found.values(), key=lambda item: (item.journal, item.publication_date, item.title))
         for article in articles:
@@ -176,7 +186,8 @@ class MetadataClient:
                     f"from-pub-date:{start.isoformat()},until-pub-date:{end.isoformat()},"
                     "type:journal-article"
                 ),
-                "rows": "100",
+                # PNAS publishes about 80 articles a week, so screened journals need a larger page.
+                "rows": "1000" if journal.ai_social_only else "100",
                 "mailto": self.mailto,
                 "select": (
                     "DOI,title,author,published-online,published,published-print,issued,URL,abstract,"

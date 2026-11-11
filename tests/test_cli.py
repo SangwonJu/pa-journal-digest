@@ -11,7 +11,7 @@ class EmptyMetadataClient:
     def __init__(self, mailto: str):
         self.mailto = mailto
 
-    def discover(self, start, end):
+    def discover(self, start, end, relevance_filter=None):
         return []
 
     def close(self) -> None:
@@ -19,11 +19,17 @@ class EmptyMetadataClient:
 
 
 class NoopSummarizer:
+    def select_ai_social(self, articles):
+        return articles
+
     def summarize(self, article) -> None:
         raise AssertionError("An empty digest must not call the summarizer")
 
 
 class StubSummarizer:
+    def select_ai_social(self, articles):
+        return articles
+
     def summarize(self, article) -> None:
         article.summary_ko = "초록을 기반으로 생성한 테스트 요약"
         article.summary_basis = "abstract"
@@ -46,7 +52,7 @@ def article_with_abstract(abstract: str | None) -> Article:
 
 
 class MissingAbstractMetadataClient(EmptyMetadataClient):
-    def discover(self, start, end):
+    def discover(self, start, end, relevance_filter=None):
         return [article_with_abstract(None)]
 
 

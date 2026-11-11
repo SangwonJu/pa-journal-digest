@@ -128,6 +128,67 @@ class ArticleSummarizer:
         article.constructs = [" ".join(item.split()) for item in parsed["constructs"] if item.strip()][:2]
 
 
+    def select_ai_social(self, articles: list[Article]) -> list[Article]:
+        """Keep only articles whose subject is AI as it bears on politics or psychology.
+
+        Used for broad journals (NHB, PNAS). Candidates are judged in batches on title
+        and abstract, so one call covers a whole week of PNAS.
+        """
+        kept: list[Article] = []
+        for start in range(0, len(articles), AI_FILTER_BATCH):
+            chunk = articles[start : start + AI_FILTER_BATCH]
+            listing = "\n\n".join(
+                f"[{index}] {article.title}\n{article.abstract or '(no abstract)'}"
+                for index, article in enumerate(chunk)
+            )
+            response = self.client.responses.create(
+                model=self.model,
+                reasoning={"effort": "none"},
+                input=[
+                    {"role": "system", "content": AI_FILTER_INSTRUCTIONS},
+                    {"role": "user", "content": listing},
+                ],
+                text={
+                    "format": {
+                        "type": "json_schema",
+                        "name": "ai_social_selection",
+                        "strict": True,
+                        "schema": AI_FILTER_SCHEMA,
+                    }
+                },
+            )
+            selected = set(json.loads(response.output_text)["relevant"])
+            kept.extend(article for index, article in enumerate(chunk) if index in selected)
+        return kept
+
+
+AI_FILTER_BATCH = 40
+AI_FILTER_SCHEMA = {
+    "type": "object",
+    "properties": {"relevant": {"type": "array", "items": {"type": "integer"}}},
+    "required": ["relevant"],
+    "additionalProperties": False,
+}
+AI_FILTER_INSTRUCTIONS = (
+    "You screen new articles from broad science journals for a political scientist and public "
+    "administration scholar who studies how people interact with AI. Return the indices of articles "
+    "whose central subject is AI (large language models, chatbots, generative AI, algorithms, "
+    "recommender systems, automated decision-making) AND whose question concerns politics, government, "
+    "public opinion, persuasion, beliefs, misinformation, trust, moral or social judgment, or human "
+    "psychology and behaviour.\n\n"
+    "Typical articles to keep:\n"
+    "- Costello, Pennycook and Rand: conversations with an LLM durably reduce belief in conspiracy "
+    "theories.\n"
+    "- Myra Cheng and colleagues: sycophantic LLMs affirm users, and this shapes users' judgments, "
+    "prosocial intentions and reliance on AI.\n"
+    "- AI-written political messages persuading voters; LLMs simulating survey respondents; public "
+    "attitudes toward AI in government; AI and political polarization or misinformation.\n\n"
+    "Exclude articles that only use machine learning as a measurement or prediction tool for a "
+    "question that is not about AI, and AI work in biology, medicine, chemistry, physics, materials "
+    "or climate science. When unsure, exclude. Return an empty list when nothing qualifies."
+)
+
+
 class ResendMailer:
     def __init__(self, api_key: str | None = None, timeout: float = 30.0):
         self.api_key = api_key or os.environ.get("RESEND_API_KEY")

@@ -9,6 +9,9 @@ class Journal:
     name: str
     issns: tuple[str, ...]
     tier: int
+    # Broad journals (NHB, PNAS) publish far outside the reader's fields. When set,
+    # an LLM keeps only articles about AI in a political or psychological context.
+    ai_social_only: bool = False
 
     @property
     def primary_issn(self) -> str:
@@ -54,6 +57,8 @@ JOURNALS: tuple[Journal, ...] = (
     Journal("JEPS", "Journal of Experimental Political Science", ("2052-2630", "2052-2649"), 2),
     Journal("OBHDP", "Organizational Behavior and Human Decision Processes", ("0749-5978", "1095-9920"), 1),
     Journal("NVSQ", "Nonprofit and Voluntary Sector Quarterly", ("0899-7640", "1552-7395"), 2),
+    Journal("NHB", "Nature Human Behaviour", ("2397-3374",), 1, ai_social_only=True),
+    Journal("PNAS", "Proceedings of the National Academy of Sciences", ("0027-8424", "1091-6490"), 1, ai_social_only=True),
 )
 
 JOURNAL_BY_NAME = {journal.name: journal for journal in JOURNALS}
@@ -62,7 +67,7 @@ JOURNAL_TIER = {journal.name: journal.tier for journal in JOURNALS}
 
 # Fields group the newsletter into the reader's disciplines. The order here is
 # the order of sections in the email; within a field, journals keep JOURNALS order.
-FIELDS: tuple[str, ...] = ("행정·정책", "정치학", "경영·조직", "심리학", "정보시스템")
+FIELDS: tuple[str, ...] = ("행정·정책", "정치학", "경영·조직", "심리학", "정보시스템", "AI·사회과학")
 _FIELD_BY_SHORT = {
     **dict.fromkeys(
         ("JPART", "PAR", "PPMG", "JPAM", "PMR", "PA", "ARPA", "PSJ", "IPMJ",
@@ -75,5 +80,7 @@ _FIELD_BY_SHORT = {
     **dict.fromkeys(("AMJ", "AMR", "AMA", "JOB", "JOM", "MgmtSci", "SMJ", "OrgSci", "OBHDP"), "경영·조직"),
     **dict.fromkeys(("JAP", "JPSP", "PSPB"), "심리학"),
     **dict.fromkeys(("MISQ", "ISR"), "정보시스템"),
+    **dict.fromkeys(("NHB", "PNAS"), "AI·사회과학"),
 }
 JOURNAL_FIELD = {journal.name: _FIELD_BY_SHORT[journal.short_name] for journal in JOURNALS}
+

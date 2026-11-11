@@ -30,6 +30,7 @@ FIELD_COLORS: dict[str, str] = {
     "경영·조직": "#2e7350",
     "심리학": "#8a600c",
     "정보시스템": "#5847a0",
+    "AI·사회과학": "#13707a",
 }
 FALLBACK_FIELD = "기타"
 FALLBACK_COLOR = "#5a6472"
