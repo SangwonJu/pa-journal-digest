@@ -123,13 +123,13 @@ def _article_html(article: Article, color: str) -> str:
         '<tr><td style="padding:22px 0 24px;border-top:1px solid ' + RULE + '">'
         '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tr>'
         f'<td style="font-family:{SANS};text-align:left">'
-        f'<h3 style="margin:0;font-family:{SERIF};font-size:19px;line-height:1.38;font-weight:normal;color:{INK}">'
+        f'<h3 class="en-title" style="margin:0;font-family:{SERIF};font-size:19px;line-height:1.38;font-weight:normal;color:{INK}">'
         f'<a href="{link}" style="color:{INK};text-decoration:none">{escape(article.title)}</a></h3>'
         f'<div style="margin-top:8px;font-family:{SANS};font-size:13px;line-height:1.55;color:{MUTED}">'
         f'{_affiliations_html(article)}'
         f'<div style="margin-top:4px">온라인 게재 {escape(article.publication_date.isoformat())}</div></div>'
         f'{_tags_html(article, color)}'
-        f'<div style="margin-top:6px;font-family:{SANS};font-size:16px;line-height:1.75;color:{INK}">{summary}</div>'
+        f'<div class="ko-sum" style="margin-top:6px;font-family:{SANS};font-size:15px;line-height:1.75;color:{INK}">{summary}</div>'
         f'{abstract}'
         f'<div style="margin-top:12px;font-family:{SANS};font-size:13px;line-height:1.5">'
         f'<a href="{link}" style="color:{color};text-decoration:underline;word-break:break-all">'
@@ -175,7 +175,7 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
             '<tr><td style="padding:34px 0 0">'
             '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" '
             f'style="border:1px solid {INK}"><tr>'
-            f'<td style="padding:10px 14px;font-family:{SANS};font-size:17px;line-height:1.3;'
+            f'<td class="ko-field" style="padding:10px 14px;font-family:{SANS};font-size:16px;line-height:1.3;'
             f'font-weight:bold;color:{INK}">{escape(field)}</td>'
             f'<td align="right" style="padding:10px 14px;font-family:{SANS};font-size:14px;'
             f'line-height:1.3;color:{INK};white-space:nowrap">{field_counts[field]}편</td>'
@@ -235,6 +235,8 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
   table {{ border-collapse:collapse !important; }}
   a:focus-visible {{ outline:2px solid {INK}; outline-offset:2px; }}
   @media only screen and (max-width:940px) {{ .shell {{ width:100% !important; }} .outer {{ padding:0 !important; }} .pad {{ padding-left:18px !important; padding-right:18px !important; }} }}
+  /* Hangul fills its em box, so it reads larger than Georgia at the same size; on phones step it down further. */
+  @media only screen and (max-width:600px) {{ .ko-sum {{ font-size:14px !important; line-height:1.7 !important; }} .ko-head, .ko-field {{ font-size:15px !important; }} .en-title {{ font-size:17px !important; }} }}
 </style>
 <!--[if mso]><style>body,table,td,a,h1,h3,div {{font-family:'Malgun Gothic',Arial,sans-serif !important;}}</style><![endif]-->
 </head><body style="width:100%;margin:0;padding:0;background:{PAGE};font-family:{SANS};color:{INK};-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%">
@@ -245,7 +247,7 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
   <tr><td class="pad" style="padding:32px 40px 26px;font-family:{SANS};text-align:left">
     <div style="font-size:14px;line-height:1.4;color:{MUTED}">{_date_ko(digest_date)}</div>
     <h1 style="margin:6px 0 0;font-family:{SANS};font-size:24px;line-height:1.3;font-weight:bold;color:{INK}">PA Journal Digest</h1>
-    <div style="margin-top:14px;font-size:17px;line-height:1.5;color:{INK}">{headline}</div>
+    <div class="ko-head" style="margin-top:14px;font-size:16px;line-height:1.5;color:{INK}">{headline}</div>
     {strip}
   </td></tr>
   <tr><td class="pad" style="padding:0 40px;text-align:left">
