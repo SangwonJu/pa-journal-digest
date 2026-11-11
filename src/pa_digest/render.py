@@ -99,7 +99,7 @@ def _tags_html(article: Article, color: str) -> str:
     tags.extend((construct, MUTED) for construct in article.constructs[:2])
     # Inline-block chips wrap onto a new line on phones instead of widening the email.
     chips = "".join(
-        f'<div style="display:inline-block;margin:0 6px 6px 0;padding:3px 8px;border:1px solid {INK};'
+        f'<div style="display:inline-block;margin:0 6px 6px 0;padding:3px 8px;border:1px solid {RULE};'
         f'border-radius:3px;font-size:12px;line-height:1.3;color:{tag_color};white-space:nowrap">'
         f'<strong style="font-weight:600">{escape(value)}</strong></div>'
         for value, tag_color in tags
