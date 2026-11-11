@@ -56,7 +56,6 @@ JOURNALS: tuple[Journal, ...] = (
     Journal("JBPA", "Journal of Behavioral Public Administration", ("2576-6465",), 2),
     Journal("JEPS", "Journal of Experimental Political Science", ("2052-2630", "2052-2649"), 2),
     Journal("OBHDP", "Organizational Behavior and Human Decision Processes", ("0749-5978", "1095-9920"), 1),
-    Journal("NVSQ", "Nonprofit and Voluntary Sector Quarterly", ("0899-7640", "1552-7395"), 2),
     Journal("NHB", "Nature Human Behaviour", ("2397-3374",), 1, ai_social_only=True),
     Journal("PNAS", "Proceedings of the National Academy of Sciences", ("0027-8424", "1091-6490"), 1, ai_social_only=True),
 )
@@ -71,7 +70,7 @@ FIELDS: tuple[str, ...] = ("행정·정책", "정치학", "경영·조직", "심
 _FIELD_BY_SHORT = {
     **dict.fromkeys(
         ("JPART", "PAR", "PPMG", "JPAM", "PMR", "PA", "ARPA", "PSJ", "IPMJ",
-         "PPMR", "GIQ", "Governance", "A&S", "ROPPA", "JBPA", "NVSQ"),
+         "PPMR", "GIQ", "Governance", "A&S", "ROPPA", "JBPA"),
         "행정·정책",
     ),
     **dict.fromkeys(

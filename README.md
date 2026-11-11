@@ -47,7 +47,6 @@
 | JBPA | Journal of Behavioral Public Administration | 2 |
 | JEPS | Journal of Experimental Political Science | 2 |
 | OBHDP | Organizational Behavior and Human Decision Processes | 1 |
-| NVSQ | Nonprofit and Voluntary Sector Quarterly | 2 |
 | NHB | Nature Human Behaviour (AI 관련 정치·심리 논문만) | 1 |
 | PNAS | Proceedings of the National Academy of Sciences (AI 관련 정치·심리 논문만) | 1 |
 
