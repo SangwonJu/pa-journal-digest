@@ -26977,6 +26977,77 @@
       ],
       "sent_at": "2026-11-11T14:28:12.129109+00:00",
       "status": "sent"
+    },
+    "2026-11-11-3cc6351fe52c7937-resend-20261111T150157Z": {
+      "created_at": "2026-11-11T15:01:57.476207+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-11-3cc6351fe52c7937-resend-20261111T150157Z",
+      "items": [
+        {
+          "abstract": "The rapid growth of scientific literature makes it increasingly challenging for researchers to identify novel and impactful ideas, especially across disciplines. Modern AI systems offer new opportunities for scientific ideation, but how compelling are AI-generated ideas, and how can their quality be improved? Here, we introduce SCIMUSE , which generates personalized research ideas using a knowledge graph of 58 million papers and a large language model (LLM). A central focus of this work is to understand how interesting these ideas are. Therefore, we conducted a large-scale evaluation in which more than 100 research group leaders—spanning the natural sciences to the humanities—rated over 4,400 personalized ideas according to their level of interest. Overall, expert ratings were modest (mean 2.40 on a 5-point scale, most common rating 1), while 24.9% of ideas were rated 4 or 5. We find that supplying concept pairs selected using the knowledge graph does not improve expert-rated interest over a titles-only GPT baseline. High-citation-predicted pairs even showed a weak tendency (1.94 σ ) toward lower interest than random pairs. Nevertheless, graph features can be used to control properties of ideas, and, using this unique evaluation dataset, we show that idea interest can be predicted with both a supervised neural network based on graph features and a zero-shot ranking approach based on an LLM. Our work provides an AI methodology for generating scientific ideas and a large-scale interdisciplinary expert evaluation, paving the way to study and improve difficult-to-measure metrics such as expert-perceived scientific interestingness.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Mario Krenn": [
+              "Max Planck Institute for the Science of Light",
+              "Department of Computer Science, Faculty of Science, University of Tübingen"
+            ],
+            "Xuemei Gu": [
+              "Max Planck Institute for the Science of Light",
+              "Institute of Condensed Matter Theory and Optics, Faculty of Physics and Astronomy, Friedrich Schiller University Jena"
+            ]
+          },
+          "authors": [
+            "Xuemei Gu",
+            "Mario Krenn"
+          ],
+          "constructs": [
+            "Generative AI",
+            "Scientific Interestingness"
+          ],
+          "doi": "10.1073/pnas.2611349123",
+          "journal": "Proceedings of the National Academy of Sciences",
+          "journal_short": "PNAS",
+          "method": "혼합방법론",
+          "method_detail": "전문가 평가·예측모형",
+          "publication_date": "2026-11-09",
+          "stable_id": "doi:10.1073/pnas.2611349123",
+          "summary_basis": "abstract",
+          "summary_ko": "58백만 편의 논문으로 구성한 지식 그래프와 LLM을 활용해 개인화한 연구 아이디어를 생성하고, 자연과학부터 인문학까지 100명 이상의 연구그룹 리더가 4,400개 이상의 아이디어에 매긴 흥미도 평가를 분석했다. 전문가 평가는 평균 2.40점으로 낮았고, 지식 그래프에서 선택한 개념 쌍은 제목만 입력한 GPT 기준선보다 흥미도를 높이지 않았으며, 그래프 특성으로 아이디어 흥미도를 예측할 수 있었다.",
+          "title": "Generating interesting scientific ideas using knowledge graphs and LLMs: Evaluations with 100 research group leaders",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1073/pnas.2611349123"
+        },
+        {
+          "abstract": "As the use of generative and agentic artificial intelligence (AI) increases, alarms are being raised about how the technology could replace human contribution, override human supervision, ignore ethical and technical guardrails, and cause increasingly irreparable harm to the environment. This creates potentially destructive outcomes for life on Earth. From a traditional Indigenous science perspective, such possibilities in themselves would be enough to immediately stop presently configured AI releases. In a Lakota context, science must ensure as little harm as possible is done to life. Therefore, AI as presently configured simply would not qualify to advance further from an ethical and scientific standpoint. Indigenous science asks something fundamentally different than what AI presently seeks to, or can, answer. But that does not mean that future forms of AI can never align with Indigenous science.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Yvette Running Horse Collin": [
+              "Yvette Running Horse Collin is the executive director and principal science officer for Taku Škan Škan Wasakliyapi: Global Institute for Traditional Sciences (GIFTS), He’Sapa, SD, USA."
+            ]
+          },
+          "authors": [
+            "Yvette Running Horse Collin"
+          ],
+          "constructs": [
+            "Indigenous Science",
+            "AI Ethics"
+          ],
+          "doi": "10.1126/science.aen6314",
+          "journal": "Science",
+          "journal_short": "Science",
+          "method": "이론/개념",
+          "method_detail": "개념적 검토",
+          "publication_date": "2026-11-05",
+          "stable_id": "doi:10.1126/science.aen6314",
+          "summary_basis": "abstract",
+          "summary_ko": "생성형·에이전트형 AI가 인간의 기여와 감독을 대체하고 윤리·기술적 안전장치를 무시하며 환경에 돌이킬 수 없는 피해를 줄 가능성을 Indigenous science, 특히 Lakota 관점에서 개념적으로 검토했다. 생명에 대한 피해를 최소화해야 한다는 Lakota 과학의 기준에 따르면 현재의 AI는 더 발전할 윤리적·과학적 자격이 없지만, 미래의 AI가 Indigenous science와 정렬할 가능성까지 배제하지 않았다.",
+          "title": "Can artificial intelligence align with Indigenous science?",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1126/science.aen6314"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
