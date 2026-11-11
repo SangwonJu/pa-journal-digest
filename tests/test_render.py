@@ -49,6 +49,8 @@ def test_render_includes_escaped_content_and_fallback_notice() -> None:
     assert "max-width:900px" in html
     assert "2026년 8월 7일 금요일" in html
     assert "행정·정책 <b>1</b>편" in html
+    assert 'href="#field-0"' in html
+    assert 'id="field-0"' in html
     assert "누적 논문 정리표 다운로드 (XLSX)" in html
     assert "PA_Journal_Digest_Archive.xlsx" in text
 
@@ -125,7 +127,7 @@ def test_render_empty_digest_includes_daily_confirmation() -> None:
     assert "오늘은 새로 확인된 논문이 없습니다." in html
     assert "오늘은 새로 확인된 논문이 없습니다." in text
     assert "max-width:900px" in html
-    assert "41개 저널을 모두 확인했습니다." in html
+    assert "43개 저널을 모두 확인했습니다." in html
 
 
 def test_render_groups_sections_by_field() -> None:

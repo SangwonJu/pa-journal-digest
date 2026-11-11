@@ -9,8 +9,9 @@ class Journal:
     name: str
     issns: tuple[str, ...]
     tier: int
-    # Broad journals (NHB, PNAS, Science, Nature) publish far outside the reader's fields. When set,
-    # an LLM keeps only articles about AI in a political or psychological context.
+    # When set, an LLM keeps only articles about AI in a political or psychological
+    # context. Used for broad journals (NHB, PNAS, Science, Nature) and for the
+    # psychology journals, where the reader follows AI-related work only.
     ai_social_only: bool = False
 
     @property
@@ -46,8 +47,10 @@ JOURNALS: tuple[Journal, ...] = (
     Journal("AMA", "Academy of Management Annals", ("1941-6520", "1941-6067"), 1),
     Journal("JOB", "Journal of Organizational Behavior", ("0894-3796", "1099-1379"), 2),
     Journal("JOM", "Journal of Management", ("0149-2063", "1557-1211"), 1),
-    Journal("JPSP", "Journal of Personality and Social Psychology", ("0022-3514", "1939-1315"), 1),
-    Journal("PSPB", "Personality and Social Psychology Bulletin", ("0146-1672", "1552-7433"), 2),
+    Journal("JPSP", "Journal of Personality and Social Psychology", ("0022-3514", "1939-1315"), 1, ai_social_only=True),
+    Journal("PSPB", "Personality and Social Psychology Bulletin", ("0146-1672", "1552-7433"), 2, ai_social_only=True),
+    Journal("PsychSci", "Psychological Science", ("0956-7976", "1467-9280"), 1, ai_social_only=True),
+    Journal("PsychBull", "Psychological Bulletin", ("0033-2909", "1939-1455"), 1, ai_social_only=True),
     Journal("MgmtSci", "Management Science", ("0025-1909", "1526-5501"), 1),
     Journal("MISQ", "MIS Quarterly", ("0276-7783", "2162-9730"), 1),
     Journal("ISR", "Information Systems Research", ("1047-7047", "1526-5536"), 1),
@@ -78,8 +81,8 @@ _FIELD_BY_SHORT = {
     **dict.fromkeys(
         ("AJPS", "APSR", "JOP", "PolAnalysis", "PolBeh", "POQ", "PolComm", "JEPS"), "정치학"
     ),
-    **dict.fromkeys(("AMJ", "AMR", "AMA", "JOB", "JOM", "MgmtSci", "SMJ", "OrgSci", "OBHDP"), "경영·조직"),
-    **dict.fromkeys(("JAP", "JPSP", "PSPB"), "심리학"),
+    **dict.fromkeys(("AMJ", "AMR", "AMA", "JOB", "JOM", "MgmtSci", "SMJ", "OrgSci", "OBHDP", "JAP"), "경영·조직"),
+    **dict.fromkeys(("JPSP", "PSPB", "PsychSci", "PsychBull"), "심리학"),
     **dict.fromkeys(("MISQ", "ISR"), "정보시스템"),
     **dict.fromkeys(("NHB", "PNAS", "Science", "Nature"), "AI·사회과학"),
 }

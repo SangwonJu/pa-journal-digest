@@ -58,6 +58,10 @@ def _field(journal: str) -> str:
     return JOURNAL_FIELD.get(journal, FALLBACK_FIELD)
 
 
+def _anchor(field: str) -> str:
+    return f"field-{_field_order(field)}"
+
+
 def _tint(field: str) -> str:
     return FIELD_TINTS.get(field, FALLBACK_TINT)
 
@@ -164,8 +168,11 @@ def _article_html(article: Article, color: str) -> str:
 
 def _field_strip_html(field_counts: OrderedDict[str, int], ai_count: int = 0) -> str:
     items = "".join(
-        f'<div style="display:inline-block;margin:0 18px 8px 0;font-family:{SANS};font-size:14px;'
-        f'line-height:1.3;color:{_colors(field)};white-space:nowrap">{escape(field)} <b>{count}</b>편</div>'
+        # Each field count jumps to its section. In-page links work in Apple Mail and
+        # Gmail on the web; some mobile apps ignore them, which only loses the jump.
+        f'<a href="#{_anchor(field)}" style="display:inline-block;margin:0 18px 8px 0;font-family:{SANS};'
+        f'font-size:14px;line-height:1.3;color:{_colors(field)};text-decoration:underline;'
+        f'white-space:nowrap">{escape(field)} <b>{count}</b>편</a>'
         for field, count in field_counts.items()
     )
     if ai_count:
@@ -202,7 +209,7 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
     for field, journals in grouped.items():
         color = _colors(field)
         blocks = [
-            '<tr><td style="padding:34px 0 0">'
+            f'<tr><td style="padding:34px 0 0"><a name="{_anchor(field)}" id="{_anchor(field)}"></a>'
             '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" '
             f'style="border:1px solid {color};background:{_tint(field)}"><tr>'
             f'<td class="ko-field" style="padding:10px 14px;font-family:{SANS};font-size:16px;line-height:1.3;'

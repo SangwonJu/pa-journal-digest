@@ -80,6 +80,7 @@ class ArticleSummarizer:
                 "acronyms and use consistent title case for multiword terms. Do not use generic words such as public "
                 "administration or study. Use performance only when it is itself the focal theoretical construct. "
                 + AI_RELATED_RULE
+                + KOREAN_STYLE_RULES
             )
             article.summary_basis = "abstract"
         else:
@@ -90,6 +91,7 @@ class ArticleSummarizer:
                 "topic and one or two constructs that are explicit in the title. Set method to '방법 미상' and "
                 "method_detail to an empty string. "
                 + AI_RELATED_RULE
+                + KOREAN_STYLE_RULES
             )
             article.summary_basis = "title"
         prompt = (
@@ -170,6 +172,30 @@ class ArticleSummarizer:
         return kept
 
 
+# Style rules for summary_ko, drawn from Korean humanizer guides (IsaacEryn/humanizer-ko,
+# dandacompany/dante-skills humanize-korean, hjongc/humanizer-kr) and narrowed to
+# one- or two-sentence formal summaries of academic abstracts.
+KOREAN_STYLE_RULES = (
+    " Write summary_ko the way a Korean scholar jots a note for colleagues: plain written register, "
+    "one consistent ending (~했다, ~나타났다), never mixing in ~함 or ~습니다. "
+    "Content: what was examined, with what data or design, and the one or two main results; add an "
+    "implication only if the abstract states one. Keep the abstract's concrete terms, samples, settings "
+    "and numbers, and keep technical terms and acronyms as written. Do not strengthen, weaken or "
+    "generalize a claim beyond the abstract's scope. "
+    "Avoid translationese: no double passive (검증되어졌다 -> 검증했다), no '~에 의해' agent phrases "
+    "(A에 의해 제안된 -> A가 제안한), no '~에 있어서', no '~라고 할 수 있다', no comparative '보다 ~한' "
+    "without a stated comparison, no '해당'/'그것' as filler subjects. "
+    "Prefer verbs to nominalized predicates (향상을 가능하게 함 -> 향상시켰다), and plain predicates to "
+    "inflated ones (~로 자리잡고 있다, 심화되고 있다). "
+    "Do not use empty intensifiers or stock words: 획기적, 혁신적, 매우 중요한, 핵심적인 역할, 다양한, "
+    "심층적, 다각적, 포괄적, 시너지, 필요성이 대두되고 있다, 이론적·실무적 시사점. "
+    "Do not stack hedges (~일 수 있을 것으로 보인다 -> ~일 수 있다). "
+    "Do not open with '본 연구는' or '이 연구는'; begin with what was examined. Do not close with "
+    "'~에 기여할 것으로 기대된다', '~할 것이다' or other formulaic positive endings. "
+    "No connective chains (이를 통해, 나아가, 아울러), no '~뿐만 아니라 ~도', no '단순한 X가 아니라 Y', "
+    "no lists of three unless the abstract measured three things, no dashes, and no colon except the "
+    "required '제목 기준:'. Keep each sentence to one clear point."
+)
 AI_RELATED_RULE = (
     "Set ai_related to true only when artificial intelligence itself (large language models, chatbots, "
     "generative AI, algorithms or algorithmic decision-making, recommender systems, automation by AI) is a "
