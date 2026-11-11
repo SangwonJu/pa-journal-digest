@@ -186,7 +186,7 @@ class MetadataClient:
                     f"from-pub-date:{start.isoformat()},until-pub-date:{end.isoformat()},"
                     "type:journal-article"
                 ),
-                # PNAS publishes about 80 articles a week, so screened journals need a larger page.
+                # PNAS and Nature publish about 80-100 items a week, so screened journals need a larger page.
                 "rows": "1000" if journal.ai_social_only else "100",
                 "mailto": self.mailto,
                 "select": (

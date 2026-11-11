@@ -9,7 +9,7 @@ class Journal:
     name: str
     issns: tuple[str, ...]
     tier: int
-    # Broad journals (NHB, PNAS) publish far outside the reader's fields. When set,
+    # Broad journals (NHB, PNAS, Science, Nature) publish far outside the reader's fields. When set,
     # an LLM keeps only articles about AI in a political or psychological context.
     ai_social_only: bool = False
 
@@ -58,6 +58,8 @@ JOURNALS: tuple[Journal, ...] = (
     Journal("OBHDP", "Organizational Behavior and Human Decision Processes", ("0749-5978", "1095-9920"), 1),
     Journal("NHB", "Nature Human Behaviour", ("2397-3374",), 1, ai_social_only=True),
     Journal("PNAS", "Proceedings of the National Academy of Sciences", ("0027-8424", "1091-6490"), 1, ai_social_only=True),
+    Journal("Science", "Science", ("0036-8075", "1095-9203"), 1, ai_social_only=True),
+    Journal("Nature", "Nature", ("0028-0836", "1476-4687"), 1, ai_social_only=True),
 )
 
 JOURNAL_BY_NAME = {journal.name: journal for journal in JOURNALS}
@@ -79,7 +81,7 @@ _FIELD_BY_SHORT = {
     **dict.fromkeys(("AMJ", "AMR", "AMA", "JOB", "JOM", "MgmtSci", "SMJ", "OrgSci", "OBHDP"), "경영·조직"),
     **dict.fromkeys(("JAP", "JPSP", "PSPB"), "심리학"),
     **dict.fromkeys(("MISQ", "ISR"), "정보시스템"),
-    **dict.fromkeys(("NHB", "PNAS"), "AI·사회과학"),
+    **dict.fromkeys(("NHB", "PNAS", "Science", "Nature"), "AI·사회과학"),
 }
 JOURNAL_FIELD = {journal.name: _FIELD_BY_SHORT[journal.short_name] for journal in JOURNALS}
 

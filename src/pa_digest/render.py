@@ -9,12 +9,10 @@ from .config import FIELDS, JOURNAL_FIELD, JOURNAL_RANK, JOURNAL_TIER, JOURNALS
 from .models import Article
 
 
-# Korean notes and interface text use the reader's system Korean sans. English
-# source text (titles, abstracts) is set in Georgia, so the journal's voice and
-# the Korean reading note are told apart by type alone. Both stacks are
-# email-safe; web fonts are blocked in Gmail and Outlook.
-SANS = "'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',Arial,sans-serif"
-SERIF = "Georgia,'Times New Roman',serif"
+# Helvetica for everything; Helvetica has no Hangul, so Korean falls back to the
+# platform's Korean sans. All of these are email-safe (web fonts are blocked in
+# Gmail and Outlook).
+SANS = "'Helvetica Neue',Helvetica,Arial,'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif"
 
 # Cool index-card paper with slate ink. Each field (and the 기타 fallback) has its
 # own colour, used for its outlined section box, journal names, the field counts in
@@ -34,6 +32,16 @@ FIELD_COLORS: dict[str, str] = {
     "정보시스템": "#5847a0",
     "AI·사회과학": "#13707a",
 }
+# Pale fills for the field heading boxes only; paper boxes stay white.
+FIELD_TINTS: dict[str, str] = {
+    "행정·정책": "#e6eff6",
+    "정치학": "#f5e8ee",
+    "경영·조직": "#e5f1ea",
+    "심리학": "#f6eedc",
+    "정보시스템": "#ece9f6",
+    "AI·사회과학": "#e2f1f2",
+}
+FALLBACK_TINT = "#f3ebe3"
 FALLBACK_FIELD = "기타"
 FALLBACK_COLOR = "#7a4f2a"
 # The one loud mark in the email: a filled badge on papers whose subject is AI.
@@ -47,6 +55,10 @@ DEFAULT_ARCHIVE_URL = (
 
 def _field(journal: str) -> str:
     return JOURNAL_FIELD.get(journal, FALLBACK_FIELD)
+
+
+def _tint(field: str) -> str:
+    return FIELD_TINTS.get(field, FALLBACK_TINT)
 
 
 def _colors(field: str) -> str:
@@ -114,7 +126,7 @@ def _article_html(article: Article, color: str) -> str:
     doi_url = "https://doi.org/" + article.doi if article.doi else article.url
     if article.abstract:
         abstract = (
-            f'<div style="margin-top:14px;font-family:{SERIF};font-size:14px;line-height:1.7;'
+            f'<div style="margin-top:14px;font-family:{SANS};font-size:14px;line-height:1.7;'
             f'color:{MUTED}">{escape(article.abstract)}</div>'
         )
     else:
@@ -125,16 +137,16 @@ def _article_html(article: Article, color: str) -> str:
     summary = escape(article.summary_ko or "요약을 만들지 못했습니다.")
     if article.ai_related:
         summary = (
-            f'<b style="display:inline-block;margin:0 8px 2px 0;padding:2px 8px;background:{AI_BADGE};'
-            f'border-radius:3px;font-size:12px;line-height:1.4;font-weight:bold;color:#ffffff;'
-            f'vertical-align:1px;white-space:nowrap">AI-related</b>{summary}'
+            f'<b style="display:inline-block;margin:0 10px 4px 0;padding:4px 11px;background:{AI_BADGE};'
+            f'border-radius:4px;font-size:14px;line-height:1.3;font-weight:bold;color:#ffffff;'
+            f'letter-spacing:.3px;vertical-align:1px;white-space:nowrap">AI-related</b>{summary}'
         )
     return (
         '<tr><td style="padding:0 0 14px">'
         '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" '
-        f'style="border:1px solid {PAPER_LINE}"><tr>'
+        f'style="border:{"3px solid " + AI_BADGE if article.ai_related else "1px solid " + PAPER_LINE}"><tr>'
         f'<td class="paper" style="padding:22px 24px 20px;font-family:{SANS};text-align:left">'
-        f'<h3 class="en-title" style="margin:0;font-family:{SERIF};font-size:19px;line-height:1.38;font-weight:normal;color:{INK}">'
+        f'<h3 class="en-title" style="margin:0;font-family:{SANS};font-size:19px;line-height:1.35;font-weight:bold;color:{INK}">'
         f'<a href="{link}" style="color:{INK};text-decoration:none">{escape(article.title)}</a></h3>'
         f'<div style="margin-top:8px;font-family:{SANS};font-size:13px;line-height:1.55;color:{MUTED}">'
         f'{_affiliations_html(article)}'
@@ -191,7 +203,7 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
         blocks = [
             '<tr><td style="padding:34px 0 0">'
             '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" '
-            f'style="border:1px solid {color}"><tr>'
+            f'style="border:1px solid {color};background:{_tint(field)}"><tr>'
             f'<td class="ko-field" style="padding:10px 14px;font-family:{SANS};font-size:16px;line-height:1.3;'
             f'font-weight:bold;color:{color}">{escape(field)}</td>'
             f'<td align="right" style="padding:10px 14px;font-family:{SANS};font-size:14px;'
@@ -253,7 +265,7 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
   table {{ border-collapse:collapse !important; }}
   a:focus-visible {{ outline:2px solid {INK}; outline-offset:2px; }}
   @media only screen and (max-width:940px) {{ .shell {{ width:100% !important; }} .outer {{ padding:0 !important; }} .pad {{ padding-left:18px !important; padding-right:18px !important; }} }}
-  /* Hangul fills its em box, so it reads larger than Georgia at the same size; on phones step it down further. */
+  /* Hangul fills its em box, so it reads larger than Latin text at the same size; on phones step it down further. */
   @media only screen and (max-width:600px) {{ .ko-sum {{ font-size:14px !important; line-height:1.7 !important; }} .ko-head, .ko-field {{ font-size:15px !important; }} .en-title {{ font-size:17px !important; }} .paper {{ padding:16px 14px !important; }} }}
 </style>
 <!--[if mso]><style>body,table,td,a,h1,h3,div {{font-family:'Malgun Gothic',Arial,sans-serif !important;}}</style><![endif]-->

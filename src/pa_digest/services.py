@@ -129,14 +129,14 @@ class ArticleSummarizer:
         article.method = parsed["method"]
         article.method_detail = " ".join(parsed["method_detail"].split()) or None
         article.constructs = [" ".join(item.split()) for item in parsed["constructs"] if item.strip()][:2]
-        # Papers kept by the NHB/PNAS AI screen stay flagged even if this call says otherwise.
+        # Papers kept by the broad-journal AI screen stay flagged even if this call says otherwise.
         article.ai_related = article.ai_related or bool(parsed.get("ai_related", False))
 
 
     def select_ai_social(self, articles: list[Article]) -> list[Article]:
         """Keep only articles whose subject is AI as it bears on politics or psychology.
 
-        Used for broad journals (NHB, PNAS). Candidates are judged in batches on title
+        Used for broad journals (NHB, PNAS, Science, Nature). Candidates are judged in batches on title
         and abstract, so one call covers a whole week of PNAS.
         """
         kept: list[Article] = []
@@ -198,7 +198,7 @@ AI_FILTER_INSTRUCTIONS = (
     "prosocial intentions and reliance on AI.\n"
     "- AI-written political messages persuading voters; LLMs simulating survey respondents; public "
     "attitudes toward AI in government; AI and political polarization or misinformation.\n\n"
-    "Exclude articles that only use machine learning as a measurement or prediction tool for a "
+    "Exclude news stories, editorials, letters, obituaries and book reviews. Exclude articles that only use machine learning as a measurement or prediction tool for a "
     "question that is not about AI, and AI work in biology, medicine, chemistry, physics, materials "
     "or climate science. When unsure, exclude. Return an empty list when nothing qualifies."
 )

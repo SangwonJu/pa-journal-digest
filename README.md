@@ -49,8 +49,10 @@
 | OBHDP | Organizational Behavior and Human Decision Processes | 1 |
 | NHB | Nature Human Behaviour (AI 관련 정치·심리 논문만) | 1 |
 | PNAS | Proceedings of the National Academy of Sciences (AI 관련 정치·심리 논문만) | 1 |
+| Science | Science (AI 관련 정치·심리 논문만) | 1 |
+| Nature | Nature (AI 관련 정치·심리 논문만) | 1 |
 
-NHB와 PNAS는 게재 범위가 넓어서 전체를 받지 않습니다. 매일 후보 논문의 제목과 초록을
+NHB, PNAS, Science, Nature는 게재 범위가 넓어서 전체를 받지 않습니다. 매일 후보 논문의 제목과 초록을
 `OPENAI_MODEL`에 묶어 보내, AI가 중심 주제이면서 정치·정부·여론·설득·신념·신뢰 등 정치학이나
 심리학 질문을 다루는 논문만 남깁니다. 판정 기준의 대표 사례는 Costello·Pennycook·Rand의 LLM 대화를
 통한 음모론 믿음 감소 연구와 Myra Cheng 등의 LLM 아첨(sycophancy) 연구입니다. 머신러닝을 측정 도구로만

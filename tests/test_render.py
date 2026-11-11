@@ -28,7 +28,8 @@ def test_render_includes_escaped_content_and_fallback_notice() -> None:
     assert "제목 기준" in text
     assert "Example University" in html
     assert "Malgun Gothic" in html
-    assert "Georgia" in html
+    assert "Helvetica" in html
+    assert "Georgia" not in html
     assert "background:#e9edf1" in html
     assert "background:#ffffff" in html
     assert "#f6f4ef" not in html
@@ -124,7 +125,7 @@ def test_render_empty_digest_includes_daily_confirmation() -> None:
     assert "오늘은 새로 확인된 논문이 없습니다." in html
     assert "오늘은 새로 확인된 논문이 없습니다." in text
     assert "max-width:900px" in html
-    assert "39개 저널을 모두 확인했습니다." in html
+    assert "41개 저널을 모두 확인했습니다." in html
 
 
 def test_render_groups_sections_by_field() -> None:
@@ -171,4 +172,5 @@ def test_render_marks_ai_related_papers() -> None:
     assert html.count(">AI-related</b>") == 1
     assert "AI-related 1편" in html
     assert "[AI-related] 한국어 요약" in text
-    assert "border:1px solid #8c3a5b" in html
+    assert "border:1px solid #8c3a5b;background:#f5e8ee" in html
+    assert html.count("border:3px solid #d6246e") == 1
