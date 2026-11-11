@@ -52,6 +52,10 @@ JOURNALS: tuple[Journal, ...] = (
     Journal("ISR", "Information Systems Research", ("1047-7047", "1526-5536"), 1),
     Journal("SMJ", "Strategic Management Journal", ("0143-2095", "1097-0266"), 1),
     Journal("OrgSci", "Organization Science", ("1047-7039", "1526-5455"), 1),
+    Journal("JBPA", "Journal of Behavioral Public Administration", ("2576-6465",), 2),
+    Journal("JEPS", "Journal of Experimental Political Science", ("2052-2630", "2052-2649"), 2),
+    Journal("OBHDP", "Organizational Behavior and Human Decision Processes", ("0749-5978", "1095-9920"), 1),
+    Journal("NVSQ", "Nonprofit and Voluntary Sector Quarterly", ("0899-7640", "1552-7395"), 2),
 )
 
 JOURNAL_BY_NAME = {journal.name: journal for journal in JOURNALS}
@@ -64,13 +68,13 @@ FIELDS: tuple[str, ...] = ("행정·정책", "정치학", "경영·조직", "심
 _FIELD_BY_SHORT = {
     **dict.fromkeys(
         ("JPART", "PAR", "PPMG", "JPAM", "PMR", "PA", "ARPA", "PSJ", "IPMJ", "IJPA",
-         "PPMR", "GIQ", "Governance", "A&S", "ROPPA"),
+         "PPMR", "GIQ", "Governance", "A&S", "ROPPA", "JBPA", "NVSQ"),
         "행정·정책",
     ),
     **dict.fromkeys(
-        ("AJPS", "APSR", "JOP", "PolAnalysis", "PolBeh", "PolPsych", "POQ", "PolComm"), "정치학"
+        ("AJPS", "APSR", "JOP", "PolAnalysis", "PolBeh", "PolPsych", "POQ", "PolComm", "JEPS"), "정치학"
     ),
-    **dict.fromkeys(("AMJ", "AMR", "AMA", "JOB", "JOM", "MgmtSci", "SMJ", "OrgSci"), "경영·조직"),
+    **dict.fromkeys(("AMJ", "AMR", "AMA", "JOB", "JOM", "MgmtSci", "SMJ", "OrgSci", "OBHDP"), "경영·조직"),
     **dict.fromkeys(("JAP", "JPSP", "PSPB"), "심리학"),
     **dict.fromkeys(("MISQ", "ISR"), "정보시스템"),
 }

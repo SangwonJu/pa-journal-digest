@@ -124,7 +124,7 @@ def test_render_empty_digest_includes_daily_confirmation() -> None:
     assert "오늘은 새로 확인된 논문이 없습니다." in html
     assert "오늘은 새로 확인된 논문이 없습니다." in text
     assert "max-width:900px" in html
-    assert "36개 저널을 모두 확인했습니다." in html
+    assert "40개 저널을 모두 확인했습니다." in html
 
 
 def test_render_groups_sections_by_field() -> None:

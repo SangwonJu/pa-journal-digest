@@ -46,6 +46,10 @@
 | ISR | Information Systems Research | 1 |
 | SMJ | Strategic Management Journal | 1 |
 | OrgSci | Organization Science | 1 |
+| JBPA | Journal of Behavioral Public Administration | 2 |
+| JEPS | Journal of Experimental Political Science | 2 |
+| OBHDP | Organizational Behavior and Human Decision Processes | 1 |
+| NVSQ | Nonprofit and Voluntary Sector Quarterly | 2 |
 
 뉴스레터에서는 위 표의 순서대로 섹션을 배치하며, 특정 날짜에 신규 논문이 없는 저널은
 해당 날짜의 메일에 표시하지 않습니다. 신규 논문이 전혀 없는 날에는 확인 완료 안내만 보냅니다.
