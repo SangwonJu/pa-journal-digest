@@ -39,6 +39,19 @@ JOURNALS: tuple[Journal, ...] = (
     Journal("Governance", "Governance", ("0952-1895", "1468-0491"), 3),
     Journal("A&S", "Administration & Society", ("0095-3997", "1552-3039"), 3),
     Journal("ROPPA", "Review of Public Personnel Administration", ("0734-371X", "1552-759X"), 3),
+    Journal("JAP", "Journal of Applied Psychology", ("0021-9010", "1939-1854"), 1),
+    Journal("AMJ", "Academy of Management Journal", ("0001-4273", "1948-0989"), 1),
+    Journal("AMR", "Academy of Management Review", ("0363-7425", "1930-3807"), 1),
+    Journal("AMA", "Academy of Management Annals", ("1941-6520", "1941-6067"), 1),
+    Journal("JOB", "Journal of Organizational Behavior", ("0894-3796", "1099-1379"), 2),
+    Journal("JOM", "Journal of Management", ("0149-2063", "1557-1211"), 1),
+    Journal("JPSP", "Journal of Personality and Social Psychology", ("0022-3514", "1939-1315"), 1),
+    Journal("PSPB", "Personality and Social Psychology Bulletin", ("0146-1672", "1552-7433"), 2),
+    Journal("MgmtSci", "Management Science", ("0025-1909", "1526-5501"), 1),
+    Journal("MISQ", "MIS Quarterly", ("0276-7783", "2162-9730"), 1),
+    Journal("ISR", "Information Systems Research", ("1047-7047", "1526-5536"), 1),
+    Journal("SMJ", "Strategic Management Journal", ("0143-2095", "1097-0266"), 1),
+    Journal("OrgSci", "Organization Science", ("1047-7039", "1526-5455"), 1),
 )
 
 JOURNAL_BY_NAME = {journal.name: journal for journal in JOURNALS}

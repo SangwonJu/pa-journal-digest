@@ -33,6 +33,19 @@
 | Governance | Governance | 3 |
 | A&S | Administration & Society | 3 |
 | ROPPA | Review of Public Personnel Administration | 3 |
+| JAP | Journal of Applied Psychology | 1 |
+| AMJ | Academy of Management Journal | 1 |
+| AMR | Academy of Management Review | 1 |
+| AMA | Academy of Management Annals | 1 |
+| JOB | Journal of Organizational Behavior | 2 |
+| JOM | Journal of Management | 1 |
+| JPSP | Journal of Personality and Social Psychology | 1 |
+| PSPB | Personality and Social Psychology Bulletin | 2 |
+| MgmtSci | Management Science | 1 |
+| MISQ | MIS Quarterly | 1 |
+| ISR | Information Systems Research | 1 |
+| SMJ | Strategic Management Journal | 1 |
+| OrgSci | Organization Science | 1 |
 
 뉴스레터에서는 위 표의 순서대로 섹션을 배치하며, 특정 날짜에 신규 논문이 없는 저널은
 해당 날짜의 메일에 표시하지 않습니다. 신규 논문이 전혀 없는 날에는 확인 완료 안내만 보냅니다.
@@ -91,7 +104,7 @@ API 키를 코드, 커밋, Issue, 채팅에 붙여 넣지 마세요. 노출된 �
 발송 요청 후 원장 커밋 전에 작업이 중단되면 배치가 `prepared` 상태로 남습니다. 24시간 안에는 같은
 Resend idempotency key로 안전하게 재시도합니다. 24시간이 지나면 자동 전송을 중단합니다.
 
-최근 GitHub 예약 실행의 최대 지연 폭을 반영해 워크플로는 동부시간 2:15, 2:35, 2:55에
+최근 GitHub 예약 실행의 최대 지연 폭을 반영해 워크플로는 동부시간 1:15, 1:35, 1:55에
 세 번 예약됩니다. 새 예약이 시작되면 아직 실행 중인 이전 예약은 취소해 실행이 밀려 쌓이지
 않도록 합니다. 첫 성공만 발송하고 이후 실행은 하루 1회 가드로 종료됩니다.
 
