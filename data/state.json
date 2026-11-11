@@ -25862,6 +25862,825 @@
       "sent_at": "2026-11-11T03:10:41.917926+00:00",
       "status": "sent"
     },
+    "2026-11-10-418e643876e0e943-resend-20261111T030859Z-resend-20261111T032511Z": {
+      "created_at": "2026-11-11T03:25:11.146039+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-10-418e643876e0e943-resend-20261111T030859Z-resend-20261111T032511Z",
+      "items": [
+        {
+          "abstract": "Children spend considerable time watching online video, yet we know relatively little about which features of video content shape their engagement. This research examines one measurable feature: visual motion. Analyzing more than 32,000 videos from popular children’s channels on YouTube, we find that videos with greater visual motion receive more views, even after accounting for other visual, audio, and content characteristics. A randomized YouTube advertising experiment using professionally produced educational videos confirms this relationship; adding motion to the background increased view rates by about 2% at essentially no additional cost. An eye-tracking study with children aged 6–10 helps explain why. Visual motion does not prevent children from looking away. Instead, it reduces the duration of longer attentional lapses by bringing their gaze back to the screen more quickly. The additional attention is directed primarily toward the moving background rather than the instructor. The findings show how a measurable design feature can shape children’s attention and provide creators and platforms with a way to assess and design children’s video content more systematically.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Madhu Viswanathan": [
+              "Indian School of Business, Gachibowli, Hyderabad, Telangana 500032, India"
+            ],
+            "Ravi Bapna": [
+              "Leavey School of Business, Santa Clara University, Santa Clara, California 95053"
+            ],
+            "Sumeet Kumar": [
+              "Indian School of Business, Gachibowli, Hyderabad, Telangana 500032, India"
+            ]
+          },
+          "authors": [
+            "Sumeet Kumar",
+            "Madhu Viswanathan",
+            "Ravi Bapna"
+          ],
+          "constructs": [
+            "Visual Attention",
+            "Engagement"
+          ],
+          "doi": "10.1287/isre.2023.0718",
+          "journal": "Information Systems Research",
+          "journal_short": "ISR",
+          "method": "혼합방법론",
+          "method_detail": "영상 분석·광고 실험·시선추적",
+          "publication_date": "2026-11-06",
+          "stable_id": "doi:10.1287/isre.2023.0718",
+          "summary_basis": "abstract",
+          "summary_ko": "YouTube 인기 아동 채널의 동영상 3만 2천여 편 분석, 교육 동영상 광고 무작위 실험, 6~10세 아동의 시선추적을 결합해 시각적 움직임이 시청 참여에 미치는 영향을 examined했다. 시각적 움직임이 큰 동영상은 조회 수와 조회율이 높았고, 움직이는 배경은 긴 주의 이탈을 줄여 화면 복귀를 빠르게 했지만 추가 주의는 주로 강사가 아닌 배경에 향했다.",
+          "title": "Attention Trap? How Visual Motion Shapes Children’s Screen Time and Engagement on Video Platforms",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1287/isre.2023.0718"
+        },
+        {
+          "abstract": "Machine learning (ML)–based artificial intelligence (AI) systems often perform well in controlled settings but fail when deployed in the real world. These failures stem from a fundamental problem: ML/AI models optimize data–model fit by increasing statistical performance on training data, whereas real-world deployment demands a new paradigm in ML/AI: model–world fit that preserves domain semantics and contextual understanding. We propose a machine learning model–world fit framework that provides both a conceptual structure for understanding how domain knowledge shapes ML/AI systems and a research road map for investigating these relationships. The framework identifies how domain knowledge can be integrated into the ML/AI development process via external knowledge representations, such as data, value, process models, or domain ontologies. Incorporating external knowledge representations can help overcome three types of knowledge deficiencies in AI: know-what, know-how, and know-why. To illustrate the framework, we apply it to a child welfare placement case, a domain in which contextual understanding is critical and statistical accuracy is an insufficient evaluation criterion. Our insights lead to several directions for scholars working at the intersection of machine learning, design science, and knowledge representation. History: Ahmed Abbasi, Senior Editor; Min Zhao, Associate Editor. Supplemental Material: The online appendix is available at https://doi.org/10.1287/isre.2023.0031 .",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Arturo Castellanos": [
+              "Raymond A. Mason School of Business, William & Mary, Williamsburg, Virginia 23185"
+            ],
+            "Jeffrey Parsons": [
+              "Faculty of Business Administration, Memorial University of Newfoundland, St. John’s, Newfoundland and Labrador A1B 3X5, Canada"
+            ],
+            "Monica Chiarini Tremblay": [
+              "Raymond A. Mason School of Business, College of William & Mary, Williamsburg, Virginia 23187"
+            ],
+            "Roman Lukyanenko": [
+              "McIntire School of Commerce, University of Virginia, Charlottesville, Virginia 22903"
+            ],
+            "Veda C. Storey": [
+              "Computer Information Systems Department, Georgia State University, Atlanta, Georgia"
+            ]
+          },
+          "authors": [
+            "Arturo Castellanos",
+            "Monica Chiarini Tremblay",
+            "Roman Lukyanenko",
+            "Jeffrey Parsons",
+            "Veda C. Storey"
+          ],
+          "constructs": [
+            "Model–World Fit",
+            "Domain Knowledge"
+          ],
+          "doi": "10.1287/isre.2023.0031",
+          "journal": "Information Systems Research",
+          "journal_short": "ISR",
+          "method": "이론/개념",
+          "method_detail": "개념적 모형",
+          "publication_date": "2026-11-06",
+          "stable_id": "doi:10.1287/isre.2023.0031",
+          "summary_basis": "abstract",
+          "summary_ko": "실제 환경에서 ML/AI 시스템이 실패하는 원인을 데이터·모형 적합과 세계·모형 적합의 차이로 설명하고, domain knowledge를 data, value, process model, domain ontology 같은 외부 지식 표현으로 개발 과정에 통합하는 개념적 프레임워크와 연구 의제를 제시했다. 아동복지 배치 사례에 적용해 이러한 통합이 know-what, know-how, know-why 결핍을 보완하며 통계적 정확성만으로 평가하기 어려운 맥락 이해를 다룰 수 있음을 보였다.",
+          "title": "From Data–Model Fit to Model–World Fit: A Framework for Integrating Domain Knowledge into Artificial Intelligence",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1287/isre.2023.0031"
+        },
+        {
+          "abstract": "= 67,652), including employment and school settings, experimental and operational contexts, concurrent and predictive designs, and a range of occupations. Results show consistent prediction of selection ratings and decisions and postselection performance with uncorrected grand averages across dictionaries and studies in the low .20 s for selection ratings and nearer .10 for performance criteria, incremental prediction beyond traditional assessments (mental ability and personality tests), measurement of constructs like motivation and personality without using self-scoring, and small gender and racioethnic subgroup differences. We close with theoretical and practical implications to show that dictionaries are explainable, generalizable, straightforward to content validate, useful for passively scoring information already gathered, accessible to researchers with typical statistical skills, can add incremental prediction to common existing measures, can capture previously difficult-to-measure constructs like motivation, and may help address the validity-adverse impact trade-off. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {
+            "Emily D. Campion": [
+              "University of Iowa"
+            ],
+            "Michael A. Campion": [
+              "Purdue University West Lafayette"
+            ]
+          },
+          "authors": [
+            "Emily D. Campion",
+            "Michael A. Campion"
+          ],
+          "constructs": [
+            "Personnel Selection",
+            "Incremental Validity"
+          ],
+          "doi": "10.1037/apl0001438",
+          "journal": "Journal of Applied Psychology",
+          "journal_short": "JAP",
+          "method": "혼합방법론",
+          "method_detail": "다설계 메타분석",
+          "publication_date": "2026-11-05",
+          "stable_id": "doi:10.1037/apl0001438",
+          "summary_basis": "abstract",
+          "summary_ko": "고용·학교 환경의 실험 및 운영 자료와 동시·예측 설계를 포함한 67,652개 관측치를 종합해, 인사 선발 서술 정보를 수동 채점하는 자연어처리 단어사전의 예측력을 검토했다. 단어사전은 선발 평정·결정과 선발 후 성과를 일관되게 예측했고, 전통적 평가를 넘어 추가 예측력을 보였으며, 성별·인종·민족 하위집단 차이는 작게 나타났다.",
+          "title": "Natural language processing word dictionaries for personnel selection: Achieving explainable, generalizable, and incremental prediction with low impact when passively scoring narrative application information.",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1037/apl0001438"
+        },
+        {
+          "abstract": "In research on adverse impact reduction (i.e., improving racial equality in hiring rates), one approach that is routinely mentioned in classic reviews is criterion weighting, or assigning more relative weight to contextual performance in the criterion measure. We revisit this recommendation, using an updated meta-analytic correlation matrix among predictors and criteria. Results show that, contrary to past beliefs, assigning more weight to contextual performance is typically unlikely to improve diversity and is also likely to harm criterion validity. Criterion weighting is also often outperformed by Pareto-optimal predictor weighting. Further, Pareto-optimal solutions show that, when holding criterion validity constant, assigning more criterion weight to contextual performance is likely to exacerbate rather than reduce adverse impact. We additionally offer a Global Pareto Frontier/outer envelope approach that simultaneously optimizes predictor weights and criterion weights to achieve the best adverse impact-criterion validity outcome pairs for a personnel selection system, and we identify circumstances needed for the joint optimization of predictor and criterion weights to outperform Pareto-optimal predictor weighting alone. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {
+            "Daniel A. Newman": [
+              "University of Illinois Urbana-Champaign"
+            ],
+            "Jinsoo Choi": [
+              "University of Illinois Urbana-Champaign"
+            ]
+          },
+          "authors": [
+            "Jinsoo Choi",
+            "Daniel A. Newman"
+          ],
+          "constructs": [
+            "Adverse Impact",
+            "Criterion Validity"
+          ],
+          "doi": "10.1037/apl0001426",
+          "journal": "Journal of Applied Psychology",
+          "journal_short": "JAP",
+          "method": "혼합방법론",
+          "method_detail": "메타분석 최적화",
+          "publication_date": "2026-11-05",
+          "stable_id": "doi:10.1037/apl0001426",
+          "summary_basis": "abstract",
+          "summary_ko": "채용에서 인종별 선발률 격차를 줄이기 위해 기준 가중치 조정과 예측변수 가중치 최적화를 비교하고, 최신 메타분석 상관행렬을 활용해 기준 타당도와 adverse impact의 Pareto 최적 해를 분석했다. 맥락 수행에 더 큰 가중치를 주는 방식은 대체로 다양성을 개선하지 못하고 기준 타당도를 낮췄으며, 기준 타당도를 고정하면 adverse impact를 오히려 악화시킬 가능성이 나타났다.",
+          "title": "On criterion weighting to reduce adverse impact.",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1037/apl0001426"
+        },
+        {
+          "abstract": "that expertise through advice. Across long-term coaching relationships (Study 1) and short-term advice provision (Studies 2-3), advisers' social curiosity is associated with greater perspective taking, yielding higher quality advice. We find that social curiosity is malleable and, when externally induced, improves advisers' ability to take perspectives, ultimately generating advice that advisees prefer (Study 3). Exploratory analyses reveal that these relationships are contingent on the domain of inquiry: Social curiosity is more predictive of advice quality in less structured domains than in more structured, rule-based domains (Study 2). Taken together, these three studies (featuring 1,525 advisers and 1,905 advice evaluators generating 8,761 observations) alongside three additional supplementary studies reveal that the role of social curiosity operates above and beyond related constructs, notably advisers' intellectual curiosity and existing expertise, as well as predictors of advising or helping behaviors more broadly, such as relationship length, prosocial orientation, and communication competency. These findings highlight that effective advice provision involves an interest not only in the problem but also in the person. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {
+            "Bushra Guenoun": [
+              "Harvard University"
+            ],
+            "Hayley Blunden": [
+              "American University"
+            ],
+            "Ting Zhang": [
+              "Harvard University"
+            ]
+          },
+          "authors": [
+            "Bushra Guenoun",
+            "Hayley Blunden",
+            "Ting Zhang"
+          ],
+          "constructs": [
+            "Social Curiosity",
+            "Perspective Taking"
+          ],
+          "doi": "10.1037/apl0001422",
+          "journal": "Journal of Applied Psychology",
+          "journal_short": "JAP",
+          "method": "혼합방법론",
+          "method_detail": "종단·단기 실험",
+          "publication_date": "2026-11-05",
+          "stable_id": "doi:10.1037/apl0001422",
+          "summary_basis": "abstract",
+          "summary_ko": "장기 코칭 관계와 단기 조언 상황에서 사회적 호기심이 조언자의 관점 취하기와 조언의 질에 어떤 관련을 갖는지, 1,525명의 조언자와 1,905명의 평가자가 생성한 8,761개 관측치 및 세 개의 연구로 검토했다. 사회적 호기심은 관점 취하기를 거쳐 더 높은 질의 조언과 관련됐고, 외부적으로 유도했을 때 조언 수혜자가 선호하는 조언을 산출했으며, 이런 관계는 규칙 기반 영역보다 덜 구조화된 영역에서 강하게 나타났다.",
+          "title": "The curious counselor: The role of social curiosity in advice provision.",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1037/apl0001422"
+        },
+        {
+          "abstract": "Materials, analysis code, and additional online material for a five-wave longitudinal field experiment with 414 managers during the COVID-19 economic downturn in India. The study tests two brief construal-shaping interventions (Opportunity; Balanced) designed to expand managerial attention to opportunities under sustained economic threat, with regulatory focus self-reported and opportunity- and threat-related voice rated by higher-level managers blind to condition. Participant-level data are available under controlled access; see the Data Access, Consent, and Confidentiality Note in Files.",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {},
+          "authors": [
+            "Nina Sirola"
+          ],
+          "constructs": [
+            "Regulatory Focus",
+            "Managerial Attention"
+          ],
+          "doi": "10.1037/apl0001436",
+          "journal": "Journal of Applied Psychology",
+          "journal_short": "JAP",
+          "method": "실험",
+          "method_detail": "종단 현장실험",
+          "publication_date": "2026-11-09",
+          "stable_id": "doi:10.1037/apl0001436",
+          "summary_basis": "abstract",
+          "summary_ko": "COVID-19 경기 침체가 지속된 인도 관리자 414명을 대상으로 5개 시점 종단 현장실험을 실시해, 기회 중심과 균형형의 두 가지 짧은 construal-shaping 개입이 경제적 위협 상황에서 관리자의 기회에 대한 주의를 확장하는지 검토했다. 두 개입의 효과를 regulatory focus 자기보고와 조건을 모르는 상위 관리자의 기회·위협 관련 voice 평가로 측정했다.",
+          "title": "Counteracting threat bias: A longitudinal field experiment testing two interventions that expand managerial attention to opportunities under economic threat.",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1037/apl0001436"
+        },
+        {
+          "abstract": "Coproduction is promoted in public administration for its potential to improve service experiences, client outcomes, and legitimacy, yet its implementation remains uneven. Existing research has identified client- and organizational-level factors that affect coproduction, but less attention has been paid to the provider-side judgments that precede it. Meanwhile, frontline workers increasingly rely on client-level performance information, which prior research shows is interpreted through professional norms, goals, and organizational context, and can influence how they allocate effort and engage with clients. The implications of these interpretive processes for coproduction remain underexamined. Thus, this study examines whether client performance information influences frontline workers’ discretionary judgments about coproduction. The analysis focuses on primary care, where physicians routinely interpret clinical indicators and exercise discretion when involving patients in shared decision-making. Using a vignette experiment with 200 U.S. primary care physicians, the study isolates the effect of client-level performance information on perceived suitability for coproduction and expectations of coproduction. Respondents indicated that physicians would view a patient with poorer performance information as less suitable for coproduction and less likely to be engaged collaboratively. These findings show how performance information can influence how frontline workers interpret clients and form judgments about coproduction.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Brenda Gellner": [
+              "Marist University"
+            ]
+          },
+          "authors": [
+            "Brenda Gellner"
+          ],
+          "constructs": [
+            "Coproduction",
+            "Frontline Discretion"
+          ],
+          "doi": "10.30636/jbpa.91.400",
+          "journal": "Journal of Behavioral Public Administration",
+          "journal_short": "JBPA",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-11-05",
+          "stable_id": "doi:10.30636/jbpa.91.400",
+          "summary_basis": "abstract",
+          "summary_ko": "1차 의료에서 환자 수준의 performance information이 의사의 coproduction 판단에 미치는 영향을 미국 primary care physicians 200명을 대상으로 한 vignette experiment로 분석했다. 의사들은 performance information이 낮은 환자를 coproduction에 덜 적합하다고 판단했고, 협력적으로 참여시킬 가능성도 낮게 예상했다.",
+          "title": "Who Gets to Coproduce? Frontline Discretion and the Interpretation of Client Performance Information",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.30636/jbpa.91.400"
+        },
+        {
+          "abstract": "ABSTRACT Despite over two decades of passion research, our understanding of how passion is construed remains fragmented and dominated by additive approaches that treat antecedents as isolated predictors (both theoretically and empirically). Drawing on the biopsychosocial (BPS) framework, we challenge prior research by reconceptualizing passion as a configurational phenomenon emerging through interdependent BPS conditions which combine in complex ways to form equifinal pathways to passion. In doing so, we comparatively analyze configurations associated with harmonious and obsessive passion across the two most frequently studied domains in the management literature: work and entrepreneurship. To empirically examine this configurational perspective, we employ fuzzy set qualitative comparative analysis (fsQCA), which is well equipped to test the equifinal, compensatory, and interdependent nature of configural constructs. Using two time‐lagged samples of employees and entrepreneurs, we identify multiple distinct configurations that not only differentiate harmonious from obsessive passion but also distinguish passion across the work and entrepreneurial domains. Our results demonstrate that passion is largely domain‐contingent, such that work and entrepreneurial passion are each associated with mostly unique BPS configurations rather than universally operating antecedents. Our study advances passion research by shifting attention from isolated net effects toward a holistic view of passion as a system of interdependent BPS predictors.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Alexander Hamrick": [
+              "Robins School of Business University of Richmond Richmond Virginia USA"
+            ],
+            "Charles Murnieks": [
+              "Bloch School of Management University of Missouri‐Kansas City Kansas City Missouri USA"
+            ],
+            "Henry Switz": [
+              "University of Richmond Richmond Virginia USA"
+            ],
+            "Marina Astakhova": [
+              "Robins School of Business University of Richmond Richmond Virginia USA"
+            ],
+            "Olivia Aronson": [
+              "Robins School of Business University of Richmond Richmond Virginia USA"
+            ]
+          },
+          "authors": [
+            "Olivia Aronson",
+            "Marina Astakhova",
+            "Alexander Hamrick",
+            "Charles Murnieks",
+            "Henry Switz"
+          ],
+          "constructs": [
+            "Biopsychosocial Framework",
+            "Harmonious Passion"
+          ],
+          "doi": "10.1002/job.70133",
+          "journal": "Journal of Organizational Behavior",
+          "journal_short": "JOB",
+          "method": "질적연구",
+          "method_detail": "시차 표본 분석",
+          "publication_date": "2026-11-05",
+          "stable_id": "doi:10.1002/job.70133",
+          "summary_basis": "abstract",
+          "summary_ko": "직장과 기업가정신 영역에서 조화적 열정과 강박적 열정이 어떤 생물심리사회적 조건 조합으로 형성되는지, 직원과 기업가의 시차 표본을 대상으로 fsQCA로 분석했다. 여러 경로가 열정을 형성했으며, 직장 열정과 기업가 열정은 보편적 선행요인보다 서로 대체로 다른 영역 특유의 BPS 구성과 관련됐다.",
+          "title": "Rethinking the Anatomy of Passion: A Biopsychosocial Configurational Perspective on Antecedents of Work and Entrepreneurial Passion",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1002/job.70133"
+        },
+        {
+          "abstract": "Divorce is among the most common and costly life disruptions adults may face. Maladaptive and ineffective couple communication is routinely implicated in leading models as the cause of divorce, and interventions designed to prevent divorce accordingly prioritize changes in couple interaction patterns. Yet research linking couple communication to divorce has been inconsistent, and failures of communication-based interventions highlight the need for an expanded view of early signs of risk. Alternative perspectives on divorce draw attention to the vulnerabilities individuals bring into marriage and the socioeconomic circumstances couples must navigate once married, yet the predictive power of these perspectives has never been directly compared to the behavioral model. The current analyses address this gap through a study of 368 different-sex newlywed couples who provided data on six clusters of predictors within 6 months of marriage: relationship satisfaction for each spouse, individual vulnerabilities for each spouse, couples' adaptive behavior, and socioeconomic risk. Over the next 12 years, 39% of couples divorced. Preregistered Bayesian structural equation models and survival analyses demonstrated that each baseline risk factor independently predicted divorce in the expected direction. When all predictors were included simultaneously, only wives' individual vulnerabilities predicted divorce. Adaptive communication behaviors attenuated the risk conferred by wives' vulnerabilities. The best performing model explained 34% of variance in divorce, suggesting that at least one third of couples' divorce risk is detectable early in marriage. Exploring vulnerabilities and their effects promises to deepen understanding of how relationships develop and deteriorate and can clarify boundary conditions of behavioral models of divorce. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {
+            "Benjamin R. Karney": [
+              "University of California, Los Angeles"
+            ],
+            "Jared M. Block": [
+              "University of California, Los Angeles"
+            ],
+            "Molly G. Smith": [
+              "University of California, Los Angeles"
+            ],
+            "Thomas N. Bradbury": [
+              "University of California, Los Angeles"
+            ]
+          },
+          "authors": [
+            "Molly G. Smith",
+            "Jared M. Block",
+            "Thomas N. Bradbury",
+            "Benjamin R. Karney"
+          ],
+          "constructs": [
+            "Marital Satisfaction",
+            "Individual Vulnerability"
+          ],
+          "doi": "10.1037/pspi0000537",
+          "journal": "Journal of Personality and Social Psychology",
+          "journal_short": "JPSP",
+          "method": "준실험",
+          "method_detail": "종단 생존분석",
+          "publication_date": "2026-11-05",
+          "stable_id": "doi:10.1037/pspi0000537",
+          "summary_basis": "abstract",
+          "summary_ko": "결혼 6개월 이내에 수집한 이성 신혼부부 368쌍의 부부 만족도, 개인 취약성, 적응적 의사소통 행동, 사회경제적 위험 자료를 바탕으로 12년간 이혼을 예측하는 요인을 비교했다. 사전등록한 Bayesian structural equation models와 생존분석에서 각 위험요인이 독립적으로 이혼을 예측했지만, 모든 요인을 함께 투입하면 아내의 개인 취약성만 유의했으며 적응적 의사소통 행동은 그 위험을 완화했다.",
+          "title": "Individual, interpersonal, and socioeconomic predictors of divorce: A 12-year prospective study.",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1037/pspi0000537"
+        },
+        {
+          "abstract": "Intergroup contact is a central feature of intergroup relations, yet research has largely examined its quantity and quality as separate, static predictors of intergroup attitudes, leaving relatively little known about how these dimensions themselves develop over time. We examine this question in four longitudinal studies across contexts and age groups, each including both majority and minority group members. Study 1 followed White British and Asian British adolescents undergoing a school merger in the UK (N = 660, 3 waves). Study 2 involved Catholic and Protestant youths participating in a peacebuilding program in Northern Ireland (N = 592, 3 waves). Study 3 tracked British and international students transitioning to university (N = 527, 4 waves), and Study 4 followed Catholic and Protestant children in Northern Ireland from the start of their secondary education (N = 3,057, 3 waves). Using latent growth modelling, we tracked how contact quantity and quality changed over time and how these trajectories were linked. Across all studies, we observed significant co-growth with steeper increases in contact frequency corresponding with greater improvements in interaction quality. When positive and negative valence were measured separately (Studies 3-4), growth in contact quantity was associated with increased interaction positivity, while changes in negativity remained minimal and non-significantly related to contact frequency. These findings suggest that intergroup contact is itself a dynamic experience: changes in how frequently people engage in contact are systematically related to changes in how positively they experience that contact.",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {},
+          "authors": [
+            "Rose Meleady",
+            "Patrick F. Kotzur",
+            "Deborah Shulman",
+            "Gordon Hodson",
+            "Richard J. Crisp",
+            "Danielle Blaylock",
+            "Joanne Hughes",
+            "Maarten H. W. Van Zalk",
+            "Katharina Schmid"
+          ],
+          "constructs": [
+            "Intergroup Contact",
+            "Contact Quality"
+          ],
+          "doi": "10.1037/pspi0000538",
+          "journal": "Journal of Personality and Social Psychology",
+          "journal_short": "JPSP",
+          "method": "준실험",
+          "method_detail": "종단 잠재성장",
+          "publication_date": "2026-11-09",
+          "stable_id": "doi:10.1037/pspi0000538",
+          "summary_basis": "abstract",
+          "summary_ko": "네 맥락과 연령집단에서 다수집단과 소수집단 구성원을 포함한 종단자료 네 건을 잠재성장모형으로 분석해 집단 간 접촉의 양과 질이 시간에 따라 어떻게 함께 변하는지 검토했다. 네 연구 모두 접촉 빈도가 더 크게 증가할수록 상호작용의 질과 긍정성이 더 향상됐으며, 부정성 변화는 작고 접촉 빈도와 유의하게 관련되지 않았다.",
+          "title": "The more, the better? Evidence of parallel growth in intergroup contact quantity and quality over time.",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1037/pspi0000538"
+        },
+        {
+          "abstract": "We quantify the short-term impact of generative artificial intelligence (GenAI) on sales performance through a series of large-scale randomized field experiments involving millions of users and products at a leading crossborder online retail platform. Over 2023–2024, the platform integrated GenAI into seven business workflows spanning customer service, consumer-product matching, advertising, and seller services. We find that GenAI adoption increases sales in most workflows, with effects ranging from no detectable impact to 16.3% depending on GenAI’s marginal contribution relative to baseline firm practices. Across the four GenAI applications with positive sales effects, the implied annual incremental value is roughly $5 per consumer—an economically meaningful impact given the retailer’s scale and the early stage of GenAI adoption. The gains operate primarily through higher conversion rates rather than larger cart values, consistent with GenAI improving the shopping experience by reducing search, information, communication, and personalization frictions. Importantly, these effects are not associated with worse postpurchase outcomes as product return rates and customer ratings do not deteriorate. Finally, we document substantial demand-side heterogeneity, with larger gains for less experienced consumers. Our findings provide novel, large-scale causal evidence on how GenAI shapes sales productivity in online retail, highlighting both its immediate value and broader potential. This paper was accepted by Jean-Pierre Dube, marketing. Funding: L. Fang acknowledges financial support from the National Natural Science Foundation of China [Grants 72501258 and 72192803], the Major Special Project in Philosophy and Social Sciences of the Ministry of Education of China [Grant 2026JZDZ020], the National Social Science Fund of China [Grant 22&ZD081]. Z. Yuan acknowledges financial support from the National Key Research and Development Project [Grant 2024YFB3312900], the National Natural Science Foundation of China [Grants 72141305 and 72203202], the National Social Science Fund of China [Grants 26ZDA030 and 25&ZD149], and the Fundamental Research Funds for the Central Universities. K. Zhang, D. Donati, and M. Sarvary have no funding to report. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2026.00623 .",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Dante Donati": [
+              "Columbia Business School, Columbia University, New York, New York 10027"
+            ],
+            "Kaifu Zhang": [
+              "Individual Researcher"
+            ],
+            "Lu Fang": [
+              "School of Management, Zhejiang University of Finance and Economics, Hangzhou 310018 China; and Laboratory for Human-AI Collaboration and Digital Intelligence Innovation, Zhejiang University, Hangzhou 310058 China"
+            ],
+            "Miklos Sarvary": [
+              "Columbia Business School, Columbia University, New York, New York 10027"
+            ],
+            "Zhe Yuan": [
+              "Center for Research of Private Economy, School of Economics, Future Regional Development Laboratory, and Academy of Financial Research, Zhejiang University, Hangzhou 310058 China"
+            ]
+          },
+          "authors": [
+            "Lu Fang",
+            "Zhe Yuan",
+            "Kaifu Zhang",
+            "Dante Donati",
+            "Miklos Sarvary"
+          ],
+          "constructs": [
+            "Generative AI",
+            "Conversion Rate"
+          ],
+          "doi": "10.1287/mnsc.2026.00623",
+          "journal": "Management Science",
+          "journal_short": "MgmtSci",
+          "method": "실험",
+          "method_detail": "무작위 현장실험",
+          "publication_date": "2026-11-06",
+          "stable_id": "doi:10.1287/mnsc.2026.00623",
+          "summary_basis": "abstract",
+          "summary_ko": "2023~2024년 한 다국적 온라인 소매 플랫폼에서 수백만 명의 사용자와 상품을 대상으로 7개 업무 흐름에 GenAI를 통합한 무작위 현장실험을 실시해 판매 성과 변화를 추정했다. GenAI는 업무 흐름별로 효과가 없거나 최대 16.3%까지 판매를 늘렸고, 긍정적 효과는 주로 전환율 상승에서 나타났으며 반품률과 고객 평점은 악화되지 않았고 경험이 적은 소비자에게 효과가 더 컸다.",
+          "title": "Generative Artificial Intelligence and Sales Productivity: Field Experiments in Online Retail",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1287/mnsc.2026.00623"
+        },
+        {
+          "abstract": "This paper exploits the 2014 U.S. Ebola outbreak as a natural experiment to examine how fear distorts mortgage credit allocation. We find a 3.8-percentage-point increase in mortgage denial rates for Black applicants during the outbreak, despite negligible infection risk. Approved Black borrowers have stronger credit profiles and lower default rates, yet are less likely to receive loan modifications when delinquent. These effects are absent in algorithm-driven FinTech lending and reverse quickly postoutbreak—patterns inconsistent with statistical discrimination. Robustness tests rule out alternative explanations related to political cycles, labor market impacts, applicant pool composition changes, and bank financial conditions. Consistent with diagnostic expectation theory, higher exposure to Ebola fear does not result in a significant learning effect during the COVID-19 pandemic. This paper was accepted by Bo Becker, finance. Funding: S. Agarwal acknowledges the financial support from the National Natural Science Foundation of China [Grant 72495154]. Y. Lin gratefully acknowledges financial support from the NUS Research Grant [Grants A-8001725 and A-8004426]. R. Lu and X. Zhang acknowledge the financial support of the National Natural Science Foundation of China [Grants 71903005, 72402005, and 72472001]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2025.01919 .",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Pengsheng Lin": [
+              "School of Economics and Management, Tsinghua University, Beijing 100084, China"
+            ],
+            "Ruichang Lu": [
+              "Guanghua School of Management, Peking University, Beijing 100871, China"
+            ],
+            "Sumit Agarwal": [
+              "NUS Business School, National University of Singapore, Singapore"
+            ],
+            "Xiaojun Zhang": [
+              "Guanghua School of Management, Peking University, Beijing 100871, China"
+            ],
+            "Yupeng Lin": [
+              "NUS Business School, National University of Singapore, Singapore"
+            ]
+          },
+          "authors": [
+            "Sumit Agarwal",
+            "Pengsheng Lin",
+            "Yupeng Lin",
+            "Ruichang Lu",
+            "Xiaojun Zhang"
+          ],
+          "constructs": [
+            "Statistical Discrimination",
+            "Diagnostic Expectation Theory"
+          ],
+          "doi": "10.1287/mnsc.2025.01919",
+          "journal": "Management Science",
+          "journal_short": "MgmtSci",
+          "method": "준실험",
+          "method_detail": "자연실험 분석",
+          "publication_date": "2026-11-10",
+          "stable_id": "doi:10.1287/mnsc.2025.01919",
+          "summary_basis": "abstract",
+          "summary_ko": "2014년 미국 에볼라 유행을 자연실험으로 활용해 감염 위험이 거의 없던 상황에서 공포가 주택담보대출 배분을 왜곡하는지 분석했다. 흑인 신청자의 대출 거절률은 3.8%포인트 상승했고 연체 시 대출조건 변경 가능성도 낮아졌지만, 알고리즘 기반 FinTech 대출에서는 이런 효과가 나타나지 않았으며 이는 통계적 차별과 맞지 않았다.",
+          "title": "Deadly Disease, Fear, and Ostracism in the Credit Market",
+          "topic_area": "재무·예산",
+          "url": "https://doi.org/10.1287/mnsc.2025.01919"
+        },
+        {
+          "abstract": "We examine how a profit-driven platform designs its recommender policies under varying privacy protection regimes. We demonstrate a functional equivalence between opt-out protection and unprotected privacy. Notably, granting consumers the autonomy to misrepresent personal data can compel the platform to distort recommendations, inadvertently harming both parties. When recommendations are purely informative, such privacy controls can deter personalization entirely. However, when recommendations also serve an allocative role—controlling product access—algorithmic discrimination may emerge, restricting the disadvantaged minority from valuable opportunities. These findings remain robust even with endogenous profit margins. This paper was accepted by Omar Besbes, revenue management and market analytics. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.05007 .",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Can Küçükgül": [
+              "Rutgers School of Business, Camden, New Jersey 08102"
+            ],
+            "Shouqiang Wang": [
+              "Naveen Jindal School of Management, The University of Texas at Dallas, Richardson, Texas 75080"
+            ],
+            "Özalp Özer": [
+              "FBA Science, Selling Partner Services, Amazon, Seattle, Washington 98109; and Naveen Jindal School of Management, The University of Texas at Dallas, Richardson, Texas 75080"
+            ]
+          },
+          "authors": [
+            "Can Küçükgül",
+            "Özalp Özer",
+            "Shouqiang Wang"
+          ],
+          "constructs": [
+            "Recommender Systems",
+            "Algorithmic Discrimination"
+          ],
+          "doi": "10.1287/mnsc.2024.05007",
+          "journal": "Management Science",
+          "journal_short": "MgmtSci",
+          "method": "이론/개념",
+          "method_detail": "이론적 모형 분석",
+          "publication_date": "2026-11-10",
+          "stable_id": "doi:10.1287/mnsc.2024.05007",
+          "summary_basis": "abstract",
+          "summary_ko": "수익을 추구하는 플랫폼이 개인정보 보호 수준에 따라 추천 정책을 어떻게 설계하는지 이론적으로 분석했다. 옵트아웃 보호는 개인정보를 보호하지 않는 경우와 기능적으로 같았고, 소비자가 개인정보를 허위로 입력할 수 있으면 플랫폼의 추천 왜곡을 유발해 양측에 손해를 줄 수 있으며, 추천이 상품 접근까지 통제하면 불리한 소수집단의 기회를 제한하는 알고리즘 차별이 나타났다.",
+          "title": "Recommender Systems Under Privacy Protection",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1287/mnsc.2024.05007"
+        },
+        {
+          "abstract": "We conducted survey experiments to gather new data on uncertainty attitudes and subjective beliefs. Our survey targets a general population, focusing on health and financial decisions. We collect data on (i) individual attitudes toward risk and ambiguity, including individual-specific probability weighting and loss aversion, and (ii) individual probabilistic beliefs about events related to the decisions we consider. The joint availability of individual preference parameters and subjective beliefs allows us to study heterogeneity and cross-correlations across these parameters in depth and to estimate structural models of decision making under uncertainty that go beyond subjective expected utility. We find that both preferences and beliefs are highly heterogeneous. Compared with subjective expected utility, prospect theory combined with source-dependent probability weighting fits the data strictly better in some contexts and equally well in others. Prospect theory performs particularly well when the belief distribution is concentrated toward extreme values. This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis. Funding: A. Delavande acknowledges funding from the Economic and Social Research Council Research Centre on Micro-Social Change [Grants ES/L009153/1 and ES/S012486/1] and the National Institute on Aging [Grant P01AG008291]. J. Ganguli acknowledges research support from the Economic and Social Research Council [Grant ES/K00168X/1]. F. Mengel acknowledges support from the European Research Council [Grant DYNNET-805017]. Ethical approval was obtained by the Ethics Social Sciences subcommittee at the University of Essex in August 2015. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.06232 .",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Adeline Delavande": [
+              "Department of Economics, University of Technology Sydney, Ultimo, New South Wales 2007, Australia"
+            ],
+            "Friederike Mengel": [
+              "Department of Economics, University of Essex, Colchester CO4 3SQ, United Kingdom; and Department of Applied Economics, Erasmus University Rotterdam, Burgemeester Oudlaan 50, Rotterdam 3062 PA, Netherlands"
+            ],
+            "Jayant Ganguli": [
+              "Department of Economics, University of Essex, Colchester CO4 3SQ, United Kingdom"
+            ]
+          },
+          "authors": [
+            "Adeline Delavande",
+            "Jayant Ganguli",
+            "Friederike Mengel"
+          ],
+          "constructs": [
+            "Prospect Theory",
+            "Subjective Expected Utility"
+          ],
+          "doi": "10.1287/mnsc.2024.06232",
+          "journal": "Management Science",
+          "journal_short": "MgmtSci",
+          "method": "서베이",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-11-10",
+          "stable_id": "doi:10.1287/mnsc.2024.06232",
+          "summary_basis": "abstract",
+          "summary_ko": "일반 인구를 대상으로 건강·재무 의사결정에 관한 설문 실험을 실시해 위험·모호성 태도, 개인별 확률가중·손실회피, 사건에 대한 확률적 주관적 믿음의 이질성과 상관관계를 분석하고 불확실성 의사결정의 구조모형을 추정했다. 선호와 믿음은 모두 이질적이었으며, 일부 맥락에서는 출처 의존적 확률가중을 결합한 전망이론이 주관적 기대효용보다 자료에 더 잘 맞았고 다른 맥락에서는 동등했으며, 믿음 분포가 극단값에 집중될 때 전망이론의 적합도가 특히 높았다.",
+          "title": "Uncertainty Attitudes, Subjective Beliefs, and Decisions Under Uncertainty",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1287/mnsc.2024.06232"
+        },
+        {
+          "abstract": "Universities are increasingly expected to integrate civic and social goals into their curricula, yet it remains unclear how to engage students whose motivations are primarily professional. Service-learning experiences (SLEs), which combine academic study with community service, are one strategy, but student self-selection complicates design and evaluation. Because SLEs help cultivate the voluntary sector’s future volunteers and donors, who gains access is a question for the sector, not only for educators. This study examines how prosocial and pre-professional identities shape students’ interest in SLEs and whether course framing influences engagement. In a preregistered survey experiment, students evaluated SLEs framed as descriptive, volunteer-focused, or career-focused. Altruistic values and pre-professional identity modestly but significantly predicted interest; volunteer identity did not. Course framing had no effect. These findings suggest civic and professional orientations may be more compatible than assumed, and engagement depends less on framing than on integration within broader curricular and developmental pathways.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Joseph Charles Van Matre": [
+              "Queen’s University Belfast, UK",
+              "Vrije Universiteit Amsterdam, The Netherlands"
+            ],
+            "Mariëtte Huizinga": [
+              "Vrije Universiteit Amsterdam, The Netherlands"
+            ],
+            "René Bekkers": [
+              "Vrije Universiteit Amsterdam, The Netherlands"
+            ]
+          },
+          "authors": [
+            "Joseph Charles Van Matre",
+            "René Bekkers",
+            "Mariëtte Huizinga"
+          ],
+          "constructs": [
+            "Prosocial Identity",
+            "Preprofessional Identity"
+          ],
+          "doi": "10.1177/08997640261499373",
+          "journal": "Nonprofit and Voluntary Sector Quarterly",
+          "journal_short": "NVSQ",
+          "method": "서베이",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-11-04",
+          "stable_id": "doi:10.1177/08997640261499373",
+          "summary_basis": "abstract",
+          "summary_ko": "서비스러닝 경험에 대한 학생들의 관심이 친사회적 정체성과 예비직업인 정체성에 따라 달라지는지, 그리고 강의 프레이밍이 참여에 영향을 주는지 사전등록 설문 실험으로 검토했다. 이타적 가치와 예비직업인 정체성은 관심을 modestly but significantly 예측했지만 자원봉사자 정체성은 예측하지 않았고, 서술형·자원봉사 중심·경력 중심 프레이밍은 효과가 없었다.",
+          "title": "Framing Service-Learning Experiences: Evidence From a Survey Experiment Engaging Prosocial and Pre-Professional Identities",
+          "topic_area": "비영리",
+          "url": "https://doi.org/10.1177/08997640261499373"
+        },
+        {
+          "abstract": "Growing regulatory attention has extended to charity service performance reporting and its external audit, yet little is known about how charities respond when both are mandated. Drawing on a documentary analysis of 120 reports from large New Zealand charities and interviews with preparers and auditors, we examine the responses to these mandates. Using the decoupling theory, we find substantial formal compliance, but the audited statements of service performance were dominated by verifiable quantitative outputs, while qualitative outcome- and impact-oriented information was less prevalent. The audit process strengthened reporting routines, reducing policy-practice gaps, but contributed to means-ends tensions by encouraging reliance on quantitative information and shifting qualitative information to voluntary reporting mechanisms. By demonstrating charities’ emergent and deliberate responses to the mandates, we reveal how audit shapes reporting practices and the intentionality of responses.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Cherrie Yang": [
+              "Massey University, Auckland, New Zealand"
+            ],
+            "Gina Xu": [
+              "Independent Researcher, Auckland, New Zealand"
+            ]
+          },
+          "authors": [
+            "Cherrie Yang",
+            "Gina Xu"
+          ],
+          "constructs": [
+            "Decoupling Theory",
+            "Means-Ends Tension"
+          ],
+          "doi": "10.1177/08997640261495473",
+          "journal": "Nonprofit and Voluntary Sector Quarterly",
+          "journal_short": "NVSQ",
+          "method": "질적연구",
+          "method_detail": "문서분석·인터뷰",
+          "publication_date": "2026-11-05",
+          "stable_id": "doi:10.1177/08997640261495473",
+          "summary_basis": "abstract",
+          "summary_ko": "뉴질랜드 대형 자선단체 120곳의 보고서 문서분석과 보고서 작성자·감사인 인터뷰로 서비스 성과 보고와 외부감사를 함께 의무화했을 때 자선단체가 어떻게 대응하는지 검토했다. 형식적 준수는 상당했지만 감사받은 서비스 성과 보고서는 검증 가능한 양적 산출물에 치우쳤고, 감사는 보고 관행을 강화하는 동시에 질적 정보가 자발적 보고 경로로 이동하게 해 수단과 목적의 긴장을 낳았다.",
+          "title": "Mandatory Service Performance Reporting and Audit: Responses from Charities",
+          "topic_area": "비영리",
+          "url": "https://doi.org/10.1177/08997640261495473"
+        },
+        {
+          "abstract": "If volunteering is associated with higher well-being, why might this be? Published correlations may reflect the influence of volunteering on well-being or the influence of well-being on volunteering, or both directions of influence. Moreover, volunteer motivation may serve as a boundary condition, with other-oriented goals more positively associated with well-being than self-oriented goals. However, motive fulfillment has yet to be examined in this context. We surveyed 406 current volunteers, registered with Prolific, from selected English-speaking nations, 3 months apart, assessing volunteer motivations, personality, and four types of well-being at T1 and motive fulfillment and well-being at T2. We found that greater fulfillment of important other-oriented motives was significantly more positively associated with well-being at T2 than greater fulfillment of important self-oriented motives; results remained significant when controlling for personality and, largely, T1 well-being. We conclude that fulfilling important other-oriented goals in volunteer work is associated with higher subsequent well-being.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Arthur A. Stukas": [
+              "La Trobe University, Bundoora, Victoria, Australia"
+            ],
+            "E. Gil Clary": [
+              "LTO Development, Locust Grove, VA, USA"
+            ],
+            "Mark Snyder": [
+              "University of Minnesota, Minneapolis, MN, USA"
+            ],
+            "Mathew D. Marques": [
+              "La Trobe University, Bundoora, Victoria, Australia"
+            ]
+          },
+          "authors": [
+            "Arthur A. Stukas",
+            "Mathew D. Marques",
+            "Mark Snyder",
+            "E. Gil Clary"
+          ],
+          "constructs": [
+            "Volunteer Motivation",
+            "Well-Being"
+          ],
+          "doi": "10.1177/08997640261495463",
+          "journal": "Nonprofit and Voluntary Sector Quarterly",
+          "journal_short": "NVSQ",
+          "method": "서베이",
+          "method_detail": "패널 설문",
+          "publication_date": "2026-11-05",
+          "stable_id": "doi:10.1177/08997640261495463",
+          "summary_basis": "abstract",
+          "summary_ko": "영어권 일부 국가에서 Prolific에 등록된 현재 자원봉사자 406명을 3개월 간격으로 조사해, 자원봉사 동기의 충족과 이후 웰빙의 관계를 검토했다. 중요한 타인지향적 동기의 충족은 자기지향적 동기의 충족보다 T2 웰빙과 더 긍정적으로 관련됐으며, 성격과 T1 웰빙을 통제한 뒤에도 대체로 유의했다.",
+          "title": "Volunteer Motivation Fulfillment and Well-Being",
+          "topic_area": "비영리",
+          "url": "https://doi.org/10.1177/08997640261495463"
+        },
+        {
+          "abstract": "Scholars and practitioners alike have long presumed that power and status, two foundational bases of social hierarchy, share a symmetric, mutually reinforcing relationship. However, support for this presumption has largely taken the form of theoretical accounts due to the prevalence of static research designs and a dearth of dynamic methodology in organizational research. Drawing on the Dual Perspective Model, we propose that one’s status is more likely to drive changes in one’s power than vice versa because status has a stronger connection to communion—an important component of interpersonal evaluations—than does power, and communality is an important predictor of both power and status. Using data from two studies involving project teams and a contemporary methodology from developmental psychology for modeling dynamic relationships (bivariate dual change score models), we illustrate that there is indeed a mutually reinforcing relationship between power and status over time, but this relationship is asymmetric. In three additional experiments, we find that perceptions of communality explain this asymmetry. We also find similar effects whether power is formal—attached to a position or role—or involves control over informal resources. Across all studies, we find that the path from status to changes in power is stronger than the path from power to changes in status.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "James G. Matusik": [
+              "Terry College of Business, University of Georgia, Athens, Georgia 30602"
+            ],
+            "Nicholas A. Hays": [
+              "Broad College of Business, Michigan State University, East Lansing, Michigan 48824"
+            ],
+            "Rebecca L. Mitchell": [
+              "Leeds School of Business, University of Colorado Boulder, Boulder, Colorado 80304"
+            ]
+          },
+          "authors": [
+            "Rebecca L. Mitchell",
+            "James G. Matusik",
+            "Nicholas A. Hays"
+          ],
+          "constructs": [
+            "Power",
+            "Status"
+          ],
+          "doi": "10.1287/orsc.2024.18685",
+          "journal": "Organization Science",
+          "journal_short": "OrgSci",
+          "method": "혼합방법론",
+          "method_detail": "변화점수 모형·실험",
+          "publication_date": "2026-11-06",
+          "stable_id": "doi:10.1287/orsc.2024.18685",
+          "summary_basis": "abstract",
+          "summary_ko": "프로젝트 팀 자료와 발달심리학의 이변량 이중 변화점수 모형, 세 차례 실험을 사용해 시간에 따른 권력과 지위의 상호관계를 검토했다. 두 요인은 상호 강화됐지만 지위가 권력 변화를 이끄는 경로가 권력이 지위 변화를 이끄는 경로보다 강했으며, 공동성 지각이 이 비대칭을 설명했다.",
+          "title": "The Asymmetric Nature of Social Hierarchies: Unpacking the Dynamic Relationship Between Power and Status",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1287/orsc.2024.18685"
+        },
+        {
+          "abstract": "Machine learning capabilities have become important strategic assets, yet little is known about how their technical characteristics affect the competitive advantage of the firms that build them. Through an inductive, multicase study tracking six early-stage machine learning ventures in an accelerator program, we explore how their phases of specialization and exploration may be constrained by properties of the underlying technology. Our findings show how training data, learning paradigms, and model outputs depend on one another and on the applications they serve, and how these relationships change over time. This interdependence shapes firms’ growth paths, alternately expanding or limiting the strategic options available to them. Characteristics that confer an early competitive advantage can constrain later growth. We discuss the implications for strategy research on competitive advantage and path dependence in machine learning ventures.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Jack Fraser": [
+              "Imperial College Business School, Management and Entrepreneurship, London, England, United Kingdom of Great Britain and Northern Ireland"
+            ],
+            "Pinar Ozcan": [
+              "University of Oxford, Saïd Business School, Oxford, Oxfordshire, United Kingdom of Great Britain and Northern Ireland"
+            ]
+          },
+          "authors": [
+            "Jack Fraser",
+            "Pinar Ozcan"
+          ],
+          "constructs": [
+            "Competitive Advantage",
+            "Path Dependence"
+          ],
+          "doi": "10.1287/orsc.2022.17147",
+          "journal": "Organization Science",
+          "journal_short": "OrgSci",
+          "method": "질적연구",
+          "method_detail": "귀납적 다중사례",
+          "publication_date": "2026-11-10",
+          "stable_id": "doi:10.1287/orsc.2022.17147",
+          "summary_basis": "abstract",
+          "summary_ko": "초기 단계 machine learning 벤처 6곳을 accelerator 프로그램에서 추적한 귀납적 다중 사례연구로, 기술적 특성이 벤처의 경쟁우위와 성장 경로에 어떻게 영향을 미치는지 examined했다. Training data, learning paradigms, model outputs와 애플리케이션의 상호의존성이 시간에 따라 전략적 선택지를 넓히거나 제한했으며, 초기 경쟁우위를 만든 특성이 이후 성장을 제약할 수 있음이 나타났다.",
+          "title": "Growth Paths in Early Machine Learning Ventures: Technical Configuration and Competitive Advantage Over Time",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1287/orsc.2022.17147"
+        },
+        {
+          "abstract": "We investigated whether generative pre-trained transformer (GPT)-based AI agents, despite presumably lacking humanlike sentience, emulate motivated behavior in group settings. We focused on overclaiming (overestimating one’s contribution to group outcomes) and the self-serving bias (SSB; taking disproportionate credit for group successes while deflecting blame for group failures). We conducted eight experiments involving a collaborative and creative group task (joke-writing). AI agents overclaimed their own contributions. An egocentrism-reduction manipulation (directing attention equally to one’s own and others’ contributions) attenuated, but did not eliminate, overclaiming. Further, AI agents exhibited the SSB. Overclaiming persisted across variations in temperature settings and demographic personas (gender, ethnicity) and was more pronounced in later GPT models. Also, chain-of-Thought reasoning did not reduce, and instead increased, overclaiming. AI systems can mimic human self-enhancement and self-protection, raising implications for the emergence of motivated self-like behavior in non-biological systems, the assumed neutrality of large language models, and the need for improved mitigation techniques.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Constantine Sedikides": [
+              "University of Southampton, UK",
+              "Sogang University, Seoul, Republic of Korea"
+            ],
+            "Siwei Fu": [
+              "Zhejiang University, Hangzhou, China"
+            ],
+            "Weihua Zhou": [
+              "Zhejiang University, Hangzhou, China"
+            ],
+            "Xinyue Zhou": [
+              "Zhejiang University, Hangzhou, China"
+            ]
+          },
+          "authors": [
+            "Siwei Fu",
+            "Constantine Sedikides",
+            "Weihua Zhou",
+            "Xinyue Zhou"
+          ],
+          "constructs": [
+            "Self-Enhancement",
+            "Self-Serving Bias"
+          ],
+          "doi": "10.1177/01461672261499423",
+          "journal": "Personality and Social Psychology Bulletin",
+          "journal_short": "PSPB",
+          "method": "실험",
+          "method_detail": "8개 실험",
+          "publication_date": "2026-11-04",
+          "stable_id": "doi:10.1177/01461672261499423",
+          "summary_basis": "abstract",
+          "summary_ko": "GPT 기반 AI 에이전트가 집단 과제에서 인간과 유사한 자기고양과 자기방어 행동을 보이는지 농담 작성 협업 과제를 활용한 8개 실험으로 검토했다. AI 에이전트는 자신의 기여를 과대평가하고 집단 성공에는 불균형적으로 공을 돌리며 실패의 책임은 회피하는 자기봉사편향을 보였고, 이러한 과대주장은 주의 초점 조작으로 약화됐지만 사라지지 않았으며 후속 GPT 모델과 연쇄적 사고 조건에서 더 두드러졌다.",
+          "title": "Humanlike Self-Enhancement and Self-Protection in Generative Pre-Trained Transformer-Based AI Agents: Of Overclaiming and the Self-Serving Bias",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1177/01461672261499423"
+        },
+        {
+          "abstract": "Promoting support for humanitarian aid to an adversarial outgroup is difficult during active war. We introduce a digital field-experimental approach that embeds psychologically grounded interventions in people’s actual social-media environments. During the Israel–Gaza war, 6,105 adult Jewish Israeli Facebook users were assigned to a no-study-campaign control condition, a humanitarian-moral campaign emphasizing humanitarian obligation, or an instrumental-security campaign presenting aid as advancing Israeli security. Days after the campaigns ended, 4,784 participants completed the follow-up survey. Support for humanitarian aid declined in the control condition but increased under both campaigns, suggesting that psychological social-media interventions can buffer or reverse erosion of humanitarian attitudes during acute conflict. Political ideology moderated relative effectiveness: the instrumental-security campaign was especially effective among conservatives, whereas liberals responded positively to both. These findings provide partial support for ideological message matching and offer a scalable, ecologically valid framework for testing intergroup interventions in real-world settings.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Eran Halperin": [
+              "The Hebrew University of Jerusalem, Israel"
+            ],
+            "Nimrod Nir": [
+              "The Hebrew University of Jerusalem, Israel"
+            ]
+          },
+          "authors": [
+            "Nimrod Nir",
+            "Eran Halperin"
+          ],
+          "constructs": [
+            "Ideological Message Matching",
+            "Humanitarian Aid"
+          ],
+          "doi": "10.1177/01461672261496955",
+          "journal": "Personality and Social Psychology Bulletin",
+          "journal_short": "PSPB",
+          "method": "실험",
+          "method_detail": "디지털 현장실험",
+          "publication_date": "2026-11-06",
+          "stable_id": "doi:10.1177/01461672261496955",
+          "summary_basis": "abstract",
+          "summary_ko": "이스라엘·가자 전쟁 중 성인 유대계 이스라엘인 Facebook 이용자 6,105명을 대상으로, 인도주의 의무를 강조한 캠페인과 원조가 이스라엘 안보를 증진한다고 제시한 캠페인을 무작위 배정한 디지털 현장실험을 실시했다. 추적 설문에 응답한 4,784명에서 대조군의 인도적 원조 지지는 감소했지만 두 캠페인에서는 증가했으며, 보수층에는 안보 메시지가 특히 효과적이고 진보층에는 두 메시지 모두 긍정적으로 작용했다.",
+          "title": "Increasing Support for Humanitarian Aid to Palestinian Civilians During the Israel–Gaza War Through Ideologically Tailored Social-Media Campaigns",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1177/01461672261496955"
+        },
+        {
+          "abstract": "Design science research (DSR) has been advocated for combining relevance and rigor and is socio-technical by nature. Yet most articles in the digital government field focus on the resulting design artifacts, presenting only methodologies and evaluations, and generating limited actionable, generalizable design knowledge. This editorial analyzes multiple approaches to advancing the development of prescriptive design principles and policy statements. The generation and rationale of prescriptive knowledge are discussed, along with various forms of design knowledge evaluation, to facilitate its connection to specific contexts. Three foundational propositions are presented to identify orienting strategies for developing prescriptive knowledge, explain its underlying rationale, and evaluate design knowledge. An integrative framework for generating and grounding prescriptive knowledge in line with the classical DSR paradigm is developed. This framework provides the basis for researchers to make generalizable knowledge contributions to the field using DSR.",
+          "abstract_source": "Publisher",
+          "ai_related": false,
+          "author_affiliations": {
+            "Marijn Janssen": [
+              "Delft University of Technology"
+            ],
+            "Yiwei Gong": [
+              "Wuhan University"
+            ]
+          },
+          "authors": [
+            "Yiwei Gong",
+            "Marijn Janssen"
+          ],
+          "constructs": [
+            "Design Science Research",
+            "Prescriptive Knowledge"
+          ],
+          "doi": "10.1016/j.giq.2026.102163",
+          "journal": "Government Information Quarterly",
+          "journal_short": "GIQ",
+          "method": "이론/개념",
+          "method_detail": "개념적 모형",
+          "publication_date": "2026-09-01",
+          "stable_id": "doi:10.1016/j.giq.2026.102163",
+          "summary_basis": "abstract",
+          "summary_ko": "디지털정부 분야의 Design Science Research에서 처방적 설계 원칙과 정책 진술을 생성하고 근거화하는 접근을 분석했다. 처방적 지식의 생성과 근거, 설계 지식 평가를 연결하는 세 가지 기초 명제를 제시하고, 고전적 DSR 패러다임에 따른 통합 프레임워크를 개발해 맥락과 연결된 일반화 가능한 지식 기여의 기반을 마련했다.",
+          "title": "Generating and grounding prescriptive knowledge: Improving design research and policy practice",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1016/j.giq.2026.102163"
+        }
+      ],
+      "status": "prepared"
+    },
     "2026-11-10-cb6dcd34f098a666": {
       "created_at": "2026-11-10T15:33:56.592865+00:00",
       "idempotency_key": "pa-journal-digest-2026-11-10-cb6dcd34f098a666",
