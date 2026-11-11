@@ -26,6 +26,12 @@ def test_content_filter() -> None:
     assert not is_scholarly_article("Correction: Administrative Burden and Trust")
     assert not is_scholarly_article("Editor's Introduction: A Special Issue")
     assert not is_scholarly_article("Issue Information")
+    assert not is_scholarly_article("Guest Editorial: Public Values in Crisis")
+    assert not is_scholarly_article("A Note from the Editors")
+    assert not is_scholarly_article("Introduction to the Special Issue on Digital Government")
+    assert not is_scholarly_article("Introducing the Special Section: Street-Level Bureaucracy")
+    assert is_scholarly_article("Editor’s Choice: Measuring Candidate Quality Using Local Newspaper Endorsements")
+    assert is_scholarly_article("Introducing Distributed Professional Development Leadership")
     assert not is_scholarly_article("PSR volume 120 issue 4 Cover and Back matter")
     assert not is_scholarly_article("Presidential Investment in the Administrative State – ERRATUM")
     assert not is_scholarly_article(

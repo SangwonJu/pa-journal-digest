@@ -152,3 +152,41 @@ def test_pending_article_is_included_once_abstract_appears(tmp_path, monkeypatch
     batch = PreparedBatch.model_validate_json(output_path.read_text(encoding="utf-8"))
     assert [item.stable_id for item in batch.articles] == [article_with_abstract(None).stable_id]
     assert StateStore(state_path).pending_records == []
+
+
+class EditorialSummarizer(StubSummarizer):
+    def summarize(self, article) -> None:
+        super().summarize(article)
+        article.is_editorial = True
+
+
+class EditorialMetadataClient(EmptyMetadataClient):
+    def discover(self, start, end, relevance_filter=None):
+        return [article_with_abstract("An introduction from the guest editors that previews each paper.")]
+
+
+def test_editorials_are_dropped_and_not_summarized_again(tmp_path, monkeypatch) -> None:
+    state_path = tmp_path / "state.json"
+    output_path = tmp_path / "build" / "batch.json"
+    monkeypatch.setenv("CROSSREF_MAILTO", "researcher@example.edu")
+    monkeypatch.setattr(cli, "MetadataClient", EditorialMetadataClient)
+    monkeypatch.setattr(cli, "ArticleSummarizer", EditorialSummarizer)
+    args = Namespace(
+        state=state_path,
+        output=output_path,
+        lookback_days=7,
+        resend_latest=False,
+        dry_run=False,
+        daily_once=False,
+    )
+
+    assert cli.prepare(args) == 0
+    batch = PreparedBatch.model_validate_json(output_path.read_text(encoding="utf-8"))
+    assert batch.articles == []
+    assert article_with_abstract(None).stable_id in StateStore(state_path).skipped_ids
+
+    monkeypatch.setattr(cli, "ArticleSummarizer", NoopSummarizer)
+    state = StateStore(state_path)
+    state.data["batches"] = {}
+    state.save()
+    assert cli.prepare(args) == 0

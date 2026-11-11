@@ -40,6 +40,7 @@ class Article(BaseModel):
     method_detail: str | None = None
     constructs: list[str] = Field(default_factory=list)
     ai_related: bool = False
+    is_editorial: bool = False
 
     @computed_field
     @property

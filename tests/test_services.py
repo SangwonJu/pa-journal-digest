@@ -17,6 +17,7 @@ def test_summarizer_assigns_summary_and_research_tags() -> None:
         "method_detail": "패널 설문",
         "constructs": [" PSM ", "Public service performance"],
         "ai_related": False,
+        "is_editorial": True,
     }
     prompts = []
 
@@ -36,6 +37,8 @@ def test_summarizer_assigns_summary_and_research_tags() -> None:
 
     summarizer.summarize(article)
     assert "본 연구는" in prompts[0] and "검증되어졌다" in prompts[0]
+    assert "is_editorial" in prompts[0]
+    assert article.is_editorial is True
 
     assert article.summary_ko == payload["summary_ko"]
     assert article.topic_area == "조직·인사"

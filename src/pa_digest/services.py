@@ -52,8 +52,17 @@ SUMMARY_SCHEMA = {
             "maxItems": 2,
         },
         "ai_related": {"type": "boolean"},
+        "is_editorial": {"type": "boolean"},
     },
-    "required": ["summary_ko", "topic_area", "method", "method_detail", "constructs", "ai_related"],
+    "required": [
+        "summary_ko",
+        "topic_area",
+        "method",
+        "method_detail",
+        "constructs",
+        "ai_related",
+        "is_editorial",
+    ],
     "additionalProperties": False,
 }
 
@@ -80,6 +89,7 @@ class ArticleSummarizer:
                 "acronyms and use consistent title case for multiword terms. Do not use generic words such as public "
                 "administration or study. Use performance only when it is itself the focal theoretical construct. "
                 + AI_RELATED_RULE
+                + EDITORIAL_RULE
                 + KOREAN_STYLE_RULES
             )
             article.summary_basis = "abstract"
@@ -91,6 +101,7 @@ class ArticleSummarizer:
                 "topic and one or two constructs that are explicit in the title. Set method to '방법 미상' and "
                 "method_detail to an empty string. "
                 + AI_RELATED_RULE
+                + EDITORIAL_RULE
                 + KOREAN_STYLE_RULES
             )
             article.summary_basis = "title"
@@ -133,6 +144,7 @@ class ArticleSummarizer:
         article.constructs = [" ".join(item.split()) for item in parsed["constructs"] if item.strip()][:2]
         # Papers kept by the broad-journal AI screen stay flagged even if this call says otherwise.
         article.ai_related = article.ai_related or bool(parsed.get("ai_related", False))
+        article.is_editorial = bool(parsed.get("is_editorial", False))
 
 
     def select_ai_social(self, articles: list[Article]) -> list[Article]:
@@ -203,6 +215,13 @@ AI_RELATED_RULE = (
     "regulate or are affected by AI. Set it to false when machine learning is only a measurement or "
     "analysis tool for a question that is not about AI, for example a credit-market or health study that "
     "uses a machine-learning model to estimate effects."
+)
+EDITORIAL_RULE = (
+    " Set is_editorial to true when the item is written by or for the journal's editors rather than "
+    "reporting research: an editorial, an editor's note or letter, an editor's or guest editors' "
+    "introduction to a special issue, symposium or section that mainly previews the papers in it, an "
+    "announcement or a tribute. Set it to false for original research, systematic or narrative "
+    "reviews, and theoretical articles, even when they appear in a special issue."
 )
 AI_FILTER_BATCH = 40
 AI_FILTER_SCHEMA = {

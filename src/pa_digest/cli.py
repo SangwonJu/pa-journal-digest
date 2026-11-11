@@ -83,9 +83,8 @@ def prepare(args: argparse.Namespace) -> int:
             for record in state.pending_records:
                 pending_article = metadata.by_public_record(record)
                 candidates[pending_article.stable_id] = pending_article
-            unsent = [
-                article for article in candidates.values() if article.stable_id not in state.sent_ids
-            ]
+            done_ids = state.sent_ids | state.skipped_ids
+            unsent = [article for article in candidates.values() if article.stable_id not in done_ids]
             waiting = [article for article in unsent if not article.abstract]
             articles = [article for article in unsent if article.abstract]
             if not args.dry_run:
@@ -120,6 +119,12 @@ def prepare(args: argparse.Namespace) -> int:
 
     for article in articles:
         summarizer.summarize(article)
+    editorials = [article for article in articles if article.is_editorial]
+    articles = [article for article in articles if not article.is_editorial]
+    if editorials and not args.dry_run:
+        state.mark_skipped(editorials, "editorial", now.isoformat())
+        state.save()
+        _set_github_output("state_changed", "true")
     subject, html, text = render_newsletter(articles, local_today)
     if resent:
         subject = subject.replace("[PA Journal Digest]", "[PA Journal Digest 재발송]", 1)

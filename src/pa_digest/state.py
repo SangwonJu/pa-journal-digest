@@ -34,6 +34,22 @@ class StateStore:
         return set(self.data.get("articles", {}))
 
     @property
+    def skipped_ids(self) -> set[str]:
+        return set(self.data.get("skipped", {}))
+
+    def mark_skipped(self, articles: list[Article], reason: str, checked_at: str) -> None:
+        """Remember items judged not worth sending (e.g. editorials) so they are not summarized again."""
+        skipped = self.data.setdefault("skipped", {})
+        for article in articles:
+            skipped[article.stable_id] = {
+                "reason": reason,
+                "checked_at": checked_at,
+                "title": article.title,
+                "journal": article.journal,
+            }
+            self.data.setdefault("pending", {}).pop(article.stable_id, None)
+
+    @property
     def pending_records(self) -> list[dict[str, Any]]:
         return [
             entry["item"]
