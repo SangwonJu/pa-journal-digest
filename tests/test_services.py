@@ -8,6 +8,7 @@ from pa_digest.services import SUMMARY_SCHEMA, ArticleSummarizer
 
 def test_summarizer_assigns_summary_and_research_tags() -> None:
     assert "이론/개념" in SUMMARY_SCHEMA["properties"]["method"]["enum"]
+    assert "ai_related" in SUMMARY_SCHEMA["required"]
     summarizer = ArticleSummarizer(api_key="test")
     payload = {
         "summary_ko": "공공봉사동기와 성과의 관계를 분석한다.",
@@ -15,6 +16,7 @@ def test_summarizer_assigns_summary_and_research_tags() -> None:
         "method": "서베이",
         "method_detail": "패널 설문",
         "constructs": [" PSM ", "Public service performance"],
+        "ai_related": False,
     }
     summarizer.client = SimpleNamespace(
         responses=SimpleNamespace(create=lambda **_: SimpleNamespace(output_text=json.dumps(payload)))
@@ -67,6 +69,8 @@ def test_select_ai_social_keeps_only_indices_the_model_returns() -> None:
     kept = summarizer.select_ai_social(articles)
 
     assert [article.title for article in kept] == ["Dialogues with AI reduce conspiracy beliefs"]
+    assert kept[0].ai_related is True
+    assert articles[0].ai_related is False
     assert len(calls) == 1
     assert "Costello" in calls[0]["input"][0]["content"]
     assert "[1] Dialogues with AI reduce conspiracy beliefs" in calls[0]["input"][1]["content"]

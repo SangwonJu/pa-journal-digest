@@ -51,8 +51,9 @@ SUMMARY_SCHEMA = {
             "minItems": 1,
             "maxItems": 2,
         },
+        "ai_related": {"type": "boolean"},
     },
-    "required": ["summary_ko", "topic_area", "method", "method_detail", "constructs"],
+    "required": ["summary_ko", "topic_area", "method", "method_detail", "constructs", "ai_related"],
     "additionalProperties": False,
 }
 
@@ -77,7 +78,8 @@ class ArticleSummarizer:
                 "distinct concept in one to three English words (for example PSM, bureaucracy, governance, policy "
                 "diffusion, or political market framework). Never combine two concepts in one item. Preserve common "
                 "acronyms and use consistent title case for multiword terms. Do not use generic words such as public "
-                "administration or study. Use performance only when it is itself the focal theoretical construct."
+                "administration or study. Use performance only when it is itself the focal theoretical construct. "
+                + AI_RELATED_RULE
             )
             article.summary_basis = "abstract"
         else:
@@ -86,7 +88,8 @@ class ArticleSummarizer:
                 "Write exactly one short Korean sentence describing only the apparent topic from the title. "
                 "Begin with '제목 기준:' and do not claim any method, evidence, or finding. Infer only the primary "
                 "topic and one or two constructs that are explicit in the title. Set method to '방법 미상' and "
-                "method_detail to an empty string."
+                "method_detail to an empty string. "
+                + AI_RELATED_RULE
             )
             article.summary_basis = "title"
         prompt = (
@@ -126,6 +129,8 @@ class ArticleSummarizer:
         article.method = parsed["method"]
         article.method_detail = " ".join(parsed["method_detail"].split()) or None
         article.constructs = [" ".join(item.split()) for item in parsed["constructs"] if item.strip()][:2]
+        # Papers kept by the NHB/PNAS AI screen stay flagged even if this call says otherwise.
+        article.ai_related = article.ai_related or bool(parsed.get("ai_related", False))
 
 
     def select_ai_social(self, articles: list[Article]) -> list[Article]:
@@ -158,10 +163,20 @@ class ArticleSummarizer:
                 },
             )
             selected = set(json.loads(response.output_text)["relevant"])
-            kept.extend(article for index, article in enumerate(chunk) if index in selected)
+            for index, article in enumerate(chunk):
+                if index in selected:
+                    article.ai_related = True
+                    kept.append(article)
         return kept
 
 
+AI_RELATED_RULE = (
+    "Set ai_related to true only when artificial intelligence itself (large language models, chatbots, "
+    "generative AI, algorithms or algorithmic decision-making, recommender systems, automation by AI) is a "
+    "central subject of the article, for example how people, governments or organizations use, trust, "
+    "regulate or are affected by AI. Set it to false when machine learning is only a measurement or "
+    "analysis tool for a question that is not about AI."
+)
 AI_FILTER_BATCH = 40
 AI_FILTER_SCHEMA = {
     "type": "object",

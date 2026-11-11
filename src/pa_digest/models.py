@@ -39,6 +39,7 @@ class Article(BaseModel):
     method: str | None = None
     method_detail: str | None = None
     constructs: list[str] = Field(default_factory=list)
+    ai_related: bool = False
 
     @computed_field
     @property

@@ -16,9 +16,9 @@ from .models import Article
 SANS = "'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',Arial,sans-serif"
 SERIF = "Georgia,'Times New Roman',serif"
 
-# Cool index-card paper with slate ink and thin ink-coloured boxes. Colour is
-# spent in one place only: each field has its own text colour, used for its
-# journal names, the field counts in the header, and the topic tag of its articles.
+# Cool index-card paper with slate ink. Each field (and the 기타 fallback) has its
+# own colour, used for its outlined section box, journal names, the field counts in
+# the header, and the topic tag of its articles.
 PAGE = "#e9edf1"
 SURFACE = "#ffffff"
 INK = "#1d2733"
@@ -35,7 +35,9 @@ FIELD_COLORS: dict[str, str] = {
     "AI·사회과학": "#13707a",
 }
 FALLBACK_FIELD = "기타"
-FALLBACK_COLOR = "#5a6472"
+FALLBACK_COLOR = "#7a4f2a"
+# The one loud mark in the email: a filled badge on papers whose subject is AI.
+AI_BADGE = "#d6246e"
 WEEKDAYS_KO = ("월", "화", "수", "목", "금", "토", "일")
 DEFAULT_ARCHIVE_URL = (
     "https://github.com/SangwonJu/pa-journal-digest/raw/refs/heads/main/"
@@ -121,6 +123,12 @@ def _article_html(article: Article, color: str) -> str:
             f'color:{MUTED}">공개된 초록이 없어 제목만 보고 요약했습니다. (Abstract unavailable)</div>'
         )
     summary = escape(article.summary_ko or "요약을 만들지 못했습니다.")
+    if article.ai_related:
+        summary = (
+            f'<b style="display:inline-block;margin:0 8px 2px 0;padding:2px 8px;background:{AI_BADGE};'
+            f'border-radius:3px;font-size:12px;line-height:1.4;font-weight:bold;color:#ffffff;'
+            f'vertical-align:1px;white-space:nowrap">AI-related</b>{summary}'
+        )
     return (
         '<tr><td style="padding:0 0 14px">'
         '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" '
@@ -141,12 +149,18 @@ def _article_html(article: Article, color: str) -> str:
     )
 
 
-def _field_strip_html(field_counts: OrderedDict[str, int]) -> str:
+def _field_strip_html(field_counts: OrderedDict[str, int], ai_count: int = 0) -> str:
     items = "".join(
         f'<div style="display:inline-block;margin:0 18px 8px 0;font-family:{SANS};font-size:14px;'
         f'line-height:1.3;color:{_colors(field)};white-space:nowrap">{escape(field)} <b>{count}</b>편</div>'
         for field, count in field_counts.items()
     )
+    if ai_count:
+        items += (
+            f'<div style="display:inline-block;margin:0 18px 8px 0;padding:1px 8px;background:{AI_BADGE};'
+            f'border-radius:3px;font-family:{SANS};font-size:13px;line-height:1.4;font-weight:bold;'
+            f'color:#ffffff;white-space:nowrap">AI-related {ai_count}편</div>'
+        )
     return f'<div style="margin-top:18px">{items}</div>'
 
 
@@ -177,11 +191,11 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
         blocks = [
             '<tr><td style="padding:34px 0 0">'
             '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" '
-            f'style="border:1px solid {INK}"><tr>'
+            f'style="border:1px solid {color}"><tr>'
             f'<td class="ko-field" style="padding:10px 14px;font-family:{SANS};font-size:16px;line-height:1.3;'
-            f'font-weight:bold;color:{INK}">{escape(field)}</td>'
+            f'font-weight:bold;color:{color}">{escape(field)}</td>'
             f'<td align="right" style="padding:10px 14px;font-family:{SANS};font-size:14px;'
-            f'line-height:1.3;color:{INK};white-space:nowrap">{field_counts[field]}편</td>'
+            f'line-height:1.3;color:{color};white-space:nowrap">{field_counts[field]}편</td>'
             '</tr></table></td></tr>'
         ]
         text_entries: list[str] = []
@@ -202,6 +216,7 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
                     f"온라인 게재 {article.publication_date.isoformat()}\n"
                     f"{' '.join(f'[{tag}]' for tag in tags)}\n"
                     f"{_affiliations_text(article)}\n\n"
+                    f"{'[AI-related] ' if article.ai_related else ''}"
                     f"한국어 요약: {article.summary_ko}\n\nEnglish abstract: {abstract_text}\n{doi_url}"
                 )
         sections.append("".join(blocks))
@@ -212,7 +227,7 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
         headline = f"새 논문 {count}편이 {journal_count}개 저널에서 들어왔습니다."
         content_html = "".join(sections)
         content_text = "\n\n\n".join(text_sections)
-        strip = _field_strip_html(field_counts)
+        strip = _field_strip_html(field_counts, sum(article.ai_related for article in articles))
         preheader = ", ".join(f"{field} {n}편" for field, n in field_counts.items())
     else:
         headline = "오늘은 새로 확인된 논문이 없습니다."

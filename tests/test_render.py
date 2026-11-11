@@ -33,7 +33,7 @@ def test_render_includes_escaped_content_and_fallback_notice() -> None:
     assert "background:#ffffff" in html
     assert "#f6f4ef" not in html
     assert "border-left" not in html
-    assert "border:1px solid #1d2733" in html
+    assert "border:1px solid #1f5f8b" in html
     assert "text-transform:uppercase" not in html
     assert "text-align:justify" not in html
     assert ">시민·민주성</strong>" in html
@@ -151,3 +151,24 @@ def test_render_groups_sections_by_field() -> None:
     assert positions == sorted(positions)
     assert "정보시스템" not in html
     assert text.index("■ 행정·정책") < text.index("■ 심리학")
+
+
+def test_render_marks_ai_related_papers() -> None:
+    def make(title: str, ai: bool) -> Article:
+        return Article(
+            title=title,
+            journal="Political Behavior",
+            journal_short="PolBeh",
+            publication_date=date(2026, 8, 5),
+            url=f"https://example.test/{title}",
+            abstract="An abstract.",
+            summary_ko="요약",
+            ai_related=ai,
+        )
+
+    _, html, text = render_newsletter([make("LLM persuasion", True), make("Turnout", False)], date(2026, 8, 7))
+
+    assert html.count(">AI-related</b>") == 1
+    assert "AI-related 1편" in html
+    assert "[AI-related] 한국어 요약" in text
+    assert "border:1px solid #8c3a5b" in html
