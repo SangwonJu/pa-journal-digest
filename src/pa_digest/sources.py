@@ -65,7 +65,7 @@ EXCLUDED_TITLE_PATTERNS = (
     r"^review of\s+.+\bby\b",
     r"^(correction|corrigendum|erratum|retraction)(?::|\s|$)",
     r"^(editorial|editor['’]s introduction|introduction to the (special )?issue)(?::|\s|$)",
-    r"^(contents|table of contents|front matter|back matter)$",
+    r"^(contents|table of contents|front matter|back matter|issue information|cover image|masthead)$",
     r"^obituary(?::|\s|$)",
     r"\bisbn\b",
     r"\b\d+\s*pp\.\s*(?:[$£€]|\()",

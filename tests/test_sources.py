@@ -23,6 +23,7 @@ def test_content_filter() -> None:
     assert not is_scholarly_article("Book Review: Public Management Today")
     assert not is_scholarly_article("Correction: Administrative Burden and Trust")
     assert not is_scholarly_article("Editor's Introduction: A Special Issue")
+    assert not is_scholarly_article("Issue Information")
     assert not is_scholarly_article(
         "American Administrative Capacity By M. Joaquin, Springer, 2021. 213 pp. $97 (hardcover). ISBN: 123"
     )
