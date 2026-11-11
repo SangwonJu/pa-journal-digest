@@ -24,6 +24,8 @@ SURFACE = "#ffffff"
 INK = "#1d2733"
 MUTED = "#5a6472"
 RULE = "#d8dee5"
+# Faint outline around each paper: visible enough to group a paper, quiet next to the field boxes.
+PAPER_LINE = "#e6eaef"
 FIELD_COLORS: dict[str, str] = {
     "행정·정책": "#1f5f8b",
     "정치학": "#8c3a5b",
@@ -120,9 +122,10 @@ def _article_html(article: Article, color: str) -> str:
         )
     summary = escape(article.summary_ko or "요약을 만들지 못했습니다.")
     return (
-        '<tr><td style="padding:22px 0 24px;border-top:1px solid ' + RULE + '">'
-        '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tr>'
-        f'<td style="font-family:{SANS};text-align:left">'
+        '<tr><td style="padding:0 0 14px">'
+        '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" '
+        f'style="border:1px solid {PAPER_LINE}"><tr>'
+        f'<td class="paper" style="padding:22px 24px 20px;font-family:{SANS};text-align:left">'
         f'<h3 class="en-title" style="margin:0;font-family:{SERIF};font-size:19px;line-height:1.38;font-weight:normal;color:{INK}">'
         f'<a href="{link}" style="color:{INK};text-decoration:none">{escape(article.title)}</a></h3>'
         f'<div style="margin-top:8px;font-family:{SANS};font-size:13px;line-height:1.55;color:{MUTED}">'
@@ -184,7 +187,7 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
         text_entries: list[str] = []
         for journal, journal_articles in journals.items():
             blocks.append(
-                f'<tr><td style="padding:22px 0 12px;font-family:{SANS};text-align:left">'
+                f'<tr><td style="padding:22px 0 10px;font-family:{SANS};text-align:left">'
                 f'<div style="font-size:15px;line-height:1.4;font-weight:bold;color:{color}">{escape(journal)}</div>'
                 f'<div style="margin-top:2px;font-size:13px;line-height:1.4;color:{MUTED}">'
                 f'Tier {JOURNAL_TIER.get(journal, 3)}, {len(journal_articles)}편</div></td></tr>'
@@ -236,7 +239,7 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
   a:focus-visible {{ outline:2px solid {INK}; outline-offset:2px; }}
   @media only screen and (max-width:940px) {{ .shell {{ width:100% !important; }} .outer {{ padding:0 !important; }} .pad {{ padding-left:18px !important; padding-right:18px !important; }} }}
   /* Hangul fills its em box, so it reads larger than Georgia at the same size; on phones step it down further. */
-  @media only screen and (max-width:600px) {{ .ko-sum {{ font-size:14px !important; line-height:1.7 !important; }} .ko-head, .ko-field {{ font-size:15px !important; }} .en-title {{ font-size:17px !important; }} }}
+  @media only screen and (max-width:600px) {{ .ko-sum {{ font-size:14px !important; line-height:1.7 !important; }} .ko-head, .ko-field {{ font-size:15px !important; }} .en-title {{ font-size:17px !important; }} .paper {{ padding:16px 14px !important; }} }}
 </style>
 <!--[if mso]><style>body,table,td,a,h1,h3,div {{font-family:'Malgun Gothic',Arial,sans-serif !important;}}</style><![endif]-->
 </head><body style="width:100%;margin:0;padding:0;background:{PAGE};font-family:{SANS};color:{INK};-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%">
