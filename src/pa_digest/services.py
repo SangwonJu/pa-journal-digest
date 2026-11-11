@@ -60,7 +60,7 @@ SUMMARY_SCHEMA = {
 class ArticleSummarizer:
     def __init__(self, api_key: str | None = None, model: str | None = None):
         self.client = OpenAI(api_key=api_key or os.environ.get("OPENAI_API_KEY"))
-        self.model = model or os.getenv("OPENAI_MODEL", "gpt-5.6-luna")
+        self.model = model or os.getenv("OPENAI_MODEL", "gpt-6.1-terra")
 
     def summarize(self, article: Article) -> None:
         if article.abstract:

@@ -5,228 +5,265 @@ from datetime import date
 from html import escape, unescape
 import os
 
-from .config import JOURNAL_RANK, JOURNAL_TIER
+from .config import FIELDS, JOURNAL_FIELD, JOURNAL_RANK, JOURNAL_TIER, JOURNALS
 from .models import Article
 
 
-# Noto Sans KR is an open-source family with Korean and Latin glyphs designed
-# together. The system fallbacks keep the email readable where web fonts are
-# blocked, which is common in Gmail and Outlook.
-FONT_STACK = (
-    "'Noto Sans KR', 'Pretendard', 'Apple SD Gothic Neo', "
-    "'Malgun Gothic', 'Helvetica Neue', Arial, sans-serif"
-)
+# Korean notes and interface text use the reader's system Korean sans. English
+# source text (titles, abstracts) is set in Georgia, so the journal's voice and
+# the Korean reading note are told apart by type alone. Both stacks are
+# email-safe; web fonts are blocked in Gmail and Outlook.
+SANS = "'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',Arial,sans-serif"
+SERIF = "Georgia,'Times New Roman',serif"
 
-# A restrained white editorial palette.  The tint differences preserve hierarchy
-# in email clients without returning to the former blue-and-gold treatment.
-PAPER = "#f6f4ef"
-SURFACE = "#fffefa"
-INK = "#302f2b"
-MUTED = "#716d65"
-RULE = "#ddd8ce"
-ACCENT = "#8d8578"
+# Cool index-card paper with slate ink and thin ink-coloured boxes. Colour is
+# spent in one place only: each field has its own text colour, used for its
+# journal names, the field counts in the header, and the topic tag of its articles.
+PAGE = "#e9edf1"
+SURFACE = "#ffffff"
+INK = "#1d2733"
+MUTED = "#5a6472"
+RULE = "#d8dee5"
+FIELD_COLORS: dict[str, str] = {
+    "행정·정책": "#1f5f8b",
+    "정치학": "#8c3a5b",
+    "경영·조직": "#2e7350",
+    "심리학": "#8a600c",
+    "정보시스템": "#5847a0",
+}
+FALLBACK_FIELD = "기타"
+FALLBACK_COLOR = "#5a6472"
+WEEKDAYS_KO = ("월", "화", "수", "목", "금", "토", "일")
 DEFAULT_ARCHIVE_URL = (
     "https://github.com/SangwonJu/pa-journal-digest/raw/refs/heads/main/"
     "data/PA_Journal_Digest_Archive.xlsx"
 )
 
 
+def _field(journal: str) -> str:
+    return JOURNAL_FIELD.get(journal, FALLBACK_FIELD)
+
+
+def _colors(field: str) -> str:
+    return FIELD_COLORS.get(field, FALLBACK_COLOR)
+
+
+def _field_order(field: str) -> int:
+    return FIELDS.index(field) if field in FIELDS else len(FIELDS)
+
+
+def _date_ko(value: date) -> str:
+    return f"{value.year}년 {value.month}월 {value.day}일 {WEEKDAYS_KO[value.weekday()]}요일"
+
+
+def _method_label(article: Article) -> str:
+    method = article.method or "방법 미상"
+    if article.method_detail and method != "방법 미상":
+        method = f"{method} ({article.method_detail})"
+    return method
+
+
 def _affiliations_html(article: Article) -> str:
     if not article.authors:
-        return '<div style="margin-top:5px;color:#737373;font-style:italic">Authors unavailable</div>'
+        return f'<div style="color:{MUTED}">저자 정보 없음</div>'
     rows: list[str] = []
     for author in article.authors:
         affiliations = article.author_affiliations.get(author, [])
-        if affiliations:
-            rows.append(
-                f'<div style="margin:3px 0;text-align:left"><strong>{escape(author)}</strong> — '
-                f'{escape(unescape("; ".join(affiliations)))}</div>'
-            )
-        else:
-            rows.append(
-                f'<div style="margin:3px 0;text-align:left"><strong>{escape(author)}</strong> — '
-                '<span style="color:#737373;font-style:italic">Affiliation unavailable</span></div>'
-            )
+        place = (
+            escape(unescape("; ".join(affiliations)))
+            if affiliations
+            else f'<i style="color:{MUTED}">소속 정보 없음</i>'
+        )
+        rows.append(
+            f'<div style="margin:2px 0"><b style="color:{INK};font-weight:600">{escape(author)}</b>, {place}</div>'
+        )
     return "".join(rows)
 
 
 def _affiliations_text(article: Article) -> str:
     if not article.authors:
-        return "Authors unavailable"
+        return "저자 정보 없음"
     rows = []
     for author in article.authors:
         affiliations = article.author_affiliations.get(author, [])
-        if affiliations:
-            rows.append(f"{author} — {unescape('; '.join(affiliations))}")
-        else:
-            rows.append(f"{author} — Affiliation unavailable")
+        place = unescape("; ".join(affiliations)) if affiliations else "소속 정보 없음"
+        rows.append(f"{author}, {place}")
     return "\n".join(rows)
 
 
-def _tags_html(article: Article) -> str:
-    method = article.method or "방법 미상"
-    if article.method_detail and method != "방법 미상":
-        method = f"{method} ({article.method_detail})"
-    tags = [
-        (article.topic_area or "분야 미상", "#f6f1e5", "#625d53", "#ded6c4"),
-        (method, "#f1f2ed", "#58605a", "#d5d8d0"),
-    ]
-    tags.extend((construct, "#f4f1ec", "#625a51", "#ddd6cd") for construct in article.constructs[:2])
-    cells = "".join(
-        '<td valign="top" style="padding:0 5px 6px 0">'
-        '<table role="presentation" border="0" cellspacing="0" cellpadding="0"><tr>'
-        f'<td style="padding:5px 8px;border:1px solid {border};background:{background};'
-        f'font-family:{FONT_STACK};font-size:12px;line-height:1.2;color:{color};text-align:left;'
-        f'white-space:nowrap"><strong>{escape(value)}</strong></td>'
-        '</tr></table></td>'
-        for value, background, color, border in tags
+def _tags_html(article: Article, color: str) -> str:
+    tags = [(article.topic_area or "분야 미상", color), (_method_label(article), INK)]
+    tags.extend((construct, MUTED) for construct in article.constructs[:2])
+    # Inline-block chips wrap onto a new line on phones instead of widening the email.
+    chips = "".join(
+        f'<div style="display:inline-block;margin:0 6px 6px 0;padding:3px 8px;border:1px solid {INK};'
+        f'border-radius:3px;font-size:12px;line-height:1.3;color:{tag_color};white-space:nowrap">'
+        f'<strong style="font-weight:600">{escape(value)}</strong></div>'
+        for value, tag_color in tags
     )
+    return f'<div style="margin:12px 0 4px;font-family:{SANS}">{chips}</div>'
+
+
+def _article_html(article: Article, color: str) -> str:
+    link = escape(article.url, quote=True)
+    doi_url = "https://doi.org/" + article.doi if article.doi else article.url
+    if article.abstract:
+        abstract = (
+            f'<div style="margin-top:14px;font-family:{SERIF};font-size:14px;line-height:1.7;'
+            f'color:{MUTED}">{escape(article.abstract)}</div>'
+        )
+    else:
+        abstract = (
+            f'<div style="margin-top:12px;font-family:{SANS};font-size:13px;line-height:1.6;'
+            f'color:{MUTED}">공개된 초록이 없어 제목만 보고 요약했습니다. (Abstract unavailable)</div>'
+        )
+    summary = escape(article.summary_ko or "요약을 만들지 못했습니다.")
     return (
-        '<table role="presentation" border="0" cellspacing="0" cellpadding="0" '
-        f'style="margin:0 0 2px;font-family:{FONT_STACK}"><tr>{cells}</tr></table>'
+        '<tr><td style="padding:22px 0 24px;border-top:1px solid ' + RULE + '">'
+        '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"><tr>'
+        f'<td style="font-family:{SANS};text-align:left">'
+        f'<h3 style="margin:0;font-family:{SERIF};font-size:19px;line-height:1.38;font-weight:normal;color:{INK}">'
+        f'<a href="{link}" style="color:{INK};text-decoration:none">{escape(article.title)}</a></h3>'
+        f'<div style="margin-top:8px;font-family:{SANS};font-size:13px;line-height:1.55;color:{MUTED}">'
+        f'{_affiliations_html(article)}'
+        f'<div style="margin-top:4px">온라인 게재 {escape(article.publication_date.isoformat())}</div></div>'
+        f'{_tags_html(article, color)}'
+        f'<div style="margin-top:6px;font-family:{SANS};font-size:16px;line-height:1.75;color:{INK}">{summary}</div>'
+        f'{abstract}'
+        f'<div style="margin-top:12px;font-family:{SANS};font-size:13px;line-height:1.5">'
+        f'<a href="{link}" style="color:{color};text-decoration:underline;word-break:break-all">'
+        f'{escape(doi_url)}</a></div>'
+        '</td></tr></table></td></tr>'
     )
+
+
+def _field_strip_html(field_counts: OrderedDict[str, int]) -> str:
+    items = "".join(
+        f'<div style="display:inline-block;margin:0 18px 8px 0;font-family:{SANS};font-size:14px;'
+        f'line-height:1.3;color:{_colors(field)};white-space:nowrap">{escape(field)} <b>{count}</b>편</div>'
+        for field, count in field_counts.items()
+    )
+    return f'<div style="margin-top:18px">{items}</div>'
 
 
 def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, str, str]:
     count = len(articles)
-    subject = f"[PA Journal Digest] {digest_date.isoformat()} · 신규 {count}편"
-    grouped: OrderedDict[str, list[Article]] = OrderedDict()
-    for article in sorted(
+    subject = f"[PA Journal Digest] {digest_date.isoformat()} 신규 {count}편"
+
+    ordered = sorted(
         articles,
-        key=lambda item: (JOURNAL_RANK.get(item.journal, 999), item.title.casefold()),
-    ):
-        grouped.setdefault(article.journal, []).append(article)
+        key=lambda item: (
+            _field_order(_field(item.journal)),
+            JOURNAL_RANK.get(item.journal, 999),
+            item.title.casefold(),
+        ),
+    )
+    grouped: OrderedDict[str, OrderedDict[str, list[Article]]] = OrderedDict()
+    for article in ordered:
+        grouped.setdefault(_field(article.journal), OrderedDict()).setdefault(article.journal, []).append(article)
+    field_counts = OrderedDict(
+        (field, sum(len(items) for items in journals.values())) for field, journals in grouped.items()
+    )
+    journal_count = sum(len(journals) for journals in grouped.values())
 
     sections: list[str] = []
     text_sections: list[str] = []
-    article_number = 0
-    for journal, journal_articles in grouped.items():
-        entries: list[str] = []
-        text_entries: list[str] = []
-        for article in journal_articles:
-            article_number += 1
-            number = f"{article_number:02d}"
-            abstract_html = (
-                f'<div style="margin-top:20px;font-family:{FONT_STACK};font-size:16px;line-height:1.65;'
-                f'color:{INK};text-align:left"><div style="margin-bottom:7px;font-size:12px;'
-                f'line-height:1.2;letter-spacing:1.2px;color:{MUTED};text-transform:uppercase;'
-                f'font-weight:bold">Abstract</div>{escape(article.abstract)}</div>'
-                if article.abstract
-                else (
-                    f'<div style="margin-top:20px;padding:12px 14px;background:#faf7ef;'
-                    f'border-left:3px solid #c7bda9;font-family:{FONT_STACK};font-size:15px;'
-                    'line-height:1.6;color:#625b4f;text-align:left"><strong>Abstract unavailable.</strong> '
-                    'The Korean note below is based on the title only.</div>'
-                )
-            )
-            doi_url = "https://doi.org/" + article.doi if article.doi else article.url
-            entries.append(
-                f'<tr><td style="padding:27px 0 29px;border-bottom:1px solid {RULE};'
-                f'font-family:{FONT_STACK};text-align:left">'
-                '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">'
-                '<tr>'
-                f'<td width="42" valign="top" style="width:42px;padding:3px 10px 0 0;font-family:{FONT_STACK};'
-                f'font-size:14px;line-height:1;color:{ACCENT};text-align:left">{number}</td>'
-                f'<td valign="top" style="font-family:{FONT_STACK};text-align:left">'
-                f'<div style="margin:0 0 7px;font-family:{FONT_STACK};font-size:13px;line-height:1.4;'
-                f'color:{MUTED};text-align:left">{escape(article.publication_date.isoformat())}</div>'
-                f'{_tags_html(article)}'
-                f'<h3 style="margin:0 0 13px;font-family:{FONT_STACK};font-size:21px;line-height:1.32;'
-                f'font-weight:bold;color:{INK};text-align:left"><a href="{escape(article.url, quote=True)}" '
-                f'style="color:{INK};text-decoration:none">{escape(article.title)}</a></h3>'
-                f'<div style="margin:0 0 19px;font-family:{FONT_STACK};font-size:14px;line-height:1.55;'
-                f'color:#595650;text-align:left"><div style="margin-bottom:5px;font-size:12px;line-height:1.2;'
-                f'letter-spacing:1.1px;color:{MUTED};text-transform:uppercase;font-weight:bold">'
-                f'Authors &amp; affiliations</div>{_affiliations_html(article)}</div>'
-                f'<div style="padding:13px 15px;background:#f5f4f0;border-left:3px solid #b7b0a4;'
-                f'font-family:{FONT_STACK};font-size:15px;line-height:1.65;color:{INK};text-align:left">'
-                f'<div style="margin-bottom:5px;font-size:13px;line-height:1.25;font-weight:bold;color:#625d54">'
-                f'한국어 요약</div>{escape(article.summary_ko or "요약을 생성하지 못했습니다.")}</div>'
-                f'{abstract_html}'
-                f'<div style="margin-top:19px;padding-top:10px;border-top:1px dotted #cfc9be;'
-                f'font-family:{FONT_STACK};font-size:13px;line-height:1.5;color:#5f5a53;text-align:left">'
-                f'<strong style="color:{INK}">DOI</strong>&nbsp;&nbsp;'
-                f'<a href="{escape(article.url, quote=True)}" style="color:#625d54;text-decoration:underline;'
-                f'word-break:break-all">{escape(doi_url)}</a></div>'
-                '</td></tr></table></td></tr>'
-            )
-            abstract_text = article.abstract or "Abstract unavailable (Korean note is title-based)."
-            text_entries.append(
-                f"{number}. {article.title}\n{article.publication_date.isoformat()}\n"
-                f"[{article.topic_area or '분야 미상'}] "
-                f"[{article.method or '방법 미상'}"
-                f"{f' ({article.method_detail})' if article.method_detail else ''}] "
-                f"{' '.join(f'[{construct}]' for construct in article.constructs)}\n"
-                f"Authors & affiliations:\n{_affiliations_text(article)}\n"
-                f"한국어 요약: {article.summary_ko}\nEnglish abstract: {abstract_text}\n{doi_url}"
-            )
-        sections.append(
+    for field, journals in grouped.items():
+        color = _colors(field)
+        blocks = [
+            '<tr><td style="padding:34px 0 0">'
             '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" '
-            f'style="width:100%;font-family:{FONT_STACK}">'
-            '<tr><td style="padding:34px 0 0;font-family:'
-            f'{FONT_STACK};text-align:left">'
-            '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">'
-            '<tr>'
-            f'<td valign="bottom" style="padding:0 0 10px;border-bottom:2px solid #b8b1a6;font-family:{FONT_STACK};'
-            f'font-size:22px;line-height:1.25;font-weight:bold;color:{INK};text-align:left">{escape(journal)}</td>'
-            f'<td width="82" valign="bottom" style="width:82px;padding:0 0 11px;border-bottom:2px solid #b8b1a6;'
-            f'font-family:{FONT_STACK};font-size:12px;line-height:1.2;letter-spacing:.6px;color:{MUTED};'
-            f'text-align:right">TIER {JOURNAL_TIER.get(journal, 3)} · {len(journal_articles)}편</td>'
-            f'</tr></table></td></tr>{"".join(entries)}</table>'
-        )
-        text_sections.append(f"## {journal} ({len(journal_articles)})\n\n" + "\n\n".join(text_entries))
+            f'style="border:1px solid {INK}"><tr>'
+            f'<td style="padding:10px 14px;font-family:{SANS};font-size:17px;line-height:1.3;'
+            f'font-weight:bold;color:{INK}">{escape(field)}</td>'
+            f'<td align="right" style="padding:10px 14px;font-family:{SANS};font-size:14px;'
+            f'line-height:1.3;color:{INK};white-space:nowrap">{field_counts[field]}편</td>'
+            '</tr></table></td></tr>'
+        ]
+        text_entries: list[str] = []
+        for journal, journal_articles in journals.items():
+            blocks.append(
+                f'<tr><td style="padding:22px 0 12px;font-family:{SANS};text-align:left">'
+                f'<div style="font-size:15px;line-height:1.4;font-weight:bold;color:{color}">{escape(journal)}</div>'
+                f'<div style="margin-top:2px;font-size:13px;line-height:1.4;color:{MUTED}">'
+                f'Tier {JOURNAL_TIER.get(journal, 3)}, {len(journal_articles)}편</div></td></tr>'
+            )
+            blocks.extend(_article_html(article, color) for article in journal_articles)
+            for article in journal_articles:
+                doi_url = "https://doi.org/" + article.doi if article.doi else article.url
+                abstract_text = article.abstract or "Abstract unavailable (요약은 제목 기준)."
+                tags = [article.topic_area or "분야 미상", _method_label(article), *article.constructs]
+                text_entries.append(
+                    f"{article.title}\n{journal} (Tier {JOURNAL_TIER.get(journal, 3)}), "
+                    f"온라인 게재 {article.publication_date.isoformat()}\n"
+                    f"{' '.join(f'[{tag}]' for tag in tags)}\n"
+                    f"{_affiliations_text(article)}\n\n"
+                    f"한국어 요약: {article.summary_ko}\n\nEnglish abstract: {abstract_text}\n{doi_url}"
+                )
+        sections.append("".join(blocks))
+        separator = "\n\n" + "-" * 40 + "\n\n"
+        text_sections.append(f"■ {field} ({field_counts[field]}편)\n\n" + separator.join(text_entries))
 
     if sections:
+        headline = f"새 논문 {count}편이 {journal_count}개 저널에서 들어왔습니다."
         content_html = "".join(sections)
-        content_text = "\n\n".join(text_sections)
+        content_text = "\n\n\n".join(text_sections)
+        strip = _field_strip_html(field_counts)
+        preheader = ", ".join(f"{field} {n}편" for field, n in field_counts.items())
     else:
+        headline = "오늘은 새로 확인된 논문이 없습니다."
+        follow_up = f"{len(JOURNALS)}개 저널을 모두 확인했습니다. 내일 새벽에 다시 확인합니다."
         content_html = (
-            '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">'
-            f'<tr><td style="padding:52px 0 56px;font-family:{FONT_STACK};text-align:center">'
-            f'<div style="font-family:{FONT_STACK};font-size:22px;line-height:1.35;color:{INK};'
-            f'font-weight:bold;text-align:center">오늘은 새로 확인된 논문이 없습니다.</div>'
-            f'<div style="margin-top:10px;font-family:{FONT_STACK};font-size:15px;line-height:1.55;'
-            f'color:{MUTED};text-align:center">다음 예약 실행에서 다시 확인하겠습니다.</div>'
-            '</td></tr></table>'
+            f'<tr><td style="padding:8px 0 44px;font-family:{SANS};font-size:15px;line-height:1.6;'
+            f'color:{MUTED}">{follow_up}</td></tr>'
         )
-        content_text = "오늘은 새로 확인된 논문이 없습니다. 다음 예약 실행에서 다시 확인하겠습니다."
+        content_text = f"{headline} {follow_up}"
+        strip = ""
+        preheader = follow_up
 
+    archive_url = os.getenv("DIGEST_ARCHIVE_URL", DEFAULT_ARCHIVE_URL)
     html_body = f"""<!doctype html>
-<html><head>
+<html lang="ko"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light">
+<meta name="supported-color-schemes" content="light">
 <style>
   html, body, table, td, a {{ -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }}
   table, td {{ mso-table-lspace:0pt; mso-table-rspace:0pt; }}
   table {{ border-collapse:collapse !important; }}
-  @media only screen and (max-width:940px) {{ .digest-shell {{ width:100% !important; }} .digest-pad {{ padding:12px 8px !important; }} .content-pad {{ padding-left:20px !important; padding-right:20px !important; }} }}
+  a:focus-visible {{ outline:2px solid {INK}; outline-offset:2px; }}
+  @media only screen and (max-width:940px) {{ .shell {{ width:100% !important; }} .outer {{ padding:0 !important; }} .pad {{ padding-left:18px !important; padding-right:18px !important; }} }}
 </style>
-<!--[if mso]><style>body,table,td,a,h1,h2,h3,div,span {{font-family:'Malgun Gothic',Arial,sans-serif !important;}}</style><![endif]-->
-</head><body style="width:100%;margin:0;padding:0;background:{PAPER};font-family:{FONT_STACK};font-size:16px;line-height:1.65;color:{INK};text-align:left;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%">
-<div style="display:none;max-height:0;overflow:hidden">최근 행정학 탑저널 신규 논문 {count}편</div>
-<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%;background:{PAPER}"><tr><td align="center" class="digest-pad" style="padding:28px 12px">
+<!--[if mso]><style>body,table,td,a,h1,h3,div {{font-family:'Malgun Gothic',Arial,sans-serif !important;}}</style><![endif]-->
+</head><body style="width:100%;margin:0;padding:0;background:{PAGE};font-family:{SANS};color:{INK};-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%">
+<div style="display:none;max-height:0;overflow:hidden">{escape(preheader)}</div>
+<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%;background:{PAGE}"><tr><td align="center" class="outer" style="padding:28px 12px">
 <!--[if mso]><table role="presentation" width="900" border="0" cellspacing="0" cellpadding="0"><tr><td width="900"><![endif]-->
-<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="digest-shell" style="width:100%;max-width:900px;background:{SURFACE};border-top:5px solid #c6c0b4;font-family:{FONT_STACK}">
-  <tr><td class="content-pad" style="padding:30px 36px 27px;border-bottom:1px solid {RULE};font-family:{FONT_STACK};text-align:left">
-    <div style="font-family:{FONT_STACK};font-size:12px;line-height:1.2;letter-spacing:1.5px;text-transform:uppercase;color:#81796d;text-align:left">Daily research briefing</div>
-    <h1 style="margin:8px 0 7px;font-family:{FONT_STACK};font-size:30px;line-height:1.15;color:{INK};text-align:left">PA Journal Digest</h1>
-    <div style="font-family:{FONT_STACK};font-size:15px;line-height:1.5;color:{MUTED};text-align:left">{escape(digest_date.strftime('%B %d, %Y'))} &nbsp;·&nbsp; 신규 논문 {count}편 &nbsp;·&nbsp; {len(grouped)}개 저널</div>
+<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="shell" style="width:100%;max-width:900px;background:{SURFACE}">
+  <tr><td class="pad" style="padding:32px 40px 26px;font-family:{SANS};text-align:left">
+    <div style="font-size:14px;line-height:1.4;color:{MUTED}">{_date_ko(digest_date)}</div>
+    <h1 style="margin:6px 0 0;font-family:{SANS};font-size:24px;line-height:1.3;font-weight:bold;color:{INK}">PA Journal Digest</h1>
+    <div style="margin-top:14px;font-size:17px;line-height:1.5;color:{INK}">{headline}</div>
+    {strip}
   </td></tr>
-  <tr><td class="content-pad" style="padding:0 36px;font-family:{FONT_STACK};text-align:left">{content_html}</td></tr>
-  <tr><td class="content-pad" style="padding:23px 36px 27px;font-family:{FONT_STACK};font-size:13px;line-height:1.55;color:{MUTED};text-align:left">
-    Crossref와 공개 학술 메타데이터를 기반으로 자동 생성되었습니다. 요약은 원문 초록을 대체하지 않습니다.
-    <div style="margin-top:16px;padding-top:16px;border-top:1px solid {RULE};font-family:{FONT_STACK};font-size:14px;line-height:1.55;color:{INK}">
-      <a href="{escape(os.getenv('DIGEST_ARCHIVE_URL', DEFAULT_ARCHIVE_URL), quote=True)}" style="color:{INK};font-weight:bold;text-decoration:underline">누적 논문 정리표 다운로드 (XLSX)</a>
+  <tr><td class="pad" style="padding:0 40px;text-align:left">
+    <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">{content_html}</table>
+  </td></tr>
+  <tr><td class="pad" style="padding:30px 40px 34px;font-family:{SANS};font-size:13px;line-height:1.6;color:{MUTED};text-align:left">
+    <div style="padding-top:22px;border-top:2px solid {INK}">
+      <a href="{escape(archive_url, quote=True)}" style="font-size:15px;font-weight:bold;color:{INK};text-decoration:underline">누적 논문 정리표 다운로드 (XLSX)</a>
+      <div style="margin-top:10px">Crossref와 공개 학술 메타데이터로 자동 생성한 메일입니다. 한국어 요약은 초록을 바탕으로 쓰며 원문을 대체하지 않습니다.</div>
     </div>
   </td></tr>
 </table>
 <!--[if mso]></td></tr></table><![endif]-->
 </td></tr></table></body></html>"""
     text_body = (
-        f"PA Journal Digest\n{digest_date.isoformat()} · 신규 논문 {count}편\n\n"
+        f"PA Journal Digest\n{_date_ko(digest_date)}\n{headline}\n\n"
         + content_text
         + "\n\n자동 생성 요약은 원문 초록을 대체하지 않습니다."
         + "\n누적 논문 정리표 (XLSX): "
-        + os.getenv("DIGEST_ARCHIVE_URL", DEFAULT_ARCHIVE_URL)
+        + archive_url
     )
     return subject, html_body, text_body

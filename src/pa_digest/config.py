@@ -57,3 +57,21 @@ JOURNALS: tuple[Journal, ...] = (
 JOURNAL_BY_NAME = {journal.name: journal for journal in JOURNALS}
 JOURNAL_RANK = {journal.name: rank for rank, journal in enumerate(JOURNALS, start=1)}
 JOURNAL_TIER = {journal.name: journal.tier for journal in JOURNALS}
+
+# Fields group the newsletter into the reader's disciplines. The order here is
+# the order of sections in the email; within a field, journals keep JOURNALS order.
+FIELDS: tuple[str, ...] = ("행정·정책", "정치학", "경영·조직", "심리학", "정보시스템")
+_FIELD_BY_SHORT = {
+    **dict.fromkeys(
+        ("JPART", "PAR", "PPMG", "JPAM", "PMR", "PA", "ARPA", "PSJ", "IPMJ", "IJPA",
+         "PPMR", "GIQ", "Governance", "A&S", "ROPPA"),
+        "행정·정책",
+    ),
+    **dict.fromkeys(
+        ("AJPS", "APSR", "JOP", "PolAnalysis", "PolBeh", "PolPsych", "POQ", "PolComm"), "정치학"
+    ),
+    **dict.fromkeys(("AMJ", "AMR", "AMA", "JOB", "JOM", "MgmtSci", "SMJ", "OrgSci"), "경영·조직"),
+    **dict.fromkeys(("JAP", "JPSP", "PSPB"), "심리학"),
+    **dict.fromkeys(("MISQ", "ISR"), "정보시스템"),
+}
+JOURNAL_FIELD = {journal.name: _FIELD_BY_SHORT[journal.short_name] for journal in JOURNALS}
