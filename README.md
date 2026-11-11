@@ -78,7 +78,7 @@ API 키를 코드, 커밋, Issue, 채팅에 붙여 넣지 마세요. 노출된 �
 
 | Name | Default |
 |---|---|
-| `OPENAI_MODEL` | `gpt-6.1-terra` |
+| `OPENAI_MODEL` | `gpt-6-luna` |
 | `NEWSLETTER_FROM` | `PA Journal Digest <onboarding@resend.dev>` |
 
 `onboarding@resend.dev`는 Resend 계정에 등록된 본인 이메일로만 보낼 수 있습니다. 다른 주소로
