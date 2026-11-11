@@ -138,9 +138,10 @@ def _article_html(article: Article, color: str) -> str:
     summary = escape(article.summary_ko or "요약을 만들지 못했습니다.")
     if article.ai_related:
         summary = (
-            f'<b style="padding:3px 9px;background:{AI_BADGE};'
-            f'border-radius:4px;font-size:14px;line-height:1.3;font-weight:bold;color:#ffffff;'
-            f'letter-spacing:.3px;white-space:nowrap">{AI_LABEL}</b>&nbsp;&nbsp; {summary}'
+            # Horizontal padding only: vertical padding on an inline element spills outside
+            # the line box and makes the badge look taller than the text around it.
+            f'<b style="padding:0 6px;background:{AI_BADGE};border-radius:3px;font-size:14px;'
+            f'font-weight:bold;color:#ffffff;white-space:nowrap">{AI_LABEL}</b> {summary}'
         )
     return (
         '<tr><td style="padding:0 0 14px">'
@@ -170,7 +171,7 @@ def _field_strip_html(field_counts: OrderedDict[str, int], ai_count: int = 0) ->
     ]
     if ai_count:
         items.append(
-            f'<b style="padding:2px 8px;background:{AI_BADGE};border-radius:3px;font-size:13px;'
+            f'<b style="padding:0 6px;background:{AI_BADGE};border-radius:3px;font-size:13px;'
             f'color:#ffffff;white-space:nowrap">{AI_LABEL} {ai_count}편</b>'
         )
     return (
