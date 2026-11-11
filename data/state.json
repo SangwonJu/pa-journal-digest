@@ -784,6 +784,14 @@
       "sent_at": "2026-11-11T03:27:06.737718+00:00",
       "title": "Natural language processing word dictionaries for personnel selection: Achieving explainable, generalizable, and incremental prediction with low impact when passively scoring narrative application information."
     },
+    "doi:10.1037/apl0001441": {
+      "batch_id": "2026-11-11-3cc6351fe52c7937",
+      "doi": "10.1037/apl0001441",
+      "journal": "Journal of Applied Psychology",
+      "publication_date": "2026-11-09",
+      "sent_at": "2026-11-11T14:28:12.129109+00:00",
+      "title": "Redefining and updating career attitude profiles and their effectiveness in a postinflection career landscape."
+    },
     "doi:10.1037/pspi0000537": {
       "batch_id": "2026-11-10-418e643876e0e943-resend-20261111T030859Z-resend-20261111T032511Z",
       "doi": "10.1037/pspi0000537",
@@ -799,6 +807,14 @@
       "publication_date": "2026-11-09",
       "sent_at": "2026-11-11T03:27:06.737718+00:00",
       "title": "The more, the better? Evidence of parallel growth in intergroup contact quantity and quality over time."
+    },
+    "doi:10.1073/pnas.2611349123": {
+      "batch_id": "2026-11-11-3cc6351fe52c7937",
+      "doi": "10.1073/pnas.2611349123",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "publication_date": "2026-11-09",
+      "sent_at": "2026-11-11T14:28:12.129109+00:00",
+      "title": "Generating interesting scientific ideas using knowledge graphs and LLMs: Evaluations with 100 research group leaders"
     },
     "doi:10.1080/01900692.2026.2683248": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
@@ -3839,6 +3855,30 @@
       "publication_date": "2026-11-05",
       "sent_at": "2026-11-05T15:33:41.437769+00:00",
       "title": "Digging Into the Subsoil: Considering and Theorizing Human Services Delivery at the Sub‐Micro‐Level of the Public Service Ecosystem"
+    },
+    "doi:10.1126/science.aem6487": {
+      "batch_id": "2026-11-11-3cc6351fe52c7937",
+      "doi": "10.1126/science.aem6487",
+      "journal": "Science",
+      "publication_date": "2026-11-05",
+      "sent_at": "2026-11-11T14:28:12.129109+00:00",
+      "title": "Privacy, accuracy, and objectivity of census data"
+    },
+    "doi:10.1126/science.aen6314": {
+      "batch_id": "2026-11-11-3cc6351fe52c7937",
+      "doi": "10.1126/science.aen6314",
+      "journal": "Science",
+      "publication_date": "2026-11-05",
+      "sent_at": "2026-11-11T14:28:12.129109+00:00",
+      "title": "Can artificial intelligence align with Indigenous science?"
+    },
+    "doi:10.1126/science.aen8507": {
+      "batch_id": "2026-11-11-3cc6351fe52c7937",
+      "doi": "10.1126/science.aen8507",
+      "journal": "Science",
+      "publication_date": "2026-11-05",
+      "sent_at": "2026-11-11T14:28:12.129109+00:00",
+      "title": "The scramble for your brain data"
     },
     "doi:10.1177/00953997261467698": {
       "batch_id": "2026-08-17-92d20fbd959228aa",
@@ -26935,7 +26975,8 @@
           "url": "https://doi.org/10.1126/science.aen8507"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-11T14:28:12.129109+00:00",
+      "status": "sent"
     }
   },
   "pending": {
