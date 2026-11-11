@@ -66,6 +66,8 @@ EXCLUDED_TITLE_PATTERNS = (
     r"^(correction|corrigendum|erratum|retraction)(?::|\s|$)",
     r"^(editorial|editor['’]s introduction|introduction to the (special )?issue)(?::|\s|$)",
     r"^(contents|table of contents|front matter|back matter|issue information|cover image|masthead)$",
+    r"\bcover and (front|back) matter\b",
+    r"[-–—:]\s*(erratum|corrigendum|addendum)$",
     r"^obituary(?::|\s|$)",
     r"\bisbn\b",
     r"\b\d+\s*pp\.\s*(?:[$£€]|\()",
@@ -80,6 +82,51 @@ def clean_markup(value: str | None) -> str | None:
     text = html.unescape(text)
     text = " ".join(text.split())
     return text or None
+
+
+# Broad journals (Science, Nature, PNAS, NHB) also publish news, comments and replies as journal-article.
+BROAD_JOURNAL_EXCLUDED_TITLE_PATTERNS = (
+    r"^(reply to|response to|correspondence|comment on|commentary|perspective|opinion|viewpoint)\b",
+    r"^(news|in brief|in this issue|this week|research highlights?|editors?['’] (choice|summary)|q&a)\b",
+)
+# Nature's news, comment, editorial and career pieces carry this DOI prefix.
+BROAD_JOURNAL_EXCLUDED_DOI_PREFIXES = ("10.1038/d41586-",)
+
+MIN_ABSTRACT_WORDS = 50
+APA_RECORD_NOTICE = re.compile(r"\s*\(?PsycInfo Database Record \(c\) \d{4} APA, all rights reserved\)?\.?\s*$")
+
+
+def complete_abstract(value: str | None) -> str | None:
+    """Return the abstract only if it looks whole; otherwise None so another source is tried.
+
+    Rejects publisher snippets cut at a fixed length ("..."), image URLs scraped in place of
+    text, fragments that start mid-sentence, and one-line teasers.
+    """
+    text = clean_markup(value)
+    if not text:
+        return None
+    text = APA_RECORD_NOTICE.sub("", text).strip()
+    if text.endswith(("...", "…")):
+        return None
+    if text.startswith(("//", "http")) or "static.cambridge.org" in text:
+        return None
+    if re.match(r"[,;:.\-–—)]", text):
+        return None
+    if len(text.split()) < MIN_ABSTRACT_WORDS:
+        return None
+    return text
+
+
+def is_research_item(article: Article, journal: Journal) -> bool:
+    """Drop commentary-type items from broad science journals."""
+    if not journal.ai_social_only:
+        return True
+    if article.doi and article.doi.casefold().startswith(BROAD_JOURNAL_EXCLUDED_DOI_PREFIXES):
+        return False
+    title = " ".join(article.title.split())
+    return not any(
+        re.search(pattern, title, flags=re.IGNORECASE) for pattern in BROAD_JOURNAL_EXCLUDED_TITLE_PATTERNS
+    )
 
 
 def is_scholarly_article(title: str) -> bool:
@@ -199,7 +246,12 @@ class MetadataClient:
         parsed: list[Article] = []
         for item in items:
             article = self._article_from_crossref(item, expected_journal=journal)
-            if article and start <= article.publication_date <= end and is_scholarly_article(article.title):
+            if (
+                article
+                and start <= article.publication_date <= end
+                and is_scholarly_article(article.title)
+                and is_research_item(article, journal)
+            ):
                 parsed.append(article)
         return parsed
 
@@ -222,6 +274,7 @@ class MetadataClient:
             except (httpx.HTTPError, KeyError, ValueError):
                 pass
         article = Article.model_validate(record)
+        article.abstract = complete_abstract(article.abstract)
         if article.doi and (
             not article.abstract
             or any(author not in article.author_affiliations for author in article.authors)
@@ -245,6 +298,7 @@ class MetadataClient:
         doi = normalize_doi(item.get("DOI"))
         url = item.get("URL") or (f"https://doi.org/{doi}" if doi else "")
         authors, author_affiliations = author_details(item)
+        abstract = complete_abstract(item.get("abstract"))
         return Article(
             doi=doi,
             title=clean_markup(str(titles[0])) or str(titles[0]),
@@ -254,23 +308,23 @@ class MetadataClient:
             author_affiliations=author_affiliations,
             publication_date=pub_date,
             url=url,
-            abstract=clean_markup(item.get("abstract")),
-            abstract_source="Crossref" if item.get("abstract") else None,
+            abstract=abstract,
+            abstract_source="Crossref" if abstract else None,
         )
 
     def enrich_metadata(self, article: Article) -> None:
         if not article.doi:
             return
-        abstract = self._semantic_scholar_abstract(article.doi) if not article.abstract else None
+        abstract = complete_abstract(self._semantic_scholar_abstract(article.doi)) if not article.abstract else None
         if abstract:
-            article.abstract = clean_markup(abstract)
+            article.abstract = abstract
             article.abstract_source = "Semantic Scholar"
         if not article.abstract or any(
             author not in article.author_affiliations for author in article.authors
         ):
             self._apply_openalex_metadata(article)
         if not article.abstract:
-            abstract = self._publisher_abstract(article.doi, article.title)
+            abstract = complete_abstract(self._publisher_abstract(article.doi, article.title))
             if abstract:
                 article.abstract = abstract
                 article.abstract_source = "Publisher"
@@ -298,7 +352,7 @@ class MetadataClient:
             )
             payload = response.json()
             if not article.abstract:
-                abstract = abstract_from_inverted_index(payload.get("abstract_inverted_index"))
+                abstract = complete_abstract(abstract_from_inverted_index(payload.get("abstract_inverted_index")))
                 if abstract:
                     article.abstract = abstract
                     article.abstract_source = "OpenAlex"

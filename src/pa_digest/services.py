@@ -225,7 +225,9 @@ AI_FILTER_INSTRUCTIONS = (
     "prosocial intentions and reliance on AI.\n"
     "- AI-written political messages persuading voters; LLMs simulating survey respondents; public "
     "attitudes toward AI in government; AI and political polarization or misinformation.\n\n"
-    "Exclude news stories, editorials, letters, obituaries and book reviews. Exclude articles that only use machine learning as a measurement or prediction tool for a "
+    "Keep only original research articles and research reviews. Exclude commentary of any kind: "
+    "news stories, editorials, comments, perspectives, opinion and policy-forum pieces, News & Views, "
+    "replies and letters, Q&As, research highlights, obituaries and book reviews. Exclude articles that only use machine learning as a measurement or prediction tool for a "
     "question that is not about AI, and AI work in biology, medicine, chemistry, physics, materials "
     "or climate science. When unsure, exclude. Return an empty list when nothing qualifies."
 )

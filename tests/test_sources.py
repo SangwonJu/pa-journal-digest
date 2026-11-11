@@ -5,6 +5,8 @@ from pa_digest.sources import (
     apply_openalex_affiliations,
     author_details,
     clean_markup,
+    complete_abstract,
+    is_research_item,
     is_scholarly_article,
     publisher_abstract_from_html,
     publisher_abstract_from_markdown,
@@ -24,6 +26,8 @@ def test_content_filter() -> None:
     assert not is_scholarly_article("Correction: Administrative Burden and Trust")
     assert not is_scholarly_article("Editor's Introduction: A Special Issue")
     assert not is_scholarly_article("Issue Information")
+    assert not is_scholarly_article("PSR volume 120 issue 4 Cover and Back matter")
+    assert not is_scholarly_article("Presidential Investment in the Administrative State – ERRATUM")
     assert not is_scholarly_article(
         "American Administrative Capacity By M. Joaquin, Springer, 2021. 213 pp. $97 (hardcover). ISBN: 123"
     )
@@ -172,3 +176,43 @@ def test_discover_screens_broad_journals_and_skips_them_without_a_filter(monkeyp
 
     assert sorted(a.journal_short for a in screened) == ["Governance", "Governance", "PNAS"]
     assert sorted(a.journal_short for a in unscreened) == ["Governance", "Governance"]
+
+
+FULL_ABSTRACT = " ".join(["Survey evidence from municipal employees shows that red tape lowers trust."] * 6)
+
+
+def test_complete_abstract_rejects_snippets_and_fragments() -> None:
+    assert complete_abstract(FULL_ABSTRACT) == FULL_ABSTRACT
+    assert complete_abstract(FULL_ABSTRACT[:200] + "...") is None
+    assert complete_abstract(FULL_ABSTRACT + " collecting accurate informatio…") is None
+    assert complete_abstract("//static.cambridge.org/content/id/urn%3Acambridge.org/firstPage-pdf.jpg") is None
+    assert complete_abstract(", who defer more of that control to their employer. " + FULL_ABSTRACT) is None
+    assert complete_abstract("Companies are using wearable neurotechnologies to train AI models.") is None
+    assert complete_abstract(None) is None
+    assert (
+        complete_abstract(FULL_ABSTRACT + " (PsycInfo Database Record (c) 2026 APA, all rights reserved).")
+        == FULL_ABSTRACT
+    )
+
+
+def test_broad_journals_drop_commentary() -> None:
+    from pa_digest.config import JOURNAL_BY_NAME
+
+    nature = JOURNAL_BY_NAME["Nature"]
+    governance = JOURNAL_BY_NAME["Governance"]
+
+    def make(title: str, doi: str, journal) -> Article:
+        return Article(
+            doi=doi,
+            title=title,
+            journal=journal.name,
+            journal_short=journal.short_name,
+            publication_date=date(2026, 11, 5),
+            url="https://example.test",
+        )
+
+    assert is_research_item(make("LLMs shift voter attitudes", "10.1038/s41586-026-1", nature), nature)
+    assert not is_research_item(make("AI needs rules", "10.1038/d41586-026-1", nature), nature)
+    assert not is_research_item(make("Reply to: Sycophancy", "10.1038/s41586-026-2", nature), nature)
+    assert not is_research_item(make("Perspective: AI and science", "10.1038/s41586-026-3", nature), nature)
+    assert is_research_item(make("Reply to Kettl", "10.1/gov", governance), governance)
