@@ -37,9 +37,9 @@ def test_render_includes_escaped_content_and_fallback_notice() -> None:
     assert "border:1px solid #1f5f8b" in html
     assert "text-transform:uppercase" not in html
     assert "text-align:justify" not in html
-    assert ">시민·민주성</strong>" in html
-    assert ">서베이 (패널 설문)</strong>" in html
-    assert ">Bureaucracy</strong>" in html
+    assert ">시민·민주성</b>" in html
+    assert ">서베이 (패널 설문)</b>" in html
+    assert ">Bureaucracy</b>" in html
     assert "<span" not in html
     assert "white-space:nowrap" in html
     assert "https://doi.org/10.1234/example" in html
@@ -49,8 +49,8 @@ def test_render_includes_escaped_content_and_fallback_notice() -> None:
     assert "max-width:900px" in html
     assert "2026년 8월 7일 금요일" in html
     assert "행정·정책 <b>1</b>편" in html
-    assert 'href="#field-0"' in html
-    assert 'id="field-0"' in html
+    assert 'href="#field-' not in html
+    assert "display:inline-block" not in html
     assert "누적 논문 정리표 다운로드 (XLSX)" in html
     assert "PA_Journal_Digest_Archive.xlsx" in text
 
@@ -171,7 +171,7 @@ def test_render_marks_ai_related_papers() -> None:
 
     _, html, text = render_newsletter([make("LLM persuasion", True), make("Turnout", False)], date(2026, 8, 7))
 
-    assert html.count(">🤖 AI</b>") == 1
+    assert html.count(">🤖 AI</b>&nbsp;") == 1
     assert "🤖 AI 1편" in html
     assert "[🤖 AI] 한국어 요약" in text
     assert "border:1px solid #8c3a5b;background:#f5e8ee" in html

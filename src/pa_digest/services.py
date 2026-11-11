@@ -201,7 +201,8 @@ AI_RELATED_RULE = (
     "generative AI, algorithms or algorithmic decision-making, recommender systems, automation by AI) is a "
     "central subject of the article, for example how people, governments or organizations use, trust, "
     "regulate or are affected by AI. Set it to false when machine learning is only a measurement or "
-    "analysis tool for a question that is not about AI."
+    "analysis tool for a question that is not about AI, for example a credit-market or health study that "
+    "uses a machine-learning model to estimate effects."
 )
 AI_FILTER_BATCH = 40
 AI_FILTER_SCHEMA = {

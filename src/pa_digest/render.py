@@ -58,10 +58,6 @@ def _field(journal: str) -> str:
     return JOURNAL_FIELD.get(journal, FALLBACK_FIELD)
 
 
-def _anchor(field: str) -> str:
-    return f"field-{_field_order(field)}"
-
-
 def _tint(field: str) -> str:
     return FIELD_TINTS.get(field, FALLBACK_TINT)
 
@@ -116,14 +112,14 @@ def _affiliations_text(article: Article) -> str:
 def _tags_html(article: Article, color: str) -> str:
     tags = [(article.topic_area or "분야 미상", color), (_method_label(article), INK)]
     tags.extend((construct, MUTED) for construct in article.constructs[:2])
-    # Inline-block chips wrap onto a new line on phones instead of widening the email.
-    chips = "".join(
-        f'<div style="display:inline-block;margin:0 6px 6px 0;padding:3px 8px;border:1px solid {RULE};'
-        f'border-radius:3px;font-size:12px;line-height:1.3;color:{tag_color};white-space:nowrap">'
-        f'<strong style="font-weight:600">{escape(value)}</strong></div>'
+    # Plain inline elements, not inline-block: Outlook ignores inline-block and would stack
+    # each tag as a full-width box. Inline tags sit on one line and wrap only when needed.
+    chips = "&nbsp;&nbsp; ".join(
+        f'<b style="padding:2px 7px;border:1px solid {RULE};border-radius:3px;font-size:12px;'
+        f'font-weight:600;color:{tag_color};white-space:nowrap">{escape(value)}</b>'
         for value, tag_color in tags
     )
-    return f'<div style="margin:12px 0 4px;font-family:{SANS}">{chips}</div>'
+    return f'<div style="margin:12px 0 6px;font-family:{SANS};line-height:2">{chips}</div>'
 
 
 def _article_html(article: Article, color: str) -> str:
@@ -142,9 +138,9 @@ def _article_html(article: Article, color: str) -> str:
     summary = escape(article.summary_ko or "요약을 만들지 못했습니다.")
     if article.ai_related:
         summary = (
-            f'<b style="display:inline-block;margin:0 10px 4px 0;padding:4px 11px;background:{AI_BADGE};'
+            f'<b style="padding:3px 9px;background:{AI_BADGE};'
             f'border-radius:4px;font-size:14px;line-height:1.3;font-weight:bold;color:#ffffff;'
-            f'letter-spacing:.3px;vertical-align:1px;white-space:nowrap">{AI_LABEL}</b>{summary}'
+            f'letter-spacing:.3px;white-space:nowrap">{AI_LABEL}</b>&nbsp;&nbsp; {summary}'
         )
     return (
         '<tr><td style="padding:0 0 14px">'
@@ -167,21 +163,21 @@ def _article_html(article: Article, color: str) -> str:
 
 
 def _field_strip_html(field_counts: OrderedDict[str, int], ai_count: int = 0) -> str:
-    items = "".join(
-        # Each field count jumps to its section. In-page links work in Apple Mail and
-        # Gmail on the web; some mobile apps ignore them, which only loses the jump.
-        f'<a href="#{_anchor(field)}" style="display:inline-block;margin:0 18px 8px 0;font-family:{SANS};'
-        f'font-size:14px;line-height:1.3;color:{_colors(field)};text-decoration:underline;'
-        f'white-space:nowrap">{escape(field)} <b>{count}</b>편</a>'
+    items = [
+        f'<b style="font-weight:normal;color:{_colors(field)};white-space:nowrap">'
+        f'{escape(field)} <b>{count}</b>편</b>'
         for field, count in field_counts.items()
-    )
+    ]
     if ai_count:
-        items += (
-            f'<div style="display:inline-block;margin:0 18px 8px 0;padding:1px 8px;background:{AI_BADGE};'
-            f'border-radius:3px;font-family:{SANS};font-size:13px;line-height:1.4;font-weight:bold;'
-            f'color:#ffffff;white-space:nowrap">{AI_LABEL} {ai_count}편</div>'
+        items.append(
+            f'<b style="padding:2px 8px;background:{AI_BADGE};border-radius:3px;font-size:13px;'
+            f'color:#ffffff;white-space:nowrap">{AI_LABEL} {ai_count}편</b>'
         )
-    return f'<div style="margin-top:18px">{items}</div>'
+    return (
+        f'<div style="margin-top:18px;font-family:{SANS};font-size:14px;line-height:2">'
+        + "&nbsp;&nbsp;&nbsp;&nbsp; ".join(items)
+        + "</div>"
+    )
 
 
 def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, str, str]:
@@ -209,7 +205,7 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
     for field, journals in grouped.items():
         color = _colors(field)
         blocks = [
-            f'<tr><td style="padding:34px 0 0"><a name="{_anchor(field)}" id="{_anchor(field)}"></a>'
+            '<tr><td style="padding:34px 0 0">'
             '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" '
             f'style="border:1px solid {color};background:{_tint(field)}"><tr>'
             f'<td class="ko-field" style="padding:10px 14px;font-family:{SANS};font-size:16px;line-height:1.3;'
