@@ -23,9 +23,7 @@
 | ARPA | The American Review of Public Administration | 2 |
 | PSJ | Policy Studies Journal | 2 |
 | IPMJ | International Public Management Journal | 2 |
-| IJPA | International Journal of Public Administration | 2 |
 | PolBeh | Political Behavior | 2 |
-| PolPsych | Political Psychology | 2 |
 | POQ | Public Opinion Quarterly | 2 |
 | PolComm | Political Communication | 2 |
 | PPMR | Public Performance & Management Review | 3 |

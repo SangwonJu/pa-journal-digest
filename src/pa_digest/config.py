@@ -29,9 +29,7 @@ JOURNALS: tuple[Journal, ...] = (
     Journal("ARPA", "The American Review of Public Administration", ("0275-0740", "1552-3357"), 2),
     Journal("PSJ", "Policy Studies Journal", ("0190-292X", "1541-0072"), 2),
     Journal("IPMJ", "International Public Management Journal", ("1096-7494", "1559-3169"), 2),
-    Journal("IJPA", "International Journal of Public Administration", ("0190-0692", "1532-4265"), 2),
     Journal("PolBeh", "Political Behavior", ("0190-9320", "1573-6687"), 2),
-    Journal("PolPsych", "Political Psychology", ("0162-895X", "1467-9221"), 2),
     Journal("POQ", "Public Opinion Quarterly", ("0033-362X", "1537-5331"), 2),
     Journal("PolComm", "Political Communication", ("1058-4609", "1091-7675"), 2),
     Journal("PPMR", "Public Performance & Management Review", ("1530-9576", "1557-9271"), 3),
@@ -67,12 +65,12 @@ JOURNAL_TIER = {journal.name: journal.tier for journal in JOURNALS}
 FIELDS: tuple[str, ...] = ("행정·정책", "정치학", "경영·조직", "심리학", "정보시스템")
 _FIELD_BY_SHORT = {
     **dict.fromkeys(
-        ("JPART", "PAR", "PPMG", "JPAM", "PMR", "PA", "ARPA", "PSJ", "IPMJ", "IJPA",
+        ("JPART", "PAR", "PPMG", "JPAM", "PMR", "PA", "ARPA", "PSJ", "IPMJ",
          "PPMR", "GIQ", "Governance", "A&S", "ROPPA", "JBPA", "NVSQ"),
         "행정·정책",
     ),
     **dict.fromkeys(
-        ("AJPS", "APSR", "JOP", "PolAnalysis", "PolBeh", "PolPsych", "POQ", "PolComm", "JEPS"), "정치학"
+        ("AJPS", "APSR", "JOP", "PolAnalysis", "PolBeh", "POQ", "PolComm", "JEPS"), "정치학"
     ),
     **dict.fromkeys(("AMJ", "AMR", "AMA", "JOB", "JOM", "MgmtSci", "SMJ", "OrgSci", "OBHDP"), "경영·조직"),
     **dict.fromkeys(("JAP", "JPSP", "PSPB"), "심리학"),

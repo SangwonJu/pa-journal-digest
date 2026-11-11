@@ -12,9 +12,7 @@ def test_requested_journal_tiers_and_order() -> None:
         "The Journal of Politics": 1,
         "Political Analysis": 1,
         "International Public Management Journal": 2,
-        "International Journal of Public Administration": 2,
         "Political Behavior": 2,
-        "Political Psychology": 2,
         "Public Opinion Quarterly": 2,
         "Political Communication": 2,
         "Governance": 3,
@@ -35,7 +33,7 @@ def test_requested_journal_tiers_and_order() -> None:
 
 
 def test_journal_catalog_has_unique_valid_issns() -> None:
-    assert len(JOURNALS) == 40
+    assert len(JOURNALS) == 38
     issns = [issn for journal in JOURNALS for issn in journal.issns]
     assert len(issns) == len(set(issns))
     assert all(len(issn) == 9 and issn[4] == "-" for issn in issns)
