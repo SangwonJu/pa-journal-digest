@@ -169,8 +169,8 @@ def test_render_marks_ai_related_papers() -> None:
 
     _, html, text = render_newsletter([make("LLM persuasion", True), make("Turnout", False)], date(2026, 8, 7))
 
-    assert html.count(">AI-related</b>") == 1
-    assert "AI-related 1편" in html
-    assert "[AI-related] 한국어 요약" in text
+    assert html.count(">🤖 AI</b>") == 1
+    assert "🤖 AI 1편" in html
+    assert "[🤖 AI] 한국어 요약" in text
     assert "border:1px solid #8c3a5b;background:#f5e8ee" in html
-    assert html.count("border:3px solid #d6246e") == 1
+    assert "border:3px solid" not in html

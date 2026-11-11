@@ -46,6 +46,7 @@ FALLBACK_FIELD = "기타"
 FALLBACK_COLOR = "#7a4f2a"
 # The one loud mark in the email: a filled badge on papers whose subject is AI.
 AI_BADGE = "#d6246e"
+AI_LABEL = "🤖 AI"
 WEEKDAYS_KO = ("월", "화", "수", "목", "금", "토", "일")
 DEFAULT_ARCHIVE_URL = (
     "https://github.com/SangwonJu/pa-journal-digest/raw/refs/heads/main/"
@@ -139,12 +140,12 @@ def _article_html(article: Article, color: str) -> str:
         summary = (
             f'<b style="display:inline-block;margin:0 10px 4px 0;padding:4px 11px;background:{AI_BADGE};'
             f'border-radius:4px;font-size:14px;line-height:1.3;font-weight:bold;color:#ffffff;'
-            f'letter-spacing:.3px;vertical-align:1px;white-space:nowrap">AI-related</b>{summary}'
+            f'letter-spacing:.3px;vertical-align:1px;white-space:nowrap">{AI_LABEL}</b>{summary}'
         )
     return (
         '<tr><td style="padding:0 0 14px">'
         '<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" '
-        f'style="border:{"3px solid " + AI_BADGE if article.ai_related else "1px solid " + PAPER_LINE}"><tr>'
+        f'style="border:1px solid {PAPER_LINE}"><tr>'
         f'<td class="paper" style="padding:22px 24px 20px;font-family:{SANS};text-align:left">'
         f'<h3 class="en-title" style="margin:0;font-family:{SANS};font-size:19px;line-height:1.35;font-weight:bold;color:{INK}">'
         f'<a href="{link}" style="color:{INK};text-decoration:none">{escape(article.title)}</a></h3>'
@@ -171,7 +172,7 @@ def _field_strip_html(field_counts: OrderedDict[str, int], ai_count: int = 0) ->
         items += (
             f'<div style="display:inline-block;margin:0 18px 8px 0;padding:1px 8px;background:{AI_BADGE};'
             f'border-radius:3px;font-family:{SANS};font-size:13px;line-height:1.4;font-weight:bold;'
-            f'color:#ffffff;white-space:nowrap">AI-related {ai_count}편</div>'
+            f'color:#ffffff;white-space:nowrap">{AI_LABEL} {ai_count}편</div>'
         )
     return f'<div style="margin-top:18px">{items}</div>'
 
@@ -228,7 +229,7 @@ def render_newsletter(articles: list[Article], digest_date: date) -> tuple[str, 
                     f"온라인 게재 {article.publication_date.isoformat()}\n"
                     f"{' '.join(f'[{tag}]' for tag in tags)}\n"
                     f"{_affiliations_text(article)}\n\n"
-                    f"{'[AI-related] ' if article.ai_related else ''}"
+                    f"{f'[{AI_LABEL}] ' if article.ai_related else ''}"
                     f"한국어 요약: {article.summary_ko}\n\nEnglish abstract: {abstract_text}\n{doi_url}"
                 )
         sections.append("".join(blocks))
