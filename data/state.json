@@ -809,11 +809,11 @@
       "title": "The more, the better? Evidence of parallel growth in intergroup contact quantity and quality over time."
     },
     "doi:10.1073/pnas.2611349123": {
-      "batch_id": "2026-11-11-3cc6351fe52c7937",
+      "batch_id": "2026-11-11-3cc6351fe52c7937-resend-20261111T150157Z",
       "doi": "10.1073/pnas.2611349123",
       "journal": "Proceedings of the National Academy of Sciences",
       "publication_date": "2026-11-09",
-      "sent_at": "2026-11-11T14:28:12.129109+00:00",
+      "sent_at": "2026-11-11T15:02:45.290057+00:00",
       "title": "Generating interesting scientific ideas using knowledge graphs and LLMs: Evaluations with 100 research group leaders"
     },
     "doi:10.1080/01900692.2026.2683248": {
@@ -3865,11 +3865,11 @@
       "title": "Privacy, accuracy, and objectivity of census data"
     },
     "doi:10.1126/science.aen6314": {
-      "batch_id": "2026-11-11-3cc6351fe52c7937",
+      "batch_id": "2026-11-11-3cc6351fe52c7937-resend-20261111T150157Z",
       "doi": "10.1126/science.aen6314",
       "journal": "Science",
       "publication_date": "2026-11-05",
-      "sent_at": "2026-11-11T14:28:12.129109+00:00",
+      "sent_at": "2026-11-11T15:02:45.290057+00:00",
       "title": "Can artificial intelligence align with Indigenous science?"
     },
     "doi:10.1126/science.aen8507": {
@@ -27047,7 +27047,8 @@
           "url": "https://doi.org/10.1126/science.aen6314"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-11T15:02:45.290057+00:00",
+      "status": "sent"
     }
   },
   "pending": {
