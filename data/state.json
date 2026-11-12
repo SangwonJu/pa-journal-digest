@@ -27049,6 +27049,157 @@
       ],
       "sent_at": "2026-11-11T15:02:45.290057+00:00",
       "status": "sent"
+    },
+    "2026-11-12-a28f1e7027061fde": {
+      "created_at": "2026-11-12T15:10:07.654379+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-12-a28f1e7027061fde",
+      "items": [
+        {
+          "abstract": "Abstract Reconstruction was the American state's first sustained peacetime intervention into local communities, and the Freedmen's Bureau was its most important component. What was the social impact of this program? Using an original data set on Freedmen's Bureau operations, we link the distribution and duration of Bureau offices to local socioeconomic outcomes. We find that the Bureau had positive effects for both Black and White residents of counties that hosted offices. Moreover, these effects were accompanied by the development of local administrative capacity and moderated by office longevity. The effects persisted for decades, though the magnitude attenuated for Blacks and increased for Whites as Jim Crow deepened and local government increasingly oriented policy benefits toward Whites. The findings indicate the importance of bureaucratic organization for policy implementation and suggest the 19th‐century federal government played a larger and more successful—albeit unequal—role in citizens’ lives than commonly believed.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Jon Rogowski": [
+              "Professor, Department of Political Science University of Chicago Chicago Illinois USA"
+            ],
+            "Michael Albertus": [
+              "Professor, Department of Political Science University of Chicago Chicago Illinois USA"
+            ]
+          },
+          "authors": [
+            "Michael Albertus",
+            "Jon Rogowski"
+          ],
+          "constructs": [
+            "bureaucracy",
+            "administrative capacity"
+          ],
+          "doi": "10.1111/ajps.70096",
+          "is_editorial": false,
+          "journal": "American Journal of Political Science",
+          "journal_short": "AJPS",
+          "method": "준실험",
+          "method_detail": "사무소 분포 분석",
+          "publication_date": "2026-11-12",
+          "stable_id": "doi:10.1111/ajps.70096",
+          "summary_basis": "abstract",
+          "summary_ko": "재건기 Freedmen’s Bureau 사무소의 분포와 존속 기간을 원자료로 구축해 카운티의 사회경제적 결과와 연결한 결과, 사무소가 설치된 카운티에서 흑인과 백인 주민 모두에게 긍정적 효과가 나타났고 지역 행정역량도 발전했다. 효과는 수십 년간 지속됐지만 Jim Crow 심화와 지방정부의 백인 중심 정책으로 흑인에 대한 효과는 약해지고 백인에 대한 효과는 커졌다.",
+          "title": "America's most “far‐reaching institution”: The work and legacies of the Freedmen's Bureau",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1111/ajps.70096"
+        },
+        {
+          "abstract": "Corporate disclosure has long served as a strategic tool for managing the perceptions of audiences that shape a firm’s access to resources. Prior research has largely focused on why firms use disclosure to engage capital-market constituents such as investors and analysts, leaving open the question of when and why firms disclose for competitive purposes. Focusing on the temporal orientation of competitive strategy communication, we examine how multimarket contact (MMC) shapes firms’ use of long-term oriented language (LTL). We argue that greater MMC raises the risk of cross-market retaliation, strengthening firms’ incentives to signal a restrained competitive posture through LTL, particularly when competitive capacity is visibly constrained by poor financial performance or analyst downgrade revisions. Using a sample of 36 U.S. manufacturing firms across six industries from 2015 to 2024, we find evidence generally consistent with our predictions.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Albert A. Cannella": [
+              "Texas A&amp;M University"
+            ],
+            "He Gao": [
+              "University of Delaware"
+            ],
+            "Hyun-Soo Woo": [
+              "The University of Mississippi"
+            ],
+            "Tieying Yu": [
+              "Boston College"
+            ]
+          },
+          "authors": [
+            "He Gao",
+            "Tieying Yu",
+            "Hyun-Soo Woo",
+            "Albert A. Cannella"
+          ],
+          "constructs": [
+            "Multimarket Contact",
+            "Long-Term Orientation"
+          ],
+          "doi": "10.1177/01492063261494471",
+          "is_editorial": false,
+          "journal": "Journal of Management",
+          "journal_short": "JOM",
+          "method": "준실험",
+          "method_detail": "기업 패널 분석",
+          "publication_date": "2026-11-12",
+          "stable_id": "doi:10.1177/01492063261494471",
+          "summary_basis": "abstract",
+          "summary_ko": "2015~2024년 6개 산업의 미국 제조기업 36곳을 대상으로 다시장 접촉(MMC)이 경쟁 전략 커뮤니케이션에서 장기지향 언어(LTL) 사용에 어떤 영향을 미치는지 분석했다. MMC가 클수록 시장 간 보복 위험 때문에 LTL 사용이 늘었고, 재무성과 저하나 애널리스트의 하향 수정으로 경쟁 역량이 제약될 때 그 관계가 특히 강하게 나타났다.",
+          "title": "Multimarket Contact and Long-Term Oriented Language in Competition",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1177/01492063261494471"
+        },
+        {
+          "abstract": "Abstract Research on administrative burden has demonstrated that policy design shapes individuals’ ability to access rights and public services. However, the role of information in producing and transforming administrative burden remains insufficiently conceptualized. This article proposes a process-oriented framework that positions information barriers as a key mechanism through which administrative burden emerges. The framework conceptualizes administrative encounters as an informational trajectory composed of four stages: information search, comprehension, application, and continuous learning, and demonstrates how barriers at each stage generate distinct combinations of learning, compliance, and psychological costs. It further develops a structured framework that links types of information barriers to concrete, evidence-based intervention strategies drawn from information science, including plain language, content structuring, interface design, and mediation mechanisms. By highlighting the dynamic role of information in increasingly digital governance, the article shows how digital service provision can both reduce and intensify administrative burden by reshaping access to information and redistributing responsibilities between citizens and bureaucratic institutions.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Frida Elek-BenMoshe": [
+              "Interdisciplinary Faculty for Society and Community, Social Work, Jerusalem Multidisciplinary College (JMC) , Jerusalem,"
+            ]
+          },
+          "authors": [
+            "Frida Elek-BenMoshe"
+          ],
+          "constructs": [
+            "Administrative Burden",
+            "Information Barriers"
+          ],
+          "doi": "10.1093/ppmgov/gvag012",
+          "is_editorial": false,
+          "journal": "Perspectives on Public Management and Governance",
+          "journal_short": "PPMG",
+          "method": "이론/개념",
+          "method_detail": "개념적 모형",
+          "publication_date": "2026-11-12",
+          "stable_id": "doi:10.1093/ppmgov/gvag012",
+          "summary_basis": "abstract",
+          "summary_ko": "디지털 행정서비스에서 정보 장벽이 행정 부담을 어떻게 만들고 변화시키는지 설명하는 과정 중심의 개념적 틀을 제시했다. 정보 탐색, 이해, 신청, 지속적 학습의 네 단계에서 장벽이 학습·준수·심리적 비용을 다르게 만들며, 쉬운 언어·콘텐츠 구조화·인터페이스 설계·중재 같은 정보과학 기반 개입으로 대응할 수 있다고 설명했다.",
+          "title": "Information barriers in digital administrative interfaces: a process-oriented framework for administrative burden",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1093/ppmgov/gvag012"
+        },
+        {
+          "abstract": "Artificial Intelligence (AI) has been widely adopted by governments, but whether and to what extent governments adopt AI varies. A key question is whether variation in AI adoption across local governments stems from differences in capacity or political constraints. Understanding this has implications for the kinds of policies officials may want to adopt to ensure that local governments have access to the technologies that they want and need. This paper combines data from the International City/County Management Association (ICMA) Survey, American Trends Panel (ATP), the Current Population Survey (CPS), and other public data sources, to examine how capacity and political constraints influence local government AI adoption in the United States. Using logistic and Poisson regression models, we find that AI adoption at local governments is associated with citizens’ attitudes toward AI, public employee unionization, local governments’ financial capacity, and infrastructure support. Notably, political factors (citizens’ attitudes and public sector unionization) are equally influential as capacity factors in explaining government AI adoption, and in some cases, more powerful. These findings suggest that variation in AI adoption across local governments results not only from capacity barriers but also from political constraints due to the power of public employees and concerns of the public.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Lael Keiser": [
+              "Truman School of Government and Public Affairs, University of Missouri, Columbia, MO, USA"
+            ],
+            "Niki Jabbari": [
+              "Truman School of Government and Public Affairs, University of Missouri, Columbia, MO, USA"
+            ],
+            "Yung-Yu Tsai": [
+              "International College of Innovation, National Chengchi University, Taipei"
+            ]
+          },
+          "authors": [
+            "Yung-Yu Tsai",
+            "Lael Keiser",
+            "Niki Jabbari"
+          ],
+          "constructs": [
+            "AI Adoption",
+            "Political Constraints"
+          ],
+          "doi": "10.1177/02750740261506489",
+          "is_editorial": false,
+          "journal": "The American Review of Public Administration",
+          "journal_short": "ARPA",
+          "method": "혼합방법론",
+          "method_detail": "회귀모형 분석",
+          "publication_date": "2026-11-11",
+          "stable_id": "doi:10.1177/02750740261506489",
+          "summary_basis": "abstract",
+          "summary_ko": "미국 지방정부의 AI 도입 차이가 역량 제약과 정치적 제약에서 비롯되는지 ICMA Survey, American Trends Panel, Current Population Survey와 공공자료를 결합해 로지스틱·Poisson 회귀모형으로 분석했다. 시민의 AI 태도, 공공부문 노조화, 재정 역량, 인프라 지원이 AI 도입과 관련됐으며, 시민 태도와 노조화 같은 정치적 요인이 역량 요인만큼 영향력이 크거나 일부 모형에서는 더 강하게 나타났다.",
+          "title": "Understanding AI Adoption in Local Government: Capacity Constraints or Political Caution?",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1177/02750740261506489"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -27071,7 +27222,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -27086,7 +27237,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -27107,7 +27258,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1002/smj.70058": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27122,7 +27273,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70058"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1002/smj.70059": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27137,7 +27288,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70059"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -27162,7 +27313,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -27197,7 +27348,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -27218,7 +27369,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1037/apl0001426.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27233,7 +27384,7 @@
         "title": "Supplemental Material for On Criterion Weighting to Reduce Adverse Impact",
         "url": "https://doi.org/10.1037/apl0001426.supp"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1037/apl0001442.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27248,7 +27399,7 @@
         "title": "Supplemental Material for A Meta-Analysis of Three Decades of Construct Measurement Research on Situational Judgment Tests: Toward a Balance Between Construct Clarity and Predictive Power",
         "url": "https://doi.org/10.1037/apl0001442.supp"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1037/pspa0000505.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27263,7 +27414,7 @@
         "title": "Supplemental Material for A Systematic Investigation of Age–Gender Intersectional Stereotypes and Their Consequences",
         "url": "https://doi.org/10.1037/pspa0000505.supp"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1037/pspi0000537.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27278,7 +27429,7 @@
         "title": "Supplemental Material for Individual, Interpersonal, and Socioeconomic Predictors of Divorce: A 12-Year Prospective Study",
         "url": "https://doi.org/10.1037/pspi0000537.supp"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1037/pspi0000538.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27293,7 +27444,7 @@
         "title": "Supplemental Material for The More, the Better? Evidence of Parallel Growth in Intergroup Contact Quantity and Quality Over Time",
         "url": "https://doi.org/10.1037/pspi0000538.supp"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1037/pspp0000620.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27308,7 +27459,7 @@
         "title": "Supplemental Material for Navigating Divorce and Partner Bereavement: Personality and Trajectories of Change in Life Satisfaction and Mental Health",
         "url": "https://doi.org/10.1037/pspp0000620.supp"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1037/pspp0000623.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27323,7 +27474,7 @@
         "title": "Supplemental Material for Examining the Gender-Equality Paradox in Values Using a New Measure of Value-Based Gender Typicality",
         "url": "https://doi.org/10.1037/pspp0000623.supp"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1037/pspp0000627.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27338,7 +27489,7 @@
         "title": "Supplemental Material for The Structure and History of English Words That Describe People",
         "url": "https://doi.org/10.1037/pspp0000627.supp"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1038/d41586-026-03578-y": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -27355,7 +27506,7 @@
         "title": "The public trusts scientists with AI — more than it does anyone else",
         "url": "https://doi.org/10.1038/d41586-026-03578-y"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1038/s41562-026-02639-6": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -27408,7 +27559,7 @@
         "title": "AI ‘slop’ is a social judgement",
         "url": "https://doi.org/10.1038/s41562-026-02639-6"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1080/14719037.2026.2758867": {
       "first_seen_at": "2026-11-09T17:26:51.222422+00:00",
@@ -27441,7 +27592,7 @@
         "title": "Exhaustion intensified? The confluence of coworker and citizen incivility in local government",
         "url": "https://doi.org/10.1080/14719037.2026.2758867"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -27470,7 +27621,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -27490,7 +27641,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -27507,7 +27658,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -27524,7 +27675,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -27542,7 +27693,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -27559,7 +27710,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -27578,7 +27729,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -27596,7 +27747,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -27615,7 +27766,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -27633,7 +27784,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -27650,7 +27801,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -27669,7 +27820,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -27687,7 +27838,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -27705,7 +27856,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1086/744871": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27722,7 +27873,7 @@
         "title": "Running in Context: Marginalization, Political Ambition, and Candidate Emergence",
         "url": "https://doi.org/10.1086/744871"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -27743,7 +27894,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -27758,7 +27909,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -27773,7 +27924,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -27794,7 +27945,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -27809,7 +27960,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -27824,7 +27975,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     },
     "doi:10.5465/amj.2024.0699": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27849,7 +28000,7 @@
         "title": "Benefiting from Culture Wars: Resource Mobilization in Polarized Issue Domains",
         "url": "https://doi.org/10.5465/amj.2024.0699"
       },
-      "last_checked_at": "2026-11-11T14:17:32.796666+00:00"
+      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
     }
   },
   "version": 1
