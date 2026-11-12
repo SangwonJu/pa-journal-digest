@@ -2592,6 +2592,14 @@
       "sent_at": "2026-11-03T15:11:31.405120+00:00",
       "title": "Concept promotion and the study of government"
     },
+    "doi:10.1093/ppmgov/gvag012": {
+      "batch_id": "2026-11-12-a28f1e7027061fde",
+      "doi": "10.1093/ppmgov/gvag012",
+      "journal": "Perspectives on Public Management and Governance",
+      "publication_date": "2026-11-12",
+      "sent_at": "2026-11-12T15:20:11.553538+00:00",
+      "title": "Information barriers in digital administrative interfaces: a process-oriented framework for administrative burden"
+    },
     "doi:10.1111/ajps.70070": {
       "batch_id": "2026-09-07-42a6062e9863389d",
       "doi": "10.1111/ajps.70070",
@@ -2727,6 +2735,14 @@
       "publication_date": "2026-11-04",
       "sent_at": "2026-11-04T15:31:46.842932+00:00",
       "title": "Can citizen election observation increase public confidence in US elections?"
+    },
+    "doi:10.1111/ajps.70096": {
+      "batch_id": "2026-11-12-a28f1e7027061fde",
+      "doi": "10.1111/ajps.70096",
+      "journal": "American Journal of Political Science",
+      "publication_date": "2026-11-12",
+      "sent_at": "2026-11-12T15:20:11.553538+00:00",
+      "title": "America's most “far‐reaching institution”: The work and legacies of the Freedmen's Bureau"
     },
     "doi:10.1111/gove.70148": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -4048,6 +4064,14 @@
       "sent_at": "2026-11-11T03:27:06.737718+00:00",
       "title": "Humanlike Self-Enhancement and Self-Protection in Generative Pre-Trained Transformer-Based AI Agents: Of Overclaiming and the Self-Serving Bias"
     },
+    "doi:10.1177/01492063261494471": {
+      "batch_id": "2026-11-12-a28f1e7027061fde",
+      "doi": "10.1177/01492063261494471",
+      "journal": "Journal of Management",
+      "publication_date": "2026-11-12",
+      "sent_at": "2026-11-12T15:20:11.553538+00:00",
+      "title": "Multimarket Contact and Long-Term Oriented Language in Competition"
+    },
     "doi:10.1177/02750740261473616": {
       "batch_id": "2026-08-10-379897b0e0907946",
       "doi": "10.1177/02750740261473616",
@@ -4167,6 +4191,14 @@
       "publication_date": "2026-10-15",
       "sent_at": "2026-10-16T11:26:32.570201+00:00",
       "title": "When Geography Dilutes Accountability: Managerial Discretion and Fiscal Expansion in Local Government"
+    },
+    "doi:10.1177/02750740261506489": {
+      "batch_id": "2026-11-12-a28f1e7027061fde",
+      "doi": "10.1177/02750740261506489",
+      "journal": "The American Review of Public Administration",
+      "publication_date": "2026-11-11",
+      "sent_at": "2026-11-12T15:20:11.553538+00:00",
+      "title": "Understanding AI Adoption in Local Government: Capacity Constraints or Political Caution?"
     },
     "doi:10.1177/0734371x261478777": {
       "batch_id": "2026-08-31-16eaf574577d5f58",
@@ -27199,7 +27231,8 @@
           "url": "https://doi.org/10.1177/02750740261506489"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-12T15:20:11.553538+00:00",
+      "status": "sent"
     }
   },
   "pending": {
