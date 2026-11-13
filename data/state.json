@@ -27233,6 +27233,361 @@
       ],
       "sent_at": "2026-11-12T15:20:11.553538+00:00",
       "status": "sent"
+    },
+    "2026-11-13-d9c36fa56a890d3f": {
+      "created_at": "2026-11-13T14:31:23.290176+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-13-d9c36fa56a890d3f",
+      "items": [
+        {
+          "abstract": "Organizations engaging with contested social issues may struggle to mobilize resources due to disapproval from hostile audiences. Yet, some may benefit from increased support from sympathetic audiences, leaving unclear when such support will outweigh opposition. We propose that variation in audience reactions depends partly on how contestation is structured. We theorize that ideological polarization—the extent to which opposing stances on an issue sort along ideological lines—may enhance resource mobilization in contested issue domains. As polarization increases, contested issues pit opposing identities against each other and heighten threats to sympathetic audiences’ worldviews. New ventures in more polarized domains may attract greater support as sympathetic audiences respond by investing in aligned ventures, a mechanism we term “compensatory investment.” This relationship strengthens under conditions that heighten identity threat: when issues are highly salient, making them central political battlegrounds, and when audiences on both sides rely on core moral foundations to evaluate the issue, so that disagreements are experienced as moral violations. Analyses of U.S.-based Kickstarter campaigns (2009–2020) support our predictions and provide evidence consistent with compensatory investment. Our study highlights polarization as a key source of issue heterogeneity, introduces the mechanism of compensatory investment, and specifies when polarization enhances resource mobilization.",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {
+            "Fabrizio Ferraro": [
+              "IESE Business School"
+            ],
+            "Ludovica Castiglia": [
+              "Emory University"
+            ]
+          },
+          "authors": [
+            "Ludovica Castiglia",
+            "Fabrizio Ferraro"
+          ],
+          "constructs": [
+            "Ideological Polarization",
+            "Compensatory Investment"
+          ],
+          "doi": "10.5465/amj.2024.0699",
+          "is_editorial": false,
+          "journal": "Academy of Management Journal",
+          "journal_short": "AMJ",
+          "method": "준실험",
+          "method_detail": "Kickstarter 캠페인 분석",
+          "publication_date": "2026-11-10",
+          "stable_id": "doi:10.5465/amj.2024.0699",
+          "summary_basis": "abstract",
+          "summary_ko": "2009~2020년 미국 Kickstarter 캠페인을 분석해, 사회적 쟁점의 이념적 양극화가 적대적 청중의 반발에도 불구하고 신규 벤처의 자원 동원을 높이는지 검토했다. 양극화가 큰 쟁점일수록 지지 청중의 ‘보상적 투자’가 증가해 자원 동원이 커졌으며, 쟁점의 현저성과 양측의 도덕적 토대 의존도가 높을 때 이 관계가 강화됐다.",
+          "title": "Benefiting from Culture Wars: Resource Mobilization in Polarized Issue Domains",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.5465/amj.2024.0699"
+        },
+        {
+          "abstract": "Algorithmically-triggered governance remains underdeveloped in AI-integrated institutions, leading to decision delays and unresolved anomalies. This study aimed to evaluate precision, latency, and resolution outcomes of AI-escalation models embedded in institutional board workflows. The study collected 300 AI-generated escalation cases from 30 participants, stratified by legal, administrative, and technical roles. Annotated cases were evaluated using role-calibrated interfaces and tiered trigger thresholds. Models were trained and tested using rule-based routing with bootstrap validation. Comparative analyses (pre- and post-intervention) and subgroup comparisons were performed using ANOVA, the Kruskal–Wallis test, and effect size metrics. All analyses were conducted in Python. Interpretation accuracy ranged from 74.9% to 91.4%, with AI analysts achieving the highest performance. Routing precision peaked at 88.2%, board action success at 82.5%, and tooltip interaction averaged 10.5 clicks. Interface refinement improved task accuracy by 7.0%, decreased latency by 560 ms, and increased routing success by 8.2%. Escalation latency reduced by 630 to 650 ms across domains. Trigger-specific sensitivity was highest for reclassification (92.1%), with final resolution times averaging 4,510 ms. Post-outlier corrections yielded minor gains (<1.2%), and misroutes accounted for the highest unresolved rates (40.0%). Structured escalation protocols notably enhanced AI-governance alignment and reduce critical response delays.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Ling Jin": [
+              "Yanbian University, Yanji, Jilin, China"
+            ]
+          },
+          "authors": [
+            "Ling Jin"
+          ],
+          "constructs": [
+            "Algorithmic Transparency",
+            "Board Accountability"
+          ],
+          "doi": "10.1177/00953997261498380",
+          "is_editorial": false,
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "method": "실험",
+          "method_detail": "개입 전후 비교",
+          "publication_date": "2026-11-12",
+          "stable_id": "doi:10.1177/00953997261498380",
+          "summary_basis": "abstract",
+          "summary_ko": "AI 보조 거버넌스 모델의 기관 이사회 업무에 내장한 AI 에스컬레이션 모델의 정확도, 지연시간, 해결 결과를 법률·행정·기술 역할의 참여자 30명이 생성한 300건의 사례로 평가하고, 규칙 기반 라우팅과 부트스트랩 검증, 개입 전후 및 하위집단 비교를 실시했다. 인터페이스 개선으로 과업 정확도는 7.0%, 라우팅 성공률은 8.2% 높아졌고 지연시간은 560~650ms 줄었으며, 오배정이 미해결 사례의 40.0%를 차지했다.",
+          "title": "Research on the Optimisation Path of Algorithm Transparency and Board Accountability Mechanisms in an Artificial Intelligence-Assisted Governance Model",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1177/00953997261498380"
+        },
+        {
+          "abstract": "Despite the steady growth of fast-charging networks under government subsidies, the impact of spatial and ownership structures of charging points on pricing strategies of charging point operators (CPOs) and consumer welfare is poorly understood. Given EVs’ limited range, the competition in a fast-charging network is inherently regional. It is unclear whether and under what circumstances CPOs’ competition can lead to regional monopoly, which may hinder the transition to electric mobility. In this paper, we develop a novel framework to examine the competitive dynamics in fast-charging networks that serve regional demand, incorporating delay costs arising from congestion and locational attractiveness of charging stations. At the core of our framework is a spatial competition model, which characterizes the strategic interactions between CPOs and consumers. To overcome tractability issues associated with large networks that arise from real-world settings, we propose a computationally efficient method to optimize CPOs’ pricing decisions. We instantiate the framework in Germany’s Deutschlandnetz, whose awarded regional network comprises 900 charging stations. Using demand projections for 2030, we conduct a series of counterfactual simulations. Our analysis generates four sets of findings. First, price exhibits a strong negative correlation with the local competitiveness level (measured by the density of charging stations), but shows no clear dependence on absolute demand levels. Second, CPOs’ profits are shaped by both local competitiveness and absolute demand. Third, a uniform, stringent price cap may create inefficiencies in network utilization and discourage infrastructure investment, particularly in less lucrative regions. Finally, spatial and ownership constraints in tender rules may fail to ensure competitive outcomes in large-scale charging networks, allowing CPOs to strategically select locations that strengthen their market power ex post. Taken together, these findings suggest that policymakers should enable regionally equitable access to fast charging while ensuring efficient network utilization.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Long He": [
+              "University of Notre Dame Mendoza College of Business, Information Technology, Analytics, and Operations, Notre Dame, Indiana, United States"
+            ],
+            "Philipp Artur Artur Kienscherf": [
+              "University of Cologne, Faculty of Management, Economics and Social Sciences, Koln, Nordrhein-Westfalen, Germany"
+            ],
+            "Wolfgang Ketter": [
+              "University of Cologne, Faculty of Management, Economics and Social Sciences, Koln, Nordrhein-Westfalen, Germany"
+            ],
+            "Yixin Lu": [
+              "The George Washington University, School of Business, Washington, District of Columbia, United States"
+            ]
+          },
+          "authors": [
+            "Philipp Artur Artur Kienscherf",
+            "Yixin Lu",
+            "Long He",
+            "Wolfgang Ketter"
+          ],
+          "constructs": [
+            "Spatial Competition",
+            "Consumer Welfare"
+          ],
+          "doi": "10.1287/isre.2024.1246",
+          "is_editorial": false,
+          "journal": "Information Systems Research",
+          "journal_short": "ISR",
+          "method": "실험",
+          "method_detail": "반사실 시뮬레이션",
+          "publication_date": "2026-11-13",
+          "stable_id": "doi:10.1287/isre.2024.1246",
+          "summary_basis": "abstract",
+          "summary_ko": "독일 Deutschlandnetz의 900개 충전소를 대상으로 지역 수요, 충전소 입지와 소유 구조가 고속충전사업자(CPO)의 가격·이윤과 소비자 후생에 미치는 영향을 공간경쟁 모형과 2030년 수요 전망을 활용한 반사실 시뮬레이션으로 분석했다. 충전소 밀도가 높은 지역일수록 가격은 낮았지만 절대수요와 가격의 뚜렷한 관계는 없었으며, 획일적이고 엄격한 가격상한과 입찰의 공간·소유 제약은 네트워크 이용과 투자를 저해하거나 사후 시장지배력을 허용할 수 있다고 나타났다.",
+          "title": "Spatial Competition in Fast-Charging Networks",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1287/isre.2024.1246"
+        },
+        {
+          "abstract": "Generative AI (GenAI) is increasingly deployed in organizations, yet employees differ substantially and persistently in how frequently and intensively they use it. This workplace “usage divide” raises a fundamental but underexplored question: Why do employees differ systematically in their use of GenAI, even under common formal access? We argue that this divide reflects a broader challenge for IS research: explaining the use of systems that are probabilistic rather than deterministic, and general-purpose yet uneven and evolving in their capabilities. In workplaces where employees remain accountable for task performance, these properties make the use of GenAI not a routine adoption decision but a judgment process in which employees assess the system’s credibility and determine where task-relevant expertise lies. Drawing on molecular genetics and metacognition research, we theorize that genetic propensity, indexed by the educational attainment polygenic score (PGS)—an aggregate genetic index associated with educational attainment—helps account for systematic variation in these judgments and, ultimately, persistent differences in workplace GenAI use. Specifically, we develop a parsimonious two-pathway model linking educational attainment PGS to GenAI use: a cognitive pathway involving formal educational attainment and perceptions of GenAI credibility, and a metacognitive pathway involving strategic mindset and metaknowledge of where task-relevant expertise lies. We test our model using a multisource dataset combining primary genetic data, survey measures, and 21 months of objective usage logs. The results show that educational attainment PGS, a broad distal genetic index, is associated with both GenAI use frequency and interaction intensity and provide theory-consistent evidence for the proposed pathways. Overall, our study offers a micro-foundational account of the persistent GenAI usage divide and advances IS theory on the use of probabilistic, general-purpose systems in the workplace.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Shiyang Gong": [
+              "Beijing Normal University, Business School, Beijing, China"
+            ],
+            "Shuhua Sun": [
+              "Tulane University Freeman School of Business, Management, New Orleans, Louisiana, United States"
+            ],
+            "Yinliang (Ricky) Tan": [
+              "China Europe International Business School, Freeman School of Business, Shanghai, China"
+            ]
+          },
+          "authors": [
+            "Shuhua Sun",
+            "Shiyang Gong",
+            "Yinliang (Ricky) Tan"
+          ],
+          "constructs": [
+            "Polygenic Score",
+            "Metacognition"
+          ],
+          "doi": "10.1287/isre.2025.2709",
+          "is_editorial": false,
+          "journal": "Information Systems Research",
+          "journal_short": "ISR",
+          "method": "혼합방법론",
+          "method_detail": "유전자료·설문·로그",
+          "publication_date": "2026-11-13",
+          "stable_id": "doi:10.1287/isre.2025.2709",
+          "summary_basis": "abstract",
+          "summary_ko": "조직에서 공식적 접근 조건이 같아도 직원별 workplace GenAI 사용 빈도와 상호작용 강도가 지속적으로 다른 이유를, educational attainment polygenic score(PGS)와 인지·메타인지 경로를 통해 설명했다. 유전자료, 설문자료, 21개월간 객관적 사용 로그를 결합한 다원자료 분석에서 educational attainment PGS는 GenAI 사용 빈도와 상호작용 강도 모두와 관련됐고, formal educational attainment와 GenAI credibility 인식의 인지 경로 및 strategic mindset와 과업 관련 전문지식 위치에 대한 metaknowledge의 메타인지 경로가 이 관계를 뒷받침했다.",
+          "title": "The Workplace GenAI Usage Divide: A Genetics-Informed Cognitive and Metacognitive Account",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1287/isre.2025.2709"
+        },
+        {
+          "abstract": "We construct novel network-based measures of U.S. state-level bank deregulation intensity that allow us to separately identify the effects of deregulation on competition and investment opportunities. In contrast to existing studies, we find that increased competition leads to higher deposit funding costs and a reduction in banks’ net interest margins and profitability. In response, banks shift their business models and persistently increase their risk taking. Our findings resolve conflicting evidence in the literature and support theories in which reductions in bank charter values lead to higher bank risk taking. This paper was accepted by Camelia Kuhnen, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01128 .",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Emilio Bisetti": [
+              "Department of Finance, School of Business and Management, Hong Kong University of Science and Technology, Clear Water Bay, New Territories, Hong Kong SAR"
+            ],
+            "Stefan Lewellen": [
+              "Department of Finance, The Pennsylvania State University, State College, Pennsylvania 16802"
+            ],
+            "Stephen A. Karolyi": [
+              "Department of Finance, Costello College of Business George Mason University, Fairfax, Virginia 22030"
+            ]
+          },
+          "authors": [
+            "Emilio Bisetti",
+            "Stephen A. Karolyi",
+            "Stefan Lewellen"
+          ],
+          "constructs": [
+            "Bank Competition",
+            "Charter Value"
+          ],
+          "doi": "10.1287/mnsc.2025.01128",
+          "is_editorial": false,
+          "journal": "Management Science",
+          "journal_short": "MgmtSci",
+          "method": "준실험",
+          "method_detail": "네트워크 기반 분석",
+          "publication_date": "2026-11-12",
+          "stable_id": "doi:10.1287/mnsc.2025.01128",
+          "summary_basis": "abstract",
+          "summary_ko": "미국 주(州)별 은행 규제완화 강도를 네트워크 기반 지표로 측정해 경쟁과 투자기회의 효과를 분리했다. 경쟁 심화는 예금조달비용을 높이고 은행의 순이자마진과 수익성을 낮췄으며, 은행은 사업모형을 바꾸고 위험추구를 지속적으로 늘렸다.",
+          "title": "Deregulation, Market Structure, and the Evolution of U.S. Banking",
+          "topic_area": "재무·예산",
+          "url": "https://doi.org/10.1287/mnsc.2025.01128"
+        },
+        {
+          "abstract": "Employees often work under incomplete contracts, performing both contracted in-role tasks and valuable but noncontracted extra-role activities. Once employees have completed in-role tasks, discretionary time remains, which they may allocate to extra-role activities or consume opportunistically. This study examines how managers’ time-reporting decisions, as a less intrusive form of control, affect subordinates’ effort-allocation decisions. I propose two opposing predictions. First, managers’ control implementations may signal distrust, resulting in more opportunism and thus less extra-role effort. Second, I identify value signaling as a novel theoretical mechanism through which time-reporting decisions may increase extra-role effort. The main experiment manipulated two factors: the type of time report (aggregated versus disaggregated) and its implementation source (managerial choice versus random assignment) to isolate signaling effects from monitoring effects. Results reveal that when managers choose not to implement disaggregated time reporting—that is, reports that make discretionary time salient—subordinates significantly reduce their extra-role effort. Structural equation modeling shows that value signaling outweighs distrust signaling in driving employees’ effort-allocation decisions. In contrast, when the time-reporting format is randomly assigned, effort remains unchanged, underscoring the signaling role of managerial choice. An additional online experiment shows directionally consistent results with the main experiment. These findings reveal a hidden cost of not controlling and contribute to the literature on incomplete contracts, slack resources, and input-based controls in modern work contexts. This paper was accepted by Ranjani Krishnan, accounting. Funding: This work was supported by the Bijzonder Onderzoeksfonds UGent [Grant BOF/STA/202009/047]. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2025.00955 .",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Sophie Maussen": [
+              "Department of Accounting, Corporate Finance and Taxation, Ghent University, 9000 Ghent, Belgium"
+            ]
+          },
+          "authors": [
+            "Sophie Maussen"
+          ],
+          "constructs": [
+            "Incomplete Contracts",
+            "Value Signaling"
+          ],
+          "doi": "10.1287/mnsc.2025.00955",
+          "is_editorial": false,
+          "journal": "Management Science",
+          "journal_short": "MgmtSci",
+          "method": "실험",
+          "method_detail": "요인 실험",
+          "publication_date": "2026-11-12",
+          "stable_id": "doi:10.1287/mnsc.2025.00955",
+          "summary_basis": "abstract",
+          "summary_ko": "관리자의 시간보고 방식이 계약 외 활동에 투입하는 재량시간과 추가역할 노력에 미치는 영향을 두 요인 실험과 추가 온라인 실험으로 examined했다. 관리자가 재량시간을 드러내는 세분화 보고를 선택하지 않으면 부하직원의 추가역할 노력이 유의하게 감소했으며, 무작위 배정에서는 변화가 없어 가치 신호가 불신 신호보다 우세하게 작용했다.",
+          "title": "Effortful vs. Opportunistic Consumption of Discretionary Time: How Time-Reporting Decisions Influence Extra-Role Effort",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1287/mnsc.2025.00955"
+        },
+        {
+          "abstract": "This paper explores how venture capitalists (VCs) add value by examining their role as labor market intermediaries. Using novel data, I show that VCs create internal labor markets (ILMs) to facilitate entrepreneurial mobility across their portfolio firms. Survey evidence suggests that VCs leverage private information about founders’ abilities to strategically match talent to portfolio firms, creating value for the recipient companies. Consistent with this mechanism of asymmetric learning, I find that (a) former VC partners continue to influence founder mobility, (b) ILM intensity positively predicts VC fund returns, and (c) the ILM effect is stronger when information asymmetry is greater. This paper was accepted by Lin William Cong, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01626 .",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Zhongchen Hu": [
+              "The Chinese University of Hong Kong, Shenzhen 518172, China"
+            ]
+          },
+          "authors": [
+            "Zhongchen Hu"
+          ],
+          "constructs": [
+            "Internal Labor Markets",
+            "Information Asymmetry"
+          ],
+          "doi": "10.1287/mnsc.2023.01626",
+          "is_editorial": false,
+          "journal": "Management Science",
+          "journal_short": "MgmtSci",
+          "method": "혼합방법론",
+          "method_detail": "자료 분석·설문",
+          "publication_date": "2026-11-12",
+          "stable_id": "doi:10.1287/mnsc.2023.01626",
+          "summary_basis": "abstract",
+          "summary_ko": "벤처캐피털(VC)이 포트폴리오 기업 간 기업가 이동을 촉진하는 내부 노동시장(ILM)을 어떻게 구축하고 가치를 창출하는지 분석했다. 신규 자료와 설문 증거를 사용한 결과, VC는 창업자의 능력에 관한 사적 정보를 활용해 인재를 전략적으로 배치했으며, 전 VC 파트너의 영향이 지속되고 ILM 강도는 VC 펀드 수익률과 양의 관계를 보였고 정보 비대칭이 클수록 그 효과가 강하게 나타났다.",
+          "title": "Redeploying the Jockeys: The Intermediary Role of Venture Capital in Entrepreneurial Labor Markets",
+          "topic_area": "비영리",
+          "url": "https://doi.org/10.1287/mnsc.2023.01626"
+        },
+        {
+          "abstract": "As teams and team membership become more dynamic, colleagues from the same prior team increasingly transition together to a new team as a cohort: a phenomenon known as co-moving. Drawing on theories of shared team experience and team receptivity, we develop a multilevel, multitheory, and multiperiod model to examine how co-moving affects individual and team performance. We theorize that co-movers carry forward proximal shared team experience that they can leverage immediately to support their own performance relative to solo movers, who must build new working relationships. However, we also theorize that co-movers’ proximal shared team experience hinders team performance, although these detrimental effects attenuate over time. We test our theory using archival data from the National Basketball Association, supplemented by qualitative interviews with individuals involved in professional basketball. Our findings reveal that co-movers exhibit better individual performance than solo movers on their new teams and in our robustness checks we find that greater shared tenure on the prior team further enhances this advantage. At the team level, teams with co-movers perform worse than teams with solo movers, and we find partial support that this disadvantage attenuates over time. Additional analyses show that co-movers’ individual performance advantage persists over time in the new team. The findings from our interviews illuminate how these processes unfold both on and off the court. Our research contributes to the literature on shared team experience and newcomer integration by highlighting a multilevel tradeoff: Although co-moving benefits individuals, it can initially undermine collective performance.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Catherine T. Shea": [
+              "Tepper School of Business, Carnegie Mellon University, Pittsburgh, Pennsylvania 15213"
+            ],
+            "Emma Y. Zhao": [
+              "McIntire School of Commerce, University of Virginia, Charlottesville, Virginia 22903"
+            ],
+            "Siyuan Li": [
+              "Operations & Information Systems Management, Raymond A. Mason School of Business, William & Mary, Williamsburg, Virginia 23185"
+            ]
+          },
+          "authors": [
+            "Emma Y. Zhao",
+            "Catherine T. Shea",
+            "Siyuan Li"
+          ],
+          "constructs": [
+            "Shared Team Experience",
+            "Newcomer Integration"
+          ],
+          "doi": "10.1287/orsc.2024.18867",
+          "is_editorial": false,
+          "journal": "Organization Science",
+          "journal_short": "OrgSci",
+          "method": "혼합방법론",
+          "method_detail": "기록자료·인터뷰",
+          "publication_date": "2026-11-12",
+          "stable_id": "doi:10.1287/orsc.2024.18867",
+          "summary_basis": "abstract",
+          "summary_ko": "기존 팀에서 함께 이동한 동료(co-movers)와 혼자 새 팀으로 이동한 구성원(solo movers)이 개인 및 팀 성과에 미치는 차이를 NBA 기록자료와 관련자 질적 인터뷰로 분석했다. Co-movers는 새 팀에서 개인 성과가 더 좋았지만, co-movers가 있는 팀은 solo movers가 있는 팀보다 팀 성과가 낮았고 그 불리함은 시간에 따라 약화되는 양상이 부분적으로 나타났다.",
+          "title": "Colleagues That Work Together Move Together: How Co-Moving Among Newcomers Affects Individual and Team Performance",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1287/orsc.2024.18867"
+        },
+        {
+          "abstract": "Although environmental regulations can incentivize firms to reduce emissions, how firms adapt may depend not only on their organizational characteristics but also on the physical realities of their assets. This paper examines how multinational spread, an organizational feature in which firms own and manage similar production activities across countries, and the physical asset characteristics of production facilities jointly shape firms’ responses to carbon taxation. Using global, real-time satellite data on carbon emissions from 882 steel plants across 67 countries over 96 months (January 2015 to December 2022), we analyze operational adjustments firms can make to reduce carbon emissions: producing more cleanly by reducing emissions intensity of production or producing less by reducing asset utilization. We first examine how firms adapt to Canada’s carbon tax using a difference-in-differences (DID) design and then examine the impact of carbon taxes across countries using a stacked DID design. Our analysis reveals that, following Canada’s carbon tax, firms without multinational spread reduce carbon emissions primarily by lowering asset utilization; in contrast, firms with multinational spread additionally reduce emissions intensity of production. Importantly, our analysis of carbon taxes across countries shows that multinational spread alone does not dictate firm adaptation. Adaptation is fundamentally influenced by the physical technology on the ground: firms with multinational spread reduce emissions intensity of production and increase asset utilization at their clean (electric arc furnace) plants relative to dirty plants. Our study thus sheds light on how firms pursue different adaptation strategies at production facilities in response to carbon taxation.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Arzi Adbi": [
+              "National University of Singapore Business School, Strategy & Policy, Singapore, Singapore"
+            ],
+            "Xiaoteng Wu": [
+              "Peking University Guanghua School of Management, Organization and Strategic Management, Beijing, China"
+            ]
+          },
+          "authors": [
+            "Arzi Adbi",
+            "Xiaoteng Wu"
+          ],
+          "constructs": [
+            "Multinational Spread",
+            "Asset Utilization"
+          ],
+          "doi": "10.1287/orsc.2024.19313",
+          "is_editorial": false,
+          "journal": "Organization Science",
+          "journal_short": "OrgSci",
+          "method": "준실험",
+          "method_detail": "이중차분",
+          "publication_date": "2026-11-13",
+          "stable_id": "doi:10.1287/orsc.2024.19313",
+          "summary_basis": "abstract",
+          "summary_ko": "다국적 확산과 생산시설의 물리적 특성이 탄소세에 대한 철강기업의 배출 감축 방식에 미치는 영향을 67개국 882개 철강공장의 2015년 1월부터 2022년 12월까지 위성 배출자료로 분석했다. 캐나다 탄소세 이후 다국적 확산이 없는 기업은 주로 자산 가동률을 낮췄고, 다국적 확산이 있는 기업은 생산 배출집약도도 낮췄으며, 국가별 분석에서는 청정 전기로에서 배출집약도를 낮추고 자산 가동률을 높이는 조정이 나타났다.",
+          "title": "How Firms Respond to Carbon Taxation",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1287/orsc.2024.19313"
+        },
+        {
+          "abstract": "Leaders often strive to foster psychological safety in teams, and yet it may not emerge. This study builds grounded theory on how psychological safety emerges, or not, on teams. We draw on longitudinal ethnographic data from a matched pair case study of two teams over two years, including verbatim meeting transcripts that elicit the micro-processes affecting psychological safety and interviews that elucidate team members’ interpretations. We identify an illusion initially present on both teams in which surface markers of psychological safety existed but team members nonetheless continued to avoid interpersonal risk—what we call a psychological safety mirage. This occurred because external pressures on leaders spurred them to take self-protective actions that inadvertently reinforced interpersonal risk, despite their continued efforts to invite contributions. One team was eventually able to break from this mirage through a three-phase de-risking process that facilitated psychological safety emergence: (1) collectively recognizing the underlying risk faced by team members, (2) de-risking contributions by offering opportunities to build skills, through which safety was demonstrated and reinforced, and (3) enacting psychological safety, with all team members contributing, reinforcing, and sharing in the benefits of reduced interpersonal risk. This paper advances theory on psychological safety by conceptualizing a team-level de-risking process model that facilitates its emergence and by characterizing its mirage.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Michaela Kerrissey": [
+              "Harvard University T H Chan School of Public Health, Health Policy and Management, Boston, Massachusetts, United States"
+            ],
+            "Patricia Satterstrom": [
+              "New York University, Wagner, New York, New York, United States"
+            ]
+          },
+          "authors": [
+            "Patricia Satterstrom",
+            "Michaela Kerrissey"
+          ],
+          "constructs": [
+            "Psychological Safety",
+            "Interpersonal Risk"
+          ],
+          "doi": "10.1287/orsc.2024.19549",
+          "is_editorial": false,
+          "journal": "Organization Science",
+          "journal_short": "OrgSci",
+          "method": "질적연구",
+          "method_detail": "종단 사례연구",
+          "publication_date": "2026-11-13",
+          "stable_id": "doi:10.1287/orsc.2024.19549",
+          "summary_basis": "abstract",
+          "summary_ko": "두 팀을 2년간 추적한 종단 민족지 자료와 회의록·면담을 바탕으로 팀에서 심리적 안전이 형성되거나 형성되지 않는 과정을 탐색했다. 두 팀 모두 심리적 안전의 표면적 징후와 대인 위험 회피가 공존하는 ‘심리적 안전 신기루’를 보였으며, 한 팀은 위험 인식, 기여의 위험 완화, 심리적 안전 실행의 3단계 과정을 거쳐 이를 벗어났다.",
+          "title": "The Emergence of Psychological Safety or its Mirage",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1287/orsc.2024.19549"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -27255,7 +27610,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -27270,7 +27625,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -27291,7 +27646,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1002/smj.70058": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27306,7 +27661,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70058"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1002/smj.70059": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27321,7 +27676,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70059"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -27346,7 +27701,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -27381,7 +27736,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -27402,7 +27757,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1037/apl0001426.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27417,7 +27772,27 @@
         "title": "Supplemental Material for On Criterion Weighting to Reduce Adverse Impact",
         "url": "https://doi.org/10.1037/apl0001426.supp"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+    },
+    "doi:10.1037/apl0001440": {
+      "first_seen_at": "2026-11-13T14:31:23.290176+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Trevor M. Spoelma",
+          "Daniel M. Ravid",
+          "Ke Michael Mai",
+          "Yuan Jiang"
+        ],
+        "doi": "10.1037/apl0001440",
+        "journal": "Journal of Applied Psychology",
+        "journal_short": "JAP",
+        "publication_date": "2026-11-12",
+        "stable_id": "doi:10.1037/apl0001440",
+        "title": "When shifts matter for hybrid teams: The moderating role of location predictability.",
+        "url": "https://doi.org/10.1037/apl0001440"
+      },
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1037/apl0001442.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27432,7 +27807,27 @@
         "title": "Supplemental Material for A Meta-Analysis of Three Decades of Construct Measurement Research on Situational Judgment Tests: Toward a Balance Between Construct Clarity and Predictive Power",
         "url": "https://doi.org/10.1037/apl0001442.supp"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+    },
+    "doi:10.1037/apl0001445": {
+      "first_seen_at": "2026-11-13T14:31:23.290176+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Wendy J. Casper",
+          "Ariane Froidevaux",
+          "Sabrina D. Volpone",
+          "Jamie J. Ladge"
+        ],
+        "doi": "10.1037/apl0001445",
+        "journal": "Journal of Applied Psychology",
+        "journal_short": "JAP",
+        "publication_date": "2026-11-12",
+        "stable_id": "doi:10.1037/apl0001445",
+        "title": "From patient to purpose: How a cancer diagnosis creates existential liminality to motivate crafting for work-related generativity.",
+        "url": "https://doi.org/10.1037/apl0001445"
+      },
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1037/pspa0000505.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27447,7 +27842,7 @@
         "title": "Supplemental Material for A Systematic Investigation of Age–Gender Intersectional Stereotypes and Their Consequences",
         "url": "https://doi.org/10.1037/pspa0000505.supp"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1037/pspi0000537.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27462,7 +27857,7 @@
         "title": "Supplemental Material for Individual, Interpersonal, and Socioeconomic Predictors of Divorce: A 12-Year Prospective Study",
         "url": "https://doi.org/10.1037/pspi0000537.supp"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1037/pspi0000538.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27477,7 +27872,7 @@
         "title": "Supplemental Material for The More, the Better? Evidence of Parallel Growth in Intergroup Contact Quantity and Quality Over Time",
         "url": "https://doi.org/10.1037/pspi0000538.supp"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1037/pspp0000620.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27492,7 +27887,7 @@
         "title": "Supplemental Material for Navigating Divorce and Partner Bereavement: Personality and Trajectories of Change in Life Satisfaction and Mental Health",
         "url": "https://doi.org/10.1037/pspp0000620.supp"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1037/pspp0000623.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27507,7 +27902,7 @@
         "title": "Supplemental Material for Examining the Gender-Equality Paradox in Values Using a New Measure of Value-Based Gender Typicality",
         "url": "https://doi.org/10.1037/pspp0000623.supp"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1037/pspp0000627.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27522,7 +27917,7 @@
         "title": "Supplemental Material for The Structure and History of English Words That Describe People",
         "url": "https://doi.org/10.1037/pspp0000627.supp"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1038/d41586-026-03578-y": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -27539,7 +27934,7 @@
         "title": "The public trusts scientists with AI — more than it does anyone else",
         "url": "https://doi.org/10.1038/d41586-026-03578-y"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1038/s41562-026-02639-6": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -27592,7 +27987,27 @@
         "title": "AI ‘slop’ is a social judgement",
         "url": "https://doi.org/10.1038/s41562-026-02639-6"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+    },
+    "doi:10.1038/s41586-026-11232-w": {
+      "first_seen_at": "2026-11-13T14:31:23.290176+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Lingsheng Meng",
+          "Hanmo Yang",
+          "Grant Miller",
+          "Hongbin Li"
+        ],
+        "doi": "10.1038/s41586-026-11232-w",
+        "journal": "Nature",
+        "journal_short": "Nature",
+        "publication_date": "2026-11-11",
+        "stable_id": "doi:10.1038/s41586-026-11232-w",
+        "title": "Bureaucratic incentives shaped effectiveness of the one-child policy in China",
+        "url": "https://doi.org/10.1038/s41586-026-11232-w"
+      },
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1080/14719037.2026.2758867": {
       "first_seen_at": "2026-11-09T17:26:51.222422+00:00",
@@ -27625,7 +28040,36 @@
         "title": "Exhaustion intensified? The confluence of coworker and citizen incivility in local government",
         "url": "https://doi.org/10.1080/14719037.2026.2758867"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+    },
+    "doi:10.1080/15309576.2026.2760820": {
+      "first_seen_at": "2026-11-13T14:31:23.290176+00:00",
+      "item": {
+        "author_affiliations": {
+          "Iris Saliterer": [
+            "University of Freiburg"
+          ],
+          "Kathrin Leppert": [
+            "University of Freiburg"
+          ],
+          "Lisa Hohensinn": [
+            "WU Vienna University of Economics and Business"
+          ]
+        },
+        "authors": [
+          "Iris Saliterer",
+          "Kathrin Leppert",
+          "Lisa Hohensinn"
+        ],
+        "doi": "10.1080/15309576.2026.2760820",
+        "journal": "Public Performance & Management Review",
+        "journal_short": "PPMR",
+        "publication_date": "2026-11-12",
+        "stable_id": "doi:10.1080/15309576.2026.2760820",
+        "title": "Assessing the Maturity of Citizen Reporting Platforms: Unpacking Dimensions, Disparities, and Determinants",
+        "url": "https://doi.org/10.1080/15309576.2026.2760820"
+      },
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -27654,7 +28098,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -27674,7 +28118,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -27691,7 +28135,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -27708,7 +28152,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -27726,7 +28170,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -27743,7 +28187,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -27762,7 +28206,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -27780,7 +28224,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -27799,7 +28243,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -27817,7 +28261,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -27834,7 +28278,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -27853,7 +28297,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -27871,7 +28315,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -27889,7 +28333,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1086/744871": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27906,7 +28350,7 @@
         "title": "Running in Context: Marginalization, Political Ambition, and Candidate Emergence",
         "url": "https://doi.org/10.1086/744871"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -27927,7 +28371,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -27942,7 +28386,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -27957,7 +28401,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -27978,7 +28422,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -27993,7 +28437,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -28008,32 +28452,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
-    },
-    "doi:10.5465/amj.2024.0699": {
-      "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
-      "item": {
-        "author_affiliations": {
-          "Fabrizio Ferraro": [
-            "IESE Business School"
-          ],
-          "Ludovica Castiglia": [
-            "Emory University"
-          ]
-        },
-        "authors": [
-          "Ludovica Castiglia",
-          "Fabrizio Ferraro"
-        ],
-        "doi": "10.5465/amj.2024.0699",
-        "journal": "Academy of Management Journal",
-        "journal_short": "AMJ",
-        "publication_date": "2026-11-10",
-        "stable_id": "doi:10.5465/amj.2024.0699",
-        "title": "Benefiting from Culture Wars: Resource Mobilization in Polarized Issue Domains",
-        "url": "https://doi.org/10.5465/amj.2024.0699"
-      },
-      "last_checked_at": "2026-11-12T15:10:07.654379+00:00"
+      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
     }
   },
   "version": 1
