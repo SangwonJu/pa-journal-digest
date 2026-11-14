@@ -808,6 +808,14 @@
       "sent_at": "2026-11-11T03:27:06.737718+00:00",
       "title": "The more, the better? Evidence of parallel growth in intergroup contact quantity and quality over time."
     },
+    "doi:10.1038/s41586-026-11232-w": {
+      "batch_id": "2026-11-14-ed1aebfabf7f354f",
+      "doi": "10.1038/s41586-026-11232-w",
+      "journal": "Nature",
+      "publication_date": "2026-11-11",
+      "sent_at": "2026-11-14T13:39:04.144597+00:00",
+      "title": "Bureaucratic incentives shaped effectiveness of the one-child policy in China"
+    },
     "doi:10.1073/pnas.2611349123": {
       "batch_id": "2026-11-11-3cc6351fe52c7937-resend-20261111T150157Z",
       "doi": "10.1073/pnas.2611349123",
@@ -815,6 +823,14 @@
       "publication_date": "2026-11-09",
       "sent_at": "2026-11-11T15:02:45.290057+00:00",
       "title": "Generating interesting scientific ideas using knowledge graphs and LLMs: Evaluations with 100 research group leaders"
+    },
+    "doi:10.1073/pnas.2622467123": {
+      "batch_id": "2026-11-14-ed1aebfabf7f354f",
+      "doi": "10.1073/pnas.2622467123",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "publication_date": "2026-11-11",
+      "sent_at": "2026-11-14T13:39:04.144597+00:00",
+      "title": "Modest loss of sleep increases susceptibility to cybersecurity threats"
     },
     "doi:10.1080/01900692.2026.2683248": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
@@ -4352,6 +4368,38 @@
       "sent_at": "2026-11-11T03:27:06.737718+00:00",
       "title": "Uncertainty Attitudes, Subjective Beliefs, and Decisions Under Uncertainty"
     },
+    "doi:10.1287/mnsc.2024.08298": {
+      "batch_id": "2026-11-14-ed1aebfabf7f354f",
+      "doi": "10.1287/mnsc.2024.08298",
+      "journal": "Management Science",
+      "publication_date": "2026-11-13",
+      "sent_at": "2026-11-14T13:39:04.144597+00:00",
+      "title": "Rethinking Distribution Shifts: Empirical Analysis and Modeling for Tabular Data"
+    },
+    "doi:10.1287/mnsc.2024.08500": {
+      "batch_id": "2026-11-14-ed1aebfabf7f354f",
+      "doi": "10.1287/mnsc.2024.08500",
+      "journal": "Management Science",
+      "publication_date": "2026-11-13",
+      "sent_at": "2026-11-14T13:39:04.144597+00:00",
+      "title": "The Economics of Waste Valorization"
+    },
+    "doi:10.1287/mnsc.2024.09021": {
+      "batch_id": "2026-11-14-ed1aebfabf7f354f",
+      "doi": "10.1287/mnsc.2024.09021",
+      "journal": "Management Science",
+      "publication_date": "2026-11-13",
+      "sent_at": "2026-11-14T13:39:04.144597+00:00",
+      "title": "The Data-Driven Censored Newsvendor Problem"
+    },
+    "doi:10.1287/mnsc.2024.09038": {
+      "batch_id": "2026-11-14-ed1aebfabf7f354f",
+      "doi": "10.1287/mnsc.2024.09038",
+      "journal": "Management Science",
+      "publication_date": "2026-11-13",
+      "sent_at": "2026-11-14T13:39:04.144597+00:00",
+      "title": "Insurers’ Investments and Insurance Prices"
+    },
     "doi:10.1287/mnsc.2025.00955": {
       "batch_id": "2026-11-13-d9c36fa56a890d3f",
       "doi": "10.1287/mnsc.2025.00955",
@@ -4368,6 +4416,14 @@
       "sent_at": "2026-11-13T14:45:31.666176+00:00",
       "title": "Deregulation, Market Structure, and the Evolution of U.S. Banking"
     },
+    "doi:10.1287/mnsc.2025.01302": {
+      "batch_id": "2026-11-14-ed1aebfabf7f354f",
+      "doi": "10.1287/mnsc.2025.01302",
+      "journal": "Management Science",
+      "publication_date": "2026-11-13",
+      "sent_at": "2026-11-14T13:39:04.144597+00:00",
+      "title": "What’s at Stake? Understanding the Role of Home Equity in Flood Insurance Demand"
+    },
     "doi:10.1287/mnsc.2025.01919": {
       "batch_id": "2026-11-10-418e643876e0e943-resend-20261111T030859Z-resend-20261111T032511Z",
       "doi": "10.1287/mnsc.2025.01919",
@@ -4375,6 +4431,22 @@
       "publication_date": "2026-11-10",
       "sent_at": "2026-11-11T03:27:06.737718+00:00",
       "title": "Deadly Disease, Fear, and Ostracism in the Credit Market"
+    },
+    "doi:10.1287/mnsc.2025.03635": {
+      "batch_id": "2026-11-14-ed1aebfabf7f354f",
+      "doi": "10.1287/mnsc.2025.03635",
+      "journal": "Management Science",
+      "publication_date": "2026-11-13",
+      "sent_at": "2026-11-14T13:39:04.144597+00:00",
+      "title": "Banking on a Corporate Rebrand"
+    },
+    "doi:10.1287/mnsc.2025.04942": {
+      "batch_id": "2026-11-14-ed1aebfabf7f354f",
+      "doi": "10.1287/mnsc.2025.04942",
+      "journal": "Management Science",
+      "publication_date": "2026-11-13",
+      "sent_at": "2026-11-14T13:39:04.144597+00:00",
+      "title": "Comparing Factor Models Under Regime Switching"
     },
     "doi:10.1287/mnsc.2026.00623": {
       "batch_id": "2026-11-10-418e643876e0e943-resend-20261111T030859Z-resend-20261111T032511Z",
@@ -4408,6 +4480,22 @@
       "sent_at": "2026-11-13T14:45:31.666176+00:00",
       "title": "Colleagues That Work Together Move Together: How Co-Moving Among Newcomers Affects Individual and Team Performance"
     },
+    "doi:10.1287/orsc.2024.18899": {
+      "batch_id": "2026-11-14-ed1aebfabf7f354f",
+      "doi": "10.1287/orsc.2024.18899",
+      "journal": "Organization Science",
+      "publication_date": "2026-11-13",
+      "sent_at": "2026-11-14T13:39:04.144597+00:00",
+      "title": "Incumbents’ Alliances and (Non-)Adaptation During the Pre-Commercialization Stage of a New Technology"
+    },
+    "doi:10.1287/orsc.2024.19062": {
+      "batch_id": "2026-11-14-ed1aebfabf7f354f",
+      "doi": "10.1287/orsc.2024.19062",
+      "journal": "Organization Science",
+      "publication_date": "2026-11-13",
+      "sent_at": "2026-11-14T13:39:04.144597+00:00",
+      "title": "Wrongdoers or Saviors? CEO Activism, Media Partisanship, and the Media’s Construction of CEO Infamy and Celebrity"
+    },
     "doi:10.1287/orsc.2024.19313": {
       "batch_id": "2026-11-13-d9c36fa56a890d3f",
       "doi": "10.1287/orsc.2024.19313",
@@ -4423,6 +4511,14 @@
       "publication_date": "2026-11-13",
       "sent_at": "2026-11-13T14:45:31.666176+00:00",
       "title": "The Emergence of Psychological Safety or its Mirage"
+    },
+    "doi:10.1287/orsc.2025.20487": {
+      "batch_id": "2026-11-14-ed1aebfabf7f354f",
+      "doi": "10.1287/orsc.2025.20487",
+      "journal": "Organization Science",
+      "publication_date": "2026-11-13",
+      "sent_at": "2026-11-14T13:39:04.144597+00:00",
+      "title": "Can Voluntary Corporate Transparency Curb Corruption? Community-Level Evidence from Oil and Gas Fields in Africa"
     },
     "doi:10.30636/jbpa.91.400": {
       "batch_id": "2026-11-10-418e643876e0e943-resend-20261111T030859Z-resend-20261111T032511Z",
@@ -28116,7 +28212,8 @@
           "url": "https://doi.org/10.1038/s41586-026-11232-w"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-14T13:39:04.144597+00:00",
+      "status": "sent"
     }
   },
   "pending": {
