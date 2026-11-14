@@ -27669,6 +27669,454 @@
       ],
       "sent_at": "2026-11-13T14:45:31.666176+00:00",
       "status": "sent"
+    },
+    "2026-11-14-ed1aebfabf7f354f": {
+      "created_at": "2026-11-14T13:28:37.257982+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-14-ed1aebfabf7f354f",
+      "items": [
+        {
+          "abstract": "Firms often rebrand to counter negative shocks, but can it work? Using a historical natural experiment, we analyze a large sample of companies from the same industry (banking) that shared very similar names, but overwhelmingly decided to change them in response to a common, negative news shock. U.S. entry into World War I in 1917 created a sudden anti-German backlash against anything that invoked an association with the now enemy. The shock itself was thus orthogonal to bank fundamentals and pre-existing trends, but pushed banks to reconsider their brands. After 1917, the few German-named banks that kept their tainted names saw significant declines in assets, deposits, and market share relative to other banks. However, German-named banks that rebranded mitigated much of the negative shock. Specifically, German-named banks that adopted a new non-ethnic brand name avoided between 75% and 85% of the anti-German effect, and those that adopted a new patriotic brand name were able to neutralize it completely. Overall, we find that “crisis rebranding” paid off in our historical setting regardless of the chosen brand, with patriotic rebranding proving the most effective at offsetting the exogenous shock. This paper was accepted by Jean-Pierre Dube, marketing. Funding: K. J. Mitchener thanks the Ciocca Center for Entrepreneurship and Innovation at Santa Clara University for funding this research (Grant 2024-CIOG11). Any views expressed in this paper exclusively represent those of the authors and do not reflect the official viewpoint of the Oesterreichische Nationalbank, the European Central Bank, or the Eurosystem. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.03635 .",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Kilian Rieder": [
+              "Economics and Research Department, Oesterreichische Nationalbank (Eurosystem) & CEPR, Vienna 1090, Austria"
+            ],
+            "Kris James Mitchener": [
+              "Department of Economics, Leavey School of Business, Santa Clara University, NBER, CEPR, CESifo & CAGE, Santa Clara, California 95053"
+            ],
+            "Matthew Jaremski": [
+              "Department of Economics and Finance, Huntsman School of Business, Utah State University & NBER, Logan, Utah 84322"
+            ]
+          },
+          "authors": [
+            "Matthew Jaremski",
+            "Kris James Mitchener",
+            "Kilian Rieder"
+          ],
+          "constructs": [
+            "Corporate Rebranding",
+            "Market Share"
+          ],
+          "doi": "10.1287/mnsc.2025.03635",
+          "is_editorial": false,
+          "journal": "Management Science",
+          "journal_short": "MgmtSci",
+          "method": "준실험",
+          "method_detail": "역사적 자연실험",
+          "publication_date": "2026-11-13",
+          "stable_id": "doi:10.1287/mnsc.2025.03635",
+          "summary_basis": "abstract",
+          "summary_ko": "1917년 미국의 제1차 세계대전 참전이라는 외생적 반독일 충격을 활용해, 유사한 이름을 가진 미국 은행 중 독일계 이름을 유지하거나 변경한 은행의 성과를 비교했다. 독일계 이름을 유지한 은행은 자산·예금·시장점유율이 유의하게 감소했지만, 비민족적 이름으로 재브랜딩한 은행은 반독일 효과의 75~85%를 피했고 애국적 이름으로 바꾼 은행은 그 효과를 완전히 상쇄했다.",
+          "title": "Banking on a Corporate Rebrand",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1287/mnsc.2025.03635"
+        },
+        {
+          "abstract": "We compare factor pricing models using the “test-asset irrelevance” result but under regime switching. We show that the unconditional squared Sharpe ratio measure is no longer appropriate for model comparison when returns are subject to regime shifts. However, conditional on a given regime, model comparison can be performed using the conditional squared Sharpe ratio metric. We find that the Fama-French six-factor model that employs a cash-based profitability factor, the Barillas-Shanken six-factor model, and the Stambaugh-Yuan four-factor model are jointly the best-performing models under the bull regime. However, no model performs significantly better than others under the bear regime. Importantly, these findings are robust to regime uncertainty. We also find that unconditional model rankings closely mirror those in bull markets, overstating the superiority of the models identified as best performing in expansions by ignoring the performance convergence across models that emerges in downturns. This underscores the importance of evaluating factor models conditional on market regimes. This paper was accepted by Lukas Schmid, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.04942 .",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Cesare Robotti": [
+              "Warwick Business School, University of Warwick, Coventry CV4 7AL, United Kingdom"
+            ],
+            "Daniel Tsvetanov": [
+              "Norwich Business School, University of East Anglia, Norwich NR4 7TJ, United Kingdom"
+            ],
+            "Shamim Ahmed": [
+              "University of Liverpool Management School, University of Liverpool, Liverpool L69 7ZH, United Kingdom"
+            ],
+            "Xiaoxia Ye": [
+              "Nottingham University Business School, University of Nottingham, Nottingham NG8 1BB, United Kingdom"
+            ]
+          },
+          "authors": [
+            "Shamim Ahmed",
+            "Cesare Robotti",
+            "Daniel Tsvetanov",
+            "Xiaoxia Ye"
+          ],
+          "constructs": [
+            "Factor Models",
+            "Regime Switching"
+          ],
+          "doi": "10.1287/mnsc.2025.04942",
+          "is_editorial": false,
+          "journal": "Management Science",
+          "journal_short": "MgmtSci",
+          "method": "이론/개념",
+          "method_detail": "레짐 전환 분석",
+          "publication_date": "2026-11-13",
+          "stable_id": "doi:10.1287/mnsc.2025.04942",
+          "summary_basis": "abstract",
+          "summary_ko": "레짐 전환 상황에서 factor pricing model을 비교할 때 test-asset irrelevance 결과와 조건부 squared Sharpe ratio를 적용할 수 있는지 검토했다. Bull regime에서는 현금 기반 수익성 요인을 포함한 Fama-French six-factor model, Barillas-Shanken six-factor model, Stambaugh-Yuan four-factor model이 공동으로 가장 우수했지만 bear regime에서는 유의한 차이가 없었으며, 무조건부 순위는 하락기 성과 수렴을 반영하지 못했다.",
+          "title": "Comparing Factor Models Under Regime Switching",
+          "topic_area": "재무·예산",
+          "url": "https://doi.org/10.1287/mnsc.2025.04942"
+        },
+        {
+          "abstract": "We develop a theory in which stable funding from insurance underwriting allows insurers to earn the liquidity premium on illiquid assets and pass part of it back to policyholders through lower prices. Consistent with the model’s predictions, we show empirically that (1) insurance prices are lower when the liquidity premium is higher, for both life insurers and property and casualty insurers. (2) In the cross-section, insurers with more stable funding earn higher expected returns and set lower prices. (3) It is specifically the part of expected returns driven by stable funding that passes through to prices. The findings highlight the value of insurance underwriting as a stable source of funding, with benefits that flow back to policyholders. This paper was accepted by Bo Becker, finance. Funding: The authors acknowledge support from the FRIC Center for Financial Frictions [Grant DNRF102]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.09038 .",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Benjamin Knox": [
+              "Division of International Finance, Board of Governors of the Federal Reserve System, Washington, District of Columbia 20551"
+            ],
+            "Jakob Ahm Sørensen": [
+              "Finance Department, Bocconi University, Milan 20136, Italy"
+            ]
+          },
+          "authors": [
+            "Benjamin Knox",
+            "Jakob Ahm Sørensen"
+          ],
+          "constructs": [
+            "Liquidity Premium",
+            "Stable Funding"
+          ],
+          "doi": "10.1287/mnsc.2024.09038",
+          "is_editorial": false,
+          "journal": "Management Science",
+          "journal_short": "MgmtSci",
+          "method": "혼합방법론",
+          "method_detail": "이론 모형과 실증분석",
+          "publication_date": "2026-11-13",
+          "stable_id": "doi:10.1287/mnsc.2024.09038",
+          "summary_basis": "abstract",
+          "summary_ko": "보험 인수에서 확보한 안정적 자금이 비유동자산의 유동성 프리미엄을 활용하고 그 일부를 보험료 인하로 돌려주는지 이론 모형과 생명보험·손해보험 자료로 분석했다. 유동성 프리미엄이 높을수록 보험료가 낮았고, 안정적 자금이 많은 보험사는 더 높은 기대수익률을 얻으면서 보험료를 낮췄으며, 안정적 자금에서 비롯된 기대수익률 부분이 보험료에 전가됐다.",
+          "title": "Insurers’ Investments and Insurance Prices",
+          "topic_area": "재무·예산",
+          "url": "https://doi.org/10.1287/mnsc.2024.09038"
+        },
+        {
+          "abstract": "Different distribution shifts require different interventions, and algorithms must be grounded in the specific shifts they address. However, methodological development for robust algorithms typically relies on structural assumptions that lack empirical validation. Advocating for an empirically grounded data-driven approach to algorithm development, we build an empirical testbed comprising natural shifts across 8 tabular data sets, 172 distribution pairs over 45 methods, and 90,000 method configurations encompassing empirical risk minimization and distributionally robust optimization (DRO) methods. We find that Y|X-shifts are most prevalent in our testbed, in stark contrast to the heavy focus on X (covariate)-shifts in the machine learning literature, and that the performance of robust algorithms is no better than that of vanilla methods. To understand why, we conduct an in-depth empirical analysis of DRO methods and find that underlooked implementation details—such as the choice of underlying model class (e.g., LightGBM) and hyperparameter selection—have a bigger impact on performance than the ambiguity set or its radius. We illustrate via case studies how a data-driven understanding of distribution shifts can provide a new approach to algorithm development. This paper was accepted by Wolfram Wiesemann, data science. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08298 .",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Hongseok Namkoong": [
+              "Decision, Risk, and Operations Division, Columbia University, New York, New York 10027"
+            ],
+            "Jiashuo Liu": [
+              "Department of Computer Science and Technology, Tsinghua University, Beijing 100190, China"
+            ],
+            "Peng Cui": [
+              "Department of Computer Science and Technology, Tsinghua University, Beijing 100190, China"
+            ],
+            "Tianyu Wang": [
+              "Department of Industrial Engineering and Operations Research, Columbia University, New York, New York 10027"
+            ]
+          },
+          "authors": [
+            "Tianyu Wang",
+            "Jiashuo Liu",
+            "Peng Cui",
+            "Hongseok Namkoong"
+          ],
+          "constructs": [
+            "Distribution Shift",
+            "Distributionally Robust Optimization"
+          ],
+          "doi": "10.1287/mnsc.2024.08298",
+          "is_editorial": false,
+          "journal": "Management Science",
+          "journal_short": "MgmtSci",
+          "method": "혼합방법론",
+          "method_detail": "경험적 벤치마크",
+          "publication_date": "2026-11-13",
+          "stable_id": "doi:10.1287/mnsc.2024.08298",
+          "summary_basis": "abstract",
+          "summary_ko": "8개 표 형식 데이터셋의 자연적 분포 이동 172쌍을 대상으로 45개 방법과 9만 개 구성의 ERM·DRO 성능을 비교하고, DRO의 구현 세부사항을 분석했다. Y|X-shift가 가장 흔했지만 강건 알고리즘은 일반 방법보다 성능이 낫지 않았으며, 모델 종류와 하이퍼파라미터 선택이 ambiguity set이나 반경보다 성능에 더 큰 영향을 미쳤다.",
+          "title": "Rethinking Distribution Shifts: Empirical Analysis and Modeling for Tabular Data",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1287/mnsc.2024.08298"
+        },
+        {
+          "abstract": "We study a censored variant of the data-driven newsvendor problem, where the decision maker must select an ordering quantity that minimizes expected overage and underage costs based only on offline censored sales data rather than historical demand realizations. Our goal is to understand how the degree of historical demand censoring affects the performance of any learning algorithm for this problem. To isolate this impact, we adopt a distributionally robust optimization framework, evaluating policies according to their worst-case regret over an ambiguity set of distributions. This set is defined by the largest historical order quantity (the observable boundary of the data set), and contains all distributions matching the true demand distribution up to this boundary while allowing them to be arbitrary afterward. We demonstrate a spectrum of achievability under demand censoring by deriving a natural necessary and sufficient condition under which vanishing regret is an achievable goal. In regimes in which it is not, we exactly characterize the information loss due to censoring: an insurmountable lower bound on the performance of any policy, even when the decision maker has access to infinitely many demand samples. We then leverage these sharp characterizations to propose a natural robust algorithm that adapts to the historical level of demand censoring. We derive finite-sample guarantees for this algorithm across all possible censoring regimes and show its near-optimality with matching lower bounds (up to polylogarithmic factors). We moreover demonstrate its robust performance via extensive numerical experiments on both synthetic and real-world data sets. This paper was accepted by Wolfram Wiesemann, data science. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.09021 .",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Chamsi Hssaine": [
+              "Department of Data Sciences and Operations, University of Southern California, Marshall School of Business, Los Angeles, California 90089"
+            ],
+            "Sean R. Sinclair": [
+              "Department of Industrial Engineering and Management Sciences, Northwestern University, Evanston, Illinois 60208"
+            ]
+          },
+          "authors": [
+            "Chamsi Hssaine",
+            "Sean R. Sinclair"
+          ],
+          "constructs": [
+            "Censored Demand",
+            "Regret"
+          ],
+          "doi": "10.1287/mnsc.2024.09021",
+          "is_editorial": false,
+          "journal": "Management Science",
+          "journal_short": "MgmtSci",
+          "method": "이론/개념",
+          "method_detail": "분포강건 최적화",
+          "publication_date": "2026-11-13",
+          "stable_id": "doi:10.1287/mnsc.2024.09021",
+          "summary_basis": "abstract",
+          "summary_ko": "과거 주문량에서 관측된 검열 판매자료만으로 주문량을 결정하는 데이터 기반 newsvendor 문제에서 수요 검열 정도가 학습 알고리즘의 성과에 미치는 영향을 분포강건최적화와 최악 regret 분석으로 규명했다. 검열 수준에 따라 regret 소멸의 필요충분조건과 검열로 인한 정보 손실의 하한을 도출하고, 모든 검열 상황에 적응하는 강건 알고리즘의 유한표본 보장과 준최적성을 제시했다.",
+          "title": "The Data-Driven Censored Newsvendor Problem",
+          "topic_area": "재무·예산",
+          "url": "https://doi.org/10.1287/mnsc.2024.09021"
+        },
+        {
+          "abstract": "As the spread of waste imposes substantial environmental and economic burdens, a newer operational strategy, waste valorization, is gaining attention. This approach transforms production-generated byproduct waste into valuable, distinct products, creating intricate production and demand interdependencies that traditional strategies like remanufacturing and coproduction cannot fully capture. In this study, we examine the impacts of these interdependencies within a two-stage stochastic production decision model to determine optimal production quantities under waste valorization. Our findings reveal that a higher waste valorization rate does not always benefit the manufacturer, especially if the waste incurs disposal costs. When product demands are uncorrelated, the manufacturer’s optimal profit can exhibit an inverse U-shaped relationship with the valorization rate, attaining its maximum at a moderate level that maintains a perfect balance in production. Conversely, when product demands are correlated, the manufacturer employs a “pool-to-center” strategy, using different pooling policies to smooth production quantities and minimize disparities with respect to the valorization rate. Surprisingly, as demand randomness or correlation intensifies, the optimal profit becomes M-shaped, with profit maximum shifting toward either low or high valorization rates, a phenomenon we term “go-to-extreme.” Although waste valorization can yield both economic and environmental benefits, we caution that a more efficient waste valorization process may lead to negative outcomes for both the manufacturer and the environment. This analysis not only sheds light on how waste valorization contributes to waste reduction and economic value, but also provides insights for production decision making. This paper was accepted by Caroline Flammer, sustainability. Funding: Financial support from the National Science Foundation of China [Grants 72301055, 72322017, 72471244, and 72101102] is gratefully acknowledged. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08500 .",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Shenghai Zhou": [
+              "School of Business, Central South University, Changsha, Hunan 410083, China; and Laboratory of Intelligent Governance for Complex Social Systems, Changsha, Hunan 410083, China"
+            ],
+            "Yuefeng Li": [
+              "School of Economics and Management, University of Electronic Science and Technology of China, Chengdu 611731, China"
+            ],
+            "Zhongbin Wang": [
+              "College of Management and Economics, Tianjin University, Tianjin 300072, China"
+            ]
+          },
+          "authors": [
+            "Yuefeng Li",
+            "Zhongbin Wang",
+            "Shenghai Zhou"
+          ],
+          "constructs": [
+            "Waste Valorization",
+            "Production Decisions"
+          ],
+          "doi": "10.1287/mnsc.2024.08500",
+          "is_editorial": false,
+          "journal": "Management Science",
+          "journal_short": "MgmtSci",
+          "method": "이론/개념",
+          "method_detail": "확률적 최적화 모형",
+          "publication_date": "2026-11-13",
+          "stable_id": "doi:10.1287/mnsc.2024.08500",
+          "summary_basis": "abstract",
+          "summary_ko": "폐기물 가치화에서 생산·수요 상호의존성이 제조업체의 최적 생산량과 이익에 미치는 영향을 2단계 확률적 생산 의사결정 모형으로 분석했다. 폐기물 처리비용이 있으면 가치화율과 이익은 수요 상관관계와 불확실성에 따라 역U자형 또는 M자형이 될 수 있으며, 가치화 공정의 효율 향상이 제조업체와 환경 모두에 부정적 결과를 낳을 수 있다고 나타났다.",
+          "title": "The Economics of Waste Valorization",
+          "topic_area": "재무·예산",
+          "url": "https://doi.org/10.1287/mnsc.2024.08500"
+        },
+        {
+          "abstract": "Changing flood insurance demand shifts climate risk across homeowners, lenders, and governments. We show that flood insurance take-up follows rising and falling home equity over the housing boom and bust across markets with different price dynamics. To isolate the causal effect of risk shifting on insurance demand, we study flood insurance policy renewals over the housing bust, exploiting granular differences in purchase timing that led policyholders to experience differential changes in skin-in-the-game exposure to flood risk for the same change in home equity. When homeowners have less equity exposure to flood losses, they are less likely to renew their policies. Lenders, in turn, have little incentive to require flood insurance when they can sell their mortgages to federally backed mortgage purchasers. This paper was accepted by Tomasz Piskorski, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01302 .",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Philip Mulder": [
+              "Department of Risk and Insurance, University of Wisconsin–Madison, Madison, Wisconsin 53715"
+            ],
+            "Yanjun (Penny) Liao": [
+              "Resources for the Future, Washington, District of Columbia 20036"
+            ]
+          },
+          "authors": [
+            "Yanjun (Penny) Liao",
+            "Philip Mulder"
+          ],
+          "constructs": [
+            "Home Equity",
+            "Flood Insurance Demand"
+          ],
+          "doi": "10.1287/mnsc.2025.01302",
+          "is_editorial": false,
+          "journal": "Management Science",
+          "journal_short": "MgmtSci",
+          "method": "준실험",
+          "method_detail": "갱신자료 준실험",
+          "publication_date": "2026-11-13",
+          "stable_id": "doi:10.1287/mnsc.2025.01302",
+          "summary_basis": "abstract",
+          "summary_ko": "주택 붐과 침체를 거치며 주택가격 변동이 홍수보험 수요와 위험 부담 이전에 미친 영향을 시장별 주택가격 자료와 홍수보험 갱신 자료로 분석했다. 주택자산 노출이 줄어든 보유자는 보험을 갱신할 가능성이 낮았고, 연방 보증 모기지 매입기관에 대출을 판매할 수 있는 대출기관은 홍수보험 가입을 요구할 유인이 작았다.",
+          "title": "What’s at Stake? Understanding the Role of Home Equity in Flood Insurance Demand",
+          "topic_area": "재무·예산",
+          "url": "https://doi.org/10.1287/mnsc.2025.01302"
+        },
+        {
+          "abstract": "Voluntary corporate transparency seeks to promote accountability through disclosure, but substantive reporting does not by itself guarantee societal benefits. We examine whether this form of self-regulation can help curb corruption where formal oversight is weak, focusing on corporate support for the Extractive Industries Transparency Initiative (EITI), a multistakeholder initiative that promotes disclosure of company payments to host governments. We link geolocated data on African oil and gas fields and their operators to Afrobarometer surveys and satellite nighttime-light measures and estimate difference-in-differences models that track changes in outcomes around the same fields before and after operators endorse the EITI. We find that corporate EITI support is associated with lower perceived corruption and less reported bribery, greater civic engagement, greater perceived freedom to speak, and higher nighttime-light intensity, a proxy for local economic activity. The association with lower perceived corruption is stronger around fields with nearby NGO or aid-project activity, among residents living closer to fields, and among frequent users of traditional news media. Supplementary analyses provide indirect evidence that supporting firms were more transparent before mandatory disclosure laws took effect, and show that they had fewer joint-venture partners and larger ownership stakes after endorsement. Archival cases from Nigeria and Ghana illustrate how civil-society organizations and journalists use extractive-industry information to question firms and public authorities. The findings point to local governance benefits of voluntary transparency commitments and are consistent with an information-to-accountability account in which these benefits depend on both substantive reporting and local opportunities to scrutinize and use the information.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Daniel W Elfenbein": [
+              "Washington University in St Louis, John M. Olin School of Business, St. Louis, Missouri, United States"
+            ],
+            "Shirley Tang": [
+              "Boston University, Strategy and Innovation, Boston, Massachusetts, United States"
+            ],
+            "Tatenda M Pasipanodya": [
+              "Louisiana State University System, Management, Baton Rouge, Louisiana, United States"
+            ]
+          },
+          "authors": [
+            "Shirley Tang",
+            "Daniel W Elfenbein",
+            "Tatenda M Pasipanodya"
+          ],
+          "constructs": [
+            "Corporate Transparency",
+            "Accountability"
+          ],
+          "doi": "10.1287/orsc.2025.20487",
+          "is_editorial": false,
+          "journal": "Organization Science",
+          "journal_short": "OrgSci",
+          "method": "준실험",
+          "method_detail": "이중차분",
+          "publication_date": "2026-11-13",
+          "stable_id": "doi:10.1287/orsc.2025.20487",
+          "summary_basis": "abstract",
+          "summary_ko": "아프리카 석유·가스 유전 운영기업의 Extractive Industries Transparency Initiative(EITI) 자발적 지지가 부패와 지역 거버넌스에 미치는 영향을, 유전 위치·운영기업 자료와 Afrobarometer 설문 및 위성 야간조명 자료를 결합한 이중차분으로 분석했다. EITI 지지 이후 부패 인식과 뇌물 경험이 감소하고 시민 참여, 발언의 자유 인식, 야간조도가 증가했으며, NGO·원조사업 활동과 전통 뉴스 이용이 정보의 책임성 전환과 관련된 조건으로 나타났다.",
+          "title": "Can Voluntary Corporate Transparency Curb Corruption? Community-Level Evidence from Oil and Gas Fields in Africa",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1287/orsc.2025.20487"
+        },
+        {
+          "abstract": "Research on incumbent adaptation through alliances typically assumes that incumbents can entice partners to share proprietary knowledge in a new technology by offering access to valuable complementary assets. This assumption fits the commercialization stage of a new technology, when both proprietary knowledge and complementary assets hold high value. However, during the pre-commercialization stage—when proprietary knowledge in the new technology is valuable but incumbents’ complementary assets cannot yet be fully deployed to commercialize the new technology—this logic may not hold. We develop a framework that explains how stage-dependent shifts in the value of both proprietary knowledge and complementary assets alter the bargaining power between incumbents and knowledge-possessing firms, thereby reshaping the adaptive potential of alliances. Using data on the semiconductor industry during the emergence of nanotechnology, we found that alliances between semiconductor incumbents and nanotechnology-capable partners are less likely to form and, even when formed, are less likely to focus on the explicit transfer of proprietary knowledge in emerging nanotechnology. Moreover, these alliances are more likely to be structured as joint ventures, especially when the risk of knowledge leakage is heightened. Joint venture arrangements, in turn, impede semiconductor incumbents’ post-alliance nanotechnology invention more than contractual arrangements. Taken together, we develop insights into how incumbents may struggle to use alliances for adaptive learning during the pre-commercialization phase of a new technology.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "J.P. Eggers": [
+              "New York University, Stern School, Mgmt & Orgs, New York, New York, United States"
+            ],
+            "Jung-Hyun Suh": [
+              "The Chinese University of Hong Kong, Management, Shatin, New Territories, Hong Kong"
+            ]
+          },
+          "authors": [
+            "Jung-Hyun Suh",
+            "J.P. Eggers"
+          ],
+          "constructs": [
+            "Alliance Formation",
+            "Knowledge Transfer"
+          ],
+          "doi": "10.1287/orsc.2024.18899",
+          "is_editorial": false,
+          "journal": "Organization Science",
+          "journal_short": "OrgSci",
+          "method": "준실험",
+          "method_detail": "산업 데이터 분석",
+          "publication_date": "2026-11-13",
+          "stable_id": "doi:10.1287/orsc.2024.18899",
+          "summary_basis": "abstract",
+          "summary_ko": "나노기술의 상용화 전 단계에서 반도체 기존 기업의 제휴 형성과 지식 이전, 제휴 후 발명을 분석하기 위해 반도체 산업의 나노기술 등장기 데이터를 사용했다. 기존 기업과 나노기술 역량 보유 파트너의 제휴는 덜 형성됐고 독점 지식의 명시적 이전을 덜 포함했으며, 형성된 제휴도 지식 유출 위험이 클수록 합작투자 형태를 취했고 계약형 제휴보다 제휴 후 나노기술 발명을 더 저해했다.",
+          "title": "Incumbents’ Alliances and (Non-)Adaptation During the Pre-Commercialization Stage of a New Technology",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1287/orsc.2024.18899"
+        },
+        {
+          "abstract": "This study advances research on social evaluations by theorizing how partisan media construct CEO infamy through dramaturgical logics distinct from those underlying CEO celebrity. Moving beyond conceptualizations of infamy as merely negative celebrity, we argue that infamy emerges through simple melodramatic narratives casting CEOs as wrongdoers, whereas celebrity involves more complex dramatized narratives portraying CEOs as saviors. Focusing on CEOs’ liberal sociopolitical activism—a visible, ideologically-charged action that departs from conventional executive roles—we theorize that this behavior generates divergent constructions in partisan media: infamy in conservative outlets and celebrity in liberal outlets. We further argue that activism more readily generates infamy than celebrity because melodramatic narratives are simpler to construct and negative deviance is more readily perceived than positive deviance. We examine two moderators of these relationships. Firm performance differentially shapes these constructions, with poorer performance intensifying conservative-media infamy and stronger performance amplifying liberal-media celebrity. CEO social media engagement, conversely, attenuates both by constraining traditional media’s narrative discretion and reducing activism’s newsworthiness. We develop an LLM-based annotation system capturing CEO-directed sentiment, role attributions, and dramaturgical narratives in media articles. Analyzing 91,608 articles covering 705 S&P 500 CEOs across 45 ideologically polarized U.S. media outlets between 2016 and 2022, we find broad support for our hypotheses across our main and extensive supplemental analyses. Our findings advance understanding of CEO infamy and social evaluations more generally by revealing how partisan media construct divergent social evaluations of the same executive behavior through distinct narrative processes.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "G. Alessandra Alessandra Rizzi": [
+              "Texas Christian University, Management and Leadership, Fort Worth, Texas, United States"
+            ],
+            "Vilmos F. Misangyi": [
+              "The Pennsylvania State University, Department of Management & Organization, University Park, Pennsylvania, United States"
+            ]
+          },
+          "authors": [
+            "G. Alessandra Alessandra Rizzi",
+            "Vilmos F. Misangyi"
+          ],
+          "constructs": [
+            "CEO Activism",
+            "Media Partisanship"
+          ],
+          "doi": "10.1287/orsc.2024.19062",
+          "is_editorial": false,
+          "journal": "Organization Science",
+          "journal_short": "OrgSci",
+          "method": "질적연구",
+          "method_detail": "LLM 기사 주석",
+          "publication_date": "2026-11-13",
+          "stable_id": "doi:10.1287/orsc.2024.19062",
+          "summary_basis": "abstract",
+          "summary_ko": "2016~2022년 이념적으로 양극화된 미국 언론 45곳의 기사 91,608건에서 S&P 500 CEO 705명의 자유주의적 사회정치 활동이 CEO 악명과 유명인 평가로 구성되는 과정을 LLM 기반 주석 체계로 분석했다. 보수 언론에서는 활동이 악명, 진보 언론에서는 유명인 평가로 나타났으며, 낮은 기업성과는 악명을, 높은 기업성과는 유명인 평가를 강화했고, CEO의 소셜미디어 참여는 두 평가를 약화시켰다.",
+          "title": "Wrongdoers or Saviors? CEO Activism, Media Partisanship, and the Media’s Construction of CEO Infamy and Celebrity",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1287/orsc.2024.19062"
+        },
+        {
+          "abstract": "Sleep restriction leads to impaired cognitive processing across domains. I examined whether the transition to daylight saving time (DST), typically accompanied by compromised sleep, would lead to an increase in the probability of falling prey to a simulated phishing attack using a fully naturalistic experiment with random assignment and blinding. A predatory email was sent to employees at the University of California, Irvine (N = 11,218) either on the morning of Monday following the transition to DST or one week earlier. The transition led to a ~13% increase in the probability of clicking a suspicious link, without affecting the probability of opening the email or reporting it as spam. These results demonstrate that even modest, mundane, and acute loss of sleep has real-life, potentially hazardous, implications for cognitive function.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Eitan Schechtman": [
+              "Department of Neurobiology and Behavior and Center for the Neurobiology of Learning and Memory, University of California"
+            ]
+          },
+          "authors": [
+            "Eitan Schechtman"
+          ],
+          "constructs": [
+            "Sleep Restriction",
+            "Phishing Susceptibility"
+          ],
+          "doi": "10.1073/pnas.2622467123",
+          "is_editorial": false,
+          "journal": "Proceedings of the National Academy of Sciences",
+          "journal_short": "PNAS",
+          "method": "실험",
+          "method_detail": "자연실험",
+          "publication_date": "2026-11-11",
+          "stable_id": "doi:10.1073/pnas.2622467123",
+          "summary_basis": "abstract",
+          "summary_ko": "일광절약시간제 전환으로 수면이 줄어든 뒤 피싱 공격에 속을 가능성이 높아지는지, 캘리포니아대학교 어바인 직원 11,218명에게 무작위 배정과 맹검을 적용한 자연실험으로 조사했다. 전환 다음 월요일 아침에 보낸 모의 피싱 이메일은 전환 1주 전보다 의심스러운 링크 클릭 확률을 약 13% 높였지만, 이메일 열람이나 스팸 신고 확률에는 영향을 주지 않았다.",
+          "title": "Modest loss of sleep increases susceptibility to cybersecurity threats",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1073/pnas.2622467123"
+        },
+        {
+          "abstract": "Empirical research so far largely suggests that population policies around the world do not explain a majority of the global fertility decline1-10. Notably, even China's total fertility rate declined little after implementation of the one-child policy in 1979 and 1980, but fertility then fell sharply by more than one-third during the early 1990s. Here we show that strengthening bureaucratic incentives under China's one vote veto policy, which strictly prohibited career advancement for adherence failure, was instrumental in more effective implementation of the one-child policy, and in its delayed impact on fertility. Using provincial variation in implementation timing, we find that the one vote veto explains nearly half of China's total fertility rate decline during the 1990s, driving fertility below the replacement rate. Increases in use of intrauterine devices (the most prevalent form of modern contraception in China) that were recommended by local officials were particularly salient. Overall, our findings suggest that population policy, when more strictly enforced due to stronger bureaucratic incentives, made a greater contribution to low fertility in China than suggested by past research.",
+          "abstract_source": "Semantic Scholar",
+          "ai_related": false,
+          "author_affiliations": {
+            "Grant Miller": [
+              "National Bureau of Economic Research",
+              "Stanford University"
+            ],
+            "Hanmo Yang": [
+              "Renmin University of China"
+            ],
+            "Hongbin Li": [
+              "Stanford University"
+            ],
+            "Lingsheng Meng": [
+              "Stanford University"
+            ]
+          },
+          "authors": [
+            "Lingsheng Meng",
+            "Hanmo Yang",
+            "Grant Miller",
+            "Hongbin Li"
+          ],
+          "constructs": [
+            "Bureaucratic Incentives",
+            "One-Child Policy"
+          ],
+          "doi": "10.1038/s41586-026-11232-w",
+          "is_editorial": false,
+          "journal": "Nature",
+          "journal_short": "Nature",
+          "method": "준실험",
+          "method_detail": "지역별 시행시기 비교",
+          "publication_date": "2026-11-11",
+          "stable_id": "doi:10.1038/s41586-026-11232-w",
+          "summary_basis": "abstract",
+          "summary_ko": "중국의 성별·지역별 시행 시기 차이를 활용해, one vote veto policy에 따른 관료 인센티브 강화가 1990년대 one-child policy 집행과 출산율 하락에 미친 영향을 분석했다. 이 제도가 1990년대 중국 total fertility rate 감소의 거의 절반을 설명했으며, 지방 officials가 권고한 자궁내장치 사용 증가가 특히 관련이 큰 것으로 나타났다.",
+          "title": "Bureaucratic incentives shaped effectiveness of the one-child policy in China",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1038/s41586-026-11232-w"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -27691,7 +28139,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -27706,7 +28154,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -27727,7 +28175,22 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
+    },
+    "doi:10.1002/pam.70142": {
+      "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [],
+        "doi": "10.1002/pam.70142",
+        "journal": "Journal of Policy Analysis and Management",
+        "journal_short": "JPAM",
+        "publication_date": "2026-11-13",
+        "stable_id": "doi:10.1002/pam.70142",
+        "title": "Excellence in Refereeing Award Announcement",
+        "url": "https://doi.org/10.1002/pam.70142"
+      },
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1002/smj.70058": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27742,7 +28205,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70058"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1002/smj.70059": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27757,7 +28220,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70059"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -27782,7 +28245,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -27817,7 +28280,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -27838,7 +28301,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1037/apl0001426.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27853,7 +28316,7 @@
         "title": "Supplemental Material for On Criterion Weighting to Reduce Adverse Impact",
         "url": "https://doi.org/10.1037/apl0001426.supp"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1037/apl0001440": {
       "first_seen_at": "2026-11-13T14:31:23.290176+00:00",
@@ -27873,7 +28336,7 @@
         "title": "When shifts matter for hybrid teams: The moderating role of location predictability.",
         "url": "https://doi.org/10.1037/apl0001440"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1037/apl0001442.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27888,7 +28351,7 @@
         "title": "Supplemental Material for A Meta-Analysis of Three Decades of Construct Measurement Research on Situational Judgment Tests: Toward a Balance Between Construct Clarity and Predictive Power",
         "url": "https://doi.org/10.1037/apl0001442.supp"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1037/apl0001445": {
       "first_seen_at": "2026-11-13T14:31:23.290176+00:00",
@@ -27908,7 +28371,7 @@
         "title": "From patient to purpose: How a cancer diagnosis creates existential liminality to motivate crafting for work-related generativity.",
         "url": "https://doi.org/10.1037/apl0001445"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1037/pspa0000505.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27923,7 +28386,7 @@
         "title": "Supplemental Material for A Systematic Investigation of Age–Gender Intersectional Stereotypes and Their Consequences",
         "url": "https://doi.org/10.1037/pspa0000505.supp"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1037/pspi0000537.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27938,7 +28401,7 @@
         "title": "Supplemental Material for Individual, Interpersonal, and Socioeconomic Predictors of Divorce: A 12-Year Prospective Study",
         "url": "https://doi.org/10.1037/pspi0000537.supp"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1037/pspi0000538.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27953,7 +28416,7 @@
         "title": "Supplemental Material for The More, the Better? Evidence of Parallel Growth in Intergroup Contact Quantity and Quality Over Time",
         "url": "https://doi.org/10.1037/pspi0000538.supp"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1037/pspp0000620.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27968,7 +28431,7 @@
         "title": "Supplemental Material for Navigating Divorce and Partner Bereavement: Personality and Trajectories of Change in Life Satisfaction and Mental Health",
         "url": "https://doi.org/10.1037/pspp0000620.supp"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1037/pspp0000623.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27983,7 +28446,7 @@
         "title": "Supplemental Material for Examining the Gender-Equality Paradox in Values Using a New Measure of Value-Based Gender Typicality",
         "url": "https://doi.org/10.1037/pspp0000623.supp"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1037/pspp0000627.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -27998,7 +28461,7 @@
         "title": "Supplemental Material for The Structure and History of English Words That Describe People",
         "url": "https://doi.org/10.1037/pspp0000627.supp"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1038/d41586-026-03578-y": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -28015,7 +28478,7 @@
         "title": "The public trusts scientists with AI — more than it does anyone else",
         "url": "https://doi.org/10.1038/d41586-026-03578-y"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1038/s41562-026-02639-6": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -28068,27 +28531,7 @@
         "title": "AI ‘slop’ is a social judgement",
         "url": "https://doi.org/10.1038/s41562-026-02639-6"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
-    },
-    "doi:10.1038/s41586-026-11232-w": {
-      "first_seen_at": "2026-11-13T14:31:23.290176+00:00",
-      "item": {
-        "author_affiliations": {},
-        "authors": [
-          "Lingsheng Meng",
-          "Hanmo Yang",
-          "Grant Miller",
-          "Hongbin Li"
-        ],
-        "doi": "10.1038/s41586-026-11232-w",
-        "journal": "Nature",
-        "journal_short": "Nature",
-        "publication_date": "2026-11-11",
-        "stable_id": "doi:10.1038/s41586-026-11232-w",
-        "title": "Bureaucratic incentives shaped effectiveness of the one-child policy in China",
-        "url": "https://doi.org/10.1038/s41586-026-11232-w"
-      },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1080/14719037.2026.2758867": {
       "first_seen_at": "2026-11-09T17:26:51.222422+00:00",
@@ -28121,7 +28564,7 @@
         "title": "Exhaustion intensified? The confluence of coworker and citizen incivility in local government",
         "url": "https://doi.org/10.1080/14719037.2026.2758867"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1080/15309576.2026.2760820": {
       "first_seen_at": "2026-11-13T14:31:23.290176+00:00",
@@ -28150,7 +28593,7 @@
         "title": "Assessing the Maturity of Citizen Reporting Platforms: Unpacking Dimensions, Disparities, and Determinants",
         "url": "https://doi.org/10.1080/15309576.2026.2760820"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -28179,7 +28622,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -28199,7 +28642,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -28216,7 +28659,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -28233,7 +28676,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -28251,7 +28694,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -28268,7 +28711,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -28287,7 +28730,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -28305,7 +28748,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -28324,7 +28767,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -28342,7 +28785,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -28359,7 +28802,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -28378,7 +28821,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -28396,7 +28839,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -28414,7 +28857,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1086/744871": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -28431,7 +28874,54 @@
         "title": "Running in Context: Marginalization, Political Ambition, and Candidate Emergence",
         "url": "https://doi.org/10.1086/744871"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
+    },
+    "doi:10.1086/744929": {
+      "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Neil Malhotra",
+          "Jaime Settle",
+          "Magdalena Wojcieszak",
+          "Olivier Bergeron-Boutin",
+          "Fang Guo",
+          "Annie Franco",
+          "Amac Herdagdelen",
+          "Winter Mason",
+          "Hunt Allcott",
+          "Pablo Barbera",
+          "Taylor Brown",
+          "Adriana Crespo-Tenorio",
+          "Deen Freelon",
+          "Matthew Gentzkow",
+          "Sandra Gonzalez-Bailon",
+          "Andrew Guess",
+          "Shanto Iyengar",
+          "Young Mie Kim",
+          "David Lazer",
+          "Devra Moehler",
+          "Brendan Nyhan",
+          "Jennifer Pan",
+          "Carlos Velasco Rivera",
+          "Daniel Thomas",
+          "Emily Thorson",
+          "Rebekah Tromble",
+          "Arjun Wilkins",
+          "Beixian Xiong",
+          "Chad Kiewiet de Jonge",
+          "Natalie Jomini Stroud",
+          "Joshua Tucker"
+        ],
+        "doi": "10.1086/744929",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-11-13",
+        "stable_id": "doi:10.1086/744929",
+        "title": "Political Unfriending on Facebook: Evidence from over 180 Million Users",
+        "url": "https://doi.org/10.1086/744929"
+      },
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -28452,7 +28942,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -28467,7 +28957,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -28482,7 +28972,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -28503,7 +28993,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -28518,7 +29008,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -28533,7 +29023,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-13T14:31:23.290176+00:00"
+      "last_checked_at": "2026-11-14T13:28:37.257982+00:00"
     }
   },
   "version": 1
