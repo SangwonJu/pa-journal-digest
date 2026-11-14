@@ -41,7 +41,6 @@
 | PSPB | Personality and Social Psychology Bulletin (AI 관련 논문만) | 2 |
 | PsychSci | Psychological Science (AI 관련 논문만) | 1 |
 | PsychBull | Psychological Bulletin (AI 관련 논문만) | 1 |
-| MgmtSci | Management Science | 1 |
 | MISQ | MIS Quarterly | 1 |
 | ISR | Information Systems Research | 1 |
 | SMJ | Strategic Management Journal | 1 |
@@ -58,7 +57,9 @@ NHB, PNAS, Science, Nature는 게재 범위가 넓어서, 심리학 저널(JPSP,
 `OPENAI_MODEL`에 묶어 보내, AI가 중심 주제이면서 정치·정부·여론·설득·신념·신뢰 등 정치학이나
 심리학 질문을 다루는 논문만 남깁니다. 판정 기준의 대표 사례는 Costello·Pennycook·Rand의 LLM 대화를
 통한 음모론 믿음 감소 연구와 Myra Cheng 등의 LLM 아첨(sycophancy) 연구입니다. 머신러닝을 측정 도구로만
-쓴 연구나 생물·의학·물리 분야 AI 연구는 제외합니다. 이 네 저널에서는 뉴스, 논평(Comment, Perspective,
+쓴 연구나 생물·의학·물리 분야 AI 연구는 제외합니다. AI를 다루지 않는 사회과학 논문(예: 수면 부족과 피싱,
+중국 한 자녀 정책의 관료 인센티브)도 제외합니다. 이 선별을 통과한 논문은 요약 단계에서 논문별로 한 번 더
+AI 관련 여부를 판정하고, 두 판정이 모두 '예'일 때만 보냅니다. 이 네 저널에서는 뉴스, 논평(Comment, Perspective,
 News & Views), 답글(Reply to), 편집자 글도 빼고 원저 연구와 리뷰 논문만 남깁니다. Nature의 `10.1038/d41586-`
 DOI 기사는 모두 뉴스·논평이라 제외합니다.
 
@@ -117,6 +118,8 @@ API 키를 코드, 커밋, Issue, 채팅에 붙여 넣지 마세요. 노출된 �
 새 논문이 없으면 `오늘은 새로 확인된 논문이 없습니다`라는 안내 메일을 보냅니다. 예약 실행은 GitHub Actions 부하에 따라 다소 늦어질 수 있습니다.
 
 이미 발송한 최신 배치를 현재 디자인으로 다시 보내야 할 때만 수동 실행의 `resend_latest`를 켭니다.
+최근 기간(`lookback_days`)을 현재 필터로 처음부터 다시 정리해 보내려면 `include_sent`를 켭니다. 이미 보낸
+논문도 다시 선별하고 요약하며, 정기 발송 횟수에는 포함되지 않습니다.
 예약 실행에서는 이 옵션이 항상 꺼져 있어 일상적인 중복 발송에는 영향을 주지 않습니다.
 
 ## Duplicate-safety recovery

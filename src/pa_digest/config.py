@@ -51,7 +51,6 @@ JOURNALS: tuple[Journal, ...] = (
     Journal("PSPB", "Personality and Social Psychology Bulletin", ("0146-1672", "1552-7433"), 2, ai_social_only=True),
     Journal("PsychSci", "Psychological Science", ("0956-7976", "1467-9280"), 1, ai_social_only=True),
     Journal("PsychBull", "Psychological Bulletin", ("0033-2909", "1939-1455"), 1, ai_social_only=True),
-    Journal("MgmtSci", "Management Science", ("0025-1909", "1526-5501"), 1),
     Journal("MISQ", "MIS Quarterly", ("0276-7783", "2162-9730"), 1),
     Journal("ISR", "Information Systems Research", ("1047-7047", "1526-5536"), 1),
     Journal("SMJ", "Strategic Management Journal", ("0143-2095", "1097-0266"), 1),
@@ -81,7 +80,7 @@ _FIELD_BY_SHORT = {
     **dict.fromkeys(
         ("AJPS", "APSR", "JOP", "PolAnalysis", "PolBeh", "POQ", "PolComm", "JEPS"), "정치학"
     ),
-    **dict.fromkeys(("AMJ", "AMR", "AMA", "JOB", "JOM", "MgmtSci", "SMJ", "OrgSci", "OBHDP", "JAP"), "경영·조직"),
+    **dict.fromkeys(("AMJ", "AMR", "AMA", "JOB", "JOM", "SMJ", "OrgSci", "OBHDP", "JAP"), "경영·조직"),
     **dict.fromkeys(("JPSP", "PSPB", "PsychSci", "PsychBull"), "심리학"),
     **dict.fromkeys(("MISQ", "ISR"), "정보시스템"),
     **dict.fromkeys(("NHB", "PNAS", "Science", "Nature"), "AI·사회과학"),

@@ -142,8 +142,9 @@ class ArticleSummarizer:
         article.method = parsed["method"]
         article.method_detail = " ".join(parsed["method_detail"].split()) or None
         article.constructs = [" ".join(item.split()) for item in parsed["constructs"] if item.strip()][:2]
-        # Papers kept by the broad-journal AI screen stay flagged even if this call says otherwise.
-        article.ai_related = article.ai_related or bool(parsed.get("ai_related", False))
+        # Independent of the batch screen: for AI-only journals the CLI drops papers that this
+        # second, per-paper read does not confirm as AI-related.
+        article.ai_related = bool(parsed.get("ai_related", False))
         article.is_editorial = bool(parsed.get("is_editorial", False))
 
 
@@ -162,7 +163,7 @@ class ArticleSummarizer:
             )
             response = self.client.responses.create(
                 model=self.model,
-                reasoning={"effort": "none"},
+                reasoning={"effort": "low"},
                 input=[
                     {"role": "system", "content": AI_FILTER_INSTRUCTIONS},
                     {"role": "user", "content": listing},
@@ -214,7 +215,9 @@ AI_RELATED_RULE = (
     "central subject of the article, for example how people, governments or organizations use, trust, "
     "regulate or are affected by AI. Set it to false when machine learning is only a measurement or "
     "analysis tool for a question that is not about AI, for example a credit-market or health study that "
-    "uses a machine-learning model to estimate effects."
+    "uses a machine-learning model to estimate effects. Set it to false for social-science papers whose "
+    "subject is something else, such as sleep loss and phishing, cybersecurity, social media, the internet, "
+    "digital government or bureaucratic incentives, unless AI itself is what is being studied."
 )
 EDITORIAL_RULE = (
     " Set is_editorial to true when the item is written by or for the journal's editors rather than "
@@ -231,12 +234,16 @@ AI_FILTER_SCHEMA = {
     "additionalProperties": False,
 }
 AI_FILTER_INSTRUCTIONS = (
-    "You screen new articles from broad science journals for a political scientist and public "
-    "administration scholar who studies how people interact with AI. Return the indices of articles "
-    "whose central subject is AI (large language models, chatbots, generative AI, algorithms, "
-    "recommender systems, automated decision-making) AND whose question concerns politics, government, "
-    "public opinion, persuasion, beliefs, misinformation, trust, moral or social judgment, or human "
-    "psychology and behaviour.\n\n"
+    "You screen new articles from broad science and psychology journals for a political scientist and "
+    "public administration scholar who studies AI from a social-science perspective. Return the indices "
+    "of articles that meet BOTH conditions:\n"
+    "1. AI itself is the object of study: large language models, chatbots, generative AI, AI agents, "
+    "algorithms or algorithmic decision-making, recommender systems, or automation by AI. The title or "
+    "abstract must name such a system as what is studied, used by people, or responded to.\n"
+    "2. The question is a social-science one: politics, government, public opinion, persuasion, beliefs, "
+    "misinformation, trust, moral or social judgment, or human psychology and behaviour toward or with AI.\n"
+    "A social-science paper that does not study AI fails condition 1 and must be excluded, however "
+    "interesting. AI work that is not about people or society fails condition 2.\n\n"
     "Typical articles to keep:\n"
     "- Costello, Pennycook and Rand: conversations with an LLM durably reduce belief in conspiracy "
     "theories.\n"
@@ -244,6 +251,13 @@ AI_FILTER_INSTRUCTIONS = (
     "prosocial intentions and reliance on AI.\n"
     "- AI-written political messages persuading voters; LLMs simulating survey respondents; public "
     "attitudes toward AI in government; AI and political polarization or misinformation.\n\n"
+    "Typical articles to exclude:\n"
+    "- Modest sleep loss after the daylight-saving shift raises clicks on simulated phishing emails "
+    "(no AI is studied).\n"
+    "- Bureaucratic incentives under China's one vote veto shaped the one-child policy (no AI).\n"
+    "- An LLM used only to code open-ended survey answers in a study of something else.\n"
+    "- Knowledge graphs and LLMs that generate scientific ideas, with no question about people or "
+    "society.\n\n"
     "Keep only original research articles and research reviews. Exclude commentary of any kind: "
     "news stories, editorials, comments, perspectives, opinion and policy-forum pieces, News & Views, "
     "replies and letters, Q&As, research highlights, obituaries and book reviews. Exclude articles that only use machine learning as a measurement or prediction tool for a "

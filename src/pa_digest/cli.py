@@ -10,6 +10,7 @@ from datetime import UTC, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+from .config import JOURNALS
 from .models import Article, PreparedBatch
 from .archive import export_archive
 from .render import render_newsletter
@@ -22,6 +23,7 @@ DEFAULT_STATE = Path("data/state.json")
 DEFAULT_OUTPUT = Path("build/batch.json")
 DEFAULT_ARCHIVE = Path("data/PA_Journal_Digest_Archive.xlsx")
 NEW_YORK = ZoneInfo("America/New_York")
+AI_ONLY_JOURNALS = {journal.short_name for journal in JOURNALS if journal.ai_social_only}
 
 
 def _set_github_output(name: str, value: str) -> None:
@@ -83,7 +85,8 @@ def prepare(args: argparse.Namespace) -> int:
             for record in state.pending_records:
                 pending_article = metadata.by_public_record(record)
                 candidates[pending_article.stable_id] = pending_article
-            done_ids = state.sent_ids | state.skipped_ids
+            include_sent = getattr(args, "include_sent", False)
+            done_ids = state.skipped_ids if include_sent else state.sent_ids | state.skipped_ids
             unsent = [article for article in candidates.values() if article.stable_id not in done_ids]
             waiting = [article for article in unsent if not article.abstract]
             articles = [article for article in unsent if article.abstract]
@@ -97,6 +100,10 @@ def prepare(args: argparse.Namespace) -> int:
                     state.save()
                     _set_github_output("state_changed", "true")
             batch_id, idempotency_key = _batch_identity(articles, local_today.isoformat())
+            if include_sent:
+                # "-resend-" keeps this rebuild from counting as the day's scheduled delivery.
+                batch_id = f"{batch_id}-resend-recent-{now.strftime('%Y%m%dT%H%M%SZ')}"
+                idempotency_key = f"pa-journal-digest-{batch_id}"
             if not articles and state.is_batch_sent(batch_id):
                 _set_github_output("has_batch", "false")
                 print(
@@ -111,7 +118,7 @@ def prepare(args: argparse.Namespace) -> int:
                 return 0
             created_at = now.isoformat()
             resumed = False
-            resent = False
+            resent = include_sent
     finally:
         metadata.close()
 
@@ -120,9 +127,18 @@ def prepare(args: argparse.Namespace) -> int:
     for article in articles:
         summarizer.summarize(article)
     editorials = [article for article in articles if article.is_editorial]
-    articles = [article for article in articles if not article.is_editorial]
-    if editorials and not args.dry_run:
+    # AI-only journals need a second yes from the per-paper read, so one loose screen call
+    # cannot let a sleep or fertility paper through.
+    not_ai = [
+        article
+        for article in articles
+        if not article.is_editorial and article.journal_short in AI_ONLY_JOURNALS and not article.ai_related
+    ]
+    dropped = {article.stable_id for article in editorials + not_ai}
+    articles = [article for article in articles if article.stable_id not in dropped]
+    if dropped and not args.dry_run:
         state.mark_skipped(editorials, "editorial", now.isoformat())
+        state.mark_skipped(not_ai, "not_ai", now.isoformat())
         state.save()
         _set_github_output("state_changed", "true")
     subject, html, text = render_newsletter(articles, local_today)
@@ -277,6 +293,11 @@ def build_parser() -> argparse.ArgumentParser:
         "--resend-latest",
         action="store_true",
         help="Explicitly resend the most recent sent batch with a new delivery id",
+    )
+    prepare_parser.add_argument(
+        "--include-sent",
+        action="store_true",
+        help="Rebuild the lookback window from scratch, including papers already sent, with current filters",
     )
     prepare_parser.set_defaults(func=prepare)
 

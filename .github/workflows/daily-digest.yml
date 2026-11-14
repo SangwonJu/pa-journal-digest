@@ -25,6 +25,11 @@ on:
         required: true
         default: false
         type: boolean
+      include_sent:
+        description: Rebuild the lookback window with current filters, including papers already sent
+        required: true
+        default: false
+        type: boolean
       backfill_archive:
         description: Rebuild full archive fields for prior deliveries (does not send email)
         required: true
@@ -75,6 +80,9 @@ jobs:
             fi
             if [[ "${{ github.event_name == 'workflow_dispatch' && inputs.resend_latest }}" == "true" ]]; then
               args+=(--resend-latest)
+            fi
+            if [[ "${{ github.event_name == 'workflow_dispatch' && inputs.include_sent }}" == "true" ]]; then
+              args+=(--include-sent)
             fi
             if [[ "${{ github.event_name }}" == "schedule" ]]; then
               args+=(--daily-once)

@@ -190,3 +190,70 @@ def test_editorials_are_dropped_and_not_summarized_again(tmp_path, monkeypatch) 
     state.data["batches"] = {}
     state.save()
     assert cli.prepare(args) == 0
+
+
+def pnas_article(title: str) -> Article:
+    from datetime import date
+
+    return Article(
+        doi=f"10.1073/{title.replace(' ', '-')}",
+        title=title,
+        journal="Proceedings of the National Academy of Sciences",
+        journal_short="PNAS",
+        publication_date=date(2026, 8, 8),
+        url="https://example.test",
+        abstract="A sufficiently long abstract for the test.",
+    )
+
+
+class MixedPnasMetadataClient(EmptyMetadataClient):
+    def discover(self, start, end, relevance_filter=None):
+        return [pnas_article("LLM persuasion"), pnas_article("Sleep loss and phishing")]
+
+
+class AiJudgingSummarizer(StubSummarizer):
+    def summarize(self, article) -> None:
+        super().summarize(article)
+        article.ai_related = article.title.startswith("LLM")
+
+
+def _prepare_args(tmp_path, **overrides) -> Namespace:
+    values = dict(
+        state=tmp_path / "state.json",
+        output=tmp_path / "build" / "batch.json",
+        lookback_days=7,
+        resend_latest=False,
+        dry_run=False,
+        daily_once=False,
+    )
+    values.update(overrides)
+    return Namespace(**values)
+
+
+def test_ai_only_journal_needs_per_paper_ai_confirmation(tmp_path, monkeypatch) -> None:
+    monkeypatch.setenv("CROSSREF_MAILTO", "researcher@example.edu")
+    monkeypatch.setattr(cli, "MetadataClient", MixedPnasMetadataClient)
+    monkeypatch.setattr(cli, "ArticleSummarizer", AiJudgingSummarizer)
+    args = _prepare_args(tmp_path)
+
+    assert cli.prepare(args) == 0
+    batch = PreparedBatch.model_validate_json(args.output.read_text(encoding="utf-8"))
+    assert [item.title for item in batch.articles] == ["LLM persuasion"]
+    assert pnas_article("Sleep loss and phishing").stable_id in StateStore(args.state).skipped_ids
+
+
+def test_include_sent_rebuilds_papers_already_delivered(tmp_path, monkeypatch) -> None:
+    monkeypatch.setenv("CROSSREF_MAILTO", "researcher@example.edu")
+    monkeypatch.setattr(cli, "MetadataClient", MixedPnasMetadataClient)
+    monkeypatch.setattr(cli, "ArticleSummarizer", AiJudgingSummarizer)
+    store = StateStore(tmp_path / "state.json")
+    store.prepare("old", "key", [pnas_article("LLM persuasion")], datetime.now(UTC).isoformat())
+    store.mark_sent("old", [pnas_article("LLM persuasion")], datetime.now(UTC).isoformat())
+    store.save()
+
+    args = _prepare_args(tmp_path, include_sent=True)
+    assert cli.prepare(args) == 0
+    batch = PreparedBatch.model_validate_json(args.output.read_text(encoding="utf-8"))
+    assert [item.title for item in batch.articles] == ["LLM persuasion"]
+    assert "-resend-recent-" in batch.batch_id
+    assert "재발송" in batch.subject
