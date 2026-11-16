@@ -8,6 +8,14 @@
       "sent_at": "2026-11-11T03:27:06.737718+00:00",
       "title": "Rethinking the Anatomy of Passion: A Biopsychosocial Configurational Perspective on Antecedents of Work and Entrepreneurial Passion"
     },
+    "doi:10.1002/job.70134": {
+      "batch_id": "2026-11-16-0e1d57f070eae7a4",
+      "doi": "10.1002/job.70134",
+      "journal": "Journal of Organizational Behavior",
+      "publication_date": "2026-11-15",
+      "sent_at": "2026-11-16T15:49:53.061830+00:00",
+      "title": "One Meeting That Should Not Be an Email: Manager–Direct Report One‐on‐One Meetings and Employee Engagement"
+    },
     "doi:10.1002/pam.70126": {
       "batch_id": "2026-09-01-1560b88b8d2d7127",
       "doi": "10.1002/pam.70126",
@@ -2864,6 +2872,14 @@
       "sent_at": "2026-11-02T17:12:36.986972+00:00",
       "title": "The Immortality Paradox: One‐Party Dominance, Political Tenure, and Organizational Continuity in Japanese Agencies"
     },
+    "doi:10.1111/gove.70161": {
+      "batch_id": "2026-11-16-0e1d57f070eae7a4",
+      "doi": "10.1111/gove.70161",
+      "journal": "Governance",
+      "publication_date": "2026-11-15",
+      "sent_at": "2026-11-16T15:49:53.061830+00:00",
+      "title": "Negotiating Competing Expectations—Chiefs and Mineral Governance in Ghana"
+    },
     "doi:10.1111/padm.70076": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
       "doi": "10.1111/padm.70076",
@@ -4096,6 +4112,14 @@
       "sent_at": "2026-11-14T21:19:08.147291+00:00",
       "title": "Research on the Optimisation Path of Algorithm Transparency and Board Accountability Mechanisms in an Artificial Intelligence-Assisted Governance Model"
     },
+    "doi:10.1177/00953997261500681": {
+      "batch_id": "2026-11-16-0e1d57f070eae7a4",
+      "doi": "10.1177/00953997261500681",
+      "journal": "Administration & Society",
+      "publication_date": "2026-11-16",
+      "sent_at": "2026-11-16T15:49:53.061830+00:00",
+      "title": "Promoting the Empowerment of Women in Rural Settings Through Green Microfinance Strategies: Evidence From the Tapa Walla Badi Community in East Sumba"
+    },
     "doi:10.1177/00953997261501534": {
       "batch_id": "2026-11-14-0ee96efc673753b5-resend-recent-20261114T211039Z",
       "doi": "10.1177/00953997261501534",
@@ -4247,6 +4271,14 @@
       "publication_date": "2026-10-15",
       "sent_at": "2026-10-16T11:26:32.570201+00:00",
       "title": "When Geography Dilutes Accountability: Managerial Discretion and Fiscal Expansion in Local Government"
+    },
+    "doi:10.1177/02750740261506468": {
+      "batch_id": "2026-11-16-0e1d57f070eae7a4",
+      "doi": "10.1177/02750740261506468",
+      "journal": "The American Review of Public Administration",
+      "publication_date": "2026-11-16",
+      "sent_at": "2026-11-16T15:49:53.061830+00:00",
+      "title": "Home Rule, Local Autonomy, and Voters: Explaining Government Growth"
     },
     "doi:10.1177/02750740261506489": {
       "batch_id": "2026-11-14-0ee96efc673753b5-resend-recent-20261114T211039Z",
@@ -29301,7 +29333,8 @@
           "url": "https://doi.org/10.1177/02750740261506468"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-16T15:49:53.061830+00:00",
+      "status": "sent"
     }
   },
   "pending": {
