@@ -29151,6 +29151,157 @@
       "items": [],
       "sent_at": "2026-11-15T14:02:29.449518+00:00",
       "status": "sent"
+    },
+    "2026-11-16-0e1d57f070eae7a4": {
+      "created_at": "2026-11-16T15:41:09.801354+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-16-0e1d57f070eae7a4",
+      "items": [
+        {
+          "abstract": "This study explores green microfinance’s role in empowering rural women in East Sumba, Indonesia, specifically the Tapa Walla Badi group. Using PLS-SEM, it analyzes how financial knowledge, attitudes, and behaviors impact green micro-enterprise success and economic independence. Findings reveal that financial knowledge shows a marginal association with growth, while its relationship with prudent financial behaviors is statistically significant. Conversely, financial attitudes have no discernible impact. Additionally, green microfinance policy does not significantly moderate the relationship between enterprise success and independence. These results emphasize the necessity of targeted financial education to bolster women’s empowerment and support sustainable green business development within rural communities.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Min-Sun Kim": [
+              "Chung Yuan Christian University, Taoyuan City, Taiwan (R.O.C.)"
+            ]
+          },
+          "authors": [
+            "Min-Sun Kim"
+          ],
+          "constructs": [
+            "Women’s Empowerment",
+            "Green Microfinance"
+          ],
+          "doi": "10.1177/00953997261500681",
+          "is_editorial": false,
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "method": "혼합방법론",
+          "method_detail": "PLS-SEM 분석",
+          "publication_date": "2026-11-16",
+          "stable_id": "doi:10.1177/00953997261500681",
+          "summary_basis": "abstract",
+          "summary_ko": "인도네시아 동숨바 Tapa Walla Badi 공동체에서 녹색 마이크로금융이 농촌 여성의 역량 강화에 미치는 영향을 PLS-SEM으로 분석했다. 금융지식은 녹색 소규모 기업 성장과 약한 관련을 보였지만 신중한 금융행동과는 유의한 관계가 나타났고, 금융태도와 녹색 마이크로금융 정책의 조절효과는 유의하지 않았다.",
+          "title": "Promoting the Empowerment of Women in Rural Settings Through Green Microfinance Strategies: Evidence From the Tapa Walla Badi Community in East Sumba",
+          "topic_area": "비영리",
+          "url": "https://doi.org/10.1177/00953997261500681"
+        },
+        {
+          "abstract": "ABSTRACT This paper examines what shapes chiefs' discretionary decision‐making and how they exercise authority within hybrid governance arrangements, focusing on Ghana's artisanal and small‐scale mining (ASM) sector. Existing scholarship recognizes that traditional authorities can strengthen or undermine state governance but offers limited explanations for variation in their practices. Drawing on interviews with chiefs, miners, and state officials, the paper develops a discretionary governance framework that integrates hybrid governance, access theory, and discretion. It argues that overlapping customary and statutory authority creates a discretionary space for chiefs to navigate competing expectations. Chiefs exercise this discretion through diverse governance practices, including restricting access to mining sites, mobilizing communities, and collaborating with state institutions, as well as facilitating access to land, negotiating informal payments, and shielding unauthorised miners from enforcement. These practices can reinforce, negotiate, circumvent, or undermine formal mining regulation. The paper advances debates on traditional authority and hybrid governance while challenging assumptions that constitutionally empowering chiefs necessarily strengthens mineral governance.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Joel Agbesinyale": [
+              "Department of Global Political Studies Malmö University Malmö Sweden"
+            ]
+          },
+          "authors": [
+            "Joel Agbesinyale"
+          ],
+          "constructs": [
+            "Hybrid Governance",
+            "Discretion"
+          ],
+          "doi": "10.1111/gove.70161",
+          "is_editorial": false,
+          "journal": "Governance",
+          "journal_short": "Governance",
+          "method": "질적연구",
+          "method_detail": "심층 인터뷰",
+          "publication_date": "2026-11-15",
+          "stable_id": "doi:10.1111/gove.70161",
+          "summary_basis": "abstract",
+          "summary_ko": "가나의 영세·소규모 광업에서 추장들이 경쟁하는 기대 속에서 재량적 의사결정을 어떻게 형성하고 권위를 행사하는지 추장, 광부, 국가 공무원 인터뷰로 분석했다. 관습적 권한과 법정 권한이 겹치며 생긴 재량 공간에서 추장들은 채굴지 접근 제한, 공동체 동원, 국가기관 협력, 토지 접근 제공, 비공식 지급 협상, 무허가 광부 보호 등을 선택했고, 이런 관행은 공식 광업 규제를 강화하거나 협상·우회·약화시켰다.",
+          "title": "Negotiating Competing Expectations—Chiefs and Mineral Governance in Ghana",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1111/gove.70161"
+        },
+        {
+          "abstract": "ABSTRACT Building and maintaining an engaged workforce is a priority for organizations worldwide. While the antecedents and benefits of an engaged workforce are well documented, organizations continue to struggle to keep employees engaged. These ongoing difficulties point to the need for alternative, practical ways to foster engagement at work. To this end, we examine whether workplace meetings, specifically one‐on‐one (1:1) meetings between managers and direct reports, can foster engagement. Grounded in job demands and resources (JD‐R) theory, self‐determination theory (SDT) and Kahn's engagement theory, we hypothesized that 1:1 meeting quantity and quality promote engagement by satisfying employees' basic psychological needs for autonomy, competence, and relatedness. We tested a moderated mediation model using two time‐separated online surveys ( N = 303). Results indicated that meeting quality, reflected in a managers' task‐ and relations‐oriented behaviors in 1:1 s, was more consistently associated with engagement than meeting quantity. These relationships remained after accounting for managers' use of the same behaviors outside 1:1 meetings, suggesting that 1:1 meetings provide a unique and meaningful context for individualized, synchronous support. Overall, the results identify 1:1 meetings as a practical tool managers can use to promote direct reports' engagement and advance both meeting science and engagement literature.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Jon Gray": [
+              "University of North Carolina Charlotte North Carolina USA"
+            ],
+            "Jonathan Flinchum": [
+              "University of North Carolina Charlotte North Carolina USA"
+            ],
+            "Liana Kreamer": [
+              "Florida Institute of Technology Melbourne Florida USA"
+            ],
+            "Matthew J. Gerson": [
+              "University of North Carolina Charlotte North Carolina USA"
+            ],
+            "Nicholas J. Dilley": [
+              "University of North Carolina Charlotte North Carolina USA"
+            ],
+            "Steven Rogelberg": [
+              "University of North Carolina Charlotte North Carolina USA"
+            ]
+          },
+          "authors": [
+            "Jon Gray",
+            "Jonathan Flinchum",
+            "Steven Rogelberg",
+            "Matthew J. Gerson",
+            "Nicholas J. Dilley",
+            "Liana Kreamer"
+          ],
+          "constructs": [
+            "Job Demands-Resources Theory",
+            "Self-Determination Theory"
+          ],
+          "doi": "10.1002/job.70134",
+          "is_editorial": false,
+          "journal": "Journal of Organizational Behavior",
+          "journal_short": "JOB",
+          "method": "서베이",
+          "method_detail": "이중 시점 설문",
+          "publication_date": "2026-11-15",
+          "stable_id": "doi:10.1002/job.70134",
+          "summary_basis": "abstract",
+          "summary_ko": "관리자와 직속 부하직원의 1:1 회의가 직원 몰입을 높이는지 검토하기 위해 303명을 대상으로 시간 간격을 둔 두 차례 온라인 설문을 실시하고 조절된 매개모형을 검증했다. 회의 횟수보다 관리자의 과업 지향 및 관계 지향 행동으로 나타난 회의의 질이 몰입과 더 일관되게 연관됐으며, 1:1 회의 밖의 동일한 행동을 통제한 뒤에도 이 관계가 유지됐다.",
+          "title": "One Meeting That Should Not Be an Email: Manager–Direct Report One‐on‐One Meetings and Employee Engagement",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1002/job.70134"
+        },
+        {
+          "abstract": "This paper examines local government growth by analyzing how municipalities respond to increases in taxing autonomy and whether their responses are conditioned on voter preferences. Specifically, we investigate the fiscal impact of home rule when the shift to home rule status (HRS) is independent of voter preferences versus when voters adopt home rule. We find that home rule has no effect on tax collections when changes in HRS are unrelated to voter preferences. However, the tax structure shifts to one that more closely aligns with the preferences of the median voter. In contrast, when voters select into HRS there is a significant and sustained increase in tax revenues that is driven by increases in property and sales taxes. These findings indicate that local fiscal policy is responsive to the preferences of the median voter.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Huiyuan Wu": [
+              "Arizona State University"
+            ],
+            "Siân Mughan": [
+              "Arizona State University"
+            ]
+          },
+          "authors": [
+            "Siân Mughan",
+            "Huiyuan Wu"
+          ],
+          "constructs": [
+            "Home Rule",
+            "Median Voter"
+          ],
+          "doi": "10.1177/02750740261506468",
+          "is_editorial": false,
+          "journal": "The American Review of Public Administration",
+          "journal_short": "ARPA",
+          "method": "준실험",
+          "method_detail": "홈룰 전환 비교",
+          "publication_date": "2026-11-16",
+          "stable_id": "doi:10.1177/02750740261506468",
+          "summary_basis": "abstract",
+          "summary_ko": "지방정부가 과세 자율성을 확대하는 홈룰 지위 변화에 어떻게 대응하는지, 그리고 유권자 선호가 그 대응을 조건화하는지를 분석했다. 유권자 선호와 무관한 홈룰 전환은 세수에 영향을 주지 않았지만 중위 유권자 선호에 가까운 조세 구조로 이동했고, 유권자가 홈룰을 선택한 경우에는 재산세와 판매세 증가로 세수가 지속적으로 늘어났다.",
+          "title": "Home Rule, Local Autonomy, and Voters: Explaining Government Growth",
+          "topic_area": "지방·도시",
+          "url": "https://doi.org/10.1177/02750740261506468"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -29173,7 +29324,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -29188,7 +29339,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -29209,7 +29360,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1002/pam.70142": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -29224,7 +29375,7 @@
         "title": "Excellence in Refereeing Award Announcement",
         "url": "https://doi.org/10.1002/pam.70142"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1002/smj.70058": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29239,7 +29390,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70058"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1002/smj.70059": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29254,7 +29405,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70059"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -29279,7 +29430,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -29314,7 +29465,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -29335,7 +29486,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1037/apl0001426.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29350,7 +29501,7 @@
         "title": "Supplemental Material for On Criterion Weighting to Reduce Adverse Impact",
         "url": "https://doi.org/10.1037/apl0001426.supp"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1037/apl0001442.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29365,7 +29516,7 @@
         "title": "Supplemental Material for A Meta-Analysis of Three Decades of Construct Measurement Research on Situational Judgment Tests: Toward a Balance Between Construct Clarity and Predictive Power",
         "url": "https://doi.org/10.1037/apl0001442.supp"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1037/pspa0000505.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29380,7 +29531,7 @@
         "title": "Supplemental Material for A Systematic Investigation of Age–Gender Intersectional Stereotypes and Their Consequences",
         "url": "https://doi.org/10.1037/pspa0000505.supp"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1037/pspi0000537.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29395,7 +29546,7 @@
         "title": "Supplemental Material for Individual, Interpersonal, and Socioeconomic Predictors of Divorce: A 12-Year Prospective Study",
         "url": "https://doi.org/10.1037/pspi0000537.supp"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1037/pspi0000538.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29410,7 +29561,7 @@
         "title": "Supplemental Material for The More, the Better? Evidence of Parallel Growth in Intergroup Contact Quantity and Quality Over Time",
         "url": "https://doi.org/10.1037/pspi0000538.supp"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1037/pspp0000620.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29425,7 +29576,7 @@
         "title": "Supplemental Material for Navigating Divorce and Partner Bereavement: Personality and Trajectories of Change in Life Satisfaction and Mental Health",
         "url": "https://doi.org/10.1037/pspp0000620.supp"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1037/pspp0000623.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29440,7 +29591,7 @@
         "title": "Supplemental Material for Examining the Gender-Equality Paradox in Values Using a New Measure of Value-Based Gender Typicality",
         "url": "https://doi.org/10.1037/pspp0000623.supp"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1037/pspp0000627.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29455,7 +29606,7 @@
         "title": "Supplemental Material for The Structure and History of English Words That Describe People",
         "url": "https://doi.org/10.1037/pspp0000627.supp"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1038/d41586-026-03578-y": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -29472,7 +29623,7 @@
         "title": "The public trusts scientists with AI — more than it does anyone else",
         "url": "https://doi.org/10.1038/d41586-026-03578-y"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1038/s41562-026-02639-6": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -29525,7 +29676,7 @@
         "title": "AI ‘slop’ is a social judgement",
         "url": "https://doi.org/10.1038/s41562-026-02639-6"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -29554,7 +29705,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -29574,7 +29725,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -29591,7 +29742,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -29608,7 +29759,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -29626,7 +29777,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -29643,7 +29794,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -29662,7 +29813,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -29680,7 +29831,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -29699,7 +29850,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -29717,7 +29868,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -29734,7 +29885,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -29753,7 +29904,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -29771,7 +29922,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -29789,7 +29940,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1086/744871": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29806,7 +29957,7 @@
         "title": "Running in Context: Marginalization, Political Ambition, and Candidate Emergence",
         "url": "https://doi.org/10.1086/744871"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1086/744929": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -29853,7 +30004,7 @@
         "title": "Political Unfriending on Facebook: Evidence from over 180 Million Users",
         "url": "https://doi.org/10.1086/744929"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -29874,7 +30025,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -29889,7 +30040,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -29904,7 +30055,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -29925,7 +30076,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -29940,7 +30091,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -29955,7 +30106,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-15T13:54:02.792215+00:00"
+      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
     }
   },
   "version": 1
