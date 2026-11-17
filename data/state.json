@@ -29335,6 +29335,130 @@
       ],
       "sent_at": "2026-11-16T15:49:53.061830+00:00",
       "status": "sent"
+    },
+    "2026-11-17-8750a1ffa783ee8c": {
+      "created_at": "2026-11-17T15:57:19.481357+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-17-8750a1ffa783ee8c",
+      "items": [
+        {
+          "abstract": "Predictive artificial intelligence (AI) models developed by data scientists promise to transform organizational knowledge, yet in practice, the predictions remain inscrutable to domain experts. Existing explanations situate the problems in the opacity of the AI tools, failed adoption, or jurisdictional conflict but offer limited insight into how to make the knowledge accessible. Here, we show how the problem emerges from the competing epistemic stances of data scientists and domain experts, which create conflict over how to produce and evaluate knowledge. We then ask how data scientists and domain experts address that conflict so that their work with AI satisfies each group’s standards for producing and evaluating knowledge. Drawing on an 18-month inductive study of three large Indian banks, we show that the data scientists produce new knowledge, but domain experts hold the power to decide whether it is deployed. Our findings distinguish between epistemic and jurisdictional conflict. We show that data scientists first try to address the epistemic conflict directly through assimilative practices that follow one epistemic stance or the other. When these practices fail to transform knowledge, data scientists learn to address the conflict indirectly through four bridging practices. These practices help the domain experts transform knowledge by embedding the data scientists’ predictions in the boundary objects and practices that the domain experts already use. Our findings reveal how power based on expertise rather than jurisdictional control can make possible the coproduction of knowledge. Funding: This research was supported in part by funding from the Social Sciences and Humanities Research Council [Grant 430-2024-01156] to M. Joshi.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Mark Zbaracki": [
+              "Ivey Business School, Western University, London, Ontario N6G 0N1, Canada"
+            ],
+            "Mayur Joshi": [
+              "Telfer School of Management, University of Ottawa, Ottawa, Ontario K1N 6N5, Canada"
+            ],
+            "Ning Su": [
+              "Ivey Business School, Western University, London, Ontario N6G 0N1, Canada"
+            ]
+          },
+          "authors": [
+            "Mayur Joshi",
+            "Ning Su",
+            "Mark Zbaracki"
+          ],
+          "constructs": [
+            "Epistemic Conflict",
+            "Jurisdictional Conflict"
+          ],
+          "doi": "10.1287/orsc.2023.17369",
+          "is_editorial": false,
+          "journal": "Organization Science",
+          "journal_short": "OrgSci",
+          "method": "질적연구",
+          "method_detail": "18개월 귀납 연구",
+          "publication_date": "2026-11-16",
+          "stable_id": "doi:10.1287/orsc.2023.17369",
+          "summary_basis": "abstract",
+          "summary_ko": "인도 대형 은행 3곳을 대상으로 18개월간 귀납적 연구를 수행해, data scientists와 domain experts가 AI 예측의 지식 생산·평가 기준을 두고 겪는 인식론적 갈등과 이를 조정하는 방식을 examined했다. Data scientists가 새 지식을 생산하지만 domain experts가 배치 여부를 결정했으며, 직접 조정이 실패하자 예측을 기존 경계 객체와 실천에 결합하는 네 가지 bridging practices로 지식을 변환해 공동생산이 가능해졌다.",
+          "title": "When Data Scientists Meet Domain Experts: Artificial Intelligence, Epistemic Conflict, and Knowledge Transformation",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1287/orsc.2023.17369"
+        },
+        {
+          "abstract": "Generative AI is rapidly entering labor markets, with large language models (LLMs) now used to help write CVs and evaluate applicants. We study the risks this creates in a series of audit experiments in which applicant gender is randomly assigned while all other information is held constant. We find that LLMs generate gender-stereotypical CVs and exhibit gender bias in screening scores and wage recommendations. Screening scores track occupational gender segregation, penalizing women in male-dominated occupations and favoring them in female-dominated ones. Wage recommendations track occupational gender wage gaps when gender is explicit in the prompt, though this gradient weakens under name-based gender signaling and is sensitive to the LLMs being used. These disparities arise through two channels: evaluation bias, when identical CV content is evaluated differently by gender, and generation bias, when gendered content produced by the model affects later evaluation. Because the same systems shape both CV content and its subsequent assessment, these channels can reinforce one another. Taken together, our findings identify measurable risks of algorithmic amplification in AI-mediated job search.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Debora Nozza": [
+              "Department of Computing Sciences, Bocconi University"
+            ],
+            "Germain Gauthier": [
+              "AXA Research Lab on Gender Equality, Bocconi University",
+              "Department of Social and Political Sciences, Bocconi University"
+            ],
+            "Kenza Elass": [
+              "Center for Economic Research on Governance, Inequality and Conflict, École Normale Supérieure de Lyon",
+              "AXA Research Lab on Gender Equality, Bocconi University"
+            ],
+            "Paola Profeta": [
+              "AXA Research Lab on Gender Equality, Bocconi University",
+              "Department of Social and Political Sciences, Bocconi University"
+            ]
+          },
+          "authors": [
+            "Kenza Elass",
+            "Germain Gauthier",
+            "Debora Nozza",
+            "Paola Profeta"
+          ],
+          "constructs": [
+            "Gender Bias",
+            "Algorithmic Decision-Making"
+          ],
+          "doi": "10.1073/pnas.2534118123",
+          "is_editorial": false,
+          "journal": "Proceedings of the National Academy of Sciences",
+          "journal_short": "PNAS",
+          "method": "실험",
+          "method_detail": "무작위 감사실험",
+          "publication_date": "2026-11-16",
+          "stable_id": "doi:10.1073/pnas.2534118123",
+          "summary_basis": "abstract",
+          "summary_ko": "생성형 AI가 CV 작성과 지원자 평가에 활용되는 노동시장에서, 지원자 성별만 무작위로 바꾼 감사 실험으로 LLM의 성별 편향을 조사했다. LLM은 성별 고정관념이 반영된 CV를 생성했고, 직업의 성별 분리와 성별 임금격차를 반영해 채용 점수와 임금 추천에서 편향을 보였으며, 생성 편향과 평가 편향이 서로 강화될 수 있는 것으로 나타났다.",
+          "title": "Automating inequality? Gender bias in AI-mediated labor markets",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1073/pnas.2534118123"
+        },
+        {
+          "abstract": "Abstract After the 2012 and 2016 presidential elections, scholars and observers frequently characterized Latino voters as unlikely to support anti-immigration candidates, especially when immigration is salient. However, between 2016 and 2024, Latinos were among the groups that swung the most toward the GOP. Given the mismatch between Donald Trump’s strident opposition to unauthorized immigration and Latinos’ historically pro-immigration views, understanding the role of Latinos’ immigration attitudes in vote choice over this period is theoretically important. Acknowledging that Latinos are not single-issue voters, we investigate this question using multiple high-quality, population-based panels of Latinos (2016–2024). We document a sharp restrictionist turn in Latinos’ attitudes. We also find that Latinos perceive Democrats to have moderated slightly on immigration, though not enough to keep pace with the change in public opinion. Finally, we demonstrate that Latinos placed just as much weight on immigration policy in their 2024 vote choice as in 2016. Our results suggest that while immigration has not waned in importance for Latinos, changes in attitudes from 2016 to 2024 diminished Democrats’ advantage on this issue.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Daniel J Hopkins": [
+              "Julie and Martin Franklin Presidential Professor of Political Science, Department of Political Science, University of Pennsylvania , Philadelphia, PA,"
+            ],
+            "William Marble": [
+              "Hoover Fellow, Hoover Institution, Stanford University , Stanford, CA,"
+            ]
+          },
+          "authors": [
+            "Daniel J Hopkins",
+            "William Marble"
+          ],
+          "constructs": [
+            "Immigration Attitudes",
+            "Vote Choice"
+          ],
+          "doi": "10.1093/poq/nfag070",
+          "is_editorial": false,
+          "journal": "Public Opinion Quarterly",
+          "journal_short": "POQ",
+          "method": "서베이",
+          "method_detail": "패널 설문",
+          "publication_date": "2026-11-16",
+          "stable_id": "doi:10.1093/poq/nfag070",
+          "summary_basis": "abstract",
+          "summary_ko": "2016~2024년 라틴계 유권자 패널 자료를 사용해 이민 태도와 대선 투표 선택의 관계를 분석했다. 라틴계 유권자의 이민 제한주의 태도가 크게 강해졌고, 2024년 투표에서 이민정책에 둔 가중치는 2016년과 같았지만 이 변화로 민주당의 이민 쟁점 우위가 약화됐다.",
+          "title": "What Role Did Immigration Attitudes Play in Latinos’ 2016–2024 Swing Toward the GOP?",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1093/poq/nfag070"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -29357,7 +29481,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -29372,7 +29496,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -29393,7 +29517,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1002/pam.70142": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -29408,7 +29532,7 @@
         "title": "Excellence in Refereeing Award Announcement",
         "url": "https://doi.org/10.1002/pam.70142"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1002/smj.70058": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29423,7 +29547,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70058"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1002/smj.70059": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29438,7 +29562,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70059"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -29463,7 +29587,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -29498,7 +29622,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -29519,7 +29643,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1037/apl0001426.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29534,7 +29658,7 @@
         "title": "Supplemental Material for On Criterion Weighting to Reduce Adverse Impact",
         "url": "https://doi.org/10.1037/apl0001426.supp"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1037/apl0001442.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29549,7 +29673,7 @@
         "title": "Supplemental Material for A Meta-Analysis of Three Decades of Construct Measurement Research on Situational Judgment Tests: Toward a Balance Between Construct Clarity and Predictive Power",
         "url": "https://doi.org/10.1037/apl0001442.supp"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1037/pspa0000505.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29564,7 +29688,7 @@
         "title": "Supplemental Material for A Systematic Investigation of Age–Gender Intersectional Stereotypes and Their Consequences",
         "url": "https://doi.org/10.1037/pspa0000505.supp"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1037/pspi0000537.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29579,7 +29703,7 @@
         "title": "Supplemental Material for Individual, Interpersonal, and Socioeconomic Predictors of Divorce: A 12-Year Prospective Study",
         "url": "https://doi.org/10.1037/pspi0000537.supp"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1037/pspi0000538.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29594,7 +29718,7 @@
         "title": "Supplemental Material for The More, the Better? Evidence of Parallel Growth in Intergroup Contact Quantity and Quality Over Time",
         "url": "https://doi.org/10.1037/pspi0000538.supp"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1037/pspp0000620.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29609,7 +29733,7 @@
         "title": "Supplemental Material for Navigating Divorce and Partner Bereavement: Personality and Trajectories of Change in Life Satisfaction and Mental Health",
         "url": "https://doi.org/10.1037/pspp0000620.supp"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1037/pspp0000623.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29624,7 +29748,7 @@
         "title": "Supplemental Material for Examining the Gender-Equality Paradox in Values Using a New Measure of Value-Based Gender Typicality",
         "url": "https://doi.org/10.1037/pspp0000623.supp"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1037/pspp0000627.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29639,7 +29763,7 @@
         "title": "Supplemental Material for The Structure and History of English Words That Describe People",
         "url": "https://doi.org/10.1037/pspp0000627.supp"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1038/d41586-026-03578-y": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -29656,7 +29780,7 @@
         "title": "The public trusts scientists with AI — more than it does anyone else",
         "url": "https://doi.org/10.1038/d41586-026-03578-y"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1038/s41562-026-02639-6": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -29709,7 +29833,7 @@
         "title": "AI ‘slop’ is a social judgement",
         "url": "https://doi.org/10.1038/s41562-026-02639-6"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -29738,7 +29862,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -29758,7 +29882,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -29775,7 +29899,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -29792,7 +29916,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -29810,7 +29934,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -29827,7 +29951,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -29846,7 +29970,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -29864,7 +29988,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -29883,7 +30007,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -29901,7 +30025,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -29918,7 +30042,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -29937,7 +30061,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -29955,7 +30079,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -29973,7 +30097,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1086/744871": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29990,7 +30114,7 @@
         "title": "Running in Context: Marginalization, Political Ambition, and Candidate Emergence",
         "url": "https://doi.org/10.1086/744871"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1086/744929": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -30037,7 +30161,26 @@
         "title": "Political Unfriending on Facebook: Evidence from over 180 Million Users",
         "url": "https://doi.org/10.1086/744929"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+    },
+    "doi:10.1086/744971": {
+      "first_seen_at": "2026-11-17T15:57:19.481357+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Cody A. Drolc",
+          "Alison Higgins Merrill",
+          "Jessica A. Schoenherr"
+        ],
+        "doi": "10.1086/744971",
+        "journal": "The Journal of Politics",
+        "journal_short": "JOP",
+        "publication_date": "2026-11-16",
+        "stable_id": "doi:10.1086/744971",
+        "title": "Breaking the Legal Stalemate: How Membership Changes and Position Uncertainty Shift Attorney Strategies at the U.S. Supreme Court",
+        "url": "https://doi.org/10.1086/744971"
+      },
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -30058,7 +30201,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -30073,7 +30216,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -30088,7 +30231,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -30109,7 +30252,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -30124,7 +30267,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -30139,7 +30282,15 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-16T15:41:09.801354+00:00"
+      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+    }
+  },
+  "skipped": {
+    "doi:10.1073/pnas.2625583123": {
+      "checked_at": "2026-11-17T15:57:19.481357+00:00",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "reason": "not_ai",
+      "title": "Short-term flexibility and long-term stability in models of mind perception"
     }
   },
   "version": 1
