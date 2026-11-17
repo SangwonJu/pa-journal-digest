@@ -840,6 +840,14 @@
       "sent_at": "2026-11-14T13:39:04.144597+00:00",
       "title": "Bureaucratic incentives shaped effectiveness of the one-child policy in China"
     },
+    "doi:10.1073/pnas.2534118123": {
+      "batch_id": "2026-11-17-8750a1ffa783ee8c",
+      "doi": "10.1073/pnas.2534118123",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "publication_date": "2026-11-16",
+      "sent_at": "2026-11-17T16:09:45.245702+00:00",
+      "title": "Automating inequality? Gender bias in AI-mediated labor markets"
+    },
     "doi:10.1073/pnas.2611349123": {
       "batch_id": "2026-11-14-0ee96efc673753b5-resend-recent-20261114T211039Z",
       "doi": "10.1073/pnas.2611349123",
@@ -2599,6 +2607,14 @@
       "publication_date": "2026-10-29",
       "sent_at": "2026-10-30T12:57:46.401127+00:00",
       "title": "Investigating the Utility of LLM-Based “Silicon Samples” in Political Science Conjoint Experiments"
+    },
+    "doi:10.1093/poq/nfag070": {
+      "batch_id": "2026-11-17-8750a1ffa783ee8c",
+      "doi": "10.1093/poq/nfag070",
+      "journal": "Public Opinion Quarterly",
+      "publication_date": "2026-11-16",
+      "sent_at": "2026-11-17T16:09:45.245702+00:00",
+      "title": "What Role Did Immigration Attitudes Play in Latinos’ 2016–2024 Swing Toward the GOP?"
     },
     "doi:10.1093/poq/nfag071": {
       "batch_id": "2026-11-04-07e249fb29fc7593",
@@ -4527,6 +4543,14 @@
       "publication_date": "2026-11-10",
       "sent_at": "2026-11-14T21:19:08.147291+00:00",
       "title": "Growth Paths in Early Machine Learning Ventures: Technical Configuration and Competitive Advantage Over Time"
+    },
+    "doi:10.1287/orsc.2023.17369": {
+      "batch_id": "2026-11-17-8750a1ffa783ee8c",
+      "doi": "10.1287/orsc.2023.17369",
+      "journal": "Organization Science",
+      "publication_date": "2026-11-16",
+      "sent_at": "2026-11-17T16:09:45.245702+00:00",
+      "title": "When Data Scientists Meet Domain Experts: Artificial Intelligence, Epistemic Conflict, and Knowledge Transformation"
     },
     "doi:10.1287/orsc.2024.18685": {
       "batch_id": "2026-11-10-418e643876e0e943-resend-20261111T030859Z-resend-20261111T032511Z",
@@ -29458,7 +29482,8 @@
           "url": "https://doi.org/10.1093/poq/nfag070"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-17T16:09:45.245702+00:00",
+      "status": "sent"
     }
   },
   "pending": {
