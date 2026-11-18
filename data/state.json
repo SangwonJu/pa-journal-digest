@@ -29484,6 +29484,345 @@
       ],
       "sent_at": "2026-11-17T16:09:45.245702+00:00",
       "status": "sent"
+    },
+    "2026-11-18-12c26b81d4f04d0d": {
+      "created_at": "2026-11-18T15:36:58.331637+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-18-12c26b81d4f04d0d",
+      "items": [
+        {
+          "abstract": "Given the significant investments by private equity (PE) firms in healthcare, it is increasingly important for stakeholders, including policymakers, care providers, and patients, to understand how PE ownership affects healthcare value, defined as the quality of care delivered relative to clinical resources used. Using longitudinal data on U.S. hospitals from 2008 to 2020, we find that PE ownership reduces healthcare value. Reductions in clinical staffing following PE acquisition partly explain this pattern: lower staffing reduces operating costs but also weakens hospitals’ capacity to maintain care quality. However, hospitals with stronger health information sharing capabilities experience substantially smaller declines in healthcare value, as these capabilities support cost reduction while mitigating care quality deterioration. Our findings offer actionable insights for healthcare stakeholders including identifying the underlying mechanisms that explain the impact of health information sharing on care value. Policymakers should evaluate PE acquisitions using a comprehensive, value-based framework which measures both care quality and costs. Hospital administrators should prioritize IT investments that strengthen information sharing across providers, whereas policymakers should promote common health data interoperability standards. Together, these efforts can help PE-owned hospitals preserve care quality under financial pressure and better align PE firms’ financial objectives with the goals of value-based care.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Indranil Bardhan": [
+              "The University of Texas at Austin, Austin, Texas 78712"
+            ],
+            "Minghong Yuan": [
+              "The University of Texas at Austin, Austin, Texas 78712"
+            ],
+            "Wen Wen": [
+              "The University of Texas at Austin, Austin, Texas 78712"
+            ]
+          },
+          "authors": [
+            "Minghong Yuan",
+            "Wen Wen",
+            "Indranil Bardhan"
+          ],
+          "constructs": [
+            "Healthcare Value",
+            "Health Information Sharing"
+          ],
+          "doi": "10.1287/isre.2025.2332",
+          "is_editorial": false,
+          "journal": "Information Systems Research",
+          "journal_short": "ISR",
+          "method": "준실험",
+          "method_detail": "종단 패널분석",
+          "publication_date": "2026-11-17",
+          "stable_id": "doi:10.1287/isre.2025.2332",
+          "summary_basis": "abstract",
+          "summary_ko": "2008~2020년 미국 병원의 종단자료를 활용해 사모펀드(PE) 소유가 의료가치에 미치는 영향을 분석한 결과, PE 인수 후 임상 인력 감소가 비용을 낮추는 동시에 진료의 질을 약화시켜 의료가치를 낮추는 것으로 나타났다. 의료정보 공유 역량이 강한 병원에서는 비용 절감과 진료의 질 저하를 함께 완화해 의료가치 하락이 작았다.",
+          "title": "Does Private Equity Hurt or Improve Healthcare Value? New Evidence and Mechanisms",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1287/isre.2025.2332"
+        },
+        {
+          "abstract": "Abstract. The maturing of concepts such as microservices and open application programming interfaces (APIs) has radically increased the practicality of fine-grained modularization in Information Systems (IS) architecture. These are critical technical advancements, given the central role of modularity in the ability of IS to transform and meet future organizational needs efficiently. Nevertheless, reports from practice suggest that, when presented with new opportunities for modularization, organizations face multifaceted decision criteria and do not necessarily embrace new approaches as may be expected. While emergent IS literature observes that organizations’ decisions on modularity in IS may involve competing concerns, understanding of the considerations involved and how they influence such decisions remains limited. To examine these considerations, we intensively study the experience of LEGO, a global toy company. Specifically, we sequentially apply multiple methods consisting of an exploratory inductive analysis of LEGO’s approach to IS modularity decisions over 36 months, which then informs a crisp-set qualitative comparative analysis (QCA) of 31 episodes of LEGO’s situated decision-making on IS modularity. Through the analysis, we find the rationale for a purposeful choice between two forms of modularity that differ in granularity of decomposition, rather than a linear pursuit of maximizing decomposability in IS architecture. We bring to the fore a perspective of IS modularity as situated decisions reconciling competing demands in pursuit of the right type of modularity, in the right place to achieve the right effect. Our findings add nuance to modularity in the context of IS architecture and explain the complex causality of IS modularity decisions.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Ben Eaton": [
+              "Copenhagen Business School, Department of Digitalization, Frederiksberg, 2000, Denmark"
+            ],
+            "Lorenz Törmer": [
+              "Copenhagen Business School, Digitalization, Frederiksberg, Capital Region, Denmark"
+            ],
+            "Stefan Henningsson": [
+              "Copenhagen Business School, Digitalization, Frederiksberg, Capital Region, Denmark"
+            ],
+            "Suprateek Sarker": [
+              "University of Virginia McIntire School of Commerce, Information Technology, Charlottesville, Virginia, United States"
+            ]
+          },
+          "authors": [
+            "Stefan Henningsson",
+            "Ben Eaton",
+            "Lorenz Törmer",
+            "Suprateek Sarker"
+          ],
+          "constructs": [
+            "IS Modularity",
+            "Complex Causality"
+          ],
+          "doi": "10.1287/isre.2022.0466",
+          "is_editorial": false,
+          "journal": "Information Systems Research",
+          "journal_short": "ISR",
+          "method": "혼합방법론",
+          "method_detail": "순차 혼합",
+          "publication_date": "2026-11-18",
+          "stable_id": "doi:10.1287/isre.2022.0466",
+          "summary_basis": "abstract",
+          "summary_ko": "LEGO의 정보시스템 모듈화 의사결정에서 고려하는 요인과 그 결합 방식을 36개월간의 탐색적 귀납 분석과 31개 의사결정 에피소드에 대한 crisp-set QCA로 분석했다. 조직은 정보시스템의 분해 가능성을 일률적으로 극대화하기보다, 상충하는 요구를 조정해 상황에 맞는 두 가지 모듈화 형태 중 하나를 선택했다.",
+          "title": "Decision Considerations Influencing Information Systems Modularity: A Multimethod Study of LEGO",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1287/isre.2022.0466"
+        },
+        {
+          "abstract": "A large body of literature on online review generation has investigated various antecedents to online review characteristics. However, the mixed and even contradictory findings in this domain have hampered a clear understanding of consumers’ online review behavior for both researchers and practitioners, thereby complicating actionable strategies. To address this issue, we conduct a comprehensive meta-analysis of 154 independent samples from 152 empirical papers, synthesizing the relationships between 28 antecedent factors and 12 review features, which we categorize into rating-based (evaluative) and non-rating (expressive) dimensions. Our results indicate that rating attributes are dominantly driven by stable reviewer tendencies and market-level reputation cues, whereas non-rating features—such as text length and image inclusion—are primarily influenced by reviewer social embeddedness and platform engagement. Crucially, we identify that inconsistencies in prior literature can be explained by critical boundary conditions, including platform type (business-hosted vs. third-party), goods type (service vs. tangible), and cultural background (Asia vs. North America). By distinguishing between evaluative and expressive review components, our study reconciles mixed findings and uncovers underlying mechanisms such as expectation-based evaluation and self-presentation. The findings provide a robust theoretical foundation for empirical model specification and offer actionable insights for retailers and platforms to optimize reputation management and system design. Ultimately, our work offers a holistic framework for understanding online review behavior and proposes a rich agenda for future research in the digital marketplace.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "DaPeng Xu": [
+              "Tsinghua University, Shenzhen International Graduate School, Shenzhen, China"
+            ],
+            "Hong Hong": [
+              "Harbin Institute of Technology, School of Management, Harbin, China"
+            ],
+            "Xiaoquan (Michael) Zhang": [
+              "Chinese University of Hong Kong, Decision Sciences and Managerial Economics, Shatin, N.T., CUHK Business School, Hong Kong"
+            ]
+          },
+          "authors": [
+            "Hong Hong",
+            "DaPeng Xu",
+            "Xiaoquan (Michael) Zhang"
+          ],
+          "constructs": [
+            "Self-Presentation",
+            "Expectation-Based Evaluation"
+          ],
+          "doi": "10.1287/isre.2024.1510",
+          "is_editorial": false,
+          "journal": "Information Systems Research",
+          "journal_short": "ISR",
+          "method": "혼합방법론",
+          "method_detail": "메타분석",
+          "publication_date": "2026-11-18",
+          "stable_id": "doi:10.1287/isre.2024.1510",
+          "summary_basis": "abstract",
+          "summary_ko": "온라인 리뷰 생성 선행연구 152편의 독립 표본 154개를 메타분석해 28개 선행요인과 평점 기반·비평점 리뷰 특성 12개의 관계를 종합했다. 평점 특성은 리뷰어의 안정적 성향과 시장 수준의 평판 단서가 주로 설명했고, 텍스트 길이와 이미지 포함 같은 비평점 특성은 리뷰어의 사회적 연결성과 플랫폼 참여가 주로 설명했으며, 플랫폼 유형·상품 유형·문화권이 선행연구의 불일치를 조절했다.",
+          "title": "Online Review Generation in the Digital Age: A Meta-Analytic Study of Online Review Behavior",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1287/isre.2024.1510"
+        },
+        {
+          "abstract": "ABSTRACT Building on growing interest in social emotions in the workplace, this study examines the social cognitive pathway through which workplace jealousy can contribute to employee creativity. Drawing on social functional theory of emotion, we propose that workplace jealousy increases the focal person's recognition of others' ideas, which subsequently promotes creative performance. Furthermore, we hypothesize that political skills, such as social astuteness and networking ability, strengthen the indirect effect of workplace jealousy on employee creativity via the recognition of others' ideas. To test our hypotheses, we conducted three studies (Study 1: field data from 269 employees and their supervisors; Study 2: an online study based on the critical incident technique involving 276 working adults; and Study 3: a scenario‐based online experiment with 278 participants). Across the three studies, our analysis provides consistent patterns that workplace jealousy has a significant positive indirect effect on employee creativity via the recognition of others' ideas. Our analysis also shows that political skills strengthen this indirect relationship, although the results varied across the two dimensions. These results provide valuable theoretical insights into the constructive social functions of workplace jealousy toward creative processes, particularly for employees who are politically skilled.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Jin Nam Choi": [
+              "College of Business Administration Seoul National University Seoul South Korea"
+            ],
+            "Sun Young Sung": [
+              "School of Business Nanjing University Nanjing China"
+            ],
+            "Zhuofan Kan": [
+              "School of Business Nanjing University Nanjing China"
+            ]
+          },
+          "authors": [
+            "Zhuofan Kan",
+            "Jin Nam Choi",
+            "Sun Young Sung"
+          ],
+          "constructs": [
+            "Workplace Jealousy",
+            "Social Functional Theory"
+          ],
+          "doi": "10.1002/job.70135",
+          "is_editorial": false,
+          "journal": "Journal of Organizational Behavior",
+          "journal_short": "JOB",
+          "method": "혼합방법론",
+          "method_detail": "현장자료·온라인연구·실험",
+          "publication_date": "2026-11-17",
+          "stable_id": "doi:10.1002/job.70135",
+          "summary_basis": "abstract",
+          "summary_ko": "직장 내 질투가 타인의 아이디어 인식을 거쳐 직원 창의성에 영향을 미치는 사회인지 경로와 정치적 기술의 조절효과를 검토했다. 직원·상사 269쌍의 현장자료, 중요사건기법을 활용한 직장인 276명 온라인 연구, 참가자 278명의 시나리오 온라인 실험을 분석한 결과, 직장 내 질투는 타인의 아이디어 인식을 통해 창의성에 유의한 정적 간접효과를 보였고 정치적 기술은 이 관계를 강화했지만 두 하위 차원에서 결과가 달랐다.",
+          "title": "From Dysfunction to Socially Embedded Adaptation: A Constructive Pathway for Jealousy Toward Creativity in the Workplace",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1002/job.70135"
+        },
+        {
+          "abstract": "Research on organizational corruption has largely portrayed normalization as a top-down, management-driven process. We know less about how employees with limited formal authority can escalate wrongdoing beyond isolated acts and drive its normalization. Drawing on a qualitative study of a German recruitment firm’s practices during the COVID-19 pandemic, we develop a three-phase model of bottom-up normalization of organizational wrongdoing. Less powerful actors first engage in tolerated rule-bending to demonstrate competence and indispensability and build influence through informal networks. When disruption threatens this influence and legitimate alternatives are unavailable, they may escalate to more serious wrongdoing to safeguard their standing by framing new opportunities as extensions of familiar rule-bending. Normalization then depends on their ability to sustain a cohesive coalition, secure support from actors with formal authority, and contain resistance. We make three contributions. First, we advance a relational view of corruption by showing how central positions in informal networks enable actors lacking formal authority to mobilize support across hierarchical levels and normalize wrongdoing. Second, we show how organizational corruption can become a means of building and preserving social influence, fostering a sense of accomplishment rather than guilt or shame. Third, we identify a disruption-driven pathway to normalization in which threats to less powerful actors’ social influence precipitate abrupt escalation from tolerated rule-bending to more serious wrongdoing.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Patricia Helena Hein": [
+              "Western University, Ivey Business School, London, Canada"
+            ],
+            "Shahzad (Shaz) Ansari": [
+              "University of Cambridge, Judge Business School, Cambridge, Cambridgeshire, United Kingdom of Great Britain and Northern Ireland"
+            ]
+          },
+          "authors": [
+            "Patricia Helena Hein",
+            "Shahzad (Shaz) Ansari"
+          ],
+          "constructs": [
+            "Organizational Corruption",
+            "Informal Networks"
+          ],
+          "doi": "10.1287/orsc.2023.18274",
+          "is_editorial": false,
+          "journal": "Organization Science",
+          "journal_short": "OrgSci",
+          "method": "질적연구",
+          "method_detail": "사례 연구",
+          "publication_date": "2026-11-18",
+          "stable_id": "doi:10.1287/orsc.2023.18274",
+          "summary_basis": "abstract",
+          "summary_ko": "독일 채용기업의 COVID-19 팬데믹 시기 관행을 질적으로 분석해, 공식 권한이 적은 직원이 비공식 네트워크에서 영향력을 쌓은 뒤 그 영향력이 위협받고 합법적 대안이 없을 때 관용된 규칙 위반을 더 심각한 부정행위로 확대하는 과정을 제시했다. 부정행위의 정상화는 이들이 응집된 연합을 유지하고 공식 권한을 가진 행위자의 지지를 확보하며 저항을 억제할 때 가능했다.",
+          "title": "Influence Without Authority: Bottom-Up Normalization of Organizational Corruption",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1287/orsc.2023.18274"
+        },
+        {
+          "abstract": "Women often experience a deficit in persuasive influence, particularly in contexts like politics, where expectations about women’s behavior may conflict with gendered expectations about the domain and role. In spite of this widespread pattern, the mechanisms behind the gender gap in persuasion are difficult to isolate and test in dynamic political conversations. Women may be less persuasive simply because role-based expectations prompt others to afford women less authority when speaking about politics generally or about some political topics. Alternatively, women may be less persuasive because they tend to use linguistic patterns or rhetorical strategies that are less effective. Using an original AI-based approach, we put 4,300 human subjects into realistic, real-time phone conversations with an AI agent. These agents were randomly assigned either a masculine or feminine gendered conversation topic and a male- or female-sounding voice, allowing us to manipulate topic and perceptions of speakers’ gender while holding constant other elements of rhetorical content and strategy. After validating the experimental treatments, we find no direct effects of perceived gender of the AI agent, as cued by voice. However, gender affects other important aspects of the persuasive interaction. Research subjects were more likely to be persuaded about the masculine topic (defense spending) than the feminine topic (aid to the poor). Additionally, women research subjects were, on average, more persuaded than men. To the extent that men and women emphasize different topics in political conversations and have different discussion partners, these dynamics are likely to shape women’s political persuasive influence.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Alex Lyman": [
+              "Department of Computer Science, Brigham Young University"
+            ],
+            "Bryce Hepner": [
+              "Department of Computer Science, Brigham Young University"
+            ],
+            "Christopher F. Karpowitz": [
+              "Department of Political Science, Brigham Young University"
+            ],
+            "David Wingate": [
+              "Department of Computer Science, Brigham Young University"
+            ],
+            "Ethan C. Busby": [
+              "Department of Political Science, Brigham Young University"
+            ],
+            "Jessica R. Preece": [
+              "Department of Political Science, Brigham Young University"
+            ],
+            "Joshua R. Gubler": [
+              "Department of Political Science, Brigham Young University"
+            ],
+            "Justin Olcott": [
+              "Department of Computer Science, Brigham Young University"
+            ],
+            "Lisa P. Argyle": [
+              "Department of Political Science, Purdue University"
+            ],
+            "Parker Davis": [
+              "Department of Political Science, Brigham Young University"
+            ]
+          },
+          "authors": [
+            "Ethan C. Busby",
+            "Lisa P. Argyle",
+            "Parker Davis",
+            "Joshua R. Gubler",
+            "Bryce Hepner",
+            "Christopher F. Karpowitz",
+            "Alex Lyman",
+            "Justin Olcott",
+            "Jessica R. Preece",
+            "David Wingate"
+          ],
+          "constructs": [
+            "Persuasion",
+            "Gender Roles"
+          ],
+          "doi": "10.1073/pnas.2615776123",
+          "is_editorial": false,
+          "journal": "Proceedings of the National Academy of Sciences",
+          "journal_short": "PNAS",
+          "method": "실험",
+          "method_detail": "전화 대화 실험",
+          "publication_date": "2026-11-17",
+          "stable_id": "doi:10.1073/pnas.2615776123",
+          "summary_basis": "abstract",
+          "summary_ko": "정치적 대화에서 설득 영향력의 성별 격차가 화자의 성별 인식과 언어·수사 전략 중 무엇에서 비롯되는지, 4,300명을 AI 에이전트와 실시간 전화 대화에 참여시킨 실험으로 검토했다. 음성으로 인식된 AI 에이전트의 성별은 설득에 직접 영향을 주지 않았지만, 응답자는 여성 지원보다 국방비 지출 주제에 더 설득됐고 여성 응답자가 남성 응답자보다 평균적으로 더 많이 설득됐다.",
+          "title": "The sound of persuasion: Using generative AI to identify gender gaps in political influence",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1073/pnas.2615776123"
+        },
+        {
+          "abstract": "Abstract Research Summary While firms face pressure to engage in Environmental, Social, and Governance (ESG) practices, it is unclear how they should specifically engage given the breadth of sustainability‐related concerns. Drawing on optimal distinctiveness and social evaluations research, we argue that public criticism directed toward an industry creates oscillating pressures for firms to conform with or deviate from industry ESG norms. Using data on 8176 global companies from 2013 to 2022, we find that although ESG conformity benefits investor evaluations, once industry peers' public criticism accumulates beyond a threshold, ESG differentiation is rewarded, particularly when firms increase material ESG practices and reduce immaterial ones. Our study reveals how public criticism dynamically reshapes the evaluative processes by which investors determine firm legitimacy, bridging optimal distinctiveness and social evaluations literatures. Managerial Summary Our research indicates that firms often adopt similar ESG practices as their industry peers, which usually enhances investor evaluations. However, this conformity can backfire and become a liability when industry peers face significant criticism. In such scenarios, firms that adopt distinctive ESG practices compared to the industry tend to receive greater rewards, especially when differentiation involves increasing material ESG practices and reducing immaterial ones. Therefore, while adopting ESG norms can be beneficial, managers should be vigilant of public opinion and ready to deviate from those norms when necessary.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Matthew Grimes": [
+              "Cambridge Judge Business School University of Cambridge Cambridge UK"
+            ],
+            "Nareuporn (Bell) Piyasinchai": [
+              "Department of Organization Studies Tilburg University Tilburg the Netherlands"
+            ]
+          },
+          "authors": [
+            "Nareuporn (Bell) Piyasinchai",
+            "Matthew Grimes"
+          ],
+          "constructs": [
+            "Optimal Distinctiveness",
+            "Social Evaluations"
+          ],
+          "doi": "10.1002/smj.70144",
+          "is_editorial": false,
+          "journal": "Strategic Management Journal",
+          "journal_short": "SMJ",
+          "method": "준실험",
+          "method_detail": "글로벌 패널 분석",
+          "publication_date": "2026-11-17",
+          "stable_id": "doi:10.1002/smj.70144",
+          "summary_basis": "abstract",
+          "summary_ko": "2013~2022년 전 세계 8,176개 기업 자료로 산업 내 동료 기업을 향한 공개 비판이 기업의 ESG 규범 순응과 차별화 압력, 투자자 평가에 미치는 영향을 분석했다. 산업 동료에 대한 공개 비판이 임계치를 넘으면 ESG 차별화가 보상받았고, 특히 중요한 ESG 관행을 늘리고 중요하지 않은 관행을 줄인 경우에 그 효과가 나타났다.",
+          "title": "Should birds of a feather flock together: How public criticism shapes pressures for sustainability conformity and differentiation",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1002/smj.70144"
+        },
+        {
+          "abstract": "Abstract Research Summary We examine how the nature of female representation in tech entrepreneurial projects may be related to the evaluations of the projects. We argue that silent female representation —i.e., women are present but do not speak in representing projects—may reinforce the stereotyped view of women, resulting in lower project evaluations relative to male‐only projects, whereas active female representation may not lead to evaluation penalty. We further predict that the negative association between silent female representation and project evaluation is stronger when the evaluators are women than when they are men. Conducted in a unique setting wherein female and male evaluators on panels, independently and confidentially, rated funding applications represented by various mixes of male and female entrepreneurs, our study provides evidence that is consistent with these predictions. Managerial Summary It is widely recognized that female entrepreneurs face greater challenges than their male counterparts when seeking external financial resources in the tech sector. This funding disparity may start from evaluation disparity. We find that projects with silent female representation—i.e., women are present but do not speak—receive lower evaluations than male‐only projects, whereas projects with active female representation receive evaluations comparable to male‐only projects. We also find that female evaluators are more likely than male evaluators to penalize projects with silent female representation. Our research offers valuable insights into strategies for fostering gender equality in traditionally male‐dominated fields.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Jizhen Li": [
+              "School of Economics and Management Tsinghua University Beijing China"
+            ],
+            "Lun Li": [
+              "Business School Beijing Normal University Beijing China"
+            ],
+            "Xiwei Yi": [
+              "Guanghua School of Management Peking University Beijing China"
+            ],
+            "Yan “Anthea” Zhang": [
+              "School of Business Rice University Houston Texas USA"
+            ]
+          },
+          "authors": [
+            "Yan “Anthea” Zhang",
+            "Lun Li",
+            "Jizhen Li",
+            "Xiwei Yi"
+          ],
+          "constructs": [
+            "Gender Representation",
+            "Gender Stereotypes"
+          ],
+          "doi": "10.1002/smj.70143",
+          "is_editorial": false,
+          "journal": "Strategic Management Journal",
+          "journal_short": "SMJ",
+          "method": "준실험",
+          "method_detail": "패널 평가 자료",
+          "publication_date": "2026-11-17",
+          "stable_id": "doi:10.1002/smj.70143",
+          "summary_basis": "abstract",
+          "summary_ko": "기술 기업가 프로젝트에서 여성이 उपस्थित하지만 발언하지 않는 ‘침묵하는 여성 대표성’이 평가자 성별에 따라 프로젝트 평가와 어떤 관련을 갖는지, 남녀 평가자가 자금지원 신청서를 독립적·비공개로 평가한 패널 자료로 분석했다. 침묵하는 여성 대표성이 있는 프로젝트는 남성만 참여한 프로젝트보다 낮은 평가를 받았고, 여성 평가자가 남성 평가자보다 이를 더 크게 감점했으며, 여성이 적극적으로 발언한 경우에는 평가 차이가 나타나지 않았다.",
+          "title": "Silent female representation and tech entrepreneurial project evaluation: The role of evaluators' genders",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1002/smj.70143"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -29506,7 +29845,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -29521,7 +29860,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -29542,7 +29881,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1002/pam.70142": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -29557,7 +29896,7 @@
         "title": "Excellence in Refereeing Award Announcement",
         "url": "https://doi.org/10.1002/pam.70142"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1002/smj.70058": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29572,7 +29911,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70058"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1002/smj.70059": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29587,7 +29926,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70059"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -29612,7 +29951,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -29647,7 +29986,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -29668,7 +30007,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1037/apl0001426.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29683,7 +30022,7 @@
         "title": "Supplemental Material for On Criterion Weighting to Reduce Adverse Impact",
         "url": "https://doi.org/10.1037/apl0001426.supp"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1037/apl0001442.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29698,7 +30037,7 @@
         "title": "Supplemental Material for A Meta-Analysis of Three Decades of Construct Measurement Research on Situational Judgment Tests: Toward a Balance Between Construct Clarity and Predictive Power",
         "url": "https://doi.org/10.1037/apl0001442.supp"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1037/pspa0000505.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29713,7 +30052,7 @@
         "title": "Supplemental Material for A Systematic Investigation of Age–Gender Intersectional Stereotypes and Their Consequences",
         "url": "https://doi.org/10.1037/pspa0000505.supp"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1037/pspi0000537.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29728,7 +30067,7 @@
         "title": "Supplemental Material for Individual, Interpersonal, and Socioeconomic Predictors of Divorce: A 12-Year Prospective Study",
         "url": "https://doi.org/10.1037/pspi0000537.supp"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1037/pspi0000538.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29743,7 +30082,7 @@
         "title": "Supplemental Material for The More, the Better? Evidence of Parallel Growth in Intergroup Contact Quantity and Quality Over Time",
         "url": "https://doi.org/10.1037/pspi0000538.supp"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1037/pspp0000620.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29758,7 +30097,7 @@
         "title": "Supplemental Material for Navigating Divorce and Partner Bereavement: Personality and Trajectories of Change in Life Satisfaction and Mental Health",
         "url": "https://doi.org/10.1037/pspp0000620.supp"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1037/pspp0000623.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29773,7 +30112,7 @@
         "title": "Supplemental Material for Examining the Gender-Equality Paradox in Values Using a New Measure of Value-Based Gender Typicality",
         "url": "https://doi.org/10.1037/pspp0000623.supp"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1037/pspp0000627.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29788,7 +30127,7 @@
         "title": "Supplemental Material for The Structure and History of English Words That Describe People",
         "url": "https://doi.org/10.1037/pspp0000627.supp"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1038/d41586-026-03578-y": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -29805,7 +30144,7 @@
         "title": "The public trusts scientists with AI — more than it does anyone else",
         "url": "https://doi.org/10.1038/d41586-026-03578-y"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1038/s41562-026-02639-6": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -29858,7 +30197,82 @@
         "title": "AI ‘slop’ is a social judgement",
         "url": "https://doi.org/10.1038/s41562-026-02639-6"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+    },
+    "doi:10.1080/10584609.2026.2757595": {
+      "first_seen_at": "2026-11-18T15:36:58.331637+00:00",
+      "item": {
+        "author_affiliations": {
+          "Hyo Jung Kim": [
+            "Pusan National University"
+          ],
+          "Sunhae Sul": [
+            "Hanyang University"
+          ],
+          "Woojin Jung": [
+            "Pusan National University"
+          ]
+        },
+        "authors": [
+          "Woojin Jung",
+          "Sunhae Sul",
+          "Hyo Jung Kim"
+        ],
+        "doi": "10.1080/10584609.2026.2757595",
+        "journal": "Political Communication",
+        "journal_short": "PolComm",
+        "publication_date": "2026-11-18",
+        "stable_id": "doi:10.1080/10584609.2026.2757595",
+        "title": "When Attitude and Partisanship Collide: The Role of Cognitive Dissonance and Psychological Reactance on Pro-Attitudinal News Selection",
+        "url": "https://doi.org/10.1080/10584609.2026.2757595"
+      },
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+    },
+    "doi:10.1080/14719037.2026.2758287": {
+      "first_seen_at": "2026-11-18T15:36:58.331637+00:00",
+      "item": {
+        "author_affiliations": {
+          "Morten Skov Madsen": [
+            "Roskilde University"
+          ],
+          "Ole Helby Petersen": [
+            "Roskilde University"
+          ]
+        },
+        "authors": [
+          "Morten Skov Madsen",
+          "Ole Helby Petersen"
+        ],
+        "doi": "10.1080/14719037.2026.2758287",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-11-18",
+        "stable_id": "doi:10.1080/14719037.2026.2758287",
+        "title": "Building contract management capacity in government organizations: contrasting priorities of public and vendor managers",
+        "url": "https://doi.org/10.1080/14719037.2026.2758287"
+      },
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+    },
+    "doi:10.1080/14719037.2026.2765325": {
+      "first_seen_at": "2026-11-18T15:36:58.331637+00:00",
+      "item": {
+        "author_affiliations": {
+          "Guang Yang": [
+            "Shandong Normal University"
+          ]
+        },
+        "authors": [
+          "Guang Yang"
+        ],
+        "doi": "10.1080/14719037.2026.2765325",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-11-18",
+        "stable_id": "doi:10.1080/14719037.2026.2765325",
+        "title": "Why do ‘public service satisfaction surveys’ dissatisfy many people? A process model of the implementation paradox emerging when policy implementation meets co-production fatigue",
+        "url": "https://doi.org/10.1080/14719037.2026.2765325"
+      },
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -29887,7 +30301,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -29907,7 +30321,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -29924,7 +30338,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -29941,7 +30355,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -29959,7 +30373,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -29976,7 +30390,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -29995,7 +30409,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -30013,7 +30427,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -30032,7 +30446,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -30050,7 +30464,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -30067,7 +30481,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -30086,7 +30500,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -30104,7 +30518,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -30122,7 +30536,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1086/744871": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30139,7 +30553,7 @@
         "title": "Running in Context: Marginalization, Political Ambition, and Candidate Emergence",
         "url": "https://doi.org/10.1086/744871"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1086/744929": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -30186,7 +30600,7 @@
         "title": "Political Unfriending on Facebook: Evidence from over 180 Million Users",
         "url": "https://doi.org/10.1086/744929"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1086/744971": {
       "first_seen_at": "2026-11-17T15:57:19.481357+00:00",
@@ -30205,7 +30619,7 @@
         "title": "Breaking the Legal Stalemate: How Membership Changes and Position Uncertainty Shift Attorney Strategies at the U.S. Supreme Court",
         "url": "https://doi.org/10.1086/744971"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -30226,7 +30640,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -30241,7 +30655,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -30256,7 +30670,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -30277,7 +30691,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -30292,7 +30706,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -30307,7 +30721,32 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-17T15:57:19.481357+00:00"
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+    },
+    "doi:10.5465/amj.2024.1009": {
+      "first_seen_at": "2026-11-18T15:36:58.331637+00:00",
+      "item": {
+        "author_affiliations": {
+          "Meredith Woehler": [
+            "Purdue University"
+          ],
+          "Tae-Youn Park": [
+            "Sungkyunkwan University"
+          ]
+        },
+        "authors": [
+          "Meredith Woehler",
+          "Tae-Youn Park"
+        ],
+        "doi": "10.5465/amj.2024.1009",
+        "journal": "Academy of Management Journal",
+        "journal_short": "AMJ",
+        "publication_date": "2026-11-18",
+        "stable_id": "doi:10.5465/amj.2024.1009",
+        "title": "The Consequences of Pay Standing under Pay Range Transparency",
+        "url": "https://doi.org/10.5465/amj.2024.1009"
+      },
+      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
     }
   },
   "skipped": {
