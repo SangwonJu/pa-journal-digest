@@ -29888,6 +29888,469 @@
       ],
       "sent_at": "2026-11-18T15:45:48.433716+00:00",
       "status": "sent"
+    },
+    "2026-11-19-761da8293daaaa7c": {
+      "created_at": "2026-11-19T15:42:45.728772+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-19-761da8293daaaa7c",
+      "items": [
+        {
+          "abstract": "Pay range transparency—that is, disclosing the minimum and maximum pay for a job rather than individuals’ actual pay—has become the most prevalent form of pay transparency. Yet, existing theories explain employee reactions to pay information through present-focused, interpersonal comparisons with coworkers’ pay. We theorize that pay range transparency instead directs employees to interpret their structural pay standing—their pay position relative to the disclosed range boundaries—as a forward-looking signal of the organization’s recognition and structural room for pay growth. Drawing on expectancy theory, we propose that structural pay standing has a curvilinear (attenuated-positive) effect on job satisfaction, intention to stay, and job performance, mediated by pay growth uncertainty: pay near the range minimum offers weak evidence that contributions will be recognized, whereas pay near the maximum reveals limited structural room for further growth, a pattern we term a ceiling effect. Pay-related procedural justice attenuates these effects. Four studies—a natural experiment (n = 371), an online experiment (n = 603), a three-wave field study (n = 525), and an experimental-causal-chain study (n = 392)—support our theorizing, establishing structural pay standing as distinct from interpersonal pay standing and revealing an unrecognized trade-off of pay range transparency.",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {
+            "Meredith Woehler": [
+              "Purdue University"
+            ],
+            "Tae-Youn Park": [
+              "Sungkyunkwan University"
+            ]
+          },
+          "authors": [
+            "Meredith Woehler",
+            "Tae-Youn Park"
+          ],
+          "constructs": [
+            "Expectancy Theory",
+            "Procedural Justice"
+          ],
+          "doi": "10.5465/amj.2024.1009",
+          "is_editorial": false,
+          "journal": "Academy of Management Journal",
+          "journal_short": "AMJ",
+          "method": "혼합방법론",
+          "method_detail": "다중 연구 설계",
+          "publication_date": "2026-11-18",
+          "stable_id": "doi:10.5465/amj.2024.1009",
+          "summary_basis": "abstract",
+          "summary_ko": "Pay range transparency에서 임금 범위 내 개인의 구조적 임금 위치가 직무만족, 잔류 의도, 직무성과와 어떻게 연결되는지 자연실험(n=371), 온라인 실험(n=603), 3시점 현장연구(n=525), 실험적 인과연쇄 연구(n=392)로 검토했다. 구조적 임금 위치는 임금 상승 불확실성을 매개로 세 결과에 완만한 곡선형의 정적 효과를 보였으며, 최저임금에 가까우면 기여 인정의 신호가 약하고 최고임금에 가까우면 추가 성장 여지가 제한되는 ceiling effect가 나타났고, 임금 관련 절차적 공정성이 이 효과를 약화시켰다.",
+          "title": "The Consequences of Pay Standing under Pay Range Transparency",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.5465/amj.2024.1009"
+        },
+        {
+          "abstract": "Voter opposition to dense housing development contributes to America’s housing shortage. Prevailing explanations emphasize homeowner self-interest and “NIMBYism.” We develop a theory of how sociotropic aesthetic judgments shape housing policy preferences and demonstrate its unique implications with a series of descriptive studies and experiments. First, people who choose to live in dense neighborhoods have an aesthetic taste for density, leading homeowners in already-dense areas to be more supportive of dense development both in their neighborhoods and elsewhere. Second, voters are more supportive of dense development when it is proposed in already-dense neighborhoods where it “fits”—even voters who live in those same dense neighborhoods. Finally, genuine aesthetic distaste for tall buildings is widespread and causally affects support for development. Our findings offer a new lens for understanding housing policy preferences and suggest novel solutions for addressing America’s housing shortage.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "CHRISTOPHER S. ELMENDORF": [
+              "University of California, Davis"
+            ],
+            "DAVID E. BROOCKMAN": [
+              "University of California, Berkeley"
+            ],
+            "JOSHUA L. KALLA": [
+              "Yale University"
+            ]
+          },
+          "authors": [
+            "DAVID E. BROOCKMAN",
+            "CHRISTOPHER S. ELMENDORF",
+            "JOSHUA L. KALLA"
+          ],
+          "constructs": [
+            "NIMBYism",
+            "Aesthetic Judgment"
+          ],
+          "doi": "10.1017/s0003055426102226",
+          "is_editorial": false,
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-11-19",
+          "stable_id": "doi:10.1017/s0003055426102226",
+          "summary_basis": "abstract",
+          "summary_ko": "미국의 주택 부족과 관련해 고밀도 주택 개발에 대한 유권자 반대가 자기이익이나 NIMBYism만으로 설명되는지, 사회 전체를 향한 미적 판단이 정책 선호에 미치는 영향을 서술 연구와 실험으로 검토했다. 고밀도 지역에 사는 사람은 고밀도를 미적으로 선호해 개발을 더 지지했으며, 기존 고밀도 지역과 조화를 이루는 개발에는 같은 지역 주민을 포함해 지지가 높았고, 고층 건물에 대한 미적 거부감도 개발 지지를 인과적으로 낮췄다.",
+          "title": "How Sociotropic Aesthetic Judgments Drive Opposition to Dense Housing Development",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1017/s0003055426102226"
+        },
+        {
+          "abstract": "This article reconsiders Thucydides’s role as a foundational theorist of human nature. Contrary to conventional readings, I argue that Thucydides approaches “nature” ( physis ) less as a universal principle of behavior than as a site of political and theoretical investigation. By distinguishing his authorial voice from those of his speakers, I demonstrate that his analysis consistently approaches human nature as a limit concept—a baseline and boundary of human capacity that emerges in moments of existential precarity—while introducing a more nuanced set of terms to describe the habitual behaviors of political groups. By nevertheless foregrounding the more robust and determinative concept of nature in moments of contentious deliberation, Thucydides encourages reflection on the political dynamics that generate essentialist theories in public discourse. His account thus serves as a helpful point of reference for thinking about how competitive, polarizing speech affects the substantive categories of political debate and analysis, and through them political action.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "MARK D. FISHER": [
+              "Georgetown University"
+            ]
+          },
+          "authors": [
+            "MARK D. FISHER"
+          ],
+          "constructs": [
+            "Human Nature",
+            "Essentialism"
+          ],
+          "doi": "10.1017/s000305542610224x",
+          "is_editorial": false,
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "이론/개념",
+          "method_detail": "텍스트 해석",
+          "publication_date": "2026-11-19",
+          "stable_id": "doi:10.1017/s000305542610224x",
+          "summary_basis": "abstract",
+          "summary_ko": "Thucydides가 인간 본성(physis)을 보편적 행동 원리가 아니라 정치적·이론적 탐구의 대상이자 실존적 위기에서 드러나는 인간 능력의 기준선과 경계로 다루는지 검토했다. 저자의 목소리와 등장인물의 발화를 구분해 분석한 결과, Thucydides는 정치 집단의 습관적 행동을 별도 용어로 설명하면서도 논쟁적 숙의에서는 본성 개념을 전면에 내세워, 경쟁적이고 양극화된 담론이 정치적 논의와 행동의 범주를 어떻게 본질주의적으로 구성하는지 성찰하게 했다.",
+          "title": "The Limit of Nature: Thucydides and the Politics of Theory",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1017/s000305542610224x"
+        },
+        {
+          "abstract": "Push notifications can do more than promote a single merchant: They can redirect attention across an entire mobile marketplace. Drawing on more than 200 campaigns, 60 million user-campaign observations, and two controlled experiments, this study shows that notifications substantially increase same-day engagement with advertised merchants while also generating meaningful spillovers to other merchants within and across categories. Effectiveness varies by merchant, user, message design, and delivery timing. Notifications tend to work especially well for less prominent merchants, newer users, Android users, deeper discounts, urgency cues, and carefully timed delivery. However, repeated exposure produces diminishing returns and can eventually reduce engagement as annoyance and attentional overload increase. For platform managers, the findings support managing notifications as a portfolio rather than evaluating campaigns in isolation: targeting, message design, timing, cross-merchant benefits, and cumulative frequency should be optimized jointly. Platforms should also incorporate spillover value into campaign pricing, performance reporting, and merchant communication. For policymakers and platform-governance leaders, the results underscore the importance of meaningful consent, frequency controls, and transparent notification practices that protect user attention while preserving the economic benefits of timely, relevant mobile communication.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Bicheng Yang": [
+              "Department of Management and Marketing, Faculty of Business, The Hong Kong Polytechnic University, Hung Hom, Hong Kong"
+            ],
+            "Subodha Kumar": [
+              "Department of Statistics, Operations, and Data Science, Fox School of Business, Temple University, Philadelphia, Pennsylvania 19122"
+            ],
+            "Zhuping Liu": [
+              "Allen G. Aaronson Department of Marketing and International Business, Zicklin School of Business, Baruch College, City University of New York, New York, New York 10010"
+            ]
+          },
+          "authors": [
+            "Zhuping Liu",
+            "Bicheng Yang",
+            "Subodha Kumar"
+          ],
+          "constructs": [
+            "Push Notifications",
+            "Spillover Effects"
+          ],
+          "doi": "10.1287/isre.2024.0917",
+          "is_editorial": false,
+          "journal": "Information Systems Research",
+          "journal_short": "ISR",
+          "method": "혼합방법론",
+          "method_detail": "캠페인 분석·통제실험",
+          "publication_date": "2026-11-18",
+          "stable_id": "doi:10.1287/isre.2024.0917",
+          "summary_basis": "abstract",
+          "summary_ko": "200개가 넘는 캠페인, 6천만 건의 사용자·캠페인 관측치와 두 차례 통제실험을 분석해 모바일 앱의 푸시 알림이 광고된 상점의 당일 참여를 높이고, 같은 범주와 다른 범주의 상점에도 긍정적 파급효과를 낳는지 검토했다. 효과는 상점·사용자·메시지·전달 시점에 따라 달랐으며, 반복 노출은 한계효과가 줄고 알림 피로와 주의 과부하로 참여를 낮출 수 있어 플랫폼이 캠페인을 포트폴리오와 누적 빈도 차원에서 함께 관리해야 한다고 제시했다.",
+          "title": "Campaigns That Click: Unleashing the Power of Push Notifications on Mobile Apps",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1287/isre.2024.0917"
+        },
+        {
+          "abstract": "AI-generated review summaries are reshaping how consumers access product information, but their influence also extends to consumers who write reviews. Examining Amazon’s rollout of AI-generated review summaries, we find that these summaries encourage more review contributions and richer content. Consumers discuss product attributes absent from the summaries and elaborate on topics already covered. A controlled experiment suggests that summaries strengthen consumers’ belief that their contributions, together with others’, help future buyers make informed decisions. The increase in review contributions is stronger for products with many existing reviews or mixed ratings. Platform managers could prioritize summaries for products with mixed ratings, for which additional reviews can provide a more complete picture for future buyers. To build on richer review content, platforms could use writing prompts that highlight product attributes underrepresented in AI summaries. However, additional analyses suggest that AI summaries disproportionately benefit products that already sell well, potentially reinforcing sales concentration. Platforms could increase exposure for niche or new products, whereas policymakers could encourage fairness standards and periodic assessments of how AI-generated summaries affect product visibility and sales concentration. These findings highlight the potential of AI summaries to encourage consumer contributions, drawing attention to the risk of increased sales concentration.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Liangfei Qiu": [
+              "Warrington College of Business, University of Florida, Gainesville, Florida 32611"
+            ],
+            "Qili Wang": [
+              "Fisher College of Business, The Ohio State University, Columbus, Ohio 43210"
+            ],
+            "Runyu Chen": [
+              "School of Artificial Intelligence and Data Science, University of International Business and Economics, Beijing 100029, China"
+            ],
+            "Yi Su": [
+              "Warrington College of Business, University of Florida, Gainesville, Florida 32611"
+            ]
+          },
+          "authors": [
+            "Qili Wang",
+            "Yi Su",
+            "Liangfei Qiu",
+            "Runyu Chen"
+          ],
+          "constructs": [
+            "Generative AI",
+            "User Contributions"
+          ],
+          "doi": "10.1287/isre.2024.1282",
+          "is_editorial": false,
+          "journal": "Information Systems Research",
+          "journal_short": "ISR",
+          "method": "혼합방법론",
+          "method_detail": "플랫폼 분석·실험",
+          "publication_date": "2026-11-18",
+          "stable_id": "doi:10.1287/isre.2024.1282",
+          "summary_basis": "abstract",
+          "summary_ko": "Amazon의 AI 생성 리뷰 요약 도입이 소비자의 리뷰 작성에 미친 영향을 플랫폼 도입 분석과 통제 실험으로 examined했다. 리뷰 기여와 내용의 풍부함이 증가했고, 기존 리뷰가 많거나 평점이 혼재한 상품에서 효과가 강했지만 판매가 높은 상품에 혜택이 집중돼 판매 집중을 강화할 가능성도 나타났다.",
+          "title": "Navigating the Sea of Reviews: Unveiling the Effects of Introducing AI-Generated Summaries in E-Commerce",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1287/isre.2024.1282"
+        },
+        {
+          "abstract": "Telehealth is often promoted as a way to expand healthcare access, particularly for underserved populations, yet its benefits are far from uniform. Our research shows that how telehealth is delivered matters. Using data from U.S. Community Health Centers, we examine two common delivery models for mental healthcare: specialist-facilitated telehealth, in which health centers connect patients with external specialists, and remote telehealth, in which patients receive care virtually from their own locations. We find that specialist-facilitated telehealth expands access, increasing the number of mental health patients served and visits, with particularly strong benefits in areas where specialists are scarce and clinical need is high. Remote telehealth, by contrast, does not increase access on average but improves adherence to standardized depression screening and follow-up protocols. Its benefits also depend on local conditions; limited device access can constrain utilization gains, whereas transportation barriers increase the value of remote care. For healthcare organizations and policymakers, these findings suggest that the benefits of telehealth depend on how and where it is implemented. Different delivery models address different barriers. Effective telehealth strategies should, therefore, match the design of care delivery to the specific constraints facing the communities that they serve.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Kyuyeon (Jenny) Rhee": [
+              "W. P. Carey School of Business, Arizona State University, Tempe, Arizona 85287"
+            ],
+            "Pei-yu Chen": [
+              "W. P. Carey School of Business, Arizona State University, Tempe, Arizona 85287"
+            ],
+            "Tan (Suparerk) Lekwijit": [
+              "W. P. Carey School of Business, Arizona State University, Tempe, Arizona 85287"
+            ],
+            "Xiao Liu": [
+              "W. P. Carey School of Business, Arizona State University, Tempe, Arizona 85287"
+            ]
+          },
+          "authors": [
+            "Kyuyeon (Jenny) Rhee",
+            "Xiao Liu",
+            "Tan (Suparerk) Lekwijit",
+            "Pei-yu Chen"
+          ],
+          "constructs": [
+            "Telehealth",
+            "Healthcare Access"
+          ],
+          "doi": "10.1287/isre.2024.1104",
+          "is_editorial": false,
+          "journal": "Information Systems Research",
+          "journal_short": "ISR",
+          "method": "준실험",
+          "method_detail": "행정자료 분석",
+          "publication_date": "2026-11-18",
+          "stable_id": "doi:10.1287/isre.2024.1104",
+          "summary_basis": "abstract",
+          "summary_ko": "미국 Community Health Centers 자료로 정신건강 원격의료의 전문의 연계형과 원격형 전달모형이 취약계층의 접근성과 진료 프로토콜 준수에 미치는 차이를 분석했다. 전문의 연계형은 전문의 부족과 임상적 필요가 큰 지역에서 이용 환자와 방문 횟수를 늘렸고, 원격형은 평균적으로 접근성을 높이지 않았지만 우울증 선별검사와 후속관리 프로토콜 준수를 개선했으며 기기 접근성과 교통 장벽에 따라 효과가 달라졌다.",
+          "title": "Technology-Mediated Services in Healthcare: Evaluating Telehealth Delivery Models for Underserved Populations",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1287/isre.2024.1104"
+        },
+        {
+          "abstract": "Generative AI is reshaping online labor markets in ways that go beyond simple job displacement. Using evidence from a leading freelance platform around the release of ChatGPT, this study shows that demand falls sharply in markets whose tasks closely match large language model capabilities. Labor supply also declines, but less than demand, leaving remaining freelancers to compete more intensely for fewer jobs. The study also identifies an important adaptive response: Some freelancers shift toward programming-intensive work as generative AI lowers the human-capital barrier to coding. These transitions are not evenly distributed. Higher-skilled freelancers are more likely to make the shift and to preserve or improve their earning efficiency, whereas less-skilled workers face greater risk of being left behind. The findings suggest that platforms and policymakers should treat AI not only as an automation shock but also as a force that redirects labor supply. Effective responses include real-time information about changing demand, targeted reskilling support, and training that builds workers’ capacity to learn and use new AI tools strategically.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Jin Liu": [
+              "School of Economics and Management, Beijing Jiaotong University, Beijing 100044, China"
+            ],
+            "Xi Nan": [
+              "Michael G. Foster School of Business, University of Washington, Seattle, Washington 98195"
+            ],
+            "Xingchen (Cedric) Xu": [
+              "Michael G. Foster School of Business, University of Washington, Seattle, Washington 98195"
+            ],
+            "Yong Tan": [
+              "Michael G. Foster School of Business, University of Washington, Seattle, Washington 98195"
+            ],
+            "Yongjun Li": [
+              "School of Management, University of Science and Technology of China, Hefei 230026, China"
+            ]
+          },
+          "authors": [
+            "Jin Liu",
+            "Xingchen (Cedric) Xu",
+            "Xi Nan",
+            "Yongjun Li",
+            "Yong Tan"
+          ],
+          "constructs": [
+            "Generative AI",
+            "Labor Supply"
+          ],
+          "doi": "10.1287/isre.2023.0461",
+          "is_editorial": false,
+          "journal": "Information Systems Research",
+          "journal_short": "ISR",
+          "method": "준실험",
+          "method_detail": "출시 전후 분석",
+          "publication_date": "2026-11-18",
+          "stable_id": "doi:10.1287/isre.2023.0461",
+          "summary_basis": "abstract",
+          "summary_ko": "ChatGPT 출시 전후 선도적 프리랜서 플랫폼 자료를 활용해 생성형 AI 역량과 과업이 겹치는 온라인 노동시장에서 수요·공급 변화와 프리랜서의 직무 전환을 분석했다. AI와 유사한 과업의 수요는 급감했고 공급은 덜 감소해 경쟁이 심해졌으며, 일부 프리랜서는 프로그래밍 중심 업무로 이동했지만 고숙련자는 소득 효율을 유지·개선한 반면 저숙련자는 뒤처질 위험이 컸다.",
+          "title": "“Generate” the Future of Work Through AI: Empirical Evidence from Online Labor Markets",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1287/isre.2023.0461"
+        },
+        {
+          "abstract": "Two decades have passed since Labianca and Brass introduced social ledger theory with its focal assumption of negative asymmetry—that the social liabilities created by negative workplace ties are more strongly related to employee outcomes than the social assets created by positive workplace ties. Yet widespread conclusions that negative workplace ties are more consequential have exceeded a surprisingly limited base of empirical tests. This article uses meta-analysis to examine this largely untested assumption by offering 22 original meta-analytic estimates drawn from 248 effect sizes across 71 samples representing 13,369 employees. At the bivariate level, both positive and negative ties have significant relationships with employee outcomes. However, evidence consistent with negative asymmetry emerged only for out-degree ties predicting task performance. In contrast, evidence more consistent with positive asymmetry emerged for in-degree ties predicting task performance and for both in-degree and out-degree ties predicting organizational attachment, although the relationships between in-degree ties and attachment are relatively small. Considerable variation exists around the effect sizes constituting these patterns, suggesting that future research is needed to consider moderating factors that may shift the relative importance of negative versus positive ties. We discuss the implications for refining social ledger theory and for helping practitioners managing social assets and liabilities in organizations.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Eean R. Crawford": [
+              "University of Iowa"
+            ],
+            "Hamed Ghahremani": [
+              "Louisiana State University New Orleans"
+            ],
+            "Kameron M. Carter": [
+              "Old Dominion University"
+            ],
+            "Prasad Balkundi": [
+              "University at Buffalo (SUNY)"
+            ],
+            "Robert J. Barrett": [
+              "Midway University"
+            ]
+          },
+          "authors": [
+            "Kameron M. Carter",
+            "Hamed Ghahremani",
+            "Eean R. Crawford",
+            "Prasad Balkundi",
+            "Robert J. Barrett"
+          ],
+          "constructs": [
+            "Social Ledger Theory",
+            "Negative Asymmetry"
+          ],
+          "doi": "10.1177/01492063261495910",
+          "is_editorial": false,
+          "journal": "Journal of Management",
+          "journal_short": "JOM",
+          "method": "혼합방법론",
+          "method_detail": "메타분석",
+          "publication_date": "2026-11-19",
+          "stable_id": "doi:10.1177/01492063261495910",
+          "summary_basis": "abstract",
+          "summary_ko": "직장 내 긍정적·부정적 사회적 연결이 직원 성과와 조직 애착에 미치는 상대적 영향이 사회적 원장 이론의 부정적 비대칭 가정과 일치하는지 메타분석했다. 71개 표본, 13,369명 직원의 248개 효과크기를 분석한 결과, 부정적 연결의 영향이 더 큰 양상은 과업성과를 예측하는 발신 연결에서만 나타났고, 다른 경우에는 긍정적 연결의 영향이 더 큰 양상이 나타났으며 효과크기에는 상당한 변이가 있었다.",
+          "title": "Examining Negative Asymmetry in Employee Social Networks: A Meta-Analysis",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1177/01492063261495910"
+        },
+        {
+          "abstract": "ABSTRACT This study examines the labor market impacts of marijuana legalization in a unique setting: a large employer, the Department of the Air Force (DAF), with strict drug use policy for its employees (military service members). US military recruiting has grown more difficult, partly due to declining eligibility among young adults, with drug use cited as a factor. The spread of recreational marijuana laws (RMLs) may affect recruitment, drug use, and discipline among service members. Using a difference‐in‐differences approach, we find that RMLs do not impede recruit quality, although there is some evidence of fewer Black people recruited in RML states. Among serving military members, positive marijuana tests increase for some groups (particularly White enlisted members), but overall illicit drug use shows little evidence of rising, as part of the increase reflects substitution across substances. We find no strong evidence of changes in overall discipline but do find increases in grade reductions (a form of discipline), possibly reflecting differential disciplinary treatment of marijuana relative to other substances or differential behavioral responses to its use.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Aaron Albert": [
+              "Department of Economics and Geosciences US Air Force Academy Colorado Springs Colorado USA"
+            ],
+            "Anne Portlock": [
+              "Department of Economics and Geosciences US Air Force Academy Colorado Springs Colorado USA"
+            ],
+            "Zachary S. Fone": [
+              "Office of Labor and Economic Analysis US Air Force Academy Colorado Springs Colorado USA"
+            ]
+          },
+          "authors": [
+            "Zachary S. Fone",
+            "Aaron Albert",
+            "Anne Portlock"
+          ],
+          "constructs": [
+            "Recruitment",
+            "Disciplinary Actions"
+          ],
+          "doi": "10.1002/pam.70140",
+          "is_editorial": false,
+          "journal": "Journal of Policy Analysis and Management",
+          "journal_short": "JPAM",
+          "method": "준실험",
+          "method_detail": "이중차분",
+          "publication_date": "2026-11-18",
+          "stable_id": "doi:10.1002/pam.70140",
+          "summary_basis": "abstract",
+          "summary_ko": "미국 공군부(DAF)를 대상으로 오락용 marijuana 합법화가 모집, 복무자의 약물 사용, 징계에 미친 영향을 이중차분으로 분석했다. 합법화 주에서 모집 인력의 질은 저하되지 않았고, 일부 집단의 marijuana 양성 검사와 grade reductions는 증가했지만 전체 불법 약물 사용과 전반적 징계 변화의 강한 증거는 나타나지 않았다.",
+          "title": "Aim High: The Impacts of Marijuana Legalization on Air Force Recruitment, Drug Use, and Disciplinary Actions",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1002/pam.70140"
+        },
+        {
+          "abstract": "Abstract Administrative burden scholarship has identified psychological costs alongside learning and compliance costs, yet the category remains homogeneous, grouping stigma, diminished autonomy, and stress, without a shared organizing principle. This article advances a mechanism-level account centered on recognition, drawing on a qualitative case study of claiming disability benefits in Israel, based on in-depth interviews with 33 individuals (16 young adults with diagnosed mental health conditions and 17 social and outreach workers). We argue that recognition, and its denial, are part of the mechanism through which psychological costs are produced, and that whether an encounter carries a message about a person's standing sorts the category into three analytically distinct types. Affective costs are emotional responses to procedural load and involve no recognition; primary symbolic costs are emotional responses to status positioning; and secondary symbolic costs arise when procedural load itself carries a message about standing. The latter two, in which recognition is at stake, are traced through Honneth's three spheres of rights, solidarity, and care, each producing its own configuration of costs. The types differ in their causes and remedies, with affective costs calling for efficiency reforms and symbolic costs for recognition-oriented ones. Social workers emerge as allies who counter misrecognition, and drawing on these findings we propose bureaucratic recognition, the building of voice, certainty, and validation into procedural design, as a remedy for status-related costs. Finally, misrecognition both constitutes symbolic costs and compounds others, positioning status, alongside distribution, as a critical axis of administrative burden.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Noam Tarshish": [
+              "University of Haifa, Mount Carmel School of Social Work, , Haifa, 3498838,"
+            ]
+          },
+          "authors": [
+            "Noam Tarshish"
+          ],
+          "constructs": [
+            "Administrative Burden",
+            "Recognition"
+          ],
+          "doi": "10.1093/jopart/muag033",
+          "is_editorial": false,
+          "journal": "Journal of Public Administration Research and Theory",
+          "journal_short": "JPART",
+          "method": "질적연구",
+          "method_detail": "심층 인터뷰",
+          "publication_date": "2026-11-19",
+          "stable_id": "doi:10.1093/jopart/muag033",
+          "summary_basis": "abstract",
+          "summary_ko": "이스라엘의 장애급여 신청 과정에서 행정 부담의 심리적 비용이 어떻게 형성되는지, 정신건강 진단을 받은 청년 16명과 사회복지·아웃리치 노동자 17명의 심층 인터뷰로 분석했다. 인정과 그 부인이 비용 형성의 기제이며, 절차 부담에 대한 정서적 반응인 감정적 비용과 지위 인식이 개입된 일차·이차 상징적 비용을 구분했고, 사회복지사는 오인정을 완화하는 동맹으로 나타났다.",
+          "title": "“Unseen and unheard”: Recognition and Its Role in Shaping Administrative Burden",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1093/jopart/muag033"
+        },
+        {
+          "abstract": "Our goal is to offer proof of concept for the idea that behavioral networks emerging with and beyond assigned treatment networks in experiments can provide a valuable window on agency. We call these often unobserved behavioral structures phantom networks. Most evidence of agency is entangled with audience—what people recall, how others attribute, or who is seen to act. We strip that away to observe agency directly in the ties participants build within and beyond what they are assigned. Their deviation from assignment is not error but structure in action, a behavioral trace of agency. We offer three exhibits of that “behavioral deviation” revealing agency in gendered brokerage, rival brokerage, and structural reproduction. Across the three exhibits, behavioral deviation shows how a team works (sometimes in surprising ways), not how well the team works. Teams perform as expected in theory, but the behavior responsible for their performance is made more apparent by watching behavioral deviation. We close with a summary proof of concept and discussion of next steps for particularly promising future work. Funding: This work was made possible by financial support from the University of Chicago Booth School of Business for data-processing software and financial support from MIT Sloan for transitioning our earlier experiment to the more flexible Empirica platform and funding the experiment trials on which we report here.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Ray E. Reagans": [
+              "MIT, Boston, Massachusetts 02142"
+            ],
+            "Ronald S. Burt": [
+              "Bocconi University, 20136 Milan, Italy"
+            ],
+            "Sonja Opper": [
+              "Bocconi University, 20136 Milan, Italy"
+            ]
+          },
+          "authors": [
+            "Ronald S. Burt",
+            "Ray E. Reagans",
+            "Sonja Opper"
+          ],
+          "constructs": [
+            "Agency",
+            "Behavioral Networks"
+          ],
+          "doi": "10.1287/orsc.2024.19305",
+          "is_editorial": false,
+          "journal": "Organization Science",
+          "journal_short": "OrgSci",
+          "method": "실험",
+          "method_detail": "네트워크 실험",
+          "publication_date": "2026-11-18",
+          "stable_id": "doi:10.1287/orsc.2024.19305",
+          "summary_basis": "abstract",
+          "summary_ko": "실험에서 배정된 처치 네트워크를 넘어 참가자들이 실제로 구축한 행동 네트워크인 ‘팬텀 네트워크’가 행위자성을 어떻게 드러내는지 검토했다. 성별화된 브로커리지, 경쟁적 브로커리지, 구조 재생산 사례에서 배정과의 이탈은 오류가 아니라 팀의 작동 방식을 보여주는 행동 구조로 나타났지만, 팀의 성과 자체를 설명하지는 않았다.",
+          "title": "Phantom Networks: Window on Agency in Social Mechanisms",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1287/orsc.2024.19305"
+        },
+        {
+          "abstract": "Abstract Research Summary We examine temporal tradeoffs and contracting dynamics in buyer–supplier agreements by investigating how suppliers' contractual terms change when contracting with initial clients versus new clients in the future. We use information economics and research on certifications in interorganizational relationships to delve into the mechanisms leading to potential improvements in suppliers' contractual terms. We situate the empirical analysis in the context of onshore oil and gas drilling projects to examine the liabilities for project‐related risks that startup drillers assume when contracting with client producers. Evidence indicates that when drillers initially work for prominent client producers, the drillers assume more risks in these first contracts, but fewer risks in subsequent agreements with other client producers. We argue and show that the degree to which a specific driller obtains better terms in future deals owing to its initial client's prominence will be attenuated when subsequent clients have more information on the value of the driller's resources and capabilities. Specifically, the resulting reduction in risks borne by the driller will be smaller when the driller was founded by a serial entrepreneur and when the subsequent client is vertically integrated into drilling operations. Managerial Summary This study examines the contracting dynamics that startups experience as suppliers in buyer–supplier agreements. Startups often bear more risk in initial deals to build credibility, especially when contracting with prominent clients, and such affiliations can then lead to improved terms for startups in subsequent contracts with other clients. However, this follow‐on benefit of working with a prominent client depends upon whether subsequent clients have more information on the startup's resources and capabilities. In particular, the risk‐reduction effect of working with an initial client that is prominent will be smaller for those startups founded by serial entrepreneurs. It will also be smaller when the subsequent client is vertically integrated into the value chain activities carried out by the startup. Using data from startups in the oil and gas drilling industry, we illustrate the dynamics and tradeoffs that startup drillers encounter when contracting with established client producers.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Jeffrey J. Reuer": [
+              "Mitch Daniels School of Business Purdue University West Lafayette Indiana USA"
+            ],
+            "Toby X. Li": [
+              "Mays Business School Texas A&amp;M University College Station Texas USA"
+            ]
+          },
+          "authors": [
+            "Jeffrey J. Reuer",
+            "Toby X. Li"
+          ],
+          "constructs": [
+            "Information Economics",
+            "Certification"
+          ],
+          "doi": "10.1002/smj.70142",
+          "is_editorial": false,
+          "journal": "Strategic Management Journal",
+          "journal_short": "SMJ",
+          "method": "준실험",
+          "method_detail": "계약자료 분석",
+          "publication_date": "2026-11-18",
+          "stable_id": "doi:10.1002/smj.70142",
+          "summary_basis": "abstract",
+          "summary_ko": "온쇼어 석유·가스 시추 프로젝트의 스타트업 공급업체 자료를 분석해, 초기 고객과 후속 고객 사이에서 계약상 위험 부담이 어떻게 달라지는지 살폈다. 저명한 초기 고객과 계약한 시추업체는 첫 계약에서 더 많은 위험을 부담했지만 후속 계약에서는 위험이 줄었으며, 창업자가 연쇄창업자이거나 후속 고객이 시추 부문에 수직통합된 경우 그 감소폭이 작게 나타났다.",
+          "title": "Temporal tradeoffs and contracting dynamics in buyer–supplier agreements",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1002/smj.70142"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -29910,7 +30373,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -29925,7 +30388,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -29946,7 +30409,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1002/pam.70142": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -29961,7 +30424,7 @@
         "title": "Excellence in Refereeing Award Announcement",
         "url": "https://doi.org/10.1002/pam.70142"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1002/smj.70058": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29976,7 +30439,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70058"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1002/smj.70059": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -29991,7 +30454,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70059"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -30016,7 +30479,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -30051,7 +30514,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -30072,7 +30535,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1037/apl0001426.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30087,7 +30550,7 @@
         "title": "Supplemental Material for On Criterion Weighting to Reduce Adverse Impact",
         "url": "https://doi.org/10.1037/apl0001426.supp"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1037/apl0001442.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30102,7 +30565,22 @@
         "title": "Supplemental Material for A Meta-Analysis of Three Decades of Construct Measurement Research on Situational Judgment Tests: Toward a Balance Between Construct Clarity and Predictive Power",
         "url": "https://doi.org/10.1037/apl0001442.supp"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+    },
+    "doi:10.1037/apl0001446.supp": {
+      "first_seen_at": "2026-11-19T15:42:45.728772+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [],
+        "doi": "10.1037/apl0001446.supp",
+        "journal": "Journal of Applied Psychology",
+        "journal_short": "JAP",
+        "publication_date": "2026-11-19",
+        "stable_id": "doi:10.1037/apl0001446.supp",
+        "title": "Supplemental Material for Are Situational Judgment Tests Really Less Fakable? A Meta-Analysis",
+        "url": "https://doi.org/10.1037/apl0001446.supp"
+      },
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1037/pspa0000505.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30117,7 +30595,7 @@
         "title": "Supplemental Material for A Systematic Investigation of Age–Gender Intersectional Stereotypes and Their Consequences",
         "url": "https://doi.org/10.1037/pspa0000505.supp"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1037/pspi0000537.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30132,7 +30610,7 @@
         "title": "Supplemental Material for Individual, Interpersonal, and Socioeconomic Predictors of Divorce: A 12-Year Prospective Study",
         "url": "https://doi.org/10.1037/pspi0000537.supp"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1037/pspi0000538.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30147,7 +30625,7 @@
         "title": "Supplemental Material for The More, the Better? Evidence of Parallel Growth in Intergroup Contact Quantity and Quality Over Time",
         "url": "https://doi.org/10.1037/pspi0000538.supp"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1037/pspp0000620.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30162,7 +30640,7 @@
         "title": "Supplemental Material for Navigating Divorce and Partner Bereavement: Personality and Trajectories of Change in Life Satisfaction and Mental Health",
         "url": "https://doi.org/10.1037/pspp0000620.supp"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1037/pspp0000623.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30177,7 +30655,7 @@
         "title": "Supplemental Material for Examining the Gender-Equality Paradox in Values Using a New Measure of Value-Based Gender Typicality",
         "url": "https://doi.org/10.1037/pspp0000623.supp"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1037/pspp0000627.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30192,7 +30670,7 @@
         "title": "Supplemental Material for The Structure and History of English Words That Describe People",
         "url": "https://doi.org/10.1037/pspp0000627.supp"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1038/d41586-026-03578-y": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -30209,7 +30687,7 @@
         "title": "The public trusts scientists with AI — more than it does anyone else",
         "url": "https://doi.org/10.1038/d41586-026-03578-y"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1038/s41562-026-02639-6": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -30262,7 +30740,7 @@
         "title": "AI ‘slop’ is a social judgement",
         "url": "https://doi.org/10.1038/s41562-026-02639-6"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1080/10584609.2026.2757595": {
       "first_seen_at": "2026-11-18T15:36:58.331637+00:00",
@@ -30291,7 +30769,7 @@
         "title": "When Attitude and Partisanship Collide: The Role of Cognitive Dissonance and Psychological Reactance on Pro-Attitudinal News Selection",
         "url": "https://doi.org/10.1080/10584609.2026.2757595"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1080/14719037.2026.2758287": {
       "first_seen_at": "2026-11-18T15:36:58.331637+00:00",
@@ -30316,7 +30794,32 @@
         "title": "Building contract management capacity in government organizations: contrasting priorities of public and vendor managers",
         "url": "https://doi.org/10.1080/14719037.2026.2758287"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+    },
+    "doi:10.1080/14719037.2026.2764194": {
+      "first_seen_at": "2026-11-19T15:42:45.728772+00:00",
+      "item": {
+        "author_affiliations": {
+          "Claire Dupont": [
+            "Ghent University"
+          ],
+          "Precious Unegbu": [
+            "Ghent University"
+          ]
+        },
+        "authors": [
+          "Precious Unegbu",
+          "Claire Dupont"
+        ],
+        "doi": "10.1080/14719037.2026.2764194",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-11-18",
+        "stable_id": "doi:10.1080/14719037.2026.2764194",
+        "title": "Public manager learning in citizens’ assemblies: phases, outcomes and knowledge institutionalization",
+        "url": "https://doi.org/10.1080/14719037.2026.2764194"
+      },
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1080/14719037.2026.2765325": {
       "first_seen_at": "2026-11-18T15:36:58.331637+00:00",
@@ -30337,7 +30840,74 @@
         "title": "Why do ‘public service satisfaction surveys’ dissatisfy many people? A process model of the implementation paradox emerging when policy implementation meets co-production fatigue",
         "url": "https://doi.org/10.1080/14719037.2026.2765325"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+    },
+    "doi:10.1080/14719037.2026.2765333": {
+      "first_seen_at": "2026-11-19T15:42:45.728772+00:00",
+      "item": {
+        "author_affiliations": {
+          "Antonio Parbonetti": [
+            "University of Padova"
+          ],
+          "Federico Longhin": [
+            "University of Padova",
+            "Rozes S.R.L. – University of Padova Spinoff"
+          ],
+          "Francesco Ambrosini": [
+            "University of Padova"
+          ],
+          "Ilaria Campagna": [
+            "University of Trento"
+          ]
+        },
+        "authors": [
+          "Francesco Ambrosini",
+          "Ilaria Campagna",
+          "Federico Longhin",
+          "Antonio Parbonetti"
+        ],
+        "doi": "10.1080/14719037.2026.2765333",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-11-19",
+        "stable_id": "doi:10.1080/14719037.2026.2765333",
+        "title": "Captured governance and diagnostic infrastructures: evidence from municipalities dissolved for mafia infiltration",
+        "url": "https://doi.org/10.1080/14719037.2026.2765333"
+      },
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+    },
+    "doi:10.1080/14719037.2026.2765743": {
+      "first_seen_at": "2026-11-19T15:42:45.728772+00:00",
+      "item": {
+        "author_affiliations": {
+          "Adina Iulia Dudau": [
+            "University of Glasgow Adam Smith Business School"
+          ],
+          "Giovanni Barbato": [
+            "University of Milan"
+          ],
+          "Marta Ingaggiati": [
+            "University of Milan"
+          ],
+          "Martina Pisarra": [
+            "University of Milan"
+          ]
+        },
+        "authors": [
+          "Martina Pisarra",
+          "Marta Ingaggiati",
+          "Giovanni Barbato",
+          "Adina Iulia Dudau"
+        ],
+        "doi": "10.1080/14719037.2026.2765743",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-11-18",
+        "stable_id": "doi:10.1080/14719037.2026.2765743",
+        "title": "Beyond the bright-dark binary of co-production: a paradox lens on co-assessment",
+        "url": "https://doi.org/10.1080/14719037.2026.2765743"
+      },
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -30366,7 +30936,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -30386,7 +30956,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -30403,7 +30973,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -30420,7 +30990,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -30438,7 +31008,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -30455,7 +31025,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -30474,7 +31044,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -30492,7 +31062,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -30511,7 +31081,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -30529,7 +31099,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -30546,7 +31116,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -30565,7 +31135,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -30583,7 +31153,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -30601,7 +31171,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1086/744871": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30618,7 +31188,7 @@
         "title": "Running in Context: Marginalization, Political Ambition, and Candidate Emergence",
         "url": "https://doi.org/10.1086/744871"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1086/744929": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -30665,7 +31235,7 @@
         "title": "Political Unfriending on Facebook: Evidence from over 180 Million Users",
         "url": "https://doi.org/10.1086/744929"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1086/744971": {
       "first_seen_at": "2026-11-17T15:57:19.481357+00:00",
@@ -30684,7 +31254,7 @@
         "title": "Breaking the Legal Stalemate: How Membership Changes and Position Uncertainty Shift Attorney Strategies at the U.S. Supreme Court",
         "url": "https://doi.org/10.1086/744971"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -30705,7 +31275,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -30720,7 +31290,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -30735,7 +31305,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -30756,7 +31326,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -30771,7 +31341,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -30786,32 +31356,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
-    },
-    "doi:10.5465/amj.2024.1009": {
-      "first_seen_at": "2026-11-18T15:36:58.331637+00:00",
-      "item": {
-        "author_affiliations": {
-          "Meredith Woehler": [
-            "Purdue University"
-          ],
-          "Tae-Youn Park": [
-            "Sungkyunkwan University"
-          ]
-        },
-        "authors": [
-          "Meredith Woehler",
-          "Tae-Youn Park"
-        ],
-        "doi": "10.5465/amj.2024.1009",
-        "journal": "Academy of Management Journal",
-        "journal_short": "AMJ",
-        "publication_date": "2026-11-18",
-        "stable_id": "doi:10.5465/amj.2024.1009",
-        "title": "The Consequences of Pay Standing under Pay Range Transparency",
-        "url": "https://doi.org/10.5465/amj.2024.1009"
-      },
-      "last_checked_at": "2026-11-18T15:36:58.331637+00:00"
+      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
     }
   },
   "skipped": {
