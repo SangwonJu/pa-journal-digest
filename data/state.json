@@ -30448,6 +30448,410 @@
       ],
       "sent_at": "2026-11-19T15:53:19.638200+00:00",
       "status": "sent"
+    },
+    "2026-11-20-0f255a87c1dd353e": {
+      "created_at": "2026-11-20T15:24:54.225756+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-20-0f255a87c1dd353e",
+      "items": [
+        {
+          "abstract": "Research on shareholder activism has focused largely on the direct, dyadic relationship between activists and the firms they target, leaving open a broader question: When does activism actually change corporate behavior? We argue that the answer depends on the wider system of stakeholders surrounding the firm. Integrating stakeholder influence research with institutional theory, we theorize that shareholder demands more effectively motivate organizational change when other actors in the institutional environment reinforce the issues those demands raise. We test this in the context of environmental and social (E&S) shareholder proposals, asking whether they reduce firms’ stakeholder violations, which are regulator-sanctioned acts of misconduct that can harm non-shareholding stakeholders. Using data on E&S proposals at 428 U.S. firms from 2007 to 2021 , we find that proposals reduce stakeholder violations, and that this effect operates through managerial receptivity, defined as a firm’s behavioral pattern of engaging rather than resisting activist demands. Critically, this relationship is amplified when firms face greater scrutiny from two institutional pillars: regulative pressure from regulators and cultural-cognitive pressure from NGOs. By showing that non-shareholding stakeholders condition whether shareholder activism translates into reduced corporate harm, we move beyond the activist–firm dyad and offer a systems-level account of when, and through what mechanisms, shareholder activism succeeds in achieving its aims.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Jinyuan Song": [
+              "The University of Tennessee, Knoxville"
+            ],
+            "Mark R. DesJardine": [
+              "Tuck School of Business, Dartmouth College"
+            ],
+            "Yifan Wei": [
+              "Simon Fraser University"
+            ]
+          },
+          "authors": [
+            "Mark R. DesJardine",
+            "Jinyuan Song",
+            "Yifan Wei"
+          ],
+          "constructs": [
+            "Stakeholder Influence",
+            "Institutional Theory"
+          ],
+          "doi": "10.1177/01492063261481752",
+          "is_editorial": false,
+          "journal": "Journal of Management",
+          "journal_short": "JOM",
+          "method": "준실험",
+          "method_detail": "기업 패널 분석",
+          "publication_date": "2026-11-20",
+          "stable_id": "doi:10.1177/01492063261481752",
+          "summary_basis": "abstract",
+          "summary_ko": "2007~2021년 미국 428개 기업의 환경·사회(E&S) 주주제안을 분석해 주주행동주의가 기업의 이해관계자 위반을 줄이는 조건과 경로를 검토했다. 주주제안은 경영진의 요구 수용을 통해 위반을 줄였으며, 규제기관의 규제 압력과 NGO의 문화·인지적 압력이 클 때 이 효과가 증폭됐다.",
+          "title": "It’s a System: Shareholder Activism, Corporate Harm, and the Role of Regulators, NGOs, and Media",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1177/01492063261481752"
+        },
+        {
+          "abstract": "Stakeholder governance has become central to debates about stakeholder capitalism, yet research remains fragmented about the configurations through which non-shareholder stakeholders gain authority and firms become credibly bound to stakeholder claims. We systematically review 171 articles in management and related fields to develop a framework organized around stakeholder authority (i.e., the participatory rights or recognized standing through which stakeholders can engage in governance), and firm commitment (i.e., the obligations organizations assume toward stakeholder claims in ways that are costly to reverse or ignore). We identify five recurring configurations: (a) disclosure and evaluation; (b) monitoring and verification; (c) contracting, formal rules, and adjudication; (d) governance rights; and (e) rule-making rights. These configurations generally move from informational authority and very weak firm commitment to constitutional authority and very strong firm commitment. We also identify two off-diagonal configurations—constrained authority and embedded commitment—that reveal how authority and commitment need not align. Our framework distinguishes stakeholder governance that remains largely symbolic from arrangements that create durable constraints on organizational discretion. We conclude by outlining a research agenda on institutional settings, organizational forms, transitions across governance configurations, and the implications of learning dynamics for stakeholder authority and commitment.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Maurizio Zollo": [
+              "Imperial College London"
+            ],
+            "Pascual Berrone": [
+              "IESE Business School"
+            ],
+            "Romain Boulongne": [
+              "IESE Business School"
+            ],
+            "Ruth V. Aguilera": [
+              "Northeastern University"
+            ],
+            "Ryan Federo": [
+              "Universitat Autònoma de Barcelona"
+            ]
+          },
+          "authors": [
+            "Romain Boulongne",
+            "Ryan Federo",
+            "Ruth V. Aguilera",
+            "Pascual Berrone",
+            "Maurizio Zollo"
+          ],
+          "constructs": [
+            "Stakeholder Authority",
+            "Firm Commitment"
+          ],
+          "doi": "10.1177/01492063261492634",
+          "is_editorial": false,
+          "journal": "Journal of Management",
+          "journal_short": "JOM",
+          "method": "이론/개념",
+          "method_detail": "체계적 문헌검토",
+          "publication_date": "2026-11-20",
+          "stable_id": "doi:10.1177/01492063261492634",
+          "summary_basis": "abstract",
+          "summary_ko": "경영 및 관련 분야의 논문 171편을 체계적으로 검토해 비주주 이해관계자가 거버넌스 권한을 얻고 기업이 이해관계자 요구에 구속되는 방식을 stakeholder authority와 firm commitment의 결합으로 분석했다. 정보 제공 권한과 약한 기업 구속에서 헌법적 권한과 강한 구속으로 이어지는 다섯 가지 구성과, 권한과 구속이 불일치하는 두 가지 구성을 제시해 상징적 거버넌스와 조직 재량을 지속적으로 제한하는 거버넌스를 구분했다.",
+          "title": "Stakeholder Governance",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1177/01492063261492634"
+        },
+        {
+          "abstract": "Time management is usually seen as a way to get more done. Yet research suggests that it is more strongly associated with well-being than with performance. Why time management improves well-being and why the benefits vary remain unclear. This article proposes three pathways linking time management to well-being and productivity. First, structure brings order to daily life by giving people a sense of control and predictability. Second, synchrony aligns activities with social and biological rhythms, reducing conflict and strengthening social ties. And third, concordance aligns activities with personal values and long-term goals, giving daily life meaning and strengthening the connection between present and future selves. These benefits depend on both individual practices and organizational conditions. Fragmented work, excessive demands on people’s time, and a focus on short-term results can obstruct the pathways. An imbalance among the pathways can also turn otherwise useful time management practices into sources of strain. By distinguishing these mechanisms and their limits, the framework helps explain why time management can improve well-being and productivity in some circumstances, have little effect in others, and sometimes make things worse.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Brad Aeon": [
+              "Highline"
+            ]
+          },
+          "authors": [
+            "Brad Aeon"
+          ],
+          "constructs": [
+            "Time Management",
+            "Well-Being"
+          ],
+          "doi": "10.1177/01492063261499657",
+          "is_editorial": false,
+          "journal": "Journal of Management",
+          "journal_short": "JOM",
+          "method": "이론/개념",
+          "method_detail": "개념적 모형",
+          "publication_date": "2026-11-20",
+          "stable_id": "doi:10.1177/01492063261499657",
+          "summary_basis": "abstract",
+          "summary_ko": "시간관리가 웰빙과 생산성에 미치는 경로와 그 효과의 조건을 개념적으로 설명했다. 시간관리의 이점은 일상에 질서와 예측 가능성을 부여하는 구조화, 사회적·생물학적 리듬을 맞추는 동시화, 개인의 가치와 장기 목표에 활동을 맞추는 일치화에서 비롯되지만, 파편화된 업무와 과도한 시간 요구, 단기 성과 중심성, 경로 간 불균형은 웰빙과 생산성을 저해하거나 시간관리를 부담으로 바꿀 수 있다고 제안했다.",
+          "title": "Why Time Management Leads to Well-Being (and Performance)",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1177/01492063261499657"
+        },
+        {
+          "abstract": "ABSTRACT Although studies have shown that employee well‐being and work behavior are affected by incongruent mistreatment over time, from a single perpetrator, and across targets, there is comparatively less research examining the effects of mistreatment incongruence across sources (i.e., multiple perpetrators). This raises novel and important questions about how and why supervisors and coworkers, as two salient sources of potential mistreatment, jointly influence employee well‐being and behavior. Drawing on ambivalence theory, we propose that undermining incongruence across sources—that is, the divergence between the levels of undermining that employees experience from supervisor and coworker referent groups—influences employee well‐being and behavior. We test our predictions with two field studies that employ within‐person and between‐person designs. In Study 1, we demonstrate that the effects of supervisor–coworker undermining incongruence on employee CWB are transmitted by reduced feelings of thriving (or languishing). In Study 2, we constructively replicate and extend these findings by demonstrating that the effects of undermining incongruence on employees' thriving and CWB are driven by felt ambivalence. Implications for theory and research are discussed.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Artemis Boulamatsi": [
+              "Department of Management and Leadership, Neeley School of Business Texas Christian University Fort Worth Texas USA"
+            ],
+            "Michael S. Cole": [
+              "Department of Management and Leadership, Neeley School of Business Texas Christian University Fort Worth Texas USA"
+            ],
+            "Nikolaos Dimotakis": [
+              "Department of Management, Spears School of Business Oklahoma State University Stillwater Oklahoma USA"
+            ],
+            "Shannon G. Taylor": [
+              "Department of Management, Barry S. Miller College of Business University of Central Florida Orlando Florida USA"
+            ],
+            "Xin Zhao": [
+              "Department of Management, Barry S. Miller College of Business University of Central Florida Orlando Florida USA"
+            ],
+            "Xinxin Lu": [
+              "Department of Business Administration, Business School of Hunan University Hunan University Changsha China"
+            ]
+          },
+          "authors": [
+            "Michael S. Cole",
+            "Shannon G. Taylor",
+            "Nikolaos Dimotakis",
+            "Artemis Boulamatsi",
+            "Xin Zhao",
+            "Xinxin Lu"
+          ],
+          "constructs": [
+            "Ambivalence Theory",
+            "Counterproductive Work Behavior"
+          ],
+          "doi": "10.1002/job.70137",
+          "is_editorial": false,
+          "journal": "Journal of Organizational Behavior",
+          "journal_short": "JOB",
+          "method": "혼합방법론",
+          "method_detail": "개인내·개인간 설계",
+          "publication_date": "2026-11-20",
+          "stable_id": "doi:10.1002/job.70137",
+          "summary_basis": "abstract",
+          "summary_ko": "상사와 동료에게서 받은 직장 내 훼손(undermining) 수준의 불일치가 직원의 일탈행동(CWB)에 어떤 영향을 미치며, 그 과정에서 번영감(thriving)과 양가감정이 어떤 역할을 하는지 두 현장연구로 검토했다. 상사와 동료의 훼손 수준이 불일치할수록 번영감이 낮아지거나 양가감정이 커졌고, 이를 통해 CWB가 증가하는 것으로 나타났다.",
+          "title": "Multiple Sources, Mixed Signals: How Supervisor and Coworker Undermining (In)congruence Affects Employee Deviance",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1002/job.70137"
+        },
+        {
+          "abstract": "In high-choice media environments, people favor news sources that reinforce their issue attitudes or partisan identities, shaping polarized information diets. However, the interplay between issue attitudes and group-based partisan identities in driving selective news consumption remains underexplored. While research documents robust preferences for congenial content, few studies examine how initial news encounters – pro- versus counter-attitudinal – trigger psychological mechanisms that propel subsequent pro-attitudinal news selection, particularly when individuals’ policy attitudes align or conflict with their partisan affiliations (attitude–partisanship congruence). This study tests a parallel moderated mediation model in which initial news exposure moderates the impact of attitude–partisanship congruence on pro-attitudinal news selection through two competing mediators: cognitive dissonance and psychological reactance in South Korea’s polarized media landscape. Two survey experiments (N = 903) employed 2 (congruence: congruent vs. incongruent) × 2 (exposure: pro- vs. counter-attitudinal) between-subjects designs. Participants encountered news on contentious quota policies (regional, gender) before reporting dissonance/reactance and selecting headlines from balanced news sets. Cognitive dissonance showed less consistent patterns across the two studies, whereas counter-attitudinal exposure consistently elicited greater psychological reactance among congruent individuals. Parallel moderated mediation analyses revealed significant conditional indirect effects through psychological reactance, but not cognitive dissonance, under counter-attitudinal exposure across both studies. When attitudes align with partisan identities, psychological reactance emerges as the dominant mechanism sustaining defensive information choices, amplifying congenial news diets. These findings illuminate processes that reinforce partisan segregation and suggest that interventions targeting autonomy threats may disrupt biased exposure patterns more effectively than dissonance-based approaches.",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {
+            "Hyo Jung Kim": [
+              "Pusan National University"
+            ],
+            "Sunhae Sul": [
+              "Hanyang University"
+            ],
+            "Woojin Jung": [
+              "Pusan National University"
+            ]
+          },
+          "authors": [
+            "Woojin Jung",
+            "Sunhae Sul",
+            "Hyo Jung Kim"
+          ],
+          "constructs": [
+            "Cognitive Dissonance",
+            "Psychological Reactance"
+          ],
+          "doi": "10.1080/10584609.2026.2757595",
+          "is_editorial": false,
+          "journal": "Political Communication",
+          "journal_short": "PolComm",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-11-18",
+          "stable_id": "doi:10.1080/10584609.2026.2757595",
+          "summary_basis": "abstract",
+          "summary_ko": "한국의 양극화된 미디어 환경에서 태도와 정당 정체성의 일치 여부, 초기 친화적·비친화적 뉴스 노출이 친화적 뉴스 선택에 미치는 영향을 인지부조화와 심리적 반발을 매개로 검토했다. 두 차례 설문실험(N=903)에서 비친화적 노출은 태도와 정당 정체성이 일치한 참여자에게 심리적 반발을 일관되게 높였고, 심리적 반발을 통한 조건부 간접효과가 나타났지만 인지부조화를 통한 효과는 일관되지 않았다.",
+          "title": "When Attitude and Partisanship Collide: The Role of Cognitive Dissonance and Psychological Reactance on Pro-Attitudinal News Selection",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1080/10584609.2026.2757595"
+        },
+        {
+          "abstract": "Large language models (LLMs) are growing increasingly powerful. Yet, fundamental constraints on the reasoning, memory, and performance of individual models has sparked recent interest in scaling abilities using LLM teams. With growing deployment of LLM teams at scale, there is a need for principled guidelines for when teams help, how many agents to use, and how structure impacts performance. Rather than building these teams through trial-and-error, we propose using distributed systems as a formal foundation for designing and evaluating LLM teams. Under this formal framework, we derive predictions about how task structure and team architecture should shape performance. Empirical evidence supports these predictions: LLM team scaling follows classical distributed computing laws based on the structure of a task, and centralized and decentralized architectures exhibit the asymmetric vulnerabilities predicted by distributed systems theory. These results establish distributed computing as a generative framework that yields testable, quantitative predictions about LLM team behavior and informs the construction of more efficient and capable teams.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Elizabeth Mieczkowski": [
+              "Department of Computer Science, Princeton University"
+            ],
+            "Ilia Sucholutsky": [
+              "Center for Data Science, New York University"
+            ],
+            "Katherine M. Collins": [
+              "Department of Computer Science, Princeton University",
+              "Department of Engineering, University of Cambridge",
+              "Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology"
+            ],
+            "Natalia Vélez": [
+              "Department of Psychology, Princeton University"
+            ],
+            "Thomas L. Griffiths": [
+              "Department of Computer Science, Princeton University",
+              "Department of Psychology, Princeton University"
+            ]
+          },
+          "authors": [
+            "Elizabeth Mieczkowski",
+            "Katherine M. Collins",
+            "Ilia Sucholutsky",
+            "Natalia Vélez",
+            "Thomas L. Griffiths"
+          ],
+          "constructs": [
+            "Distributed Systems",
+            "LLM Teams"
+          ],
+          "doi": "10.1073/pnas.2612825123",
+          "is_editorial": false,
+          "journal": "Proceedings of the National Academy of Sciences",
+          "journal_short": "PNAS",
+          "method": "혼합방법론",
+          "method_detail": "이론 예측 검증",
+          "publication_date": "2026-11-18",
+          "stable_id": "doi:10.1073/pnas.2612825123",
+          "summary_basis": "abstract",
+          "summary_ko": "LLM 팀을 언제, 몇 개의 에이전트로, 어떤 구조로 구성해야 성능을 높일 수 있는지 분산 시스템을 이론적 기반으로 분석하고, 과업 구조와 팀 아키텍처가 성능에 미치는 영향을 예측했다. 경험적 증거는 LLM 팀의 확장이 과업 구조에 따른 고전적 분산 컴퓨팅 법칙을 따르며, 중앙집중형과 분산형 아키텍처가 분산 시스템 이론이 예측한 비대칭적 취약성을 보인다는 점을 뒷받침했다.",
+          "title": "Language model teams as distributed systems",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1073/pnas.2612825123"
+        },
+        {
+          "abstract": "Humans can pursue a near-infinite variety of tasks, but typically can only pursue a small number at the same time. We hypothesize that humans leverage experience on one task to preemptively learn solutions to other tasks that were accessible but not pursued. We formalize this idea as “Multitask Preplay”, an algorithm that replays experience on one task as the starting point for “preplay”—counterfactual simulation of an accessible but unpursued task. Preplay is used to learn a predictive representation that can support fast, adaptive task performance later on. When implemented within deep reinforcement learning, it predicts human generalization to novel tasks more accurately than traditional planning and predictive representation methods across grid-worlds and a 2D Minecraft domain. Additionally, Multitask Preplay improves an artificial agent’s ability to generalize to new environments sharing task co-occurrence structure. These findings demonstrate that Multitask Preplay is a scalable theory of human counterfactual learning and generalization; endowing artificial agents with this capacity can significantly improve their performance in challenging multitask environments.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Honglak Lee": [
+              "Department of Computer Science and Engineering, University of Michigan",
+              "LG AI Research"
+            ],
+            "Sam Hall-McMaster": [
+              "Department of Psychology and Center for Brain Science, Harvard University"
+            ],
+            "Samuel J. Gershman": [
+              "Kempner Institute for the Study of Natural and Artificial Intelligence, Harvard University",
+              "Department of Psychology and Center for Brain Science, Harvard University"
+            ],
+            "Wilka Carvalho": [
+              "Kempner Institute for the Study of Natural and Artificial Intelligence, Harvard University"
+            ]
+          },
+          "authors": [
+            "Wilka Carvalho",
+            "Sam Hall-McMaster",
+            "Honglak Lee",
+            "Samuel J. Gershman"
+          ],
+          "constructs": [
+            "Multitask Preplay",
+            "Counterfactual Learning"
+          ],
+          "doi": "10.1073/pnas.2521870123",
+          "is_editorial": false,
+          "journal": "Proceedings of the National Academy of Sciences",
+          "journal_short": "PNAS",
+          "method": "실험",
+          "method_detail": "강화학습 비교실험",
+          "publication_date": "2026-11-19",
+          "stable_id": "doi:10.1073/pnas.2521870123",
+          "summary_basis": "abstract",
+          "summary_ko": "인간이 수행하지 않은 접근 가능한 과제의 해법을 기존 과제 경험으로 미리 학습하는 Multitask Preplay를 형식화하고, 이를 심층 강화학습에 구현해 Grid-world와 2D Minecraft에서 인간의 새로운 과제 일반화를 예측했다. 이 방법은 전통적 계획 및 예측 표현 방법보다 인간의 일반화를 정확히 예측했으며, 과제 동시 발생 구조를 공유하는 새로운 환경에서도 인공 에이전트의 일반화를 향상시켰다.",
+          "title": "Preemptive solving of future problems: Multitask Preplay in humans and machines",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1073/pnas.2521870123"
+        },
+        {
+          "abstract": "Governments build contract management capacity to improve their contracting practice and performance. Because this may have implications for vendors, assessing governments’ contract management capacity not only from a government but also a vendor perspective can promote understanding of this important organizational capacity and help identify capacity gaps. However, such accounts are rare. Drawing on theories of formal and relational contracting, this article examines which contract management skills public managers need to improve, according to public managers and vendor managers. Survey data from Denmark (n = 364, including public contract managers and vendor managers) reveal significant disagreement: public managers prioritize formal contract governance skills, whereas vendors prioritize relational contract governance skills, with the exception that both parties prioritize contract design. The article shows how governments and vendors value government investments in formal and relational contract management capacity differently and illustrate the utility of analysing this capacity from both perspectives.",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {
+            "Morten Skov Madsen": [
+              "Roskilde University"
+            ],
+            "Ole Helby Petersen": [
+              "Roskilde University"
+            ]
+          },
+          "authors": [
+            "Morten Skov Madsen",
+            "Ole Helby Petersen"
+          ],
+          "constructs": [
+            "Formal Contracting",
+            "Relational Contracting"
+          ],
+          "doi": "10.1080/14719037.2026.2758287",
+          "is_editorial": false,
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "서베이",
+          "method_detail": "횡단면 설문",
+          "publication_date": "2026-11-18",
+          "stable_id": "doi:10.1080/14719037.2026.2758287",
+          "summary_basis": "abstract",
+          "summary_ko": "덴마크 정부 계약관리 역량에서 공공 관리자와 공급자 관리자가 개선이 필요하다고 보는 기술을 설문자료(n=364)로 비교했다. 공공 관리자는 공식적 계약 거버넌스 기술을, 공급자 관리자는 관계적 계약 거버넌스 기술을 우선했으며, 계약 설계는 양쪽 모두 우선순위로 평가했다.",
+          "title": "Building contract management capacity in government organizations: contrasting priorities of public and vendor managers",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/14719037.2026.2758287"
+        },
+        {
+          "abstract": "Governments worldwide, in pursuing good governance, have increasingly routinized public service satisfaction surveys to advance accountability, responsiveness, and integrated performance. However, when these instruments are institutionalized as performance devices and embedded in hierarchical systems, they may paradoxically generate dissatisfaction among street-level bureaucrats and citizens alike in practice. Employing the Gioia methodology for systematic inductive analysis across five cases in China, this study identifies five aggregate dimensions explaining this contradiction: Ambiguity and Clarity in Policy Potential, Misalignment of Policy Capacity, Policy Compliance Decoupling, Co-production Fatigue, and Feedback Spillover Effect. The primary theoretical contribution is the ‘Dialectic of Policy Implementation Framework’, which integrates four interactive domains and synthesizes temporal and spatial dimensions to elucidate policy implementation processes. Conceptualizing the multidimensional, recursive dynamics of the paradoxical consequences in evaluation systems, the framework advances public administration theory while also proposing a governance pathway optimized through a feedback loop of learning, adaptation, and evaluation.",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {
+            "Guang Yang": [
+              "Shandong Normal University"
+            ]
+          },
+          "authors": [
+            "Guang Yang"
+          ],
+          "constructs": [
+            "Co-production Fatigue",
+            "Policy Implementation"
+          ],
+          "doi": "10.1080/14719037.2026.2765325",
+          "is_editorial": false,
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "Gioia 분석",
+          "publication_date": "2026-11-18",
+          "stable_id": "doi:10.1080/14719037.2026.2765325",
+          "summary_basis": "abstract",
+          "summary_ko": "중국의 5개 사례에서 공공서비스 만족도 조사가 성과관리 장치로 제도화되고 위계적 체계에 편입될 때 관료와 시민의 불만이 나타나는 과정을 Gioia 방법론으로 분석했다. 분석 결과 정책 잠재력의 모호성과 명확성, 정책 역량의 불일치, 정책 준수의 탈동조화, 공동생산 피로, 피드백 파급효과라는 다섯 차원이 확인됐으며, 이를 설명하는 ‘정책 집행의 변증법적 틀’을 제안했다.",
+          "title": "Why do ‘public service satisfaction surveys’ dissatisfy many people? A process model of the implementation paradox emerging when policy implementation meets co-production fatigue",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1080/14719037.2026.2765325"
+        },
+        {
+          "abstract": "Although increasing acknowledgment of homelessness as a housing issue, the spatial government of the un-housed people is highly political. This study uses a spatial political approach to assess how the practice of municipal decision-making generates geographically varied rates of homeless displacement in three large cities in the U.S. (Los Angeles, Portland, and San Francisco) between 2016 and 2023. We combine GIS-based encampment clearance data, council voting data, and political features of the neighborhood and apply the difference-in-differences estimation by taking advantage of three exogenous shocks: the 2018 Martin v. Boise judicial decision, mayoral changes, and COVID-19 emergency orders. The spatial lag and spatial error models reproduce the effects of diffusion across jurisdictions and neighborhoods. The findings indicate that conservative-leaning council districts expanded clearance work by 34% after Martin, whereas progressive districts cut by 18%. Mayoral changes created dramatic changes in displacement patterns, with new administrations showing 41% greater clearance rates during the first year. Spatial analysis reveals that there are substantial spillover impacts whereby aggressive enforcement in one neighborhood leads to a 23% encampment formation in nearby areas. These results indicate that the displacement of homelessness is not a technical management problem but rather a systematically distributed consequence of purposeful political decisions that have extensive consequences regarding the way cities can manage underprivileged groups in society.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Janson Peter": [
+              "Stanford University"
+            ],
+            "Mingqiu Jiang": [
+              "Liaoning University"
+            ],
+            "Yunpeng Fu": [
+              "Liaoning University"
+            ]
+          },
+          "authors": [
+            "Mingqiu Jiang",
+            "Janson Peter",
+            "Yunpeng Fu"
+          ],
+          "constructs": [
+            "Policy Diffusion",
+            "Spatial Displacement"
+          ],
+          "doi": "10.1177/02750740261506495",
+          "is_editorial": false,
+          "journal": "The American Review of Public Administration",
+          "journal_short": "ARPA",
+          "method": "준실험",
+          "method_detail": "이중차분·공간모형",
+          "publication_date": "2026-11-20",
+          "stable_id": "doi:10.1177/02750740261506495",
+          "summary_basis": "abstract",
+          "summary_ko": "로스앤젤레스·포틀랜드·샌프란시스코에서 2016~2023년 GIS 기반 야영지 철거 자료, 시의회 투표 자료, 지역 정치 특성과 세 가지 외생적 충격을 결합해 지방정부 의사결정이 노숙인 퇴거의 공간적 차이를 어떻게 만들었는지 이중차분과 공간모형으로 분석했다. Martin 판결 이후 보수 성향 지역구의 철거는 34% 늘고 진보 성향 지역구에서는 18% 줄었으며, 시장 교체 뒤 첫해 철거율은 41% 높아졌고 한 지역의 강경 집행은 인접 지역의 야영지 형성을 23% 늘리는 파급효과를 보였다.",
+          "title": "The Urban Politics of Homelessness Management: Municipal Decision-Making and Spatial Displacement",
+          "topic_area": "지방·도시",
+          "url": "https://doi.org/10.1177/02750740261506495"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -30470,7 +30874,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -30485,7 +30889,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -30506,7 +30910,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1002/pam.70142": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -30521,7 +30925,7 @@
         "title": "Excellence in Refereeing Award Announcement",
         "url": "https://doi.org/10.1002/pam.70142"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1002/smj.70058": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30536,7 +30940,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70058"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1002/smj.70059": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30551,7 +30955,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70059"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -30576,7 +30980,24 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+    },
+    "doi:10.1007/s11109-026-10222-y": {
+      "first_seen_at": "2026-11-20T15:24:54.225756+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Rasmus Kappelgaard Gustafsson"
+        ],
+        "doi": "10.1007/s11109-026-10222-y",
+        "journal": "Political Behavior",
+        "journal_short": "PolBeh",
+        "publication_date": "2026-11-20",
+        "stable_id": "doi:10.1007/s11109-026-10222-y",
+        "title": "Punishment for Being Posh? Politicians’ Lifestyle Cues, Class Signals, and Voter Evaluations",
+        "url": "https://doi.org/10.1007/s11109-026-10222-y"
+      },
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -30611,7 +31032,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -30632,7 +31053,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1037/apl0001426.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30647,7 +31068,7 @@
         "title": "Supplemental Material for On Criterion Weighting to Reduce Adverse Impact",
         "url": "https://doi.org/10.1037/apl0001426.supp"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1037/apl0001442.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30662,7 +31083,7 @@
         "title": "Supplemental Material for A Meta-Analysis of Three Decades of Construct Measurement Research on Situational Judgment Tests: Toward a Balance Between Construct Clarity and Predictive Power",
         "url": "https://doi.org/10.1037/apl0001442.supp"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1037/apl0001446.supp": {
       "first_seen_at": "2026-11-19T15:42:45.728772+00:00",
@@ -30677,7 +31098,7 @@
         "title": "Supplemental Material for Are Situational Judgment Tests Really Less Fakable? A Meta-Analysis",
         "url": "https://doi.org/10.1037/apl0001446.supp"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1037/pspa0000505.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30692,7 +31113,7 @@
         "title": "Supplemental Material for A Systematic Investigation of Age–Gender Intersectional Stereotypes and Their Consequences",
         "url": "https://doi.org/10.1037/pspa0000505.supp"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1037/pspi0000537.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30707,7 +31128,7 @@
         "title": "Supplemental Material for Individual, Interpersonal, and Socioeconomic Predictors of Divorce: A 12-Year Prospective Study",
         "url": "https://doi.org/10.1037/pspi0000537.supp"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1037/pspi0000538.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30722,7 +31143,7 @@
         "title": "Supplemental Material for The More, the Better? Evidence of Parallel Growth in Intergroup Contact Quantity and Quality Over Time",
         "url": "https://doi.org/10.1037/pspi0000538.supp"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1037/pspp0000620.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30737,7 +31158,7 @@
         "title": "Supplemental Material for Navigating Divorce and Partner Bereavement: Personality and Trajectories of Change in Life Satisfaction and Mental Health",
         "url": "https://doi.org/10.1037/pspp0000620.supp"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1037/pspp0000623.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30752,7 +31173,7 @@
         "title": "Supplemental Material for Examining the Gender-Equality Paradox in Values Using a New Measure of Value-Based Gender Typicality",
         "url": "https://doi.org/10.1037/pspp0000623.supp"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1037/pspp0000627.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -30767,7 +31188,7 @@
         "title": "Supplemental Material for The Structure and History of English Words That Describe People",
         "url": "https://doi.org/10.1037/pspp0000627.supp"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1038/d41586-026-03578-y": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -30784,7 +31205,7 @@
         "title": "The public trusts scientists with AI — more than it does anyone else",
         "url": "https://doi.org/10.1038/d41586-026-03578-y"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1038/s41562-026-02639-6": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -30837,61 +31258,32 @@
         "title": "AI ‘slop’ is a social judgement",
         "url": "https://doi.org/10.1038/s41562-026-02639-6"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
-    "doi:10.1080/10584609.2026.2757595": {
-      "first_seen_at": "2026-11-18T15:36:58.331637+00:00",
+    "doi:10.1080/10967494.2026.2758171": {
+      "first_seen_at": "2026-11-20T15:24:54.225756+00:00",
       "item": {
         "author_affiliations": {
-          "Hyo Jung Kim": [
-            "Pusan National University"
+          "Maayan Davidovitz": [
+            "Tel Aviv University"
           ],
-          "Sunhae Sul": [
-            "Hanyang University"
-          ],
-          "Woojin Jung": [
-            "Pusan National University"
+          "Rachel Gali Cinamon": [
+            "Tel Aviv University"
           ]
         },
         "authors": [
-          "Woojin Jung",
-          "Sunhae Sul",
-          "Hyo Jung Kim"
+          "Maayan Davidovitz",
+          "Rachel Gali Cinamon"
         ],
-        "doi": "10.1080/10584609.2026.2757595",
-        "journal": "Political Communication",
-        "journal_short": "PolComm",
-        "publication_date": "2026-11-18",
-        "stable_id": "doi:10.1080/10584609.2026.2757595",
-        "title": "When Attitude and Partisanship Collide: The Role of Cognitive Dissonance and Psychological Reactance on Pro-Attitudinal News Selection",
-        "url": "https://doi.org/10.1080/10584609.2026.2757595"
+        "doi": "10.1080/10967494.2026.2758171",
+        "journal": "International Public Management Journal",
+        "journal_short": "IPMJ",
+        "publication_date": "2026-11-19",
+        "stable_id": "doi:10.1080/10967494.2026.2758171",
+        "title": "Representative bureaucracy and the career trajectories of female STEM students: a retrospective interview study",
+        "url": "https://doi.org/10.1080/10967494.2026.2758171"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
-    },
-    "doi:10.1080/14719037.2026.2758287": {
-      "first_seen_at": "2026-11-18T15:36:58.331637+00:00",
-      "item": {
-        "author_affiliations": {
-          "Morten Skov Madsen": [
-            "Roskilde University"
-          ],
-          "Ole Helby Petersen": [
-            "Roskilde University"
-          ]
-        },
-        "authors": [
-          "Morten Skov Madsen",
-          "Ole Helby Petersen"
-        ],
-        "doi": "10.1080/14719037.2026.2758287",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-11-18",
-        "stable_id": "doi:10.1080/14719037.2026.2758287",
-        "title": "Building contract management capacity in government organizations: contrasting priorities of public and vendor managers",
-        "url": "https://doi.org/10.1080/14719037.2026.2758287"
-      },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1080/14719037.2026.2764194": {
       "first_seen_at": "2026-11-19T15:42:45.728772+00:00",
@@ -30916,28 +31308,7 @@
         "title": "Public manager learning in citizens’ assemblies: phases, outcomes and knowledge institutionalization",
         "url": "https://doi.org/10.1080/14719037.2026.2764194"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
-    },
-    "doi:10.1080/14719037.2026.2765325": {
-      "first_seen_at": "2026-11-18T15:36:58.331637+00:00",
-      "item": {
-        "author_affiliations": {
-          "Guang Yang": [
-            "Shandong Normal University"
-          ]
-        },
-        "authors": [
-          "Guang Yang"
-        ],
-        "doi": "10.1080/14719037.2026.2765325",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-11-18",
-        "stable_id": "doi:10.1080/14719037.2026.2765325",
-        "title": "Why do ‘public service satisfaction surveys’ dissatisfy many people? A process model of the implementation paradox emerging when policy implementation meets co-production fatigue",
-        "url": "https://doi.org/10.1080/14719037.2026.2765325"
-      },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1080/14719037.2026.2765333": {
       "first_seen_at": "2026-11-19T15:42:45.728772+00:00",
@@ -30971,7 +31342,7 @@
         "title": "Captured governance and diagnostic infrastructures: evidence from municipalities dissolved for mafia infiltration",
         "url": "https://doi.org/10.1080/14719037.2026.2765333"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1080/14719037.2026.2765743": {
       "first_seen_at": "2026-11-19T15:42:45.728772+00:00",
@@ -31004,7 +31375,40 @@
         "title": "Beyond the bright-dark binary of co-production: a paradox lens on co-assessment",
         "url": "https://doi.org/10.1080/14719037.2026.2765743"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+    },
+    "doi:10.1080/15309576.2026.2751448": {
+      "first_seen_at": "2026-11-20T15:24:54.225756+00:00",
+      "item": {
+        "author_affiliations": {
+          "Chunning Wang": [
+            "Macao Polytechnic University"
+          ],
+          "Haoqian Hu": [
+            "Macao Polytechnic University"
+          ],
+          "Jingwen Cai": [
+            "Macao Polytechnic University"
+          ],
+          "Yifen Yin": [
+            "Macao Polytechnic University"
+          ]
+        },
+        "authors": [
+          "Chunning Wang",
+          "Jingwen Cai",
+          "Yifen Yin",
+          "Haoqian Hu"
+        ],
+        "doi": "10.1080/15309576.2026.2751448",
+        "journal": "Public Performance & Management Review",
+        "journal_short": "PPMR",
+        "publication_date": "2026-11-19",
+        "stable_id": "doi:10.1080/15309576.2026.2751448",
+        "title": "The Passive Accountability Trap in Cross-Border Governance: The Case of the Macao-Zhuhai Funeral Service Network",
+        "url": "https://doi.org/10.1080/15309576.2026.2751448"
+      },
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -31033,7 +31437,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -31053,7 +31457,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -31070,7 +31474,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -31087,7 +31491,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -31105,7 +31509,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -31122,7 +31526,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -31141,7 +31545,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -31159,7 +31563,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -31178,7 +31582,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -31196,7 +31600,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -31213,7 +31617,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -31232,7 +31636,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -31250,7 +31654,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -31268,7 +31672,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1086/744871": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31285,7 +31689,7 @@
         "title": "Running in Context: Marginalization, Political Ambition, and Candidate Emergence",
         "url": "https://doi.org/10.1086/744871"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1086/744929": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -31332,7 +31736,7 @@
         "title": "Political Unfriending on Facebook: Evidence from over 180 Million Users",
         "url": "https://doi.org/10.1086/744929"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1086/744971": {
       "first_seen_at": "2026-11-17T15:57:19.481357+00:00",
@@ -31351,7 +31755,7 @@
         "title": "Breaking the Legal Stalemate: How Membership Changes and Position Uncertainty Shift Attorney Strategies at the U.S. Supreme Court",
         "url": "https://doi.org/10.1086/744971"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -31372,7 +31776,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -31387,7 +31791,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -31402,7 +31806,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -31423,7 +31827,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -31438,7 +31842,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -31453,7 +31857,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-19T15:42:45.728772+00:00"
+      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
     }
   },
   "skipped": {
