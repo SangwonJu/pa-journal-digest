@@ -30933,6 +30933,242 @@
       ],
       "sent_at": "2026-11-20T15:34:57.899643+00:00",
       "status": "sent"
+    },
+    "2026-11-21-8fa46c2152c3d1da": {
+      "created_at": "2026-11-21T14:37:08.695061+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-21-8fa46c2152c3d1da",
+      "items": [
+        {
+          "abstract": "Data protection regulations like GDPR and CCPA let consumers delete personal data or opt out of collection, but companies struggle to understand how these practices affect their recommendation systems. This matters because recommendations drive substantial revenue; according to industry reports, Netflix’s system saves more than $1 billion annually, and personalized suggestions generate 35% of Amazon purchases. We analyzed how different data privacy practices impact recommendation accuracy using large-scale simulations with real-world data. A critical finding: Context matters enormously. For services where user preferences are more stable (e.g., streaming platforms), opting out barely affects recommendation quality while deleting data cuts performance dramatically. However, for platforms where preferences and needs can change frequently (e.g., e-commerce), deleting old data can actually improve recommendations while opting out severely harms them. For policymakers, this means one-size-fits-all regulations may be counterproductive. For companies, we demonstrate that data privacy practices can be redesigned: users can protect their most revealing data while maintaining close-to-optimal recommendation quality. This challenges the tradeoff between privacy and personalization, showing both could be achievable through smarter design. Companies should offer context-appropriate privacy options; regulators should recognize different platforms need different approaches.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Gediminas Adomavicius": [
+              "Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455"
+            ],
+            "Liben Chen": [
+              "Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455; and Department of Information Systems, Business Statistics, and Operations Management, School of Business and Management, The Hong Kong University of Science and Technology, Hong Kong"
+            ],
+            "Meizi Zhou": [
+              "Questrom School of Business, Boston University, Boston, Massachusetts 02215"
+            ],
+            "Yicheng Song": [
+              "Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455"
+            ]
+          },
+          "authors": [
+            "Liben Chen",
+            "Meizi Zhou",
+            "Yicheng Song",
+            "Gediminas Adomavicius"
+          ],
+          "constructs": [
+            "Data Privacy",
+            "Recommender Systems"
+          ],
+          "doi": "10.1287/isre.2024.1230",
+          "is_editorial": false,
+          "journal": "Information Systems Research",
+          "journal_short": "ISR",
+          "method": "실험",
+          "method_detail": "대규모 시뮬레이션",
+          "publication_date": "2026-11-20",
+          "stable_id": "doi:10.1287/isre.2024.1230",
+          "summary_basis": "abstract",
+          "summary_ko": "GDPR·CCPA의 개인정보 삭제와 수집 거부가 추천 시스템 정확도에 미치는 영향을 실제 데이터 기반 대규모 시뮬레이션으로 분석했다. 사용자 선호가 안정적인 스트리밍에서는 수집 거부의 영향이 작고 데이터 삭제가 성능을 크게 낮췄지만, 선호가 자주 변하는 전자상거래에서는 오래된 데이터 삭제가 추천을 개선하고 수집 거부가 성능을 크게 낮췄다.",
+          "title": "Impact of Data Privacy Regulations on Recommender Systems Performance",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1287/isre.2024.1230"
+        },
+        {
+          "abstract": "When looking for a place to eat, how much do recommendations on your smartphone influence your choice? Can they help restaurants tucked away on side streets thrive in an age of algorithmic recommendations? We studied the launch of a location-based recommendation feature on South Korea’s largest search platform, tracking 16,720 restaurants over eight months. We find that visibility matters, but its benefits are uneven. Restaurants tucked away on side streets, far from subway stops, attracted the most additional attention when recommended by the algorithm. Yet this advantage did not translate into greater intentions to visit. Making a restaurant easier to discover did not necessarily overcome the inconvenience of reaching it. Digital information helped bridge this online-to-offline friction. Hard-to-reach restaurants with stronger online reputations and richer information, including customer reviews, photos, and menus, were better able to turn attention into visit intentions. For small businesses, visibility creates opportunities, but credible information helps turn attention into potential customers. For platforms and policymakers, location-based recommendations can bring overlooked businesses into view, but realizing their potential requires making reliable information readily available to consumers.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Gunwoong Lee": [
+              "Korea University Business School, Seoul 02841, Republic of Korea"
+            ],
+            "Jin Soo Han": [
+              "KAIST College of Business, Seoul 02455, Republic of Korea"
+            ],
+            "Keongtae Kim": [
+              "CUHK Business School, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong"
+            ]
+          },
+          "authors": [
+            "Jin Soo Han",
+            "Gunwoong Lee",
+            "Keongtae Kim"
+          ],
+          "constructs": [
+            "Recommender Systems",
+            "Online Reputation"
+          ],
+          "doi": "10.1287/isre.2025.1970",
+          "is_editorial": false,
+          "journal": "Information Systems Research",
+          "journal_short": "ISR",
+          "method": "준실험",
+          "method_detail": "도입 전후 추적",
+          "publication_date": "2026-11-20",
+          "stable_id": "doi:10.1287/isre.2025.1970",
+          "summary_basis": "abstract",
+          "summary_ko": "한국 최대 검색 플랫폼의 위치기반 추천 기능 도입을 계기로 8개월 동안 음식점 16,720곳을 추적해 스마트폰 추천이 음식점 선택에 미치는 영향을 분석했다. 지하철역에서 멀고 골목에 있는 음식점일수록 추천으로 주목은 더 받았지만 방문 의향 증가는 제한적이었으며, 온라인 평판과 리뷰·사진·메뉴 같은 정보가 주목을 방문 의향으로 전환하는 데 도움을 줬다.",
+          "title": "Mobile Location-Based Recommendation Systems and Local Businesses: Evidence from the Restaurant Industry",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1287/isre.2025.1970"
+        },
+        {
+          "abstract": "AI-enabled decision systems make algorithmic recommendations appear objective and ready for action before contextual, ethical, and stakeholder concerns are fully considered. This study examines how leaders preserve judgment under these conditions. We develop cognitive ambidexterity as a leader-level meta-cognitive capability through which managers balance algorithmic exploitation with contextual exploration in AI-mediated decisions. Using an exploratory sequential mixed-methods design, we first examine five U.K. procurement and infrastructure organizations and identify four mechanisms of cognitive ambidexterity. We then examine these mechanisms through vignette experiments with managers. The findings show that leaders preserve contextual judgment by treating AI outputs as interpretive cues, calibrating trust under ambiguity, slowing decisions when reflection is needed, and building supports that make algorithmic recommendations contestable. The study extends ambidexterity theory by showing how exploration–exploitation tensions are cognitively regulated when exploitation is embedded in algorithmic decision processes. It also uses leadership cognition and Upper Echelons Theory to explain why leaders differ in their capacity to enact this regulation. Together, these insights position cognitive ambidexterity as a critical leader-level capability for using AI’s efficiency gains while preserving the contextual judgment.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Tahir Abbas Syed": [
+              "University of Manchester"
+            ]
+          },
+          "authors": [
+            "Tahir Abbas Syed"
+          ],
+          "constructs": [
+            "Cognitive Ambidexterity",
+            "Upper Echelons Theory"
+          ],
+          "doi": "10.1177/01492063261501111",
+          "is_editorial": false,
+          "journal": "Journal of Management",
+          "journal_short": "JOM",
+          "method": "혼합방법론",
+          "method_detail": "순차 혼합",
+          "publication_date": "2026-11-21",
+          "stable_id": "doi:10.1177/01492063261501111",
+          "summary_basis": "abstract",
+          "summary_ko": "AI 매개 의사결정에서 관리자가 알고리즘 효율성과 맥락적 판단을 어떻게 조절하는지 탐색하기 위해 영국 조달·인프라 조직 5곳을 조사한 뒤 관리자 비네트 실험을 실시했다. 관리자는 AI 결과를 해석 단서로 다루고, 모호성에 따라 신뢰를 조정하며, 성찰이 필요할 때 결정을 늦추고, 알고리즘 권고를 이의 제기 가능하게 만드는 지원을 구축함으로써 맥락적 판단을 보존했다.",
+          "title": "Cognitive Ambidexterity: Balancing Algorithmic Efficiency and Contextual Judgement in AI-Enabled Decision Systems",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1177/01492063261501111"
+        },
+        {
+          "abstract": "While a substantial body of scholarship has emphasized the positive and ‘bright’ elements of co-production, more recent studies have drawn attention to its pitfalls and ‘dark side’. Although research has sought to bridge these contrasting perspectives by jointly examining benefits and drawbacks, it has largely maintained a binary distinction between them. Rather than treating these dimensions as separate or opposing, this study adopts a paradox lens to conceptualize them as inherently interconnected. Drawing on a case-study of co-assessment processes, we identify five paradoxes, with each pole reflecting elements typically associated with both the bright and dark sides of co-production. By reimagining the debate as inherently paradoxical, we move beyond binary approaches that privilege ‘bright’ (positive) aspects while minimizing ‘dark’ (negative) ones, advancing a more nuanced and realistic understanding of co-production. We show how such paradoxes are navigated, revealing coping strategies which vary across actors’ power dynamics and agency.",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {
+            "Adina Iulia Dudau": [
+              "University of Glasgow Adam Smith Business School"
+            ],
+            "Giovanni Barbato": [
+              "University of Milan"
+            ],
+            "Marta Ingaggiati": [
+              "University of Milan"
+            ],
+            "Martina Pisarra": [
+              "University of Milan"
+            ]
+          },
+          "authors": [
+            "Martina Pisarra",
+            "Marta Ingaggiati",
+            "Giovanni Barbato",
+            "Adina Iulia Dudau"
+          ],
+          "constructs": [
+            "Co-production",
+            "Paradox Lens"
+          ],
+          "doi": "10.1080/14719037.2026.2765743",
+          "is_editorial": false,
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "사례연구 분석",
+          "publication_date": "2026-11-18",
+          "stable_id": "doi:10.1080/14719037.2026.2765743",
+          "summary_basis": "abstract",
+          "summary_ko": "공동생산의 긍정적 측면과 부정적 측면이 어떻게 연결되는지 공동평가 과정의 사례연구로 분석했다. 다섯 가지 역설을 확인했고, 행위자들은 권력관계와 행위주체성에 따라 서로 다른 대응전략으로 이를 조정했다.",
+          "title": "Beyond the bright-dark binary of co-production: a paradox lens on co-assessment",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/14719037.2026.2765743"
+        },
+        {
+          "abstract": "Scholars agree that citizens’ assemblies require specialized knowledge and skills among public managers who implement them, yet we know little about what knowledge is required or how it develops and becomes institutionalized. To fill this gap, we draw on organizational and policy learning frameworks to study knowledge development through in-depth interviews with the chairs and senior civil servants (‘public managers’) of the Irish citizens’ assemblies. We find that public managers learned through a primarily informal learning process which resulted in two levels of outcomes: knowledge about assembly implementation (operational and systemic), and personal transformations (belief shifts and professional identity changes). The institutionalization of knowledge in Ireland followed a bifurcated pattern, with operational knowledge formally stored in documents and integrated into standard practice, while systemic knowledge remained stored in informal networks.",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {
+            "Claire Dupont": [
+              "Ghent University"
+            ],
+            "Precious Unegbu": [
+              "Ghent University"
+            ]
+          },
+          "authors": [
+            "Precious Unegbu",
+            "Claire Dupont"
+          ],
+          "constructs": [
+            "Organizational Learning",
+            "Policy Learning"
+          ],
+          "doi": "10.1080/14719037.2026.2764194",
+          "is_editorial": false,
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "심층 인터뷰",
+          "publication_date": "2026-11-18",
+          "stable_id": "doi:10.1080/14719037.2026.2764194",
+          "summary_basis": "abstract",
+          "summary_ko": "아일랜드 시민의회의 의장과 고위 공무원을 대상으로 심층 인터뷰를 실시해 공공관리자에게 필요한 지식이 어떻게 형성되고 제도화되는지 분석했다. 공공관리자는 주로 비공식 학습을 통해 의회 운영에 관한 운영적·체계적 지식과 신념 및 전문적 정체성의 변화를 얻었으며, 운영적 지식은 문서와 표준 관행에 제도화된 반면 체계적 지식은 비공식 네트워크에 남았다.",
+          "title": "Public manager learning in citizens’ assemblies: phases, outcomes and knowledge institutionalization",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1080/14719037.2026.2764194"
+        },
+        {
+          "abstract": "Public financial management systems increase visibility, yet captured governance can maintain compliance while redirecting budgeting, accounting, and procurement routines. We conceptualize these systems as diagnostic infrastructures that can conditionally expose such distortions. Anchored in Italian municipal dissolutions for mafia-type infiltration, theory-informed analysis of 50 dissolution reports identifies four core configurations and three cross-cutting dimensions. Across 7,802 municipalities (2016–2024), combined accounting and procurement indicators outperform single-source benchmarks and retain discrimination among Southern and fiscally distressed municipalities. We specify when such systems retain diagnostic capacity under staged compliance, informing data infrastructure design and existing scrutiny procedures, not municipal screening.",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {
+            "Antonio Parbonetti": [
+              "University of Padova"
+            ],
+            "Federico Longhin": [
+              "University of Padova",
+              "Rozes S.R.L. – University of Padova Spinoff"
+            ],
+            "Francesco Ambrosini": [
+              "University of Padova"
+            ],
+            "Ilaria Campagna": [
+              "University of Trento"
+            ]
+          },
+          "authors": [
+            "Francesco Ambrosini",
+            "Ilaria Campagna",
+            "Federico Longhin",
+            "Antonio Parbonetti"
+          ],
+          "constructs": [
+            "Captured Governance",
+            "Diagnostic Infrastructures"
+          ],
+          "doi": "10.1080/14719037.2026.2765333",
+          "is_editorial": false,
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "혼합방법론",
+          "method_detail": "구성 분석·패널 분석",
+          "publication_date": "2026-11-19",
+          "stable_id": "doi:10.1080/14719037.2026.2765333",
+          "summary_basis": "abstract",
+          "summary_ko": "이탈리아에서 마피아형 침투로 해산된 지방자치단체를 대상으로, 해산 보고서 50건과 2016~2024년 7,802개 지방자치단체의 회계·조달 지표를 분석해 포획된 거버넌스에서 공공재정관리 시스템의 진단 능력이 언제 유지되는지 검토했다. 회계와 조달 지표를 결합한 방식이 단일 자료원 기준보다 우수했고, 남부 지역 및 재정 곤란 지방자치단체에서도 식별력을 유지했다.",
+          "title": "Captured governance and diagnostic infrastructures: evidence from municipalities dissolved for mafia infiltration",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1080/14719037.2026.2765333"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -30955,7 +31191,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -30970,7 +31206,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -30991,7 +31227,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1002/pam.70142": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -31006,7 +31242,7 @@
         "title": "Excellence in Refereeing Award Announcement",
         "url": "https://doi.org/10.1002/pam.70142"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1002/smj.70058": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31021,7 +31257,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70058"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1002/smj.70059": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31036,7 +31272,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70059"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -31061,12 +31297,16 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1007/s11109-026-10222-y": {
       "first_seen_at": "2026-11-20T15:24:54.225756+00:00",
       "item": {
-        "author_affiliations": {},
+        "author_affiliations": {
+          "Rasmus Kappelgaard Gustafsson": [
+            "Aarhus University"
+          ]
+        },
         "authors": [
           "Rasmus Kappelgaard Gustafsson"
         ],
@@ -31078,7 +31318,7 @@
         "title": "Punishment for Being Posh? Politicians’ Lifestyle Cues, Class Signals, and Voter Evaluations",
         "url": "https://doi.org/10.1007/s11109-026-10222-y"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -31113,7 +31353,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -31134,7 +31374,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1037/apl0001426.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31149,7 +31389,7 @@
         "title": "Supplemental Material for On Criterion Weighting to Reduce Adverse Impact",
         "url": "https://doi.org/10.1037/apl0001426.supp"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1037/apl0001442.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31164,7 +31404,7 @@
         "title": "Supplemental Material for A Meta-Analysis of Three Decades of Construct Measurement Research on Situational Judgment Tests: Toward a Balance Between Construct Clarity and Predictive Power",
         "url": "https://doi.org/10.1037/apl0001442.supp"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1037/apl0001446.supp": {
       "first_seen_at": "2026-11-19T15:42:45.728772+00:00",
@@ -31179,7 +31419,7 @@
         "title": "Supplemental Material for Are Situational Judgment Tests Really Less Fakable? A Meta-Analysis",
         "url": "https://doi.org/10.1037/apl0001446.supp"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1037/pspa0000505.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31194,7 +31434,7 @@
         "title": "Supplemental Material for A Systematic Investigation of Age–Gender Intersectional Stereotypes and Their Consequences",
         "url": "https://doi.org/10.1037/pspa0000505.supp"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1037/pspi0000537.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31209,7 +31449,7 @@
         "title": "Supplemental Material for Individual, Interpersonal, and Socioeconomic Predictors of Divorce: A 12-Year Prospective Study",
         "url": "https://doi.org/10.1037/pspi0000537.supp"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1037/pspi0000538.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31224,7 +31464,7 @@
         "title": "Supplemental Material for The More, the Better? Evidence of Parallel Growth in Intergroup Contact Quantity and Quality Over Time",
         "url": "https://doi.org/10.1037/pspi0000538.supp"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1037/pspp0000620.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31239,7 +31479,7 @@
         "title": "Supplemental Material for Navigating Divorce and Partner Bereavement: Personality and Trajectories of Change in Life Satisfaction and Mental Health",
         "url": "https://doi.org/10.1037/pspp0000620.supp"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1037/pspp0000623.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31254,7 +31494,7 @@
         "title": "Supplemental Material for Examining the Gender-Equality Paradox in Values Using a New Measure of Value-Based Gender Typicality",
         "url": "https://doi.org/10.1037/pspp0000623.supp"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1037/pspp0000627.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31269,7 +31509,7 @@
         "title": "Supplemental Material for The Structure and History of English Words That Describe People",
         "url": "https://doi.org/10.1037/pspp0000627.supp"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1038/d41586-026-03578-y": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -31286,7 +31526,7 @@
         "title": "The public trusts scientists with AI — more than it does anyone else",
         "url": "https://doi.org/10.1038/d41586-026-03578-y"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1038/s41562-026-02639-6": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -31339,7 +31579,7 @@
         "title": "AI ‘slop’ is a social judgement",
         "url": "https://doi.org/10.1038/s41562-026-02639-6"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1080/10967494.2026.2758171": {
       "first_seen_at": "2026-11-20T15:24:54.225756+00:00",
@@ -31364,99 +31604,7 @@
         "title": "Representative bureaucracy and the career trajectories of female STEM students: a retrospective interview study",
         "url": "https://doi.org/10.1080/10967494.2026.2758171"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
-    },
-    "doi:10.1080/14719037.2026.2764194": {
-      "first_seen_at": "2026-11-19T15:42:45.728772+00:00",
-      "item": {
-        "author_affiliations": {
-          "Claire Dupont": [
-            "Ghent University"
-          ],
-          "Precious Unegbu": [
-            "Ghent University"
-          ]
-        },
-        "authors": [
-          "Precious Unegbu",
-          "Claire Dupont"
-        ],
-        "doi": "10.1080/14719037.2026.2764194",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-11-18",
-        "stable_id": "doi:10.1080/14719037.2026.2764194",
-        "title": "Public manager learning in citizens’ assemblies: phases, outcomes and knowledge institutionalization",
-        "url": "https://doi.org/10.1080/14719037.2026.2764194"
-      },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
-    },
-    "doi:10.1080/14719037.2026.2765333": {
-      "first_seen_at": "2026-11-19T15:42:45.728772+00:00",
-      "item": {
-        "author_affiliations": {
-          "Antonio Parbonetti": [
-            "University of Padova"
-          ],
-          "Federico Longhin": [
-            "University of Padova",
-            "Rozes S.R.L. – University of Padova Spinoff"
-          ],
-          "Francesco Ambrosini": [
-            "University of Padova"
-          ],
-          "Ilaria Campagna": [
-            "University of Trento"
-          ]
-        },
-        "authors": [
-          "Francesco Ambrosini",
-          "Ilaria Campagna",
-          "Federico Longhin",
-          "Antonio Parbonetti"
-        ],
-        "doi": "10.1080/14719037.2026.2765333",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-11-19",
-        "stable_id": "doi:10.1080/14719037.2026.2765333",
-        "title": "Captured governance and diagnostic infrastructures: evidence from municipalities dissolved for mafia infiltration",
-        "url": "https://doi.org/10.1080/14719037.2026.2765333"
-      },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
-    },
-    "doi:10.1080/14719037.2026.2765743": {
-      "first_seen_at": "2026-11-19T15:42:45.728772+00:00",
-      "item": {
-        "author_affiliations": {
-          "Adina Iulia Dudau": [
-            "University of Glasgow Adam Smith Business School"
-          ],
-          "Giovanni Barbato": [
-            "University of Milan"
-          ],
-          "Marta Ingaggiati": [
-            "University of Milan"
-          ],
-          "Martina Pisarra": [
-            "University of Milan"
-          ]
-        },
-        "authors": [
-          "Martina Pisarra",
-          "Marta Ingaggiati",
-          "Giovanni Barbato",
-          "Adina Iulia Dudau"
-        ],
-        "doi": "10.1080/14719037.2026.2765743",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-11-18",
-        "stable_id": "doi:10.1080/14719037.2026.2765743",
-        "title": "Beyond the bright-dark binary of co-production: a paradox lens on co-assessment",
-        "url": "https://doi.org/10.1080/14719037.2026.2765743"
-      },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1080/15309576.2026.2751448": {
       "first_seen_at": "2026-11-20T15:24:54.225756+00:00",
@@ -31489,7 +31637,36 @@
         "title": "The Passive Accountability Trap in Cross-Border Governance: The Case of the Macao-Zhuhai Funeral Service Network",
         "url": "https://doi.org/10.1080/15309576.2026.2751448"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
+    },
+    "doi:10.1080/15309576.2026.2764991": {
+      "first_seen_at": "2026-11-21T14:37:08.695061+00:00",
+      "item": {
+        "author_affiliations": {
+          "Amandine Lerusse": [
+            "Aalborg University"
+          ],
+          "Jamie McCauley": [
+            "University of Exeter"
+          ],
+          "Oliver James": [
+            "University of Exeter"
+          ]
+        },
+        "authors": [
+          "Oliver James",
+          "Amandine Lerusse",
+          "Jamie McCauley"
+        ],
+        "doi": "10.1080/15309576.2026.2764991",
+        "journal": "Public Performance & Management Review",
+        "journal_short": "PPMR",
+        "publication_date": "2026-11-20",
+        "stable_id": "doi:10.1080/15309576.2026.2764991",
+        "title": "Citizens’ Preferences for Comparative Performance Information to Hold Government to Account",
+        "url": "https://doi.org/10.1080/15309576.2026.2764991"
+      },
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -31518,7 +31695,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -31538,7 +31715,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -31555,7 +31732,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -31572,7 +31749,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -31590,7 +31767,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -31607,7 +31784,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -31626,7 +31803,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -31644,7 +31821,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -31663,7 +31840,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -31681,7 +31858,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -31698,7 +31875,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -31717,7 +31894,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -31735,7 +31912,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -31753,7 +31930,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1086/744871": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31770,7 +31947,7 @@
         "title": "Running in Context: Marginalization, Political Ambition, and Candidate Emergence",
         "url": "https://doi.org/10.1086/744871"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1086/744929": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -31817,7 +31994,7 @@
         "title": "Political Unfriending on Facebook: Evidence from over 180 Million Users",
         "url": "https://doi.org/10.1086/744929"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1086/744971": {
       "first_seen_at": "2026-11-17T15:57:19.481357+00:00",
@@ -31836,7 +32013,7 @@
         "title": "Breaking the Legal Stalemate: How Membership Changes and Position Uncertainty Shift Attorney Strategies at the U.S. Supreme Court",
         "url": "https://doi.org/10.1086/744971"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -31857,7 +32034,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -31872,7 +32049,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -31887,7 +32064,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -31908,7 +32085,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -31923,7 +32100,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -31938,7 +32115,32 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-20T15:24:54.225756+00:00"
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
+    },
+    "doi:10.5465/amr.2024.0336": {
+      "first_seen_at": "2026-11-21T14:37:08.695061+00:00",
+      "item": {
+        "author_affiliations": {
+          "David Diwei Lv": [
+            "The Hong Kong Polytechnic University"
+          ],
+          "SAKU Mantere": [
+            "McGill University"
+          ]
+        },
+        "authors": [
+          "David Diwei Lv",
+          "SAKU Mantere"
+        ],
+        "doi": "10.5465/amr.2024.0336",
+        "journal": "Academy of Management Review",
+        "journal_short": "AMR",
+        "publication_date": "2026-11-20",
+        "stable_id": "doi:10.5465/amr.2024.0336",
+        "title": "Organizational Goal Hierarchies in the Age of Artificial Intelligence: A Dynamic Behavioral Perspective",
+        "url": "https://doi.org/10.5465/amr.2024.0336"
+      },
+      "last_checked_at": "2026-11-21T14:37:08.695061+00:00"
     }
   },
   "skipped": {
