@@ -2104,6 +2104,14 @@
       "sent_at": "2026-11-06T15:08:10.195885+00:00",
       "title": "The difficulties of reducing administrative burden via the nonprofit sector: how sedimented governance stifles care coordination"
     },
+    "doi:10.1080/14719037.2026.2764194": {
+      "batch_id": "2026-11-21-8fa46c2152c3d1da",
+      "doi": "10.1080/14719037.2026.2764194",
+      "journal": "Public Management Review",
+      "publication_date": "2026-11-18",
+      "sent_at": "2026-11-21T14:45:34.596978+00:00",
+      "title": "Public manager learning in citizens’ assemblies: phases, outcomes and knowledge institutionalization"
+    },
     "doi:10.1080/14719037.2026.2765325": {
       "batch_id": "2026-11-20-0f255a87c1dd353e",
       "doi": "10.1080/14719037.2026.2765325",
@@ -2111,6 +2119,22 @@
       "publication_date": "2026-11-18",
       "sent_at": "2026-11-20T15:34:57.899643+00:00",
       "title": "Why do ‘public service satisfaction surveys’ dissatisfy many people? A process model of the implementation paradox emerging when policy implementation meets co-production fatigue"
+    },
+    "doi:10.1080/14719037.2026.2765333": {
+      "batch_id": "2026-11-21-8fa46c2152c3d1da",
+      "doi": "10.1080/14719037.2026.2765333",
+      "journal": "Public Management Review",
+      "publication_date": "2026-11-19",
+      "sent_at": "2026-11-21T14:45:34.596978+00:00",
+      "title": "Captured governance and diagnostic infrastructures: evidence from municipalities dissolved for mafia infiltration"
+    },
+    "doi:10.1080/14719037.2026.2765743": {
+      "batch_id": "2026-11-21-8fa46c2152c3d1da",
+      "doi": "10.1080/14719037.2026.2765743",
+      "journal": "Public Management Review",
+      "publication_date": "2026-11-18",
+      "sent_at": "2026-11-21T14:45:34.596978+00:00",
+      "title": "Beyond the bright-dark binary of co-production: a paradox lens on co-assessment"
     },
     "doi:10.1080/15309576.2026.2700771": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -4320,6 +4344,14 @@
       "sent_at": "2026-11-20T15:34:57.899643+00:00",
       "title": "Why Time Management Leads to Well-Being (and Performance)"
     },
+    "doi:10.1177/01492063261501111": {
+      "batch_id": "2026-11-21-8fa46c2152c3d1da",
+      "doi": "10.1177/01492063261501111",
+      "journal": "Journal of Management",
+      "publication_date": "2026-11-21",
+      "sent_at": "2026-11-21T14:45:34.596978+00:00",
+      "title": "Cognitive Ambidexterity: Balancing Algorithmic Efficiency and Contextual Judgement in AI-Enabled Decision Systems"
+    },
     "doi:10.1177/02750740261473616": {
       "batch_id": "2026-08-10-379897b0e0907946",
       "doi": "10.1177/02750740261473616",
@@ -4600,6 +4632,14 @@
       "sent_at": "2026-11-19T15:53:19.638200+00:00",
       "title": "Technology-Mediated Services in Healthcare: Evaluating Telehealth Delivery Models for Underserved Populations"
     },
+    "doi:10.1287/isre.2024.1230": {
+      "batch_id": "2026-11-21-8fa46c2152c3d1da",
+      "doi": "10.1287/isre.2024.1230",
+      "journal": "Information Systems Research",
+      "publication_date": "2026-11-20",
+      "sent_at": "2026-11-21T14:45:34.596978+00:00",
+      "title": "Impact of Data Privacy Regulations on Recommender Systems Performance"
+    },
     "doi:10.1287/isre.2024.1246": {
       "batch_id": "2026-11-14-0ee96efc673753b5-resend-recent-20261114T211039Z",
       "doi": "10.1287/isre.2024.1246",
@@ -4623,6 +4663,14 @@
       "publication_date": "2026-11-18",
       "sent_at": "2026-11-18T15:45:48.433716+00:00",
       "title": "Online Review Generation in the Digital Age: A Meta-Analytic Study of Online Review Behavior"
+    },
+    "doi:10.1287/isre.2025.1970": {
+      "batch_id": "2026-11-21-8fa46c2152c3d1da",
+      "doi": "10.1287/isre.2025.1970",
+      "journal": "Information Systems Research",
+      "publication_date": "2026-11-20",
+      "sent_at": "2026-11-21T14:45:34.596978+00:00",
+      "title": "Mobile Location-Based Recommendation Systems and Local Businesses: Evidence from the Restaurant Industry"
     },
     "doi:10.1287/isre.2025.2332": {
       "batch_id": "2026-11-18-12c26b81d4f04d0d",
@@ -31168,7 +31216,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2765333"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-21T14:45:34.596978+00:00",
+      "status": "sent"
     }
   },
   "pending": {
