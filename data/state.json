@@ -1616,6 +1616,14 @@
       "sent_at": "2026-10-01T13:22:13.347574+00:00",
       "title": "From human touch to aI-based self-service: antecedents of business users’ switching intention in government-to-business services"
     },
+    "doi:10.1080/10967494.2026.2758171": {
+      "batch_id": "2026-11-22-b56a96bb7f807c25",
+      "doi": "10.1080/10967494.2026.2758171",
+      "journal": "International Public Management Journal",
+      "publication_date": "2026-11-19",
+      "sent_at": "2026-11-22T14:40:39.618301+00:00",
+      "title": "Representative bureaucracy and the career trajectories of female STEM students: a retrospective interview study"
+    },
     "doi:10.1080/14719037.2026.2708842": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
       "doi": "10.1080/14719037.2026.2708842",
@@ -2240,6 +2248,14 @@
       "sent_at": "2026-10-29T13:06:15.690690+00:00",
       "title": "Feedback Control for Sustainability: Integrated Planning, Capabilities and Performance Management in Constrained Local Governments"
     },
+    "doi:10.1080/15309576.2026.2751448": {
+      "batch_id": "2026-11-22-b56a96bb7f807c25",
+      "doi": "10.1080/15309576.2026.2751448",
+      "journal": "Public Performance & Management Review",
+      "publication_date": "2026-11-19",
+      "sent_at": "2026-11-22T14:40:39.618301+00:00",
+      "title": "The Passive Accountability Trap in Cross-Border Governance: The Case of the Macao-Zhuhai Funeral Service Network"
+    },
     "doi:10.1080/15309576.2026.2752096": {
       "batch_id": "2026-10-31-bdcc386d84486eaa",
       "doi": "10.1080/15309576.2026.2752096",
@@ -2775,6 +2791,22 @@
       "publication_date": "2026-10-28",
       "sent_at": "2026-10-29T13:06:15.690690+00:00",
       "title": "Do Gender-of-Interviewer Effects Differ Across Immigrant Generations? Survey Evidence from Italy"
+    },
+    "doi:10.1093/poq/nfag073": {
+      "batch_id": "2026-11-22-b56a96bb7f807c25",
+      "doi": "10.1093/poq/nfag073",
+      "journal": "Public Opinion Quarterly",
+      "publication_date": "2026-11-21",
+      "sent_at": "2026-11-22T14:40:39.618301+00:00",
+      "title": "Quality Controls Can Improve the Replicability of Survey Experiments Using Online Nonprobability Panels"
+    },
+    "doi:10.1093/poq/nfag074": {
+      "batch_id": "2026-11-22-b56a96bb7f807c25",
+      "doi": "10.1093/poq/nfag074",
+      "journal": "Public Opinion Quarterly",
+      "publication_date": "2026-11-21",
+      "sent_at": "2026-11-22T14:40:39.618301+00:00",
+      "title": "Mass Perceptions of Agency Ideology"
     },
     "doi:10.1093/ppmgov/gvag008": {
       "batch_id": "2026-08-13-b1e7ea78f82cb711",
@@ -31376,7 +31408,8 @@
           "url": "https://doi.org/10.1080/15309576.2026.2751448"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-22T14:40:39.618301+00:00",
+      "status": "sent"
     }
   },
   "pending": {
