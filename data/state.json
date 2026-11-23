@@ -31410,6 +31410,331 @@
       ],
       "sent_at": "2026-11-22T14:40:39.618301+00:00",
       "status": "sent"
+    },
+    "2026-11-23-945f31e8fecba637": {
+      "created_at": "2026-11-23T18:01:44.296307+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-23-945f31e8fecba637",
+      "items": [
+        {
+          "abstract": "This paper theorizes how artificial intelligence (AI) disrupts organizational goal hierarchies by altering the rate and rhythm at which strategic purposes and operational means evolve. Rather than assuming that goals shift uniformly, we introduce the concept of goal flow: a dynamic and nonuniform change across a system of goals. AI technologies play a dual role in goal flow, as they disintegrate goal systems by accelerating goal evolution at different intensities across strategic and operational goals, while simultaneously enabling new forms of integration by augmenting social processes of learning, bargaining, and control. By elaborating this dual role in four types of integration work—aligning, directing, filtering, and sustaining—the paper reconceptualizes goal hierarchies as dynamic systems, augmented by AI.",
+          "abstract_source": "OpenAlex",
+          "ai_related": true,
+          "author_affiliations": {
+            "David Diwei Lv": [
+              "The Hong Kong Polytechnic University"
+            ],
+            "SAKU Mantere": [
+              "McGill University"
+            ]
+          },
+          "authors": [
+            "David Diwei Lv",
+            "SAKU Mantere"
+          ],
+          "constructs": [
+            "Goal Hierarchies",
+            "Goal Flow"
+          ],
+          "doi": "10.5465/amr.2024.0336",
+          "is_editorial": false,
+          "journal": "Academy of Management Review",
+          "journal_short": "AMR",
+          "method": "이론/개념",
+          "method_detail": "개념적 모형",
+          "publication_date": "2026-11-20",
+          "stable_id": "doi:10.5465/amr.2024.0336",
+          "summary_basis": "abstract",
+          "summary_ko": "AI가 전략적 목적과 운영 수단의 변화 속도와 리듬을 바꿔 조직 목표 위계에 미치는 영향을 이론화했다. AI는 목표 흐름을 서로 다른 강도로 가속해 목표 체계를 분해하는 동시에, 정렬·지시·필터링·지속화의 통합 작업에서 학습·협상·통제의 사회적 과정을 보강해 새로운 통합을 가능하게 했다.",
+          "title": "Organizational Goal Hierarchies in the Age of Artificial Intelligence: A Dynamic Behavioral Perspective",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.5465/amr.2024.0336"
+        },
+        {
+          "abstract": "This study examines senior administrators’ professional orientations under institutional decay in Türkiye. An exploratory nonprobability survey of 155 civilian senior administrators combines personal values, ranked public-service priorities, and occupational self-perceptions, alongside family and regional background indicators. Analyses are descriptive and associational. Prosocial–Universalism predominates. Merit, due process, and societal accountability outrank political loyalty. Positive professional self-assessments coexist with low perceived occupational prestige and doubts about others’ service orientations. Social-origin indicators explain little variation. The findings identify a selective bureaucratic and public-service repertoire, showing how clearly articulated professional standards coexist with weakened institutional safeguards.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Hicabi Kaynak": [
+              "Hacettepe University Graduate School of Social Sciences, Ankara, Türkiye"
+            ],
+            "Tuğça Poyraz": [
+              "Hacettepe University Department of Sociology, Ankara, Türkiye"
+            ]
+          },
+          "authors": [
+            "Hicabi Kaynak",
+            "Tuğça Poyraz"
+          ],
+          "constructs": [
+            "Bureaucratic Ethos",
+            "Public Service Motivation"
+          ],
+          "doi": "10.1177/00953997261498689",
+          "is_editorial": false,
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "method": "서베이",
+          "method_detail": "탐색적 설문",
+          "publication_date": "2026-11-23",
+          "stable_id": "doi:10.1177/00953997261498689",
+          "summary_basis": "abstract",
+          "summary_ko": "튀르키예의 제도적 쇠퇴 상황에서 고위 행정가 155명을 대상으로 개인 가치, 공공서비스 우선순위, 직업적 자기인식과 가족·지역 배경을 비확률 설문으로 조사했다. 기술적·연관 분석 결과 친사회적 보편주의가 우세했고 능력주의·적법절차·사회적 책무성이 정치적 충성보다 높게 평가됐으며, 긍정적 자기평가와 낮은 직업적 위상 인식 및 타인의 봉사 지향성에 대한 의구심이 함께 나타났고 사회적 출신 배경은 변이를 거의 설명하지 못했다.",
+          "title": "Bureaucratic Ethos Under Institutional Decay: Values and Professional Self-Understandings of Senior Administrators in Türkiye",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1177/00953997261498689"
+        },
+        {
+          "abstract": "ABSTRACT Despite strong normative, professional and legal constraints, leaks of confidential information by public administrators continue to arise. Yet, data limitations restrict our knowledge about when such actions are most/least likely. Conceptualizing the decision to leak confidential information as a “bureaucratic dilemma,” we theorize that this decision is affected by election proximity and positive/negative expert assessments of policy proposals. We test the resulting theoretical propositions via a between‐subjects survey experiment among 1661 national public administrators in Norway. Our results reveal that impending elections reduce the perceived probability of leaks among public administrators who support government parties, while having the reverse effect among public administrators not supporting government parties. We also uncover that leaks become less—not more—likely when there is a negative expert assessment of a policy proposal (relative to a control group receiving no expert assessment). Our findings help elucidate the information‐sharing dilemmas faced by public administrators.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Benny Geys": [
+              "Department of Economics BI Norwegian Business School Bergen Norway"
+            ],
+            "Zuzana Murdoch": [
+              "Department of Government University of Bergen Bergen Norway"
+            ]
+          },
+          "authors": [
+            "Zuzana Murdoch",
+            "Benny Geys"
+          ],
+          "constructs": [
+            "Bureaucratic Dilemma",
+            "Expert Assessments"
+          ],
+          "doi": "10.1111/gove.70163",
+          "is_editorial": false,
+          "journal": "Governance",
+          "journal_short": "Governance",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-11-23",
+          "stable_id": "doi:10.1111/gove.70163",
+          "summary_basis": "abstract",
+          "summary_ko": "노르웨이 중앙정부 공무원 1,661명을 대상으로 한 집단 간 설문 실험에서 선거 임박성과 정책 제안에 대한 전문가 평가가 기밀정보 유출 판단에 미치는 영향을 검토했다. 선거가 다가오면 정부 정당 지지자의 유출 인식 확률은 낮아졌지만 비지지자에게는 반대 효과가 나타났고, 전문가의 부정적 평가는 전문가 평가가 없는 통제집단보다 유출 가능성을 낮췄다.",
+          "title": "Elections, Expert Assessments and Public Sector Leaks: Evidence From a Survey Experiment",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1111/gove.70163"
+        },
+        {
+          "abstract": "When demand for research in a domain increases, scientific progress depends not only on whether more research is produced, but also on which scientists produce that research. This distinction is especially important in emerging domains, where technological trajectories remain uncertain and progress often requires the generation and integration of heterogeneous scientific knowledge. This study examines how academic scientists respond when demand for research increases in a domain and what research outcomes they produce within that domain. Empirically, I exploit the Zero Emission Vehicle (ZEV) mandate, which led to an unanticipated increase in demand for electric vehicle (EV) research. I find that scientists became more likely to produce EV research after the mandate. However, this response varied systematically across scientists: as intellectual distance from the EV domain increased, more-productive scientists were less responsive than less-productive scientists. Yet among scientists who produced EV research, the research outcomes of scientists from more distant domains were associated with greater novelty, while those of more-productive scientists from more distant domains were associated with greater scientific impact and greater use in downstream EV inventions. These findings suggest that increased demand for research shapes not only the volume of scientific activity in a domain, but also the composition of scientists who produce that research. Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2023.17926 .",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Jino Lu": [
+              "Olin Business School, Washington University in St. Louis, St. Louis, Missouri 63130"
+            ]
+          },
+          "authors": [
+            "Jino Lu"
+          ],
+          "constructs": [
+            "Intellectual Distance",
+            "Research Productivity"
+          ],
+          "doi": "10.1287/orsc.2023.17926",
+          "is_editorial": false,
+          "journal": "Organization Science",
+          "journal_short": "OrgSci",
+          "method": "준실험",
+          "method_detail": "정책 충격 분석",
+          "publication_date": "2026-11-23",
+          "stable_id": "doi:10.1287/orsc.2023.17926",
+          "summary_basis": "abstract",
+          "summary_ko": "ZEV mandate로 EV 연구 수요가 예기치 않게 증가한 상황에서 과학자들의 연구 참여와 성과가 지적 거리 및 생산성에 따라 어떻게 달라지는지 분석했다. 과학자들은 EV 연구를 더 많이 수행했지만, EV와 지적으로 먼 분야에서는 생산성이 높은 과학자의 반응이 약했고, 참여한 연구자 가운데 먼 분야 출신 연구는 더 높은 참신성을, 생산성이 높은 연구자의 연구는 더 큰 과학적 영향과 후속 EV 발명 활용을 보였다.",
+          "title": "Demand for Research and the Composition of Scientific Response: Intellectual Distance, Research Productivity, and Research Outcomes",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1287/orsc.2023.17926"
+        },
+        {
+          "abstract": "Existing research on interorganizational network dynamics has largely treated network change as gradual, local, and primarily oriented toward private organizational advantage. Yet contemporary cooperative interorganizational systems are highly interconnected across industrial sectors and geographies and are routinely exposed to shocks that simultaneously disable multiple organizations or relationships among them. These shocks stem from disruptions such as pandemics, natural disasters, wars, sanctions, or cascading partner failures, and they can rapidly reconfigure whole-network architectures and undermine collective outcomes. In light of this new reality, we reconceptualize interorganizational networks as loci of frequent, punctuated change at the whole-network level, with primary implications for collective outcomes. We develop this reconceptualization through a robustness-resilience lens, defining network robustness as an interorganizational network’s capacity to maintain its collective outcomes in the immediate aftermath of a shock, and network resilience as its capacity to recover and potentially surpass preshock collective outcomes over the longer term. We then outline the theoretical and methodological opportunities that this robustness-resilience perspective opens for the study of network change. Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2024.19624 .",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Maxim Sytch": [
+              "Ross School of Business, University of Michigan, Ann Arbor, Michigan 48109"
+            ],
+            "Pavel I. Zhelyazkov": [
+              "Department of Management, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong"
+            ],
+            "Sukanya Roy": [
+              "Strategy and Entrepreneurship Group, UCL School of Management, London, United Kingdom"
+            ]
+          },
+          "authors": [
+            "Maxim Sytch",
+            "Sukanya Roy",
+            "Pavel I. Zhelyazkov"
+          ],
+          "constructs": [
+            "Network Robustness",
+            "Network Resilience"
+          ],
+          "doi": "10.1287/orsc.2024.19624",
+          "is_editorial": false,
+          "journal": "Organization Science",
+          "journal_short": "OrgSci",
+          "method": "이론/개념",
+          "method_detail": "개념적 모형",
+          "publication_date": "2026-11-23",
+          "stable_id": "doi:10.1287/orsc.2024.19624",
+          "summary_basis": "abstract",
+          "summary_ko": "상호조직 네트워크 변화가 점진적·국지적 변화라는 기존 관점을 재검토하고, 팬데믹·자연재해·전쟁·제재·연쇄적 파트너 실패 같은 충격이 전체 네트워크와 집단적 성과를 어떻게 바꾸는지 개념적으로 논의했다. 네트워크의 강건성을 충격 직후 집단적 성과를 유지하는 능력으로, 회복탄력성을 장기적으로 충격 전 성과를 회복하거나 넘어서는 능력으로 정의하고, 이 관점의 이론적·방법론적 연구 기회를 제시했다.",
+          "title": "Reconceptualizing Network Change: Robustness and Resilience of Interorganizational Networks",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1287/orsc.2024.19624"
+        },
+        {
+          "abstract": "To assess the ability of current AI systems to correctly solve research-level mathematics problems, we tested four AI systems on a set of ten problems in a broad range of mathematical fields; these problems arose naturally in the research process of the contributors. This document includes our methodology, and the results of our testing, including the assessment of human reviewers and a report of costs. We provide links to supplementary documents including the human solutions, the AI-generated solutions, and the referee reports and logs for the AI-generated solutions.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Lauren Williams": [
+              "Department of Mathematics, Harvard University"
+            ],
+            "Mohammed Abouzaid": [
+              "Department of Mathematics, Stanford University"
+            ],
+            "Nikhil Srivastava": [
+              "Department of Mathematics, University of California"
+            ],
+            "Rachel Ward": [
+              "Department of Mathematics, University of Texas"
+            ]
+          },
+          "authors": [
+            "Mohammed Abouzaid",
+            "Nikhil Srivastava",
+            "Rachel Ward",
+            "Lauren Williams"
+          ],
+          "constructs": [
+            "AI Capabilities",
+            "Mathematical Problem Solving"
+          ],
+          "doi": "10.1073/pnas.2627448123",
+          "is_editorial": false,
+          "journal": "Proceedings of the National Academy of Sciences",
+          "journal_short": "PNAS",
+          "method": "실험",
+          "method_detail": "수학 문제 시험",
+          "publication_date": "2026-11-20",
+          "stable_id": "doi:10.1073/pnas.2627448123",
+          "summary_basis": "abstract",
+          "summary_ko": "연구 과정에서 나온 수학 분야의 연구 수준 문제 10개를 대상으로 현재 AI 시스템 4개의 정답 풀이 능력을 평가했다. 방법론, 인간 평가자의 판단, 비용을 포함한 시험 결과와 AI 생성 풀이의 심사 보고서 및 기록을 제시했다.",
+          "title": "Harness design matters for AI capabilities in mathematics",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1073/pnas.2627448123"
+        },
+        {
+          "abstract": "ABSTRACT Significant research suggests that systems of bureaucratic patronage tend to promote corruption and reduce the efficient production of publicly provided goods. However, much less work has been done to consider how market actors perceive such selection processes and especially reforms implemented to reduce such corruption. This study rectifies this by evaluating how the Pendleton Civil Service Reform Act impacted federal borrowing costs. If patronage resulted in increased corruption and bureaucratic inefficiency, this should be reflected in relatively higher bond yields. If the Pendleton Act was successful in curbing this behavior, then this should be rewarded by market actors in the form of lower borrowing costs. Using interrupted time series analysis with and without control, we find that the passage of the Pendleton Act did, in fact, result in lower borrowing costs for the federal government of between 63 and 84 basis points depending on specification. Implications are discussed.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "John A. Dove": [
+              "School of Creative Enterprise and Market Systems, Sorrell College of Business Troy University Troy Alabama USA"
+            ],
+            "Noah J. Trudeau": [
+              "School of Creative Enterprise and Market Systems, Sorrell College of Business Troy University Troy Alabama USA"
+            ]
+          },
+          "authors": [
+            "John A. Dove",
+            "Noah J. Trudeau"
+          ],
+          "constructs": [
+            "Bureaucratic Patronage",
+            "Corruption"
+          ],
+          "doi": "10.1111/puar.70236",
+          "is_editorial": false,
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "준실험",
+          "method_detail": "중단 시계열",
+          "publication_date": "2026-11-22",
+          "stable_id": "doi:10.1111/puar.70236",
+          "summary_basis": "abstract",
+          "summary_ko": "Pendleton Civil Service Reform Act가 연방정부의 차입비용에 미친 영향을 통제변수 유무에 따른 중단 시계열 분석으로 평가했다. 법 통과 뒤 연방정부의 채권수익률이 사양에 따라 63~84bp 하락해 차입비용이 낮아진 것으로 나타났다.",
+          "title": "Corruption Perceptions, the Pendleton Act, and Sovereign Borrowing Costs",
+          "topic_area": "재무·예산",
+          "url": "https://doi.org/10.1111/puar.70236"
+        },
+        {
+          "abstract": "Comparisons help citizens evaluate performance to hold government to account by comparing outcomes with benchmark standards. Comparative performance information has been shown to influence citizens’ beliefs and evaluations of performance. However, little is currently known about citizens’ preferences for having comparative performance information provided to them, nor the relative importance to them of having different forms of comparison. We use a discrete choice experiment to estimate citizens’ preferences for government reporting of social, historical and target-based comparisons of performance. We find that citizens prefer to have each of the three forms of comparison to not having these comparisons and prefer more extensive to basic forms of comparison for historical and target-based, but not social, comparisons. Using estimates of citizens’ willingness to pay, we find that the extensive form of target-based comparison is the most relevant comparison for them. Citizens’ willingness to pay these costs of accountability should encourage governments to provide comparisons, and their preferences should inform the design of performance reporting systems to help boost their legitimacy and use by citizens.",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {
+            "Amandine Lerusse": [
+              "Aalborg University"
+            ],
+            "Jamie McCauley": [
+              "University of Exeter"
+            ],
+            "Oliver James": [
+              "University of Exeter"
+            ]
+          },
+          "authors": [
+            "Oliver James",
+            "Amandine Lerusse",
+            "Jamie McCauley"
+          ],
+          "constructs": [
+            "Accountability",
+            "Performance Information"
+          ],
+          "doi": "10.1080/15309576.2026.2764991",
+          "is_editorial": false,
+          "journal": "Public Performance & Management Review",
+          "journal_short": "PPMR",
+          "method": "실험",
+          "method_detail": "이산선택실험",
+          "publication_date": "2026-11-20",
+          "stable_id": "doi:10.1080/15309576.2026.2764991",
+          "summary_basis": "abstract",
+          "summary_ko": "시민이 정부의 책무성을 평가할 때 사회적·역사적·목표기반 성과 비교정보를 어떤 방식으로 제공받기를 원하는지 이산선택실험으로 추정했다. 시민은 세 비교정보 모두를 제공하지 않는 경우보다 선호했고, 목표기반 비교의 확장형에 가장 높은 지불의사를 나타냈다.",
+          "title": "Citizens’ Preferences for Comparative Performance Information to Hold Government to Account",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1080/15309576.2026.2764991"
+        },
+        {
+          "abstract": "Women remain underrepresented in higher education leadership despite sustained gender-equity efforts. This qualitative meta-synthesis examined how strategic human resource management (SHRM) supports women’s leadership in public higher education institutions by integrating evidence from 57 studies published between 2020 and 2025. Four themes were identified: SHRM as an enabler of women’s leadership; women’s leadership as an organizational capability; organizational and socio-cultural barriers; and strategic priorities for institutional action. The evidence indicates that women’s leadership is strengthened when equitable recruitment, leadership development, supportive organizational cultures, and accountability mechanisms operate as an integrated HR system. Persistent structural and socio-cultural barriers nevertheless continue to restrict advancement. Accordingly, this paper proposes an analytical framework linking SHRM, women’s leadership, SDG 4 (Quality Education), and SDG 5 (Gender Equality).",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Juma Yusuf Mnzile": [
+              "Anadolu University, Eskişehir, Turkey"
+            ],
+            "Müyesser Ceylan": [
+              "Anadolu University, Eskişehir, Turkey"
+            ]
+          },
+          "authors": [
+            "Juma Yusuf Mnzile",
+            "Müyesser Ceylan"
+          ],
+          "constructs": [
+            "Strategic Human Resource Management",
+            "Women’s Leadership"
+          ],
+          "doi": "10.1177/0734371x261499942",
+          "is_editorial": false,
+          "journal": "Review of Public Personnel Administration",
+          "journal_short": "ROPPA",
+          "method": "이론/개념",
+          "method_detail": "질적 메타종합",
+          "publication_date": "2026-11-23",
+          "stable_id": "doi:10.1177/0734371x261499942",
+          "summary_basis": "abstract",
+          "summary_ko": "2020~2025년에 발표된 57편의 연구를 통합한 질적 메타종합으로, 공공 고등교육기관에서 전략적 인적자원관리(SHRM)가 여성 리더십을 어떻게 지원하는지 검토했다. 공평한 채용, 리더십 개발, 지원적 조직문화, 책무성 장치가 통합된 인사체계로 작동할 때 여성 리더십이 강화되지만, 구조적·사회문화적 장벽은 승진을 계속 제한하는 것으로 나타났으며, SHRM·여성 리더십·SDG 4·SDG 5를 연결하는 분석틀을 제안했다.",
+          "title": "From Mid-Level to Major Impact: Strengthening Women’s Leadership in Public Higher Education Institutions Through Strategic Human Resource Management for SDG Realization",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1177/0734371x261499942"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -31432,7 +31757,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -31447,7 +31772,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -31468,7 +31793,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1002/pam.70142": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -31483,7 +31808,7 @@
         "title": "Excellence in Refereeing Award Announcement",
         "url": "https://doi.org/10.1002/pam.70142"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1002/smj.70058": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31498,7 +31823,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70058"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1002/smj.70059": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31513,7 +31838,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70059"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -31538,7 +31863,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1007/s11109-026-10222-y": {
       "first_seen_at": "2026-11-20T15:24:54.225756+00:00",
@@ -31559,7 +31884,7 @@
         "title": "Punishment for Being Posh? Politicians’ Lifestyle Cues, Class Signals, and Voter Evaluations",
         "url": "https://doi.org/10.1007/s11109-026-10222-y"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -31594,7 +31919,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -31615,7 +31940,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1037/apl0001426.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31630,7 +31955,22 @@
         "title": "Supplemental Material for On Criterion Weighting to Reduce Adverse Impact",
         "url": "https://doi.org/10.1037/apl0001426.supp"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+    },
+    "doi:10.1037/apl0001437.supp": {
+      "first_seen_at": "2026-11-23T18:01:44.296307+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [],
+        "doi": "10.1037/apl0001437.supp",
+        "journal": "Journal of Applied Psychology",
+        "journal_short": "JAP",
+        "publication_date": "2026-11-23",
+        "stable_id": "doi:10.1037/apl0001437.supp",
+        "title": "Supplemental Material for Revisiting the Assumption of a Self-Regulatory Loop: A Cross-Lagged Study of the Relationship Between Role Ambiguity and Feedback Seeking",
+        "url": "https://doi.org/10.1037/apl0001437.supp"
+      },
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1037/apl0001442.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31645,7 +31985,7 @@
         "title": "Supplemental Material for A Meta-Analysis of Three Decades of Construct Measurement Research on Situational Judgment Tests: Toward a Balance Between Construct Clarity and Predictive Power",
         "url": "https://doi.org/10.1037/apl0001442.supp"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1037/apl0001446.supp": {
       "first_seen_at": "2026-11-19T15:42:45.728772+00:00",
@@ -31660,7 +32000,7 @@
         "title": "Supplemental Material for Are Situational Judgment Tests Really Less Fakable? A Meta-Analysis",
         "url": "https://doi.org/10.1037/apl0001446.supp"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1037/pspa0000505.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31675,7 +32015,7 @@
         "title": "Supplemental Material for A Systematic Investigation of Age–Gender Intersectional Stereotypes and Their Consequences",
         "url": "https://doi.org/10.1037/pspa0000505.supp"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1037/pspi0000537.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31690,7 +32030,7 @@
         "title": "Supplemental Material for Individual, Interpersonal, and Socioeconomic Predictors of Divorce: A 12-Year Prospective Study",
         "url": "https://doi.org/10.1037/pspi0000537.supp"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1037/pspi0000538.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31705,7 +32045,7 @@
         "title": "Supplemental Material for The More, the Better? Evidence of Parallel Growth in Intergroup Contact Quantity and Quality Over Time",
         "url": "https://doi.org/10.1037/pspi0000538.supp"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1037/pspp0000620.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31720,7 +32060,7 @@
         "title": "Supplemental Material for Navigating Divorce and Partner Bereavement: Personality and Trajectories of Change in Life Satisfaction and Mental Health",
         "url": "https://doi.org/10.1037/pspp0000620.supp"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1037/pspp0000623.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31735,7 +32075,7 @@
         "title": "Supplemental Material for Examining the Gender-Equality Paradox in Values Using a New Measure of Value-Based Gender Typicality",
         "url": "https://doi.org/10.1037/pspp0000623.supp"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1037/pspp0000627.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31750,7 +32090,7 @@
         "title": "Supplemental Material for The Structure and History of English Words That Describe People",
         "url": "https://doi.org/10.1037/pspp0000627.supp"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1038/d41586-026-03578-y": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -31767,7 +32107,7 @@
         "title": "The public trusts scientists with AI — more than it does anyone else",
         "url": "https://doi.org/10.1038/d41586-026-03578-y"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1038/s41562-026-02639-6": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -31820,36 +32160,32 @@
         "title": "AI ‘slop’ is a social judgement",
         "url": "https://doi.org/10.1038/s41562-026-02639-6"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
-    "doi:10.1080/15309576.2026.2764991": {
-      "first_seen_at": "2026-11-21T14:37:08.695061+00:00",
+    "doi:10.1080/14719037.2026.2765744": {
+      "first_seen_at": "2026-11-23T18:01:44.296307+00:00",
       "item": {
         "author_affiliations": {
-          "Amandine Lerusse": [
-            "Aalborg University"
+          "Bin Guan": [
+            "Lanzhou University"
           ],
-          "Jamie McCauley": [
-            "University of Exeter"
-          ],
-          "Oliver James": [
-            "University of Exeter"
+          "Lei Wang": [
+            "Lanzhou University"
           ]
         },
         "authors": [
-          "Oliver James",
-          "Amandine Lerusse",
-          "Jamie McCauley"
+          "Bin Guan",
+          "Lei Wang"
         ],
-        "doi": "10.1080/15309576.2026.2764991",
-        "journal": "Public Performance & Management Review",
-        "journal_short": "PPMR",
-        "publication_date": "2026-11-20",
-        "stable_id": "doi:10.1080/15309576.2026.2764991",
-        "title": "Citizens’ Preferences for Comparative Performance Information to Hold Government to Account",
-        "url": "https://doi.org/10.1080/15309576.2026.2764991"
+        "doi": "10.1080/14719037.2026.2765744",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-11-23",
+        "stable_id": "doi:10.1080/14719037.2026.2765744",
+        "title": "How Does implicit debt shape local governments’ low-carbon governance? A public value conflict perspective",
+        "url": "https://doi.org/10.1080/14719037.2026.2765744"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -31878,7 +32214,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -31898,7 +32234,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -31915,7 +32251,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -31932,7 +32268,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -31950,7 +32286,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -31967,7 +32303,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -31986,7 +32322,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -32004,7 +32340,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -32023,7 +32359,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -32041,7 +32377,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -32058,7 +32394,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -32077,7 +32413,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -32095,7 +32431,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -32113,7 +32449,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1086/744871": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32130,7 +32466,7 @@
         "title": "Running in Context: Marginalization, Political Ambition, and Candidate Emergence",
         "url": "https://doi.org/10.1086/744871"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1086/744929": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -32177,7 +32513,7 @@
         "title": "Political Unfriending on Facebook: Evidence from over 180 Million Users",
         "url": "https://doi.org/10.1086/744929"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1086/744971": {
       "first_seen_at": "2026-11-17T15:57:19.481357+00:00",
@@ -32196,7 +32532,7 @@
         "title": "Breaking the Legal Stalemate: How Membership Changes and Position Uncertainty Shift Attorney Strategies at the U.S. Supreme Court",
         "url": "https://doi.org/10.1086/744971"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -32217,7 +32553,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -32232,7 +32568,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -32247,7 +32583,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -32268,7 +32604,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -32283,7 +32619,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -32298,32 +32634,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
-    },
-    "doi:10.5465/amr.2024.0336": {
-      "first_seen_at": "2026-11-21T14:37:08.695061+00:00",
-      "item": {
-        "author_affiliations": {
-          "David Diwei Lv": [
-            "The Hong Kong Polytechnic University"
-          ],
-          "SAKU Mantere": [
-            "McGill University"
-          ]
-        },
-        "authors": [
-          "David Diwei Lv",
-          "SAKU Mantere"
-        ],
-        "doi": "10.5465/amr.2024.0336",
-        "journal": "Academy of Management Review",
-        "journal_short": "AMR",
-        "publication_date": "2026-11-20",
-        "stable_id": "doi:10.5465/amr.2024.0336",
-        "title": "Organizational Goal Hierarchies in the Age of Artificial Intelligence: A Dynamic Behavioral Perspective",
-        "url": "https://doi.org/10.5465/amr.2024.0336"
-      },
-      "last_checked_at": "2026-11-22T14:31:07.652178+00:00"
+      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
     }
   },
   "skipped": {
