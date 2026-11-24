@@ -584,6 +584,22 @@
       "sent_at": "2026-11-03T15:11:31.405120+00:00",
       "title": "Retrieval-Augmented Surveys"
     },
+    "doi:10.1017/pan.2026.10065": {
+      "batch_id": "2026-11-24-85e25fa3499aec69",
+      "doi": "10.1017/pan.2026.10065",
+      "journal": "Political Analysis",
+      "publication_date": "2026-11-24",
+      "sent_at": "2026-11-24T17:46:57.889605+00:00",
+      "title": "Uncertain Performance: How to Quantify Uncertainty and Draw Test Sets When Evaluating Classifiers"
+    },
+    "doi:10.1017/pan.2026.10068": {
+      "batch_id": "2026-11-24-85e25fa3499aec69",
+      "doi": "10.1017/pan.2026.10068",
+      "journal": "Political Analysis",
+      "publication_date": "2026-11-24",
+      "sent_at": "2026-11-24T17:46:57.889605+00:00",
+      "title": "Correcting Bias When Using Latent Regressors"
+    },
     "doi:10.1017/s0003055425101135": {
       "batch_id": "2026-10-28-76e232541b4242da",
       "doi": "10.1017/s0003055425101135",
@@ -920,6 +936,14 @@
       "sent_at": "2026-11-17T16:09:45.245702+00:00",
       "title": "Automating inequality? Gender bias in AI-mediated labor markets"
     },
+    "doi:10.1073/pnas.2534309123": {
+      "batch_id": "2026-11-24-85e25fa3499aec69",
+      "doi": "10.1073/pnas.2534309123",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "publication_date": "2026-11-23",
+      "sent_at": "2026-11-24T17:46:57.889605+00:00",
+      "title": "Humans show limited ability to distinguish human-authored from AI-generated political content on social media"
+    },
     "doi:10.1073/pnas.2611349123": {
       "batch_id": "2026-11-14-0ee96efc673753b5-resend-recent-20261114T211039Z",
       "doi": "10.1073/pnas.2611349123",
@@ -959,6 +983,14 @@
       "publication_date": "2026-11-20",
       "sent_at": "2026-11-23T18:12:53.018715+00:00",
       "title": "Harness design matters for AI capabilities in mathematics"
+    },
+    "doi:10.1073/pnas.2628011123": {
+      "batch_id": "2026-11-24-85e25fa3499aec69",
+      "doi": "10.1073/pnas.2628011123",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "publication_date": "2026-11-23",
+      "sent_at": "2026-11-24T17:46:57.889605+00:00",
+      "title": "Reducing belief in conspiracy theories as they unfold using large language models"
     },
     "doi:10.1080/01900692.2026.2683248": {
       "batch_id": "2026-08-08-2d7215eaa0cc04f8-resend-20260808T072605Z",
@@ -2151,6 +2183,14 @@
       "publication_date": "2026-11-18",
       "sent_at": "2026-11-21T14:45:34.596978+00:00",
       "title": "Beyond the bright-dark binary of co-production: a paradox lens on co-assessment"
+    },
+    "doi:10.1080/14719037.2026.2765744": {
+      "batch_id": "2026-11-24-85e25fa3499aec69",
+      "doi": "10.1080/14719037.2026.2765744",
+      "journal": "Public Management Review",
+      "publication_date": "2026-11-23",
+      "sent_at": "2026-11-24T17:46:57.889605+00:00",
+      "title": "How Does implicit debt shape local governments’ low-carbon governance? A public value conflict perspective"
     },
     "doi:10.1080/15309576.2026.2700771": {
       "batch_id": "2026-08-07-e44e788bbaf25d83-resend-20260807T091716Z-resend-20260807T092548Z",
@@ -4736,6 +4776,14 @@
       "sent_at": "2026-11-19T15:53:19.638200+00:00",
       "title": "Navigating the Sea of Reviews: Unveiling the Effects of Introducing AI-Generated Summaries in E-Commerce"
     },
+    "doi:10.1287/isre.2024.1314": {
+      "batch_id": "2026-11-24-85e25fa3499aec69",
+      "doi": "10.1287/isre.2024.1314",
+      "journal": "Information Systems Research",
+      "publication_date": "2026-11-24",
+      "sent_at": "2026-11-24T17:46:57.889605+00:00",
+      "title": "Understanding the Prompting Effects of Chain-of-Thought on Human Collaboration with Generative AI"
+    },
     "doi:10.1287/isre.2024.1510": {
       "batch_id": "2026-11-18-12c26b81d4f04d0d",
       "doi": "10.1287/isre.2024.1510",
@@ -4944,6 +4992,14 @@
       "sent_at": "2026-11-14T21:19:08.147291+00:00",
       "title": "Wrongdoers or Saviors? CEO Activism, Media Partisanship, and the Media’s Construction of CEO Infamy and Celebrity"
     },
+    "doi:10.1287/orsc.2024.19136": {
+      "batch_id": "2026-11-24-85e25fa3499aec69",
+      "doi": "10.1287/orsc.2024.19136",
+      "journal": "Organization Science",
+      "publication_date": "2026-11-24",
+      "sent_at": "2026-11-24T17:46:57.889605+00:00",
+      "title": "Action-Oriented Narratives: How Innovation Emerges from Crowd Discussions"
+    },
     "doi:10.1287/orsc.2024.19305": {
       "batch_id": "2026-11-19-761da8293daaaa7c",
       "doi": "10.1287/orsc.2024.19305",
@@ -4959,6 +5015,14 @@
       "publication_date": "2026-11-13",
       "sent_at": "2026-11-14T21:19:08.147291+00:00",
       "title": "How Firms Respond to Carbon Taxation"
+    },
+    "doi:10.1287/orsc.2024.19400": {
+      "batch_id": "2026-11-24-85e25fa3499aec69",
+      "doi": "10.1287/orsc.2024.19400",
+      "journal": "Organization Science",
+      "publication_date": "2026-11-24",
+      "sent_at": "2026-11-24T17:46:57.889605+00:00",
+      "title": "Legal Chameleons: Political Ideology, Institutional Histories, and Firms’ Management of Identity Cues"
     },
     "doi:10.1287/orsc.2024.19549": {
       "batch_id": "2026-11-14-0ee96efc673753b5-resend-recent-20261114T211039Z",
@@ -32132,7 +32196,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2765744"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-24T17:46:57.889605+00:00",
+      "status": "sent"
     }
   },
   "pending": {
