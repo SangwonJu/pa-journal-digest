@@ -31808,6 +31808,331 @@
       ],
       "sent_at": "2026-11-23T18:12:53.018715+00:00",
       "status": "sent"
+    },
+    "2026-11-24-85e25fa3499aec69": {
+      "created_at": "2026-11-24T17:39:15.686045+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-24-85e25fa3499aec69",
+      "items": [
+        {
+          "abstract": "It is well established that Chain-of-Thought (CoT) reasoning improves model performance in Generative Artificial Intelligence (GenAI). Far less understood is whether presenting CoT reasoning in AI-enabled interfaces enhances users’ perceived trust in GenAI’s competence in performing tasks. Drawing on the Heuristic-Systematic Model, we develop a theoretical framework in which CoT presence and quality trigger either heuristic perceptions of transparency or systematic perceptions of diagnosticity and germane cognitive load, with distinct mechanisms across task-difficulty conditions. Across a series of online experiments, we identify two key findings. First, high-quality CoT consistently enhances perceived trust in GenAI’s ability to generate correct outputs, regardless of task difficulty. Notably, under high-difficulty conditions, users’ trust in GenAI is primarily driven by the greater germane cognitive load perceived from high-quality CoT, whereas under low-difficulty conditions, trust is primarily driven by perceived transparency or diagnosticity. Second, low-quality CoT reduces users’ competence trust in GenAI that generates incorrect outputs only under low-difficulty conditions and only when users engage in careful processing, operating through perceived diagnosticity. Yet, under high-difficulty conditions, low-quality CoT amplifies trust via perceived transparency. By disentangling the cognitive pathways through which CoT shapes competence trust in GenAI and by identifying task difficulty as a critical boundary condition, these findings deepen our understanding of transparent reasoning in AI interfaces and offer valuable insights for deploying CoT in GenAI systems.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Lu Gao": [
+              "Renmin University of China, School of Information, Beijing, China"
+            ],
+            "Qiguang Yang": [
+              "Renmin University of China, School of Journalism and Communication, Beijing, China"
+            ],
+            "Xin (Robert) Luo": [
+              "Hong Kong Metropolitan University, Lee Shau Kee School of Business and Administration, Hong Kong, Hong Kong"
+            ],
+            "Xusen Cheng": [
+              "Renmin University of China, School of Information, Beijing, China"
+            ]
+          },
+          "authors": [
+            "Xusen Cheng",
+            "Lu Gao",
+            "Qiguang Yang",
+            "Xin (Robert) Luo"
+          ],
+          "constructs": [
+            "Heuristic-Systematic Model",
+            "Competence Trust"
+          ],
+          "doi": "10.1287/isre.2024.1314",
+          "is_editorial": false,
+          "journal": "Information Systems Research",
+          "journal_short": "ISR",
+          "method": "실험",
+          "method_detail": "온라인 실험",
+          "publication_date": "2026-11-24",
+          "stable_id": "doi:10.1287/isre.2024.1314",
+          "summary_basis": "abstract",
+          "summary_ko": "생성형 AI 인터페이스에서 Chain-of-Thought(CoT)의 존재와 품질이 과업 난이도에 따라 사용자의 역량 신뢰에 미치는 인지 경로를 온라인 실험들로 검토했다. 고품질 CoT는 과업 난이도와 무관하게 신뢰를 높였으며, 고난도 과업에서는 germane cognitive load, 저난도 과업에서는 transparency 또는 diagnosticity가 주된 경로로 나타났다.",
+          "title": "Understanding the Prompting Effects of Chain-of-Thought on Human Collaboration with Generative AI",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1287/isre.2024.1314"
+        },
+        {
+          "abstract": "Crowds are increasingly invited to tackle complex innovation problems. However, our understanding of how crowds solve these problems has limited our ability to utilize them effectively. In this article, we examine how a crowd tasked with finding ways to preserve New Zealand’s native flora and fauna achieves solutions to this complex innovation problem through discussion. Our analysis reveals that discussions leading to innovative solutions differ from those leading to non-innovative solutions: innovation-yielding discussions (1) mobilize more Resources than Constraints, (2) converge on a single Goal, and (3) specify few (often one) responsible Subject(s); vis-à-vis discussions leading to non-innovative solutions often surfaced multiple goals—thereby sustaining multiple problem framings—while subjects remained vague, implicit, or multiplied, and constraints frequently outnumbered resources. Moreover, we show how the specific weavings of these discursive elements support the crowd’s navigation of the complex innovation problem. Three discursive maneuvers—subject-goal anchoring, repurposing distant knowledge, and layering resources—are fundamental navigational tools used by the crowd to form what we call “action-oriented narratives”: simple, dynamic, and evolving linguistic structures that enable collective problem exploration, while giving room for localized improvisation. We contribute to the literature on problem solving by showing how specific linguistic activities alter individuals’ capacity to contribute to and solve complex problems. We also contribute to the literature on linguistic structures supporting innovation by showing that the types of discussions that support innovation depend on the openness of the setting. Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2024.19136 .",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Ann Majchrzak": [
+              "USC Marshall School of Business, University of Southern California, Los Angeles, California 90089"
+            ],
+            "Arvind Malhotra": [
+              "Kenan-Flagler Business School, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina 27599"
+            ],
+            "Claudio Biscaro": [
+              "Johannes Kepler University, 4040 Linz, Austria; and JKU Business School, 4040 Linz, Austria"
+            ]
+          },
+          "authors": [
+            "Claudio Biscaro",
+            "Arvind Malhotra",
+            "Ann Majchrzak"
+          ],
+          "constructs": [
+            "Action-Oriented Narratives",
+            "Collective Problem Solving"
+          ],
+          "doi": "10.1287/orsc.2024.19136",
+          "is_editorial": false,
+          "journal": "Organization Science",
+          "journal_short": "OrgSci",
+          "method": "질적연구",
+          "method_detail": "담론 분석",
+          "publication_date": "2026-11-24",
+          "stable_id": "doi:10.1287/orsc.2024.19136",
+          "summary_basis": "abstract",
+          "summary_ko": "뉴질랜드 토착 동식물 보전 방안을 찾는 crowd의 토론을 분석해 혁신적 해결책으로 이어지는 담론과 그렇지 않은 담론의 차이를 examined했다. 혁신적 토론은 제약보다 자원을 더 동원하고 하나의 목표로 수렴하며 책임 주체를 구체화했고, 주체-목표 고정, 원거리 지식의 재활용, 자원 중첩을 통해 집단적 문제 탐색과 지역적 즉흥 실행을 가능하게 하는 ‘action-oriented narratives’를 형성했다.",
+          "title": "Action-Oriented Narratives: How Innovation Emerges from Crowd Discussions",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1287/orsc.2024.19136"
+        },
+        {
+          "abstract": "This study examines how foreign firms strategically manage the salience of foreignness when facing unfavorable domestic evaluators. Foreign firms do so by altering the ethnic composition of the agents representing them before the evaluators. We examine this question in the context of Asian firms’ selection of legal counsel in U.S. federal courts. Prior research suggests that foreign firms may anticipate less favorable evaluations in courts that have historically favored domestic over foreign firms and in those with conservative judges. We argue that, in such evaluative settings, Asian firms adjust the ethnic composition of their external legal teams to manage the salience of foreignness, and that such adjustments are especially likely in courts that combine judge conservatism with pro-domestic ruling histories. We test these arguments using data on U.S. patent litigation from 2000 to 2016 and validated measures of courts’ political ideology and pro-domestic ruling histories. We find that Asian firms reduce the proportion of Asian-origin lawyers and increase the proportion of White lawyers when litigating in conservative courts, particularly when these courts also have pro-domestic ruling histories. By contrast, the ethnic composition of lawyers representing domestic firms remains stable across courts. Evidence of implicit bias against Asians among legal professionals provides additional support consistent with the theorized mechanism. Post hoc analyses reveal that adjusting the ethnic composition of external legal teams attenuates the likelihood of unfavorable outcomes in conservative courts. These findings contribute to research on liability of foreignness by identifying agent selection as a specific mitigation mechanism in evaluative arenas. Funding: This research was supported by a research grant awarded to Y. H. Kim by Mays Business School. Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2024.19400 .",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Jose Uribe": [
+              "Kelley School of Business, Indiana University, Bloomington, Indiana 47405"
+            ],
+            "Maxim Sytch": [
+              "Ross School of Business, University of Michigan, Ann Arbor, Michigan 48109"
+            ],
+            "Yong H. Kim": [
+              "Mays Business School, Texas A&M University, College Station, Texas 77843"
+            ]
+          },
+          "authors": [
+            "Yong H. Kim",
+            "Jose Uribe",
+            "Maxim Sytch"
+          ],
+          "constructs": [
+            "Liability of Foreignness",
+            "Implicit Bias"
+          ],
+          "doi": "10.1287/orsc.2024.19400",
+          "is_editorial": false,
+          "journal": "Organization Science",
+          "journal_short": "OrgSci",
+          "method": "실험",
+          "method_detail": "특허소송 자료분석",
+          "publication_date": "2026-11-24",
+          "stable_id": "doi:10.1287/orsc.2024.19400",
+          "summary_basis": "abstract",
+          "summary_ko": "미국 연방법원의 아시아계 기업 특허소송 자료(2000~2016년)를 분석해, 보수적 법원과 친국내 판결 이력이 결합된 평가 환경에서 외부 법률팀의 인종 구성을 조정해 외국성을 덜 두드러지게 하는지 검토했다. 아시아계 기업은 이런 법원에서 아시아계 변호사 비중을 낮추고 백인 변호사 비중을 높였으며, 그 조정은 불리한 결과의 가능성을 낮추는 것으로 나타났고 국내 기업의 변호사 구성은 법원별로 안정적이었다.",
+          "title": "Legal Chameleons: Political Ideology, Institutional Histories, and Firms’ Management of Identity Cues",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1287/orsc.2024.19400"
+        },
+        {
+          "abstract": "Abstract Many core concepts in political science are latent and therefore can only be measured with error. Measurement error in a predictor attenuates slope coefficient estimates in regression, often biasing them toward zero. We show that widely used strategies for correcting attenuation bias—including instrumental variables and the method of composition—are themselves biased when applied to latent regressors, often performing worse than simple regression ignoring the measurement error altogether. We derive a correlation-based correction using split-sample measurement strategies. Rather than assuming a particular estimation strategy for the latent trait, our approach is modular and can be easily deployed with a wide variety of latent-variable measurement strategies, including additive score, factor or machine-learning models; it requires no joint estimation while yielding consistent slopes under standard assumptions. Simulations and applications show stronger relationships after our correction, sometimes by as much as 50%. Open-source software implements the procedure. Results underscore that latent predictors demand tailored error correction; otherwise, conventional practice can exacerbate bias.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Connor Jerzak": [
+              "The University of Texas at Austin"
+            ],
+            "Stephen Jessee": [
+              "The University of Texas at Austin"
+            ]
+          },
+          "authors": [
+            "Connor Jerzak",
+            "Stephen Jessee"
+          ],
+          "constructs": [
+            "Measurement Error",
+            "Attenuation Bias"
+          ],
+          "doi": "10.1017/pan.2026.10068",
+          "is_editorial": false,
+          "journal": "Political Analysis",
+          "journal_short": "PolAnalysis",
+          "method": "실험",
+          "method_detail": "시뮬레이션·응용분석",
+          "publication_date": "2026-11-24",
+          "stable_id": "doi:10.1017/pan.2026.10068",
+          "summary_basis": "abstract",
+          "summary_ko": "잠재적 예측변수를 측정오차와 함께 회귀분석할 때 기존의 도구변수법과 method of composition이 감쇠편향을 제대로 교정하지 못하고, 측정오차를 무시한 단순 회귀보다 나쁜 결과를 낼 수 있는지 검토했다. split-sample 측정에 기반한 상관 기반 교정법을 제시하고 시뮬레이션과 응용 분석으로 검증한 결과, additive score·factor·machine-learning 모형에 적용할 수 있는 이 방법은 표준 가정에서 일관된 기울기를 산출했으며 교정 후 관계가 최대 50% 강해졌다.",
+          "title": "Correcting Bias When Using Latent Regressors",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1017/pan.2026.10068"
+        },
+        {
+          "abstract": "Abstract Supervised machine learning has become increasingly popular in social science research, often employing classifiers to measure political constructs. Although evaluating classifiers on a test set is critical for establishing their validity, guidance on how to conduct such evaluation is limited. In particular, researchers have paid insufficient attention to the variance of performance metrics estimated on test sets. This article demonstrates that typically sized test sets yield highly noisy and often uninformative estimates of classifier performance, particularly for imbalanced tasks—common in social science applications like identifying hateful or emotional speech—where one outcome class is rare. To address this issue, this article introduces methods to quantify uncertainty in performance estimates based on their sampling distribution and validated with simulations. It also introduces a design-based approach in political science to enhance statistical precision when evaluating classifiers: efficient stratified sampling based on the outcome’s predicted probability. Simulations using synthetic and real data show that this strategy meaningfully reduces the variance of performance estimates, especially in imbalanced tasks, while ensuring that they remain consistent. Finally, the article illustrates how to calculate the test set size required to achieve a desired level of statistical precision. Accompanying statistical software enables researchers to easily implement these methods.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Francisco Tomas-Valiente": [
+              "ETH Zürich"
+            ]
+          },
+          "authors": [
+            "Francisco Tomas-Valiente"
+          ],
+          "constructs": [
+            "Classifier Performance",
+            "Stratified Sampling"
+          ],
+          "doi": "10.1017/pan.2026.10065",
+          "is_editorial": false,
+          "journal": "Political Analysis",
+          "journal_short": "PolAnalysis",
+          "method": "실험",
+          "method_detail": "시뮬레이션 분석",
+          "publication_date": "2026-11-24",
+          "stable_id": "doi:10.1017/pan.2026.10065",
+          "summary_basis": "abstract",
+          "summary_ko": "분류기의 테스트셋 성능 추정치가 얼마나 불확실한지 정량화하고, 특히 희귀한 결과범주를 포함한 불균형 과제에서 정밀도를 높일 테스트셋 추출 방법을 검토했다. 시뮬레이션과 합성·실제 자료 분석 결과, 예측확률에 따른 효율적 층화표집이 성능 추정치의 분산을 줄였으며, 원하는 통계적 정밀도에 필요한 테스트셋 크기도 계산할 수 있었다.",
+          "title": "Uncertain Performance: How to Quantify Uncertainty and Draw Test Sets When Evaluating Classifiers",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1017/pan.2026.10065"
+        },
+        {
+          "abstract": "This study employs a set of behavioral experiments to examine how individuals perceive the humanness of social media posts about the 2024 U.S. presidential debate between Kamala Harris and Donald Trump. Posts presented in the experiment were authored either by humans or chatbots, varying the large language model (LLM), the model architecture, the social media platform, and the political personas. Participants judged randomly paired posts to identify which they perceived to be AI-generated. We find that human-authored posts were on average perceived as more human-like than AI outputs generated from five of the six LLMs in this study. However, participants’ ability to detect AI-generated content is limited. They do so only slightly above chance in human–AI pairs, and this ability weakens for newer LLMs, varies by platform, and reflects partisan bias. Only posts generated with Llama 3.3 scored, on average, higher on perceived humanness than human-authored posts. The social media platform also mattered, with participants distinguishing human from AI on most platforms (YouTube, TikTok, Truth Social), but not on X/Twitter. Incivility and negative emotions are associated with high humanness perceptions, and partisan identity also shaped evaluations, with Republican respondents more likely to view ideologically misaligned AI posts as AI-generated.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Autumn Toney-Wails": [
+              "Department of Computer Science, Georgetown University"
+            ],
+            "Leticia Bode": [
+              "Communication, Culture, and Technology, College of Arts and Sciences, Georgetown University"
+            ],
+            "Lisa Singh": [
+              "Massive Data Institute, Georgetown University",
+              "McCourt School of Public Policy, Georgetown University",
+              "Department of Computer Science, Georgetown University"
+            ],
+            "Rebecca Ansell": [
+              "Massive Data Institute, Georgetown University",
+              "Department of Computer Science, Georgetown University"
+            ],
+            "Sejin Paik": [
+              "Massive Data Institute, Georgetown University"
+            ],
+            "Tiago Ventura": [
+              "McCourt School of Public Policy, Georgetown University"
+            ]
+          },
+          "authors": [
+            "Sejin Paik",
+            "Tiago Ventura",
+            "Rebecca Ansell",
+            "Leticia Bode",
+            "Autumn Toney-Wails",
+            "Lisa Singh"
+          ],
+          "constructs": [
+            "Political Identity",
+            "Perceived Humanness"
+          ],
+          "doi": "10.1073/pnas.2534309123",
+          "is_editorial": false,
+          "journal": "Proceedings of the National Academy of Sciences",
+          "journal_short": "PNAS",
+          "method": "실험",
+          "method_detail": "행동실험",
+          "publication_date": "2026-11-23",
+          "stable_id": "doi:10.1073/pnas.2534309123",
+          "summary_basis": "abstract",
+          "summary_ko": "2024년 미국 대선 토론에 관한 인간 작성 및 챗봇 생성 소셜미디어 게시물을 대상으로, LLM·모델 구조·플랫폼·정치적 페르나를 달리한 행동실험에서 참가자가 AI 생성물을 식별하는 능력을 조사했다. 인간 작성물은 6개 LLM 중 5개가 생성한 글보다 평균적으로 더 인간답게 평가됐지만, 인간과 AI 게시물의 구분은 우연 수준을 조금 웃돌았고 최신 LLM에서 약화됐으며 플랫폼과 당파적 편향에 따라 달라졌다.",
+          "title": "Humans show limited ability to distinguish human-authored from AI-generated political content on social media",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1073/pnas.2534309123"
+        },
+        {
+          "abstract": "The emergence of conspiracy theories in the wake of major events is a significant societal challenge. Here, we test whether conversational dialogues with a large language model (LLM) can reduce belief in immediately unfolding conspiracies. In experiments conducted in the days following the July 2024 assassination attempt on Donald Trump and the September 2025 assassination of Charlie Kirk, US adults (Experiment 1: N = 472; Experiment 2: N = 1,042) holding conspiratorial views about the crisis event engaged in a multiturn conversation with an LLM prompted to reduce their conspiracy belief. Compared to control participants who either discussed an irrelevant topic with an LLM or viewed a static fact sheet, participants in the LLM treatment showed significantly reduced conspiracy beliefs in both experiments. We also found suggestive evidence of downstream effects of the LLM treatment, observing reduced belief in some—but not all—analyses of different conspiratorial beliefs 1 to 2 mo later. These results shed light on the psychology of emerging conspiracies and highlight the potential for scalable, information-focused LLM interventions to counteract misinformation in the immediate aftermath of high-profile societal events.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "David G. Rand": [
+              "Sloan School of Management, Massachusetts Institute of Technology",
+              "Department of Psychology, Cornell University",
+              "Department of Information Science, Cornell University",
+              "Marketing and Management Communications, Samuel Curtis Johnson School of Business, Cornell University"
+            ],
+            "Gordon Pennycook": [
+              "Department of Psychology, Cornell University"
+            ],
+            "Michael Nicholas Stagnaro": [
+              "Sloan School of Management, Massachusetts Institute of Technology"
+            ],
+            "Nathaniel Rabb": [
+              "Sloan School of Management, Massachusetts Institute of Technology"
+            ],
+            "Thomas H. Costello": [
+              "Department of Social and Decision Sciences, Carnegie Mellon University"
+            ]
+          },
+          "authors": [
+            "Thomas H. Costello",
+            "Nathaniel Rabb",
+            "Michael Nicholas Stagnaro",
+            "Gordon Pennycook",
+            "David G. Rand"
+          ],
+          "constructs": [
+            "Conspiracy Beliefs",
+            "Misinformation"
+          ],
+          "doi": "10.1073/pnas.2628011123",
+          "is_editorial": false,
+          "journal": "Proceedings of the National Academy of Sciences",
+          "journal_short": "PNAS",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-11-23",
+          "stable_id": "doi:10.1073/pnas.2628011123",
+          "summary_basis": "abstract",
+          "summary_ko": "2024년 7월 도널드 트럼프 암살 시도와 2025년 9월 찰리 커크 암살 직후 음모론을 믿은 미국 성인 472명과 1,042명을 대상으로, 음모론 완화를 유도한 LLM과의 다회 대화가 신념에 미치는 영향을 실험했다. 통제집단보다 LLM 처치집단의 음모론 신념이 두 실험에서 유의하게 감소했고, 1~2개월 후 일부 음모론 신념에서도 감소가 나타났지만 모든 분석에서 일관되지는 않았다.",
+          "title": "Reducing belief in conspiracy theories as they unfold using large language models",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1073/pnas.2628011123"
+        },
+        {
+          "abstract": "Against the backdrop of accelerating green development and low-carbon transition, governments worldwide face challenges balancing economic development and low-carbon governance. Particularly when faced with fiscal pressure and public debt accumulation, local governments often confront public value dilemmas. This study examines how implicit debt affects local governments’ low-carbon governance efficiency via public value conflict, and further analyzes the effect of local leadership turnover frequency on this mechanism. Results show that implicit debt intensifies public value conflict in local low-carbon governance, thereby inhibiting low-carbon governance efficiency. Moreover, a higher frequency of local leadership turnover further strengthens this mechanism.",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {
+            "Bin Guan": [
+              "Lanzhou University"
+            ],
+            "Lei Wang": [
+              "Lanzhou University"
+            ]
+          },
+          "authors": [
+            "Bin Guan",
+            "Lei Wang"
+          ],
+          "constructs": [
+            "Implicit Debt",
+            "Public Value Conflict"
+          ],
+          "doi": "10.1080/14719037.2026.2765744",
+          "is_editorial": false,
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "방법 미상",
+          "method_detail": "메커니즘 분석",
+          "publication_date": "2026-11-23",
+          "stable_id": "doi:10.1080/14719037.2026.2765744",
+          "summary_basis": "abstract",
+          "summary_ko": "지방정부의 implicit debt가 public value conflict를 통해 저탄소 거버넌스 효율성에 미치는 영향을 분석하고, 지방 리더십 교체 빈도가 이 메커니즘을 어떻게 조절하는지 검토했다. implicit debt는 public value conflict를 심화시켜 저탄소 거버넌스 효율성을 낮췄으며, 지방 리더십 교체 빈도가 높을수록 이 효과가 강화됐다.",
+          "title": "How Does implicit debt shape local governments’ low-carbon governance? A public value conflict perspective",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1080/14719037.2026.2765744"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -31830,7 +32155,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -31845,7 +32170,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -31866,7 +32191,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1002/pam.70142": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -31881,7 +32206,7 @@
         "title": "Excellence in Refereeing Award Announcement",
         "url": "https://doi.org/10.1002/pam.70142"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1002/smj.70058": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31896,7 +32221,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70058"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1002/smj.70059": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -31911,7 +32236,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70059"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -31936,7 +32261,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1007/s11109-026-10222-y": {
       "first_seen_at": "2026-11-20T15:24:54.225756+00:00",
@@ -31957,7 +32282,7 @@
         "title": "Punishment for Being Posh? Politicians’ Lifestyle Cues, Class Signals, and Voter Evaluations",
         "url": "https://doi.org/10.1007/s11109-026-10222-y"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -31992,7 +32317,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -32013,7 +32338,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1037/apl0001426.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32028,7 +32353,7 @@
         "title": "Supplemental Material for On Criterion Weighting to Reduce Adverse Impact",
         "url": "https://doi.org/10.1037/apl0001426.supp"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1037/apl0001437.supp": {
       "first_seen_at": "2026-11-23T18:01:44.296307+00:00",
@@ -32043,7 +32368,7 @@
         "title": "Supplemental Material for Revisiting the Assumption of a Self-Regulatory Loop: A Cross-Lagged Study of the Relationship Between Role Ambiguity and Feedback Seeking",
         "url": "https://doi.org/10.1037/apl0001437.supp"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1037/apl0001442.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32058,7 +32383,7 @@
         "title": "Supplemental Material for A Meta-Analysis of Three Decades of Construct Measurement Research on Situational Judgment Tests: Toward a Balance Between Construct Clarity and Predictive Power",
         "url": "https://doi.org/10.1037/apl0001442.supp"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1037/apl0001446.supp": {
       "first_seen_at": "2026-11-19T15:42:45.728772+00:00",
@@ -32073,7 +32398,7 @@
         "title": "Supplemental Material for Are Situational Judgment Tests Really Less Fakable? A Meta-Analysis",
         "url": "https://doi.org/10.1037/apl0001446.supp"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1037/pspa0000505.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32088,7 +32413,7 @@
         "title": "Supplemental Material for A Systematic Investigation of Age–Gender Intersectional Stereotypes and Their Consequences",
         "url": "https://doi.org/10.1037/pspa0000505.supp"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1037/pspi0000537.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32103,7 +32428,7 @@
         "title": "Supplemental Material for Individual, Interpersonal, and Socioeconomic Predictors of Divorce: A 12-Year Prospective Study",
         "url": "https://doi.org/10.1037/pspi0000537.supp"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1037/pspi0000538.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32118,7 +32443,7 @@
         "title": "Supplemental Material for The More, the Better? Evidence of Parallel Growth in Intergroup Contact Quantity and Quality Over Time",
         "url": "https://doi.org/10.1037/pspi0000538.supp"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1037/pspp0000620.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32133,7 +32458,7 @@
         "title": "Supplemental Material for Navigating Divorce and Partner Bereavement: Personality and Trajectories of Change in Life Satisfaction and Mental Health",
         "url": "https://doi.org/10.1037/pspp0000620.supp"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1037/pspp0000623.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32148,7 +32473,7 @@
         "title": "Supplemental Material for Examining the Gender-Equality Paradox in Values Using a New Measure of Value-Based Gender Typicality",
         "url": "https://doi.org/10.1037/pspp0000623.supp"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1037/pspp0000627.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32163,7 +32488,7 @@
         "title": "Supplemental Material for The Structure and History of English Words That Describe People",
         "url": "https://doi.org/10.1037/pspp0000627.supp"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1038/d41586-026-03578-y": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -32180,7 +32505,42 @@
         "title": "The public trusts scientists with AI — more than it does anyone else",
         "url": "https://doi.org/10.1038/d41586-026-03578-y"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+    },
+    "doi:10.1038/s41562-026-02615-0": {
+      "first_seen_at": "2026-11-24T17:39:15.686045+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Christopher Summerfield",
+          "Rebecca Anselmetti",
+          "Shahar Avin",
+          "Vanessa Cheung",
+          "Madga Dubois",
+          "Tom Eccles",
+          "Anna Gausen",
+          "Kobi Hackenburg",
+          "Keno Juechems",
+          "Hannah Rose Kirk",
+          "Lennart Luettgau",
+          "Brendan McGrath",
+          "Ishan Mishra",
+          "Aidan Peppin",
+          "Jorge Perez",
+          "Nadine Staes-Polet",
+          "Merlin Stein",
+          "Andrew Strait",
+          "Sarenne Wallbridge"
+        ],
+        "doi": "10.1038/s41562-026-02615-0",
+        "journal": "Nature Human Behaviour",
+        "journal_short": "NHB",
+        "publication_date": "2026-11-24",
+        "stable_id": "doi:10.1038/s41562-026-02615-0",
+        "title": "Empirical evidence for eight ways that AI is impacting people",
+        "url": "https://doi.org/10.1038/s41562-026-02615-0"
+      },
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1038/s41562-026-02639-6": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -32233,32 +32593,57 @@
         "title": "AI ‘slop’ is a social judgement",
         "url": "https://doi.org/10.1038/s41562-026-02639-6"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
-    "doi:10.1080/14719037.2026.2765744": {
-      "first_seen_at": "2026-11-23T18:01:44.296307+00:00",
+    "doi:10.1080/14719037.2026.2765742": {
+      "first_seen_at": "2026-11-24T17:39:15.686045+00:00",
       "item": {
         "author_affiliations": {
-          "Bin Guan": [
-            "Lanzhou University"
+          "Huan Wang": [
+            "School of Government and Public Affairs, Communication University of China, Beijing, China"
           ],
-          "Lei Wang": [
-            "Lanzhou University"
+          "Youlang Zhang": [
+            "School of Public Administration and Policy, Renmin University of China, Beijing, China"
           ]
         },
         "authors": [
-          "Bin Guan",
-          "Lei Wang"
+          "Huan Wang",
+          "Youlang Zhang"
         ],
-        "doi": "10.1080/14719037.2026.2765744",
+        "doi": "10.1080/14719037.2026.2765742",
         "journal": "Public Management Review",
         "journal_short": "PMR",
-        "publication_date": "2026-11-23",
-        "stable_id": "doi:10.1080/14719037.2026.2765744",
-        "title": "How Does implicit debt shape local governments’ low-carbon governance? A public value conflict perspective",
-        "url": "https://doi.org/10.1080/14719037.2026.2765744"
+        "publication_date": "2026-11-24",
+        "stable_id": "doi:10.1080/14719037.2026.2765742",
+        "title": "Designing inclusive AI in public service delivery: experimental evidence on individual preferences for government chatbots",
+        "url": "https://doi.org/10.1080/14719037.2026.2765742"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+    },
+    "doi:10.1080/15309576.2026.2762919": {
+      "first_seen_at": "2026-11-24T17:39:15.686045+00:00",
+      "item": {
+        "author_affiliations": {
+          "Alexander C. Henderson": [
+            "Marist University"
+          ],
+          "James Melitski": [
+            "Marist University"
+          ]
+        },
+        "authors": [
+          "Alexander C. Henderson",
+          "James Melitski"
+        ],
+        "doi": "10.1080/15309576.2026.2762919",
+        "journal": "Public Performance & Management Review",
+        "journal_short": "PPMR",
+        "publication_date": "2026-11-23",
+        "stable_id": "doi:10.1080/15309576.2026.2762919",
+        "title": "Perspectives of Community Relations in Policing: The Impact of Leadership Style, Proactive Personality, and Autonomy",
+        "url": "https://doi.org/10.1080/15309576.2026.2762919"
+      },
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -32287,7 +32672,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -32307,7 +32692,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -32324,7 +32709,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -32341,7 +32726,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -32359,7 +32744,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -32376,7 +32761,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -32395,7 +32780,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -32413,7 +32798,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -32432,7 +32817,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -32450,7 +32835,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -32467,7 +32852,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -32486,7 +32871,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -32504,7 +32889,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -32522,7 +32907,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1086/744871": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32539,7 +32924,7 @@
         "title": "Running in Context: Marginalization, Political Ambition, and Candidate Emergence",
         "url": "https://doi.org/10.1086/744871"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1086/744929": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -32586,7 +32971,7 @@
         "title": "Political Unfriending on Facebook: Evidence from over 180 Million Users",
         "url": "https://doi.org/10.1086/744929"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1086/744971": {
       "first_seen_at": "2026-11-17T15:57:19.481357+00:00",
@@ -32605,7 +32990,7 @@
         "title": "Breaking the Legal Stalemate: How Membership Changes and Position Uncertainty Shift Attorney Strategies at the U.S. Supreme Court",
         "url": "https://doi.org/10.1086/744971"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -32626,7 +33011,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -32641,7 +33026,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -32656,7 +33041,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -32677,7 +33062,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -32692,7 +33077,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -32707,7 +33092,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-23T18:01:44.296307+00:00"
+      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
     }
   },
   "skipped": {
