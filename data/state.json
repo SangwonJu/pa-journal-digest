@@ -32198,6 +32198,310 @@
       ],
       "sent_at": "2026-11-24T17:46:57.889605+00:00",
       "status": "sent"
+    },
+    "2026-11-25-34473f6d25475d46": {
+      "created_at": "2026-11-25T17:10:24.648445+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-25-34473f6d25475d46",
+      "items": [
+        {
+          "abstract": "Public employment service frontline workers must balance income protection and activation, goals that can conflict. This article examines their encounters with mothers who resigned for care reasons in Italy, where protected resignation allows benefits without lifting activation requirements. Observations and interviews in three employment centers show workers acknowledging mothers’ constraints while explaining conditionality, and shared arrangements for “light” cases giving this accommodation organisational form. Expectations become workable without resolving the institutional contradiction, protecting income support but leaving participation terms informal. It contributes to street-level bureaucracy research by showing how organisational discretion shapes conditional welfare in a gendered care context.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Rebecca Paraciani": [
+              "University of Bologna, Emilia-Romagna, Italy"
+            ],
+            "Roberto Rizza": [
+              "University of Bologna, Emilia-Romagna, Italy"
+            ]
+          },
+          "authors": [
+            "Rebecca Paraciani",
+            "Roberto Rizza"
+          ],
+          "constructs": [
+            "Street-Level Bureaucracy",
+            "Conditional Welfare"
+          ],
+          "doi": "10.1177/00953997261506223",
+          "is_editorial": false,
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "method": "질적연구",
+          "method_detail": "관찰·인터뷰",
+          "publication_date": "2026-11-25",
+          "stable_id": "doi:10.1177/00953997261506223",
+          "summary_basis": "abstract",
+          "summary_ko": "이탈리아의 고용서비스센터 세 곳에서 돌봄을 이유로 사직한 어머니들을 만나는 일선 종사자의 대응을 관찰과 인터뷰로 살펴봤다. 종사자들은 어머니들의 제약을 인정하면서도 조건부 급여와 활성화 요건을 설명했고, ‘가벼운’ 사례에 대한 공동 대응을 조직화했지만 제도적 모순은 해소하지 못했다.",
+          "title": "Voluntary Resignation and Involuntary Activation: Navigating the Motherhood Penalty at the Street-Level",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1177/00953997261506223"
+        },
+        {
+          "abstract": "ABSTRACT Policies addressing gender inequality have increasingly been linked to more ethical governance, as women tend to be disproportionately burdened by corruption compared to men. One such policy is gender budgeting, an innovative approach to resource allocation that considers the impact of government spending on women and other underrepresented groups. Despite the growing popularity worldwide, we know little about its effectiveness in curbing corruption. This study evaluates the impact of gender budgeting on grand (political) and petty (bureaucratic) corruption using difference‐in‐differences estimations across a panel of 136 countries from 1980 to 2023. The results reveal a significant reduction in petty corruption, as gender budgeting improves the impartiality of public bureaucracies. Heterogeneity analyses also indicate a decrease in grand corruption, but only in countries with adequate levels of budget transparency, oversight, and public participation. The study highlights the far‐reaching consequences of gender reforms for the quality of governance.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Marjorie De la Cruz": [
+              "Department of Public Policy and Administration School of International and Public Affairs Florida International University Miami Florida USA"
+            ],
+            "Milena I. Neshkova": [
+              "Department of Public Policy and Administration School of International and Public Affairs Florida International University Miami Florida USA"
+            ],
+            "Yoon‐Jung Choi": [
+              "Department of Public Policy and Administration School of International and Public Affairs Florida International University Miami Florida USA"
+            ]
+          },
+          "authors": [
+            "Marjorie De la Cruz",
+            "Milena I. Neshkova",
+            "Yoon‐Jung Choi"
+          ],
+          "constructs": [
+            "Gender Budgeting",
+            "Corruption"
+          ],
+          "doi": "10.1111/gove.70164",
+          "is_editorial": false,
+          "journal": "Governance",
+          "journal_short": "Governance",
+          "method": "준실험",
+          "method_detail": "이중차분",
+          "publication_date": "2026-11-25",
+          "stable_id": "doi:10.1111/gove.70164",
+          "summary_basis": "abstract",
+          "summary_ko": "1980~2023년 136개국 패널을 대상으로 성인지 예산이 거대 부패와 사소한 부패를 줄이는지 이중차분으로 분석했다. 성인지 예산은 공공 관료제의 공평성을 높여 사소한 부패를 유의하게 줄였고, 거대 부패 감소는 예산 투명성·감독·시민참여가 충분한 국가에서만 나타났다.",
+          "title": "Linking Women’s Equality With Government Integrity: Can Gender Budgeting Curb Corruption?",
+          "topic_area": "재무·예산",
+          "url": "https://doi.org/10.1111/gove.70164"
+        },
+        {
+          "abstract": "Occupational gender segregation remains a defining feature of labor markets worldwide, and efforts to recruit individuals into gender-atypical occupations often fail because newcomers drop out shortly after entry. Understanding what drives this early attrition requires examining the day-to-day experiences of newcomers whose gender is underrepresented in their occupation, especially during the critical first weeks of organizational socialization. Integrating role congruity theory with a dynamic work-events perspective, we propose that gender-atypical newcomers experience an intensifying trajectory of perceived negative work events over time, and that this intensifying trajectory undermines their task mastery and heightens their turnover intention. Results from a longitudinal field study applying a repeated-measures design to 673 newcomers across 88 occupations over 12 weeks support these predictions. Newcomers working in gender-atypical occupations experienced a significant increase in negative work events over time, with this effect being significantly stronger for men in female-dominated occupations than for women in male-dominated occupations. Furthermore, steeper negative work event trajectories were associated with lower task mastery and higher turnover intentions. These findings advance dissimilarity research by uncovering the dynamic mechanism through which gender dissimilarity translates into adverse adjustment outcomes and contribute to the anchoring events literature by demonstrating the disproportionate and lasting influence of early negative experiences at the very outset of a professional career.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Florian Kunze": [
+              "University of Konstanz"
+            ],
+            "Sophie Schellhammer": [
+              "University of Konstanz"
+            ]
+          },
+          "authors": [
+            "Sophie Schellhammer",
+            "Florian Kunze"
+          ],
+          "constructs": [
+            "Role Congruity Theory",
+            "Task Mastery"
+          ],
+          "doi": "10.1177/01492063261506258",
+          "is_editorial": false,
+          "journal": "Journal of Management",
+          "journal_short": "JOM",
+          "method": "준실험",
+          "method_detail": "반복 종단 측정",
+          "publication_date": "2026-11-25",
+          "stable_id": "doi:10.1177/01492063261506258",
+          "summary_basis": "abstract",
+          "summary_ko": "성별 비전형 직업에 진입한 신규 구성원이 초기 조직사회화 12주 동안 겪는 부정적 업무 사건의 변화와 과업 숙달·이직 의도를 종단적으로 검토했다. 88개 직업의 신규 구성원 673명을 반복 측정한 결과, 부정적 업무 사건은 시간에 따라 증가했고 그 증가폭은 여성 지배 직업의 남성에게 더 컸으며, 증가폭이 클수록 과업 숙달은 낮고 이직 의도는 높게 나타났다.",
+          "title": "Breaking Gender Norms: A Dynamic Perspective on Entering Gender-Atypical Occupations",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1177/01492063261506258"
+        },
+        {
+          "abstract": "ABSTRACT We document the nature of teacher strikes in the United States and examine how they affect compensation, working conditions, and productivity using an original dataset of 745 teacher strikes between 2007 and 2024. The vast majority (89%) of strikes are motivated by compensation, and just over half are motivated by working conditions. We examine the impact of strikes on both strike aims and student achievement in an event study framework. The average strike leads to a 6% ($7,629) increase in combined annual wages and benefits and a 0.5 student (3.2%) decline in pupil–teacher ratios after 5 years. We find little evidence of sizable impacts on student achievement, on average, up to 5 years poststrike. Heterogeneity analyses suggest that strikes did cause student achievement to increase in districts with lower relative expenditures per pupil and in states where teacher strikes are illegal, both contexts where strikes achieved larger gains in teacher compensation. Math achievement declines in the short‐term after atypically long strikes, likely due to lost instructional time.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Matthew A. Kraft": [
+              "Brown University Providence Rhode Island USA"
+            ],
+            "Matthew P. Steinberg": [
+              "Research, Strategy &amp; Evaluation Consultant"
+            ],
+            "Melissa Arnold Lyon": [
+              "Rockefeller College of Public Affairs and Policy, Public Administration and Policy University at Albany Albany New York USA"
+            ]
+          },
+          "authors": [
+            "Melissa Arnold Lyon",
+            "Matthew A. Kraft",
+            "Matthew P. Steinberg"
+          ],
+          "constructs": [
+            "Teacher Compensation",
+            "Student Achievement"
+          ],
+          "doi": "10.1002/pam.70143",
+          "is_editorial": false,
+          "journal": "Journal of Policy Analysis and Management",
+          "journal_short": "JPAM",
+          "method": "준실험",
+          "method_detail": "사건연구 분석",
+          "publication_date": "2026-11-24",
+          "stable_id": "doi:10.1002/pam.70143",
+          "summary_basis": "abstract",
+          "summary_ko": "2007~2024년 미국 교사 파업 745건의 자료로 파업이 보수·근무조건과 학생 성취도에 미친 영향을 사건연구로 분석했다. 파업 후 5년까지 연간 임금·복리후생은 6%(7,629달러) 증가하고 학생-교사 비율은 3.2% 감소했지만 평균적인 학생 성취도 변화는 거의 없었으며, 장기 파업 뒤에는 단기 수학 성취도가 하락했다.",
+          "title": "The Effects of Teacher Strikes on Compensation, Working Conditions, and Productivity",
+          "topic_area": "공공관리·성과",
+          "url": "https://doi.org/10.1002/pam.70143"
+        },
+        {
+          "abstract": "AI systems are now used by a billion people worldwide. What is their impact on human users? Popular narratives of concern argue that AI may be undermining our cognitive abilities, polluting our information ecosystem, corroding human relationships, damaging our mental health, and rendering us vulnerable to persuasion, manipulation, emotional dependence, and social engineering. Does the empirical evidence support these claims? Emerging research has begun to study the impact that AI has on people, via model evaluations, user studies, analysis of consumer chatlogs, and agent-based simulations. Here, we review this research, to summarise what we know about how AI is impacting people.",
+          "abstract_source": "OpenAlex",
+          "ai_related": true,
+          "author_affiliations": {
+            "Kobi Hackenburg": [
+              "University of Oxford"
+            ],
+            "Sarenne Wallbridge": [
+              "University of Edinburgh"
+            ]
+          },
+          "authors": [
+            "Christopher Summerfield",
+            "Rebecca Anselmetti",
+            "Shahar Avin",
+            "Vanessa Cheung",
+            "Madga Dubois",
+            "Tom Eccles",
+            "Anna Gausen",
+            "Kobi Hackenburg",
+            "Keno Juechems",
+            "Hannah Rose Kirk",
+            "Lennart Luettgau",
+            "Brendan McGrath",
+            "Ishan Mishra",
+            "Aidan Peppin",
+            "Jorge Perez",
+            "Nadine Staes-Polet",
+            "Merlin Stein",
+            "Andrew Strait",
+            "Sarenne Wallbridge"
+          ],
+          "constructs": [
+            "Human-AI Interaction",
+            "Emotional Dependence"
+          ],
+          "doi": "10.1038/s41562-026-02615-0",
+          "is_editorial": false,
+          "journal": "Nature Human Behaviour",
+          "journal_short": "NHB",
+          "method": "이론/개념",
+          "method_detail": "문헌 종합",
+          "publication_date": "2026-11-24",
+          "stable_id": "doi:10.1038/s41562-026-02615-0",
+          "summary_basis": "abstract",
+          "summary_ko": "AI가 인간 사용자에게 미치는 영향을 다룬 기존 연구를 모델 평가, 사용자 연구, 소비자 대화 로그 분석, 에이전트 기반 시뮬레이션으로 검토했다. 인지 능력, 정보 생태계, 인간관계, 정신건강, 설득·조작 취약성, 정서적 의존, 사회공학에 관한 우려를 실증 근거가 어떻게 뒷받침하는지 정리했다.",
+          "title": "Empirical evidence for eight ways that AI is impacting people",
+          "topic_area": "행정이론·윤리",
+          "url": "https://doi.org/10.1038/s41562-026-02615-0"
+        },
+        {
+          "abstract": "ABSTRACT Correctional work is difficult, dangerous, and hot. Many US prisons lack air‐conditioning, resulting in sweltering conditions for both incarcerated people and the street‐level bureaucrats tasked with their supervision. We examine the effect of working in the summer heat without air‐conditioning on correctional officer turnover using personnel records of nearly 60,000 Texas Department of Criminal Justice (TDCJ) employees across 68 prisons between 2010 and 2023. We demonstrate that, among the least‐experienced frontline employees before the onset of COVID‐19, the difference in the probability of departing between those working in prisons without and with air‐conditioning is, on average, 0.33 percentage points larger in the hottest months than in the coolest—an approximately 12% change relative to the baseline departure rate. Back‐of‐the‐envelope estimates suggest that installing air‐conditioning to combat understaffing is comparable in cost to raising salaries, the TDCJ's standard response to high turnover.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Benjamin Goehring": [
+              "Frank Batten School of Leadership and Public Policy University of Virginia Charlottesville Virginia USA"
+            ],
+            "Jacob Harris": [
+              "Department of Criminal Justice and Criminology, Andrew Young School of Policy Studies Georgia State University Atlanta Georgia USA"
+            ]
+          },
+          "authors": [
+            "Benjamin Goehring",
+            "Jacob Harris"
+          ],
+          "constructs": [
+            "Employee Turnover",
+            "Street-Level Bureaucracy"
+          ],
+          "doi": "10.1111/puar.70233",
+          "is_editorial": false,
+          "journal": "Public Administration Review",
+          "journal_short": "PAR",
+          "method": "준실험",
+          "method_detail": "행정자료 패널",
+          "publication_date": "2026-11-24",
+          "stable_id": "doi:10.1111/puar.70233",
+          "summary_basis": "abstract",
+          "summary_ko": "2010~2023년 텍사스 교정당국 68개 교도소의 직원 약 6만 명 인사기록을 활용해 냉방시설이 없는 교도소에서 여름철 더위가 교정직원 이직에 미친 영향을 분석했다. 코로나19 이전 경력이 가장 짧은 일선 직원은 냉방시설이 있는 교도소 직원보다 가장 더운 달의 퇴직 확률이 가장 서늘한 달보다 평균 0.33%포인트 더 크게 증가했으며, 이는 기초 퇴직률 대비 약 12%의 변화였다.",
+          "title": "Excessive Heat and Correctional Officer Turnover: Evidence From Texas",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1111/puar.70233"
+        },
+        {
+          "abstract": "As governments deploy artificial intelligence (AI) chatbots in public services, inclusiveness has become a central concern, yet which design features shape preferences remains unclear. We conceptualize inclusiveness at the human–AI interface along three dimensions—cultural, functional, and cognitive. A conjoint experiment with 1,250 respondents in Guangdong, China, examines how these features shape willingness to use government chatbots. Results show that cognitive inclusiveness—explanatory outputs—consistently increases preference; cultural inclusiveness operates conditionally—chiefly when design reflects citizens’ linguistic identity; functional inclusiveness has modest effects. Shifting from organizational arrangements to citizen–state interactions, we contribute to research on AI governance, digital inclusion, and inclusive public service delivery.",
+          "abstract_source": "OpenAlex",
+          "ai_related": true,
+          "author_affiliations": {
+            "Huan Wang": [
+              "School of Government and Public Affairs, Communication University of China, Beijing, China"
+            ],
+            "Youlang Zhang": [
+              "School of Public Administration and Policy, Renmin University of China, Beijing, China"
+            ]
+          },
+          "authors": [
+            "Huan Wang",
+            "Youlang Zhang"
+          ],
+          "constructs": [
+            "AI Governance",
+            "Digital Inclusion"
+          ],
+          "doi": "10.1080/14719037.2026.2765742",
+          "is_editorial": false,
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "실험",
+          "method_detail": "컨조인트 실험",
+          "publication_date": "2026-11-24",
+          "stable_id": "doi:10.1080/14719037.2026.2765742",
+          "summary_basis": "abstract",
+          "summary_ko": "중국 광둥성 응답자 1,250명을 대상으로 conjoint experiment를 실시해 정부 챗봇의 문화적·기능적·인지적 포용성 설계가 사용 의향에 미치는 영향을 분석했다. 설명형 출력인 인지적 포용성은 선호를 일관되게 높였고, 문화적 포용성은 언어 정체성을 반영할 때 주로 효과가 나타났으며, 기능적 포용성의 효과는 제한적이었다.",
+          "title": "Designing inclusive AI in public service delivery: experimental evidence on individual preferences for government chatbots",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1080/14719037.2026.2765742"
+        },
+        {
+          "abstract": "Community relationships have long been an important component of how we think about the work of street-level bureaucrats. This is especially true in the context of law enforcement. Although community policing initiatives have been in place for decades, there has been a renewed focus on the intersection of law enforcement and communities in recent years. The purpose of this research is to examine the impact of three key factors – servant leadership, proactive personality, and autonomy – on perceptions of community relationships. This study uses data from a web-based survey of sworn law enforcement officials across the United States, collected in late 2020 and early 2021. The findings indicate that servant leadership, proactive personality, and autonomy are positively related to perceptions of community relationships, with servant leadership having a slightly larger relative impact. Concluding comments are provided, with an emphasis on crafting a better understanding of the factors that shape community relationships.",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {
+            "Alexander C. Henderson": [
+              "Marist University"
+            ],
+            "James Melitski": [
+              "Marist University"
+            ]
+          },
+          "authors": [
+            "Alexander C. Henderson",
+            "James Melitski"
+          ],
+          "constructs": [
+            "Servant Leadership",
+            "Community Policing"
+          ],
+          "doi": "10.1080/15309576.2026.2762919",
+          "is_editorial": false,
+          "journal": "Public Performance & Management Review",
+          "journal_short": "PPMR",
+          "method": "서베이",
+          "method_detail": "횡단 웹설문",
+          "publication_date": "2026-11-23",
+          "stable_id": "doi:10.1080/15309576.2026.2762919",
+          "summary_basis": "abstract",
+          "summary_ko": "미국 전역의 현직 법집행 공무원을 대상으로 2020년 말부터 2021년 초까지 웹 설문을 실시해 servant leadership, proactive personality, autonomy가 지역사회 관계 인식에 미치는 영향을 검토했다. 세 요인 모두 지역사회 관계 인식과 긍정적으로 연관됐으며, servant leadership의 상대적 영향이 약간 더 크게 나타났다.",
+          "title": "Perspectives of Community Relations in Policing: The Impact of Leadership Style, Proactive Personality, and Autonomy",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/15309576.2026.2762919"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -32220,7 +32524,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -32235,7 +32539,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -32256,7 +32560,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1002/pam.70142": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -32271,7 +32575,7 @@
         "title": "Excellence in Refereeing Award Announcement",
         "url": "https://doi.org/10.1002/pam.70142"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1002/smj.70058": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32286,7 +32590,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70058"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1002/smj.70059": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32301,7 +32605,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70059"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -32326,7 +32630,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1007/s11109-026-10222-y": {
       "first_seen_at": "2026-11-20T15:24:54.225756+00:00",
@@ -32347,7 +32651,7 @@
         "title": "Punishment for Being Posh? Politicians’ Lifestyle Cues, Class Signals, and Voter Evaluations",
         "url": "https://doi.org/10.1007/s11109-026-10222-y"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -32382,7 +32686,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -32403,7 +32707,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1037/apl0001426.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32418,7 +32722,7 @@
         "title": "Supplemental Material for On Criterion Weighting to Reduce Adverse Impact",
         "url": "https://doi.org/10.1037/apl0001426.supp"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1037/apl0001437.supp": {
       "first_seen_at": "2026-11-23T18:01:44.296307+00:00",
@@ -32433,7 +32737,7 @@
         "title": "Supplemental Material for Revisiting the Assumption of a Self-Regulatory Loop: A Cross-Lagged Study of the Relationship Between Role Ambiguity and Feedback Seeking",
         "url": "https://doi.org/10.1037/apl0001437.supp"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1037/apl0001442.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32448,7 +32752,7 @@
         "title": "Supplemental Material for A Meta-Analysis of Three Decades of Construct Measurement Research on Situational Judgment Tests: Toward a Balance Between Construct Clarity and Predictive Power",
         "url": "https://doi.org/10.1037/apl0001442.supp"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1037/apl0001446.supp": {
       "first_seen_at": "2026-11-19T15:42:45.728772+00:00",
@@ -32463,7 +32767,7 @@
         "title": "Supplemental Material for Are Situational Judgment Tests Really Less Fakable? A Meta-Analysis",
         "url": "https://doi.org/10.1037/apl0001446.supp"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1037/pspa0000505.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32478,7 +32782,7 @@
         "title": "Supplemental Material for A Systematic Investigation of Age–Gender Intersectional Stereotypes and Their Consequences",
         "url": "https://doi.org/10.1037/pspa0000505.supp"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1037/pspi0000537.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32493,7 +32797,7 @@
         "title": "Supplemental Material for Individual, Interpersonal, and Socioeconomic Predictors of Divorce: A 12-Year Prospective Study",
         "url": "https://doi.org/10.1037/pspi0000537.supp"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1037/pspi0000538.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32508,7 +32812,7 @@
         "title": "Supplemental Material for The More, the Better? Evidence of Parallel Growth in Intergroup Contact Quantity and Quality Over Time",
         "url": "https://doi.org/10.1037/pspi0000538.supp"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1037/pspp0000620.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32523,7 +32827,7 @@
         "title": "Supplemental Material for Navigating Divorce and Partner Bereavement: Personality and Trajectories of Change in Life Satisfaction and Mental Health",
         "url": "https://doi.org/10.1037/pspp0000620.supp"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1037/pspp0000623.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32538,7 +32842,7 @@
         "title": "Supplemental Material for Examining the Gender-Equality Paradox in Values Using a New Measure of Value-Based Gender Typicality",
         "url": "https://doi.org/10.1037/pspp0000623.supp"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1037/pspp0000627.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32553,7 +32857,7 @@
         "title": "Supplemental Material for The Structure and History of English Words That Describe People",
         "url": "https://doi.org/10.1037/pspp0000627.supp"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1038/d41586-026-03578-y": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -32570,42 +32874,7 @@
         "title": "The public trusts scientists with AI — more than it does anyone else",
         "url": "https://doi.org/10.1038/d41586-026-03578-y"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
-    },
-    "doi:10.1038/s41562-026-02615-0": {
-      "first_seen_at": "2026-11-24T17:39:15.686045+00:00",
-      "item": {
-        "author_affiliations": {},
-        "authors": [
-          "Christopher Summerfield",
-          "Rebecca Anselmetti",
-          "Shahar Avin",
-          "Vanessa Cheung",
-          "Madga Dubois",
-          "Tom Eccles",
-          "Anna Gausen",
-          "Kobi Hackenburg",
-          "Keno Juechems",
-          "Hannah Rose Kirk",
-          "Lennart Luettgau",
-          "Brendan McGrath",
-          "Ishan Mishra",
-          "Aidan Peppin",
-          "Jorge Perez",
-          "Nadine Staes-Polet",
-          "Merlin Stein",
-          "Andrew Strait",
-          "Sarenne Wallbridge"
-        ],
-        "doi": "10.1038/s41562-026-02615-0",
-        "journal": "Nature Human Behaviour",
-        "journal_short": "NHB",
-        "publication_date": "2026-11-24",
-        "stable_id": "doi:10.1038/s41562-026-02615-0",
-        "title": "Empirical evidence for eight ways that AI is impacting people",
-        "url": "https://doi.org/10.1038/s41562-026-02615-0"
-      },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1038/s41562-026-02639-6": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -32658,57 +32927,7 @@
         "title": "AI ‘slop’ is a social judgement",
         "url": "https://doi.org/10.1038/s41562-026-02639-6"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
-    },
-    "doi:10.1080/14719037.2026.2765742": {
-      "first_seen_at": "2026-11-24T17:39:15.686045+00:00",
-      "item": {
-        "author_affiliations": {
-          "Huan Wang": [
-            "School of Government and Public Affairs, Communication University of China, Beijing, China"
-          ],
-          "Youlang Zhang": [
-            "School of Public Administration and Policy, Renmin University of China, Beijing, China"
-          ]
-        },
-        "authors": [
-          "Huan Wang",
-          "Youlang Zhang"
-        ],
-        "doi": "10.1080/14719037.2026.2765742",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-11-24",
-        "stable_id": "doi:10.1080/14719037.2026.2765742",
-        "title": "Designing inclusive AI in public service delivery: experimental evidence on individual preferences for government chatbots",
-        "url": "https://doi.org/10.1080/14719037.2026.2765742"
-      },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
-    },
-    "doi:10.1080/15309576.2026.2762919": {
-      "first_seen_at": "2026-11-24T17:39:15.686045+00:00",
-      "item": {
-        "author_affiliations": {
-          "Alexander C. Henderson": [
-            "Marist University"
-          ],
-          "James Melitski": [
-            "Marist University"
-          ]
-        },
-        "authors": [
-          "Alexander C. Henderson",
-          "James Melitski"
-        ],
-        "doi": "10.1080/15309576.2026.2762919",
-        "journal": "Public Performance & Management Review",
-        "journal_short": "PPMR",
-        "publication_date": "2026-11-23",
-        "stable_id": "doi:10.1080/15309576.2026.2762919",
-        "title": "Perspectives of Community Relations in Policing: The Impact of Leadership Style, Proactive Personality, and Autonomy",
-        "url": "https://doi.org/10.1080/15309576.2026.2762919"
-      },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -32737,7 +32956,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -32757,7 +32976,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -32774,7 +32993,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -32791,7 +33010,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -32809,7 +33028,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -32826,7 +33045,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -32845,7 +33064,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -32863,7 +33082,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -32882,7 +33101,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -32900,7 +33119,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -32917,7 +33136,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -32936,7 +33155,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -32954,7 +33173,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1086/744575": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -32972,7 +33191,7 @@
         "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
         "url": "https://doi.org/10.1086/744575"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1086/744871": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32989,7 +33208,7 @@
         "title": "Running in Context: Marginalization, Political Ambition, and Candidate Emergence",
         "url": "https://doi.org/10.1086/744871"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1086/744929": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -33036,7 +33255,7 @@
         "title": "Political Unfriending on Facebook: Evidence from over 180 Million Users",
         "url": "https://doi.org/10.1086/744929"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1086/744971": {
       "first_seen_at": "2026-11-17T15:57:19.481357+00:00",
@@ -33055,7 +33274,7 @@
         "title": "Breaking the Legal Stalemate: How Membership Changes and Position Uncertainty Shift Attorney Strategies at the U.S. Supreme Court",
         "url": "https://doi.org/10.1086/744971"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -33076,7 +33295,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -33091,7 +33310,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -33106,7 +33325,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -33127,7 +33346,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -33142,7 +33361,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -33157,7 +33376,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-24T17:39:15.686045+00:00"
+      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
     }
   },
   "skipped": {
