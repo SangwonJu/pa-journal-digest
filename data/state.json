@@ -32567,6 +32567,189 @@
       ],
       "sent_at": "2026-11-25T17:19:50.394907+00:00",
       "status": "sent"
+    },
+    "2026-11-26-abe0510e53afd972": {
+      "created_at": "2026-11-26T16:51:00.526607+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-26-abe0510e53afd972",
+      "items": [
+        {
+          "abstract": "Abstract This study examines how public managers shape intra-public hybridity when a reform requires two public organizations with different administrative traditions and professional orientations to integrate. We study the political and administrative integration of Flemish municipalities and Public Centres for Social Welfare (PCSWs), drawing on 35 interviews across 13 local government cases collected in 2018 and 2022. Using an institutional work perspective, we compare how actors used regulative, normative, and cultural-cognitive actions to integrate—or deliberately keep separate—structures, routines, and identities. The cases developed four hybrid forms: blended, segmented, segregated, and blocked. Blended cases were associated with institutionally broader combinations of work across organizational domains, whereas segmented and segregated cases showed more bounded efforts and blocked cases featured deliberate withholding of integrative work. These findings show that the same formal mandate can produce different organizational outcomes because local actors vary in the scope and combination of the work through which they enact it. The study advances a process-oriented account of intra-public hybridity and identifies deliberate withholding as a distinct mechanism of boundary maintenance.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Caitlin McMullin": [
+              "Roskilde University Department of Social Sciences and Business, , Universitetsvej 1, DK-4000 Roskilde,"
+            ],
+            "Kim Loyens": [
+              "Utrecht University School of Governance, Utrecht University , Bijlhouwerstraat 6, 3511 ZC Utrecht, the"
+            ],
+            "Lode De Waele": [
+              "Utrecht University School of Governance, Utrecht University , Bijlhouwerstraat 6, 3511 ZC Utrecht, the",
+              "University of Antwerp Politics & Public Governance Research Group, , Sint-Jacobstraat 2, 2000 Antwerp,"
+            ]
+          },
+          "authors": [
+            "Lode De Waele",
+            "Kim Loyens",
+            "Caitlin McMullin"
+          ],
+          "constructs": [
+            "Institutional Work",
+            "Intra-public Hybridity"
+          ],
+          "doi": "10.1093/jopart/muag034",
+          "is_editorial": false,
+          "journal": "Journal of Public Administration Research and Theory",
+          "journal_short": "JPART",
+          "method": "질적연구",
+          "method_detail": "비교 사례연구",
+          "publication_date": "2026-11-25",
+          "stable_id": "doi:10.1093/jopart/muag034",
+          "summary_basis": "abstract",
+          "summary_ko": "서로 다른 행정 전통과 전문 지향을 지닌 Flemish 지방자치단체와 Public Centres for Social Welfare(PCSWs)의 통합 과정에서 지방정부 관리자가 조직 간 경계를 어떻게 재구성하는지 13개 지방정부 사례의 2018년·2022년 인터뷰 35건으로 분석했다. 제도적 작업의 범위와 조합에 따라 통합 결과가 blended, segmented, segregated, blocked로 달라졌으며, 통합 작업을 의도적으로 보류하는 행위가 경계 유지의 별도 메커니즘으로 나타났다.",
+          "title": "Reconfiguring Boundaries: Institutional Work and the Dynamic Construction of Hybridity in Local Government",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1093/jopart/muag034"
+        },
+        {
+          "abstract": "We develop and empirically examine a theoretical framework explaining the relationship between democratic organizing and firms’ propensity to staff management positions through internal promotion rather than external hiring. Conventionally, the advantages of promoting through internal labor markets (ILM) have rested on the assumption that workers value intra-firm careers and anticipate remaining with the same employer for a longer term. These advantages may prove harder to attain in contemporary labor markets, given that declining tenure and workers’ growing preference for inter-firm careers possibly reduce the information advantage of ILM and undermine internal candidate retention. We propose that firms with more democratic organizing are less susceptible to these ILM challenges, enjoy higher benefits from recruiting internally and are thus more likely to fill management positions through internal promotion. Using longitudinal employer-employee linked data for Danish firms from 2001 to 2017, we find that firms with worker board representation (WBR), one form of more democratic organizing, are more likely than firms without WBR to fill management positions through internal promotion rather than external hiring. This association is stronger where (i) worker representatives have broader intra-firm experience and are more likely to possess promotion-relevant information; (ii) more managers and professionals have peers serving as worker representatives on the board. These results are consistent with a higher economic viability of internal promotion in firms with more democratic organizing, and largely inconsistent with the conventional account of powerful workers distorting firms’ hiring choices. Interviews with worker directors and human resource professionals illustrate the proposed mechanisms.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Aleksandra Gregoric": [
+              "Copenhagen Business School, Department of Accounting, Center for Corporate Governance and Owner-Managed Firms, Frederiksberg, Denmark"
+            ],
+            "Casper B. L. Larsen": [
+              "Copenhagen Business School, Department of Accounting, Center for Corporate Governance, Frederiksberg, Capital Region, Denmark"
+            ],
+            "Takao Kato": [
+              "Colgate University, Department of Economics, Hamilton, New York, United States"
+            ]
+          },
+          "authors": [
+            "Aleksandra Gregoric",
+            "Takao Kato",
+            "Casper B. L. Larsen"
+          ],
+          "constructs": [
+            "Internal Labor Markets",
+            "Democratic Organizing"
+          ],
+          "doi": "10.1287/orsc.2024.19538",
+          "is_editorial": false,
+          "journal": "Organization Science",
+          "journal_short": "OrgSci",
+          "method": "혼합방법론",
+          "method_detail": "종단자료 인터뷰",
+          "publication_date": "2026-11-26",
+          "stable_id": "doi:10.1287/orsc.2024.19538",
+          "summary_basis": "abstract",
+          "summary_ko": "2001~2017년 덴마크 기업의 종사자-고용주 연계 종단자료와 노동자 이사 및 인사담당자 인터뷰를 활용해 민주적 조직화와 관리직 내부승진의 관계를 분석했다. 노동자 이사회 대표(WBR)가 있는 기업은 외부채용보다 내부승진으로 관리직을 충원할 가능성이 높았으며, 노동자 대표의 기업 내 경험과 관리자·전문직 동료의 대표 참여가 클수록 이 연관성이 강하게 나타났다.",
+          "title": "Democratic Organizing and Contemporary Managerial Talent Markets: Internal Promotion or External Hiring?",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1287/orsc.2024.19538"
+        },
+        {
+          "abstract": "The development of new technology architectures often opens up new markets within an existing industry. Incumbents face the decision of whether to enter the new technology market and how to do so. As incumbents attempt to enter the new market, they can become embedded in two buyer-supplier networks, one for the old and the other for new technologies. We argue that brokers have an advantage in this process because they have developed capabilities to integrate suppliers of new technology components or develop unique component combinations for the new technology products. In a study of the U.S. automotive industry between 2012 and 2022, we find that brokerage in the old technology network is positively associated with successful entry into the new technology (i.e., number and performance of new technology models). Surprisingly, brokerage in the old technology network had a stronger positive impact than brokerage in the new technology network on incumbents’ entry into the new technology market for electric vehicles.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Andrew V. Shipilov": [
+              "INSEAD, Strategy, Fontainebleau, France"
+            ],
+            "Jongyoun Baek": [
+              "INSEAD, EFE, Fontainebleau, Île-de-France, France"
+            ],
+            "Nathan R. Furr": [
+              "INSEAD, Strategy, Fontainebleau, France"
+            ]
+          },
+          "authors": [
+            "Jongyoun Baek",
+            "Andrew V. Shipilov",
+            "Nathan R. Furr"
+          ],
+          "constructs": [
+            "Brokerage",
+            "Supply Networks"
+          ],
+          "doi": "10.1287/orsc.2024.18580",
+          "is_editorial": false,
+          "journal": "Organization Science",
+          "journal_short": "OrgSci",
+          "method": "실험",
+          "method_detail": "산업 패널 분석",
+          "publication_date": "2026-11-26",
+          "stable_id": "doi:10.1287/orsc.2024.18580",
+          "summary_basis": "abstract",
+          "summary_ko": "2012~2022년 미국 자동차 산업 자료로 기존 기술과 신기술 공급자 네트워크에 동시에 연결된 기존 기업의 브로커리지와 전기차 시장 진입을 분석했다. 기존 기술 네트워크의 브로커리지는 신기술 모델의 수와 성과로 측정한 성공적 진입과 양의 관련을 보였고, 그 효과는 신기술 네트워크의 브로커리지보다 강했다.",
+          "title": "Embedded in Two Worlds: How Incumbents’ Brokerage Affects Adaptation When Old and New Supply Networks Coexist",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1287/orsc.2024.18580"
+        },
+        {
+          "abstract": "Artificial intelligence (AI) is becoming a source of social influence. But people often prefer human over AI sources (algorithm aversion/preference for humans), which might prevent AI from influencing humans. However, we outline a theoretical framework that suggests that preferences do not play a causal role in influence. To test this framework, we investigated under which conditions preferences predict AI influence. Participants ( N = 1,254) indicated their adviser preference and then made incentivised decisions while receiving advice from AI or human advisers. Participants preferred human over AI advisers but were influenced by AI and humans similarly. A strong aversion to AI advisers had no (Study 1) or a trivial relation (Study 2 and 3) with AI influence, which was explained by confounding variables. When manipulated, preferences did not predict advice-taking, but adviser trustworthiness and competence did (Study 3). Our results suggest that for predicting AI influence, understanding domain-specific social cognitions, not preferences, is critical.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Andreas Kappes": [
+              "City St George’s, University of London, UK"
+            ],
+            "Constanza Musso": [
+              "City St George’s, University of London, UK"
+            ]
+          },
+          "authors": [
+            "Constanza Musso",
+            "Andreas Kappes"
+          ],
+          "constructs": [
+            "Algorithm Aversion",
+            "Advice Taking"
+          ],
+          "doi": "10.1177/01461672261506408",
+          "is_editorial": false,
+          "journal": "Personality and Social Psychology Bulletin",
+          "journal_short": "PSPB",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-11-25",
+          "stable_id": "doi:10.1177/01461672261506408",
+          "summary_basis": "abstract",
+          "summary_ko": "AI와 인간 조언자에 대한 선호가 조언 수용에 미치는 영향을 검토하기 위해 1,254명이 조언자 선호를 밝힌 뒤 AI 또는 인간 조언을 받으며 인센티브가 걸린 의사결정을 수행했다. 참가자는 인간 조언자를 선호했지만 AI와 인간의 영향력은 유사했고, 조언자 선호는 조언 수용을 예측하지 못한 반면 신뢰성과 역량은 예측했다.",
+          "title": "Social Influence in the Age of Artificial Intelligence: Preference for Humans Does Not Deter Artificial Intelligence Influence",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1177/01461672261506408"
+        },
+        {
+          "abstract": "This paper develops a Climate Tribunate, an institutional innovation which combines an updated tribunate informed by the logic of plebeian political thought with a global climate assembly based on the logic of deliberative mini-publics. This combination addresses key shortcomings of current climate assemblies as well as updated tribunates and strengthens the voice of ordinary citizens in climate politics in a way that takes seriously the conflictual dimension of the climate crisis. The Climate Tribunate is based on the concept of Mixed Multi-Level Democratic Innovation (MMLDI). The originality of this concept lies in its focus on interactions between institutional innovations following different political logics across several levels. The Climate Tribunate brings realism to democratic innovations, seeking to strike a balance between sufficient ambition and feasibility.",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {},
+          "authors": [
+            "Janosch Prinz",
+            "Manon Westphal"
+          ],
+          "constructs": [
+            "Mixed Multi-Level Democratic Innovation",
+            "Deliberative Mini-Publics"
+          ],
+          "doi": "10.1086/744575",
+          "is_editorial": false,
+          "journal": "The Journal of Politics",
+          "journal_short": "JOP",
+          "method": "이론/개념",
+          "method_detail": "개념적 모형",
+          "publication_date": "2026-10-20",
+          "stable_id": "doi:10.1086/744575",
+          "summary_basis": "abstract",
+          "summary_ko": "기후위기에 대응하기 위해 평민 정치사상의 호민관 제도와 숙의형 미니공중에 기반한 글로벌 기후 시민의회를 결합한 ‘기후 트리뷴’을 개념적으로 제안했다. 여러 수준에서 서로 다른 정치 논리를 따르는 제도 혁신의 상호작용을 다루는 Mixed Multi-Level Democratic Innovation(MMLDI)을 통해, 기후정치에서 시민의 목소리를 강화하면서도 실현 가능성과 정치적 갈등을 함께 고려하는 방안을 제시했다.",
+          "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1086/744575"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -32589,7 +32772,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -32604,7 +32787,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -32625,7 +32808,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1002/pam.70142": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -32640,7 +32823,7 @@
         "title": "Excellence in Refereeing Award Announcement",
         "url": "https://doi.org/10.1002/pam.70142"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1002/smj.70058": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32655,7 +32838,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70058"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1002/smj.70059": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32670,7 +32853,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70059"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -32695,7 +32878,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1007/s11109-026-10222-y": {
       "first_seen_at": "2026-11-20T15:24:54.225756+00:00",
@@ -32716,7 +32899,7 @@
         "title": "Punishment for Being Posh? Politicians’ Lifestyle Cues, Class Signals, and Voter Evaluations",
         "url": "https://doi.org/10.1007/s11109-026-10222-y"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -32751,7 +32934,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -32772,7 +32955,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1037/apl0001426.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32787,7 +32970,7 @@
         "title": "Supplemental Material for On Criterion Weighting to Reduce Adverse Impact",
         "url": "https://doi.org/10.1037/apl0001426.supp"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1037/apl0001437.supp": {
       "first_seen_at": "2026-11-23T18:01:44.296307+00:00",
@@ -32802,7 +32985,7 @@
         "title": "Supplemental Material for Revisiting the Assumption of a Self-Regulatory Loop: A Cross-Lagged Study of the Relationship Between Role Ambiguity and Feedback Seeking",
         "url": "https://doi.org/10.1037/apl0001437.supp"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1037/apl0001442.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32817,7 +33000,7 @@
         "title": "Supplemental Material for A Meta-Analysis of Three Decades of Construct Measurement Research on Situational Judgment Tests: Toward a Balance Between Construct Clarity and Predictive Power",
         "url": "https://doi.org/10.1037/apl0001442.supp"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1037/apl0001446.supp": {
       "first_seen_at": "2026-11-19T15:42:45.728772+00:00",
@@ -32832,7 +33015,7 @@
         "title": "Supplemental Material for Are Situational Judgment Tests Really Less Fakable? A Meta-Analysis",
         "url": "https://doi.org/10.1037/apl0001446.supp"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1037/pspa0000505.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32847,7 +33030,7 @@
         "title": "Supplemental Material for A Systematic Investigation of Age–Gender Intersectional Stereotypes and Their Consequences",
         "url": "https://doi.org/10.1037/pspa0000505.supp"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1037/pspi0000537.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32862,7 +33045,7 @@
         "title": "Supplemental Material for Individual, Interpersonal, and Socioeconomic Predictors of Divorce: A 12-Year Prospective Study",
         "url": "https://doi.org/10.1037/pspi0000537.supp"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1037/pspi0000538.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32877,7 +33060,7 @@
         "title": "Supplemental Material for The More, the Better? Evidence of Parallel Growth in Intergroup Contact Quantity and Quality Over Time",
         "url": "https://doi.org/10.1037/pspi0000538.supp"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1037/pspp0000620.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32892,7 +33075,7 @@
         "title": "Supplemental Material for Navigating Divorce and Partner Bereavement: Personality and Trajectories of Change in Life Satisfaction and Mental Health",
         "url": "https://doi.org/10.1037/pspp0000620.supp"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1037/pspp0000623.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32907,7 +33090,7 @@
         "title": "Supplemental Material for Examining the Gender-Equality Paradox in Values Using a New Measure of Value-Based Gender Typicality",
         "url": "https://doi.org/10.1037/pspp0000623.supp"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1037/pspp0000627.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32922,7 +33105,7 @@
         "title": "Supplemental Material for The Structure and History of English Words That Describe People",
         "url": "https://doi.org/10.1037/pspp0000627.supp"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1038/d41586-026-03578-y": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -32939,7 +33122,7 @@
         "title": "The public trusts scientists with AI — more than it does anyone else",
         "url": "https://doi.org/10.1038/d41586-026-03578-y"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1038/s41562-026-02639-6": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -32992,7 +33175,91 @@
         "title": "AI ‘slop’ is a social judgement",
         "url": "https://doi.org/10.1038/s41562-026-02639-6"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+    },
+    "doi:10.1038/s41562-026-02644-9": {
+      "first_seen_at": "2026-11-26T16:51:00.526607+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [
+          "Ben M. Tappin"
+        ],
+        "doi": "10.1038/s41562-026-02644-9",
+        "journal": "Nature Human Behaviour",
+        "journal_short": "NHB",
+        "publication_date": "2026-11-26",
+        "stable_id": "doi:10.1038/s41562-026-02644-9",
+        "title": "Exposure matters more than persuasiveness for digital mass persuasion",
+        "url": "https://doi.org/10.1038/s41562-026-02644-9"
+      },
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+    },
+    "doi:10.1038/s41562-026-02646-7": {
+      "first_seen_at": "2026-11-26T16:51:00.526607+00:00",
+      "item": {
+        "author_affiliations": {
+          "Cuihua Shen": [
+            "University of California, Davis"
+          ]
+        },
+        "authors": [
+          "Cuihua Shen"
+        ],
+        "doi": "10.1038/s41562-026-02646-7",
+        "journal": "Nature Human Behaviour",
+        "journal_short": "NHB",
+        "publication_date": "2026-11-25",
+        "stable_id": "doi:10.1038/s41562-026-02646-7",
+        "title": "Deepfakes pollute digital space and need upstream safeguards",
+        "url": "https://doi.org/10.1038/s41562-026-02646-7"
+      },
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+    },
+    "doi:10.1080/14719037.2026.2769357": {
+      "first_seen_at": "2026-11-26T16:51:00.526607+00:00",
+      "item": {
+        "author_affiliations": {
+          "Donald Moynihan": [
+            "University of Michigan"
+          ],
+          "Xiaoyang Xu": [
+            "University of South Carolina"
+          ]
+        },
+        "authors": [
+          "Xiaoyang Xu",
+          "Donald Moynihan"
+        ],
+        "doi": "10.1080/14719037.2026.2769357",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-11-25",
+        "stable_id": "doi:10.1080/14719037.2026.2769357",
+        "title": "‘ The tech is easy. It’s those other pieces ’: how civic tech builders of digital infrastructure collaborate with government and shape administrative burdens",
+        "url": "https://doi.org/10.1080/14719037.2026.2769357"
+      },
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+    },
+    "doi:10.1080/14719037.2026.2769358": {
+      "first_seen_at": "2026-11-26T16:51:00.526607+00:00",
+      "item": {
+        "author_affiliations": {
+          "David Moura": [
+            "Elon University"
+          ]
+        },
+        "authors": [
+          "David Moura"
+        ],
+        "doi": "10.1080/14719037.2026.2769358",
+        "journal": "Public Management Review",
+        "journal_short": "PMR",
+        "publication_date": "2026-11-26",
+        "stable_id": "doi:10.1080/14719037.2026.2769358",
+        "title": "Government’s role in stigmatization: amplification, moderation, and collaboration",
+        "url": "https://doi.org/10.1080/14719037.2026.2769358"
+      },
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -33021,7 +33288,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -33041,7 +33308,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -33058,7 +33325,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -33075,7 +33342,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -33093,7 +33360,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -33110,7 +33377,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -33129,7 +33396,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -33147,7 +33414,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -33166,7 +33433,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -33184,7 +33451,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -33201,7 +33468,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -33220,7 +33487,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -33238,25 +33505,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
-    },
-    "doi:10.1086/744575": {
-      "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
-      "item": {
-        "author_affiliations": {},
-        "authors": [
-          "Janosch Prinz",
-          "Manon Westphal"
-        ],
-        "doi": "10.1086/744575",
-        "journal": "The Journal of Politics",
-        "journal_short": "JOP",
-        "publication_date": "2026-10-20",
-        "stable_id": "doi:10.1086/744575",
-        "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
-        "url": "https://doi.org/10.1086/744575"
-      },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1086/744871": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33273,7 +33522,7 @@
         "title": "Running in Context: Marginalization, Political Ambition, and Candidate Emergence",
         "url": "https://doi.org/10.1086/744871"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1086/744929": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -33320,7 +33569,7 @@
         "title": "Political Unfriending on Facebook: Evidence from over 180 Million Users",
         "url": "https://doi.org/10.1086/744929"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1086/744971": {
       "first_seen_at": "2026-11-17T15:57:19.481357+00:00",
@@ -33339,7 +33588,7 @@
         "title": "Breaking the Legal Stalemate: How Membership Changes and Position Uncertainty Shift Attorney Strategies at the U.S. Supreme Court",
         "url": "https://doi.org/10.1086/744971"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -33360,7 +33609,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -33375,7 +33624,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -33390,7 +33639,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -33411,7 +33660,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -33426,7 +33675,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -33441,7 +33690,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-25T17:10:24.648445+00:00"
+      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
     }
   },
   "skipped": {
