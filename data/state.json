@@ -2672,6 +2672,14 @@
       "sent_at": "2026-11-05T15:33:41.437769+00:00",
       "title": "The Left Misunderstood: How Voters’ Perceptions of What Matters to the Left Benefit the Right"
     },
+    "doi:10.1086/744575": {
+      "batch_id": "2026-11-26-abe0510e53afd972",
+      "doi": "10.1086/744575",
+      "journal": "The Journal of Politics",
+      "publication_date": "2026-10-20",
+      "sent_at": "2026-11-26T17:00:02.413564+00:00",
+      "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis"
+    },
     "doi:10.1086/744772": {
       "batch_id": "2026-11-04-07e249fb29fc7593",
       "doi": "10.1086/744772",
@@ -2759,6 +2767,14 @@
       "publication_date": "2026-11-19",
       "sent_at": "2026-11-19T15:53:19.638200+00:00",
       "title": "“Unseen and unheard”: Recognition and Its Role in Shaping Administrative Burden"
+    },
+    "doi:10.1093/jopart/muag034": {
+      "batch_id": "2026-11-26-abe0510e53afd972",
+      "doi": "10.1093/jopart/muag034",
+      "journal": "Journal of Public Administration Research and Theory",
+      "publication_date": "2026-11-25",
+      "sent_at": "2026-11-26T17:00:02.413564+00:00",
+      "title": "Reconfiguring Boundaries: Institutional Work and the Dynamic Construction of Hybridity in Local Government"
     },
     "doi:10.1093/jopart/muag036": {
       "batch_id": "2026-10-28-76e232541b4242da",
@@ -4472,6 +4488,14 @@
       "sent_at": "2026-11-11T03:27:06.737718+00:00",
       "title": "Humanlike Self-Enhancement and Self-Protection in Generative Pre-Trained Transformer-Based AI Agents: Of Overclaiming and the Self-Serving Bias"
     },
+    "doi:10.1177/01461672261506408": {
+      "batch_id": "2026-11-26-abe0510e53afd972",
+      "doi": "10.1177/01461672261506408",
+      "journal": "Personality and Social Psychology Bulletin",
+      "publication_date": "2026-11-25",
+      "sent_at": "2026-11-26T17:00:02.413564+00:00",
+      "title": "Social Influence in the Age of Artificial Intelligence: Preference for Humans Does Not Deter Artificial Intelligence Influence"
+    },
     "doi:10.1177/01492063261481752": {
       "batch_id": "2026-11-20-0f255a87c1dd353e",
       "doi": "10.1177/01492063261481752",
@@ -5024,6 +5048,14 @@
       "sent_at": "2026-11-18T15:45:48.433716+00:00",
       "title": "Influence Without Authority: Bottom-Up Normalization of Organizational Corruption"
     },
+    "doi:10.1287/orsc.2024.18580": {
+      "batch_id": "2026-11-26-abe0510e53afd972",
+      "doi": "10.1287/orsc.2024.18580",
+      "journal": "Organization Science",
+      "publication_date": "2026-11-26",
+      "sent_at": "2026-11-26T17:00:02.413564+00:00",
+      "title": "Embedded in Two Worlds: How Incumbents’ Brokerage Affects Adaptation When Old and New Supply Networks Coexist"
+    },
     "doi:10.1287/orsc.2024.18685": {
       "batch_id": "2026-11-10-418e643876e0e943-resend-20261111T030859Z-resend-20261111T032511Z",
       "doi": "10.1287/orsc.2024.18685",
@@ -5087,6 +5119,14 @@
       "publication_date": "2026-11-24",
       "sent_at": "2026-11-24T17:46:57.889605+00:00",
       "title": "Legal Chameleons: Political Ideology, Institutional Histories, and Firms’ Management of Identity Cues"
+    },
+    "doi:10.1287/orsc.2024.19538": {
+      "batch_id": "2026-11-26-abe0510e53afd972",
+      "doi": "10.1287/orsc.2024.19538",
+      "journal": "Organization Science",
+      "publication_date": "2026-11-26",
+      "sent_at": "2026-11-26T17:00:02.413564+00:00",
+      "title": "Democratic Organizing and Contemporary Managerial Talent Markets: Internal Promotion or External Hiring?"
     },
     "doi:10.1287/orsc.2024.19549": {
       "batch_id": "2026-11-14-0ee96efc673753b5-resend-recent-20261114T211039Z",
@@ -32749,7 +32789,8 @@
           "url": "https://doi.org/10.1086/744575"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-26T17:00:02.413564+00:00",
+      "status": "sent"
     }
   },
   "pending": {
