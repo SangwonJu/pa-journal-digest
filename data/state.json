@@ -32791,6 +32791,435 @@
       ],
       "sent_at": "2026-11-26T17:00:02.413564+00:00",
       "status": "sent"
+    },
+    "2026-11-27-63245898b429e59c": {
+      "created_at": "2026-11-27T16:37:06.391953+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-27-63245898b429e59c",
+      "items": [
+        {
+          "abstract": "Rural tourism elites mobilize tourism resources and mediate among communities, markets, and public authorities, but established public service motivation (PSM) instruments were not developed specifically for this setting. Guided by PSM theory, this study developed and validated a scale to measure the public service motivation of rural tourism elites (PSMRTE) using a four-study, mixed-methods design. Study 1 generated 33 items representing five dimensions: self-dedication, social reputation and support, commitment to public interest, hometown attachment, and attraction to public participation. Study 2 ( N = 279) refined the items through exploratory factor analysis. Study 3 ( N = 380) confirmed a 22-item, five-dimensional structure through confirmatory factor analysis. Study 4 ( N = 937) provided evidence of external validity across two additional Chinese provinces and Thailand. In the Chinese samples, the PSM-aligned dimensions of PSMRTE converged with Kim et al.’s (2013) international PSM measure, and the full scale provided additional criterion-related coverage of community citizenship behavior beyond that measure. The scale offers a tool for examining public-oriented motivation among boundary-spanning actors in rural tourism governance.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Dini Hajarrahmah": [
+              "Norfolk State University, VA, USA"
+            ],
+            "Mu Zhang": [
+              "Jinan University, Shenzhen, China"
+            ],
+            "Rob Law": [
+              "University of Macau, Taipa, Macau, China"
+            ],
+            "Shaogui Xu": [
+              "Fujian Normal University, Fuzhou, China",
+              "Jinan University, Shenzhen, China"
+            ]
+          },
+          "authors": [
+            "Shaogui Xu",
+            "Dini Hajarrahmah",
+            "Rob Law",
+            "Mu Zhang"
+          ],
+          "constructs": [
+            "Public Service Motivation",
+            "Community Citizenship Behavior"
+          ],
+          "doi": "10.1177/00953997261500731",
+          "is_editorial": false,
+          "journal": "Administration & Society",
+          "journal_short": "A&S",
+          "method": "혼합방법론",
+          "method_detail": "순차 혼합",
+          "publication_date": "2026-11-26",
+          "stable_id": "doi:10.1177/00953997261500731",
+          "summary_basis": "abstract",
+          "summary_ko": "중국 농촌관광 엘리트의 공공서비스동기(PSMRTE)를 측정하는 척도를 개발하고 타당화하기 위해 4개 연구의 혼합방법 설계를 적용했다. 33개 문항에서 탐색적·확인적 요인분석을 거쳐 5개 차원, 22개 문항의 척도를 구성했으며, 중국 2개 성과 태국 표본에서 외적 타당도를 확인하고 지역사회 시민행동에 대해 기존 국제 PSM 척도 이상의 준거 관련 설명 범위를 보였다.",
+          "title": "Public Service Motivation of Rural Tourism Elites: Scale Development and Validation",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1177/00953997261500731"
+        },
+        {
+          "abstract": "Abstract Many politicians use conspiracy theories (CTs) to win electoral support and justify antidemocratic policies. How do individuals evaluate this strategy? We theorize and show that variation in CT communication frames affects individuals’ willingness to endorse antidemocratic policies and politicians. Politicians who explicitly appeal to a CT earn greater support for antidemocratic behavior than those using implicit appeals. However, this effect primarily occurs for novel CTs lacking partisan cues. Over time, as CTs become more politicized, they lose their mobilizational capacity and can reduce support for CT‐wielding politicians—even among co‐partisans. Three preregistered survey experiments surrounding the 2023 parliamentary and 2025 presidential elections in Poland, and survey data from 21 countries, provide empirical support for our theory. Ultimately, we show that CTs alone are not always enough to justify attacks on democratic norms and institutions to the public.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Courtney Blackington": [
+              "Department of Political Science University of Pittsburgh Pittsburgh Pennsylvania USA"
+            ],
+            "Frances Cayton": [
+              "Center on Democracy, Development, and the Rule of Law Stanford University Stanford California USA"
+            ]
+          },
+          "authors": [
+            "Frances Cayton",
+            "Courtney Blackington"
+          ],
+          "constructs": [
+            "Conspiracy Theories",
+            "Democratic Norms"
+          ],
+          "doi": "10.1111/ajps.70092",
+          "is_editorial": false,
+          "journal": "American Journal of Political Science",
+          "journal_short": "AJPS",
+          "method": "혼합방법론",
+          "method_detail": "설문 실험·국가 비교",
+          "publication_date": "2026-11-26",
+          "stable_id": "doi:10.1111/ajps.70092",
+          "summary_basis": "abstract",
+          "summary_ko": "음모론(conspiracy theory, CT) 소통 방식의 명시적·암묵적 프레이밍이 반민주적 정책과 정치인에 대한 지지에 미치는 영향을 폴란드 2023년 의회선거와 2025년 대선 전후의 사전등록 설문실험 3건 및 21개국 설문자료로 분석했다. 명시적 CT 호소는 암묵적 호소보다 반민주적 행동 지지를 높였지만, 정파적 단서가 없는 새로운 CT에서 주로 나타났으며, CT가 정치화되면 동료 정당 지지자에게도 동원 효과를 잃고 해당 정치인에 대한 지지를 낮출 수 있다고 나타났다.",
+          "title": "Conspiracy theory communication framing and support for antidemocratic behavior",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1111/ajps.70092"
+        },
+        {
+          "abstract": "A recent reappraisal by Lin expands Wang’s (2022, American Political Science Review 116, 896–910) dataset and questions the robustness of its main finding. In this response, I clarify broader challenges of measurement, case selection, and inference in historical political economy. I show that my original finding—that kinship-network concentration is negatively associated with support for state-building reforms—remains robust across multiple coding strategies. I also acknowledge that two high-leverage cases, the Lü brothers, matter for inference; rather than treating them as removable anomalies, I argue that their extreme values are theoretically meaningful features of kinship-network structure. Finally, I engage Lin’s regional interpretation and show that regional status competition does not account for the observed relationship once measurement and estimation issues are addressed. More broadly, this exchange illustrates how transparent measurement and sustained dialogue between quantitative and qualitative evidence can generate cumulative knowledge from fragmentary historical archives.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "YUHUA WANG": [
+              "Harvard University"
+            ]
+          },
+          "authors": [
+            "YUHUA WANG"
+          ],
+          "constructs": [
+            "Kinship Networks",
+            "State-Building Reforms"
+          ],
+          "doi": "10.1017/s0003055426102135",
+          "is_editorial": false,
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "질적연구",
+          "method_detail": "역사자료 재분석",
+          "publication_date": "2026-11-27",
+          "stable_id": "doi:10.1017/s0003055426102135",
+          "summary_basis": "abstract",
+          "summary_ko": "Lin의 재평가가 확장한 Wang(2022)의 자료를 바탕으로 측정, 사례 선택, 추론 문제와 원래 결과의 강건성을 재검토했다. 여러 코딩 전략에서 친족 네트워크 집중도가 국가 건설 개혁 지지와 음의 관련을 보였고, Lü 형제 사례의 극단값은 제거할 이상치가 아니라 친족 네트워크 구조의 이론적으로 의미 있는 특성으로 해석했으며, 지역적 지위 경쟁은 측정과 추정 문제를 바로잡으면 이 관계를 설명하지 못했다.",
+          "title": "Blood is Still Thicker Than Water: A Response to Lin’s Reappraisal and Reflections on Historical Political Economy",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1017/s0003055426102135"
+        },
+        {
+          "abstract": "When thinking about public opinion, politicians commonly exhibit three general perceptual errors: a tendency to overestimate their constituents’ conservatism ( conservative bias ), a tendency to hold more accurate knowledge of privileged constituents than constituents in general ( privilege bias ), and a tendency to overestimate how much their constituents share their views ( projection bias ). Studies documenting these patterns invariably rely on assessing politicians’ perceptions of aggregated public opinion. In practice, however, politicians heavily prioritize and rely on the opinions of individual constituents, raising concerns about the external validity of these findings. Thus, in this article, we explore whether politicians’ common perceptual errors persist when they think about specific individual constituents, rather than aggregate public opinion. We assign more than 1,400 Canadian politicians to predict the ideology and issue positions of more than 4,000 randomly generated citizen profiles that vary by a host of salient sociodemographic and political factors. We then compare their evaluations to estimates of these citizens’ real-life positions drawn from a general population survey. We find that politicians do not exhibit conservative bias or privilege bias when making inferences about individual constituents. However, even when thinking about individual constituents, projection bias persists, and the perception errors it creates are amplified when politicians are more similar to their constituents. We discuss the implications of these findings for theories of political representation.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "JACK LUCAS": [
+              "University of Calgary"
+            ],
+            "LIOR SHEFFER": [
+              "Tel Aviv University"
+            ],
+            "NOAM TITELMAN": [
+              "University of Calgary"
+            ]
+          },
+          "authors": [
+            "JACK LUCAS",
+            "LIOR SHEFFER",
+            "NOAM TITELMAN"
+          ],
+          "constructs": [
+            "Projection Bias",
+            "Political Representation"
+          ],
+          "doi": "10.1017/s0003055426102238",
+          "is_editorial": false,
+          "journal": "American Political Science Review",
+          "journal_short": "APSR",
+          "method": "실험",
+          "method_detail": "설문 실험",
+          "publication_date": "2026-11-27",
+          "stable_id": "doi:10.1017/s0003055426102238",
+          "summary_basis": "abstract",
+          "summary_ko": "캐나다 정치인 1,400명 이상에게 사회인구학적·정치적 특성이 다른 무작위 시민 프로필 4,000개 이상을 제시해 개별 유권자의 이념과 쟁점 입장을 예측하게 하고, 일반인구조사에서 얻은 실제 입장 추정치와 비교했다. 개별 유권자를 판단할 때 보수 편향과 특권 편향은 나타나지 않았지만 투사 편향은 지속됐고, 정치인과 유권자의 유사성이 높을수록 그로 인한 인식 오류가 커졌다.",
+          "title": "Do Politicians’ Errors in Understanding Public Opinion Persist When They Encounter Individual Constituents?",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1017/s0003055426102238"
+        },
+        {
+          "abstract": "ABSTRACT Pregnancy is a stigmatized state in the workplace, and research has increasingly documented the unique experience of being pregnant at work, including difficulties with pregnancy disclosure. Theory and research seemingly take as a given that women's pregnancies are visible or that they become visible. Moreover, visibility appears crucial to explaining pregnancy‐related experiences, behaviors, and treatment. However, working remotely alters the presumed inevitability of visibility. Based on qualitative and quantitative data, we explore how working remotely corresponds with women's disclosure and postdisclosure pregnancy‐related perceptions, decisions, and experiences. Findings demonstrate that time working remotely is associated with greater perceptions of disclosure control, disclosure to a narrower network, delayed disclosure timing, and reduced need to disclose for transparency purposes. In the postdisclosure period, time working remotely is related to reduced conspicuousness of the “unseemly” pregnant body and its symptoms, or fewer physical “reminders,” of one's pregnancy and pregnancy‐related behaviors, corresponding with reduced awareness, addressing, and comments (often invasive in nature) on one's pregnant status by others. Results support the importance of accounting for stigma visibility and obtrusiveness in existing theories and have implications for the use of remote work or other visibility‐linked strategies to address pregnancy experiences.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Aashna M. Waiwood": [
+              "U.S. Department of Defense Washington DC USA"
+            ],
+            "Alyssa M. Lezcano": [
+              "University of South Florida Tampa Florida USA"
+            ],
+            "Joseph Regina": [
+              "Rutgers University Camden New Jersey USA"
+            ],
+            "Tammy D. Allen": [
+              "University of South Florida Tampa Florida USA"
+            ]
+          },
+          "authors": [
+            "Aashna M. Waiwood",
+            "Tammy D. Allen",
+            "Alyssa M. Lezcano",
+            "Joseph Regina"
+          ],
+          "constructs": [
+            "Stigma Visibility",
+            "Disclosure Control"
+          ],
+          "doi": "10.1002/job.70139",
+          "is_editorial": false,
+          "journal": "Journal of Organizational Behavior",
+          "journal_short": "JOB",
+          "method": "혼합방법론",
+          "method_detail": "질적·양적 자료",
+          "publication_date": "2026-11-26",
+          "stable_id": "doi:10.1002/job.70139",
+          "summary_basis": "abstract",
+          "summary_ko": "질적·양적 자료를 활용해 원격근무 시간이 임신 공개와 공개 이후의 인식·결정·경험에 어떻게 연결되는지 살폈다. 원격근무 시간이 길수록 공개 통제감이 높고 공개 대상 네트워크가 좁으며 공개가 지연됐고, 임신한 신체와 증상의 두드러짐과 타인의 인식·언급이 줄어드는 것으로 나타났다.",
+          "title": "Growing, but Not Necessarily Showing: Pregnancy in Remote Versus In‐Person Contexts",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1002/job.70139"
+        },
+        {
+          "abstract": "ABSTRACT Workplace creativity is often studied as an outcome influenced by employees' affective states. There is growing interest in the potential for creative activity to improve positive affect, but there is insufficient knowledge about when or why such activity may change how employees feel at work. We draw on affect regulation theory to consider the mechanisms and boundary conditions involved in the relationship between creative process engagement (CPE) and changes in positive affect. We suggest that engaging in creative processes at work has the potential to increase positive affect through increased task absorption. However, our framework highlights that these effects of CPE are contingent on two factors: the accompanying negative affect and the surrounding competitive climate for creativity. We develop progressive support for our predictions in a laboratory experiment followed by a field experience sampling study. The laboratory study found that CPE increased positive affect through greater task absorption when negative affect was high. The field study tested and supported our full model, with competitive climate for creativity impacting the moderated‐mediated relationship, such that it weakened the CPE × negative affect interactive effect on increasing positive affect via task absorption.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Cynthia D. Fisher": [
+              "Bond University Gold Coast Australia"
+            ],
+            "Gillian Yeo": [
+              "University of Western Australia Perth Australia"
+            ],
+            "March L. To": [
+              "School of Management, College of Business and Law RMIT University Melbourne Australia"
+            ]
+          },
+          "authors": [
+            "March L. To",
+            "Gillian Yeo",
+            "Cynthia D. Fisher"
+          ],
+          "constructs": [
+            "Affect Regulation Theory",
+            "Task Absorption"
+          ],
+          "doi": "10.1002/job.70138",
+          "is_editorial": false,
+          "journal": "Journal of Organizational Behavior",
+          "journal_short": "JOB",
+          "method": "혼합방법론",
+          "method_detail": "실험·경험표집",
+          "publication_date": "2026-11-27",
+          "stable_id": "doi:10.1002/job.70138",
+          "summary_basis": "abstract",
+          "summary_ko": "직장에서 창의적 과정 참여(CPE)가 과업 몰입을 통해 긍정 정서를 높이는 경로와 부정 정서 및 창의성 경쟁 분위기의 조절 효과를 실험실 실험과 현장 경험표집으로 검토했다. 실험실에서는 부정 정서가 높을 때 CPE가 과업 몰입을 거쳐 긍정 정서를 높였고, 현장 연구에서는 창의성 경쟁 분위기가 CPE와 부정 정서의 상호작용이 과업 몰입을 통해 긍정 정서를 높이는 효과를 약화시키는 것으로 나타났다.",
+          "title": "Can Workplace Creativity Increase Positive Affect Through Absorption? The Moderating Roles of Negative Affect and Competitive Climate",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1002/job.70138"
+        },
+        {
+          "abstract": "Abstract Conflict is an inherent feature of collaborative networks, raising questions about how to manage it constructively and whether the timing of intervention shapes collaborative outcomes. This article develops a cumulative, process-oriented framework for conflict management, advancing the literature by theorizing how three core conflict modalities—relationship, value, and task—interact and become enmeshed in a generalized climate of conflict. We map these dynamics onto four functionally distinct segments of collaboration: network infrastructure, goal formulation, action planning, and implementation. The framework highlights how unresolved conflicts temporally layer across functional segments and emphasizes the importance of addressing them early to prevent escalation into destructive generalized climate of conflict. To demonstrate the framework’s analytical utility and refine its assumptions, we conduct a cross-case analysis of four Danish collaborative networks focused on green transitions. The cases reveal how early trust-building and inclusive design can mitigate destructive conflicts and create space for constructive task-related disagreements. Conversely, delayed interventions allow latent relationship and value conflicts to intensify and cascade into subsequent functional segments to jeopardize collaborative outcomes. By clarifying how conflict dynamics unfold across the collaborative process and identifying context-sensitive strategies, the framework offers both theoretical insight and practical guidance for conflict management in collaborative governance settings.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Alexander L Q Chen-Florea": [
+              "Department of Social Sciences and Business, Roskilde University , Roskilde,"
+            ],
+            "Oda Hustad": [
+              "Department of Social Sciences and Business, Roskilde University , Roskilde,"
+            ]
+          },
+          "authors": [
+            "Oda Hustad",
+            "Alexander L Q Chen-Florea"
+          ],
+          "constructs": [
+            "Collaborative Networks",
+            "Conflict Climate"
+          ],
+          "doi": "10.1093/ppmgov/gvag013",
+          "is_editorial": false,
+          "journal": "Perspectives on Public Management and Governance",
+          "journal_short": "PPMG",
+          "method": "질적연구",
+          "method_detail": "사례 간 비교",
+          "publication_date": "2026-11-26",
+          "stable_id": "doi:10.1093/ppmgov/gvag013",
+          "summary_basis": "abstract",
+          "summary_ko": "협력 네트워크에서 관계·가치·과업 갈등이 협력의 네 기능 부문을 거치며 누적되는 과정을 설명하는 틀을 제시하고, 녹색 전환을 다룬 덴마크 협력 네트워크 네 곳을 사례 간 비교로 분석했다. 초기 신뢰 형성과 포용적 설계는 건설적인 과업 갈등을 가능하게 했지만, 개입이 지연되면 잠재된 관계·가치 갈등이 후속 부문으로 확산되어 협력 성과를 위협하는 갈등 분위기로 이어졌다.",
+          "title": "Conflict in collaborative networks: a cumulative perspective",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1093/ppmgov/gvag013"
+        },
+        {
+          "abstract": "Abstract The earth mover’s distance (EMD) is gaining increasing interest among political scientists for assessing similarity in preference distributions. Existing applications predominantly involve relatively large samples and low-dimensional response spaces, which can mitigate finite-sample distortions. However, empirical EMD remains biased upward due to sampling variation in empirical probability measures. This problem is often overlooked and becomes especially severe in high-dimensional or sparse settings, including conjoint distributions that serve as an illustrative example in this article. As political scientists are broadening their use cases of EMD, this article cautions against interpreting standard bootstrap uncertainty bounds as a correction for the upward bias of empirical EMD. It proposes a permutation-based null calibration framework for more robust hypothesis testing. As a non-parametric approach, it frees researchers from making directional or distributional shape assumptions. While alternative estimators require these rigid assumptions to correct for upward bias, political science data often fail to meet them in practice. Through four sets of Monte Carlo simulations, this article demonstrates the utility of this framework. The proposed approach also applies more generally to empirical comparisons of two probability distributions defined on a common metric space, provided that the ground distance between support points is substantively meaningful.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Ho Ting Hung": [
+              "University of Oxford"
+            ]
+          },
+          "authors": [
+            "Ho Ting Hung"
+          ],
+          "constructs": [
+            "Wasserstein Distance",
+            "Permutation Test"
+          ],
+          "doi": "10.1017/pan.2026.10072",
+          "is_editorial": false,
+          "journal": "Political Analysis",
+          "journal_short": "PolAnalysis",
+          "method": "실험",
+          "method_detail": "Monte Carlo 시뮬레이션",
+          "publication_date": "2026-11-27",
+          "stable_id": "doi:10.1017/pan.2026.10072",
+          "summary_basis": "abstract",
+          "summary_ko": "경험적 Wasserstein 거리(EMD)의 표본변동에 따른 체계적 상향 편향과 이를 검정에서 보정하는 방법을 검토했다. 네 세트의 Monte Carlo 시뮬레이션에서 고차원·희소 자료일수록 편향이 심해졌으며, 표준 bootstrap 불확실성 구간은 편향 보정으로 해석하기 어렵고 비모수적 permutation 기반 null calibration이 더 강건한 가설검정 방법으로 제시됐다.",
+          "title": "The Earth Moves, but So Does the Bias: Systematic Upward Bias of the Wasserstein (Earth-Mover) Distance and Permutation-Based Null Calibration",
+          "topic_area": "정책과정",
+          "url": "https://doi.org/10.1017/pan.2026.10072"
+        },
+        {
+          "abstract": "In this study, we examine affective polarization by focusing on political social distance as a key dimension of how citizens relate to political outgroups. Building on Emory Bogardus’ classical sociology of distance, we scrutinize the comfort individuals feel toward supporters of the party they would never vote for in everyday social roles, such as friends, in-laws, cowork​ers, or neighbors. Using original survey data from eight European democracies, we show that social trust is consistently associated with greater comfort toward political outgroups, and therefore lower political social distance. Ideology also matters as political outgroup comfort increases from the left toward the centre-right, where it reaches its highest level. This pattern appears to be conditioned by the identity of the rejected party. We also find that citizens who attach strong importance to democracy express lower comfort toward political outgroups, revealing a paradox we term “democratic exclusivism”. These findings have im​portant implications for the relational foundations of democratic quality and coexistence in contemporary Europe.",
+          "abstract_source": "Publisher",
+          "ai_related": false,
+          "author_affiliations": {},
+          "authors": [
+            "Marco Improta",
+            "Elisabetta Mannoni"
+          ],
+          "constructs": [
+            "Affective Polarization",
+            "Social Trust"
+          ],
+          "doi": "10.1007/s11109-026-10225-9",
+          "is_editorial": false,
+          "journal": "Political Behavior",
+          "journal_short": "PolBeh",
+          "method": "서베이",
+          "method_detail": "다국가 설문",
+          "publication_date": "2026-11-27",
+          "stable_id": "doi:10.1007/s11109-026-10225-9",
+          "summary_basis": "abstract",
+          "summary_ko": "유럽 8개 민주국가의 원자료 설문으로, 유권자가 절대 투표하지 않을 정당 지지자를 친구·사돈·동료·이웃으로 받아들이는 정도를 통해 정치적 사회적 거리와 정서적 양극화를 examined했다. 사회적 신뢰가 높을수록 정치적 외집단에 대한 편안함이 컸고, 민주주의를 중시하는 시민은 편안함이 낮아 ‘민주주의적 배타성’이 나타났다.",
+          "title": "Conceptions of Democracy and Affective Polarization: Evidence from Political Social Distance in Europe",
+          "topic_area": "시민·민주성",
+          "url": "https://doi.org/10.1007/s11109-026-10225-9"
+        },
+        {
+          "abstract": "This article examines how technology affects administrative burdens by studying collaborative processes between third-party actors and government agencies. We conceptualize one burden-reduction role for third-party actors: ‘builders’ of digital infrastructure for public service delivery. Two case studies examine how private and non-profit civic tech organizations helped two U.S. states rebuild digital safety net infrastructure. We find that civic tech builders can mitigate the challenges arising from the principal-agent problem through their pro-social motivations towards public interest goals. However, goal alignment is insufficient. As newcomers, civic tech organizations also need to build relational contracting models by learning to collaborate with government.",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {
+            "Donald Moynihan": [
+              "University of Michigan"
+            ],
+            "Xiaoyang Xu": [
+              "University of South Carolina"
+            ]
+          },
+          "authors": [
+            "Xiaoyang Xu",
+            "Donald Moynihan"
+          ],
+          "constructs": [
+            "Administrative Burden",
+            "Principal-Agent Problem"
+          ],
+          "doi": "10.1080/14719037.2026.2769357",
+          "is_editorial": false,
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "사례연구",
+          "publication_date": "2026-11-25",
+          "stable_id": "doi:10.1080/14719037.2026.2769357",
+          "summary_basis": "abstract",
+          "summary_ko": "제3자 civic tech 조직과 정부기관의 협업이 행정 부담에 미치는 영향을, 미국 두 주의 디지털 안전망 인프라 재구축 사례연구로 분석했다. civic tech 조직은 공익 지향 동기로 주인·대리인 문제에서 비롯한 어려움을 완화했지만, 목표 일치만으로는 부족했으며 정부와 협업하는 관계적 계약 모델을 학습해야 했다.",
+          "title": "‘ The tech is easy. It’s those other pieces ’: how civic tech builders of digital infrastructure collaborate with government and shape administrative burdens",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1080/14719037.2026.2769357"
+        },
+        {
+          "abstract": "This study examines government’s role in stigmatization, addressing limited attention to government’s active participation in organizational and public administration research. Using a longitudinal case study of southern Palm Beach County’s addiction recovery industry, it develops a process model in which conflict escalates, moderates, and resolves into stigma acceptance and collaborative governance. The model introduces latent stigma activation and bilateral stigma acceptance. Government acts as an active participant that constructs stigma, an entangled participant that cannot fully disengage, and a moderator that reinforces industry-led de-stigmatization. These findings offer public managers a practical framework for navigating contested sectors.",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {
+            "David Moura": [
+              "Elon University"
+            ]
+          },
+          "authors": [
+            "David Moura"
+          ],
+          "constructs": [
+            "Stigma",
+            "Collaborative Governance"
+          ],
+          "doi": "10.1080/14719037.2026.2769358",
+          "is_editorial": false,
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "종단 사례연구",
+          "publication_date": "2026-11-26",
+          "stable_id": "doi:10.1080/14719037.2026.2769358",
+          "summary_basis": "abstract",
+          "summary_ko": "남부 팜비치 카운티의 중독 회복 산업을 대상으로 정부가 낙인 형성에 어떻게 관여하는지 종단적 사례연구로 분석했다. 갈등이 고조·완화된 뒤 낙인 수용과 협력적 거버넌스로 해소되는 과정을 제시했으며, 정부가 낙인을 구성하고 완전히 이탈할 수 없는 참여자로 관여하는 동시에 산업 주도의 탈낙인을 강화하는 조정자 역할을 한다고 나타났다.",
+          "title": "Government’s role in stigmatization: amplification, moderation, and collaboration",
+          "topic_area": "거버넌스·협력",
+          "url": "https://doi.org/10.1080/14719037.2026.2769358"
+        },
+        {
+          "abstract": "Abstract Research Summary Anecdotes suggest that multinational enterprises (MNEs) from weak intellectual property rights (IPR) regimes often leapfrog to technological leadership by recruiting talent in advanced host countries. Yet whether—and how—such a strategy works remains unclear. Using data on 486 MNEs from 29 countries operating in the United States and interviews with skilled inventors, we uncover a paradox in the springboard‐via‐hiring logic: externally, weak home‐country IPR reputation deters skilled inventors from joining, limiting recruitment; internally, even when talent is hired, home‐country‐imprinted IPR routines constrain post‐hire learning, yielding incremental improvements. These effects are mitigated by firm‐specific exposure to host‐country patent infringement litigation. Our research suggests that springboard‐via‐hiring is institution‐based, contingent on both home‐ and host‐country IPR regimes. These findings offer implications for technology policy and MNEs' strategy amid geopolitical tension. Managerial Summary Can multinational enterprises (MNEs) from weak intellectual property rights (IPR) regimes leapfrog by hiring technical talent in advanced economies? Evidence on 486 MNEs from 29 countries operating in the US high‐technology sector suggests: weaker home‐country IPR reputations make it harder to attract skilled inventors; even after hiring, home‐imprinted IPR routines can constrain recruits' knowledge transfer, often steering outcomes toward incremental improvements. These home‐country constraints are, however, mitigated by firm‐specific exposure to US patent infringement litigation. The springboard‐via‐hiring strategy is thus institution‐based, contingent on both home‐ and host‐country IPR regimes. We accordingly offer advice on technology policy and global R&D strategies for host‐country governments and MNEs amid geopolitical tension.",
+          "abstract_source": "Crossref",
+          "ai_related": false,
+          "author_affiliations": {
+            "Jianqi Zhang": [
+              "Lingnan College Sun Yat‐sen University Guangzhou China"
+            ],
+            "Jiatao Li": [
+              "School of Business and Management Hong Kong University of Science and Technology Clear Water Bay Hong Kong"
+            ],
+            "Qian Xiang": [
+              "School of Finance and Economics Guangdong Polytechnic Normal University Guangzhou China"
+            ],
+            "Victor Cui": [
+              "Conrad School of Entrepreneurship and Business University of Waterloo Waterloo Ontario Canada"
+            ]
+          },
+          "authors": [
+            "Victor Cui",
+            "Qian Xiang",
+            "Jiatao Li",
+            "Jianqi Zhang"
+          ],
+          "constructs": [
+            "Intellectual Property Rights",
+            "Springboarding"
+          ],
+          "doi": "10.1002/smj.70140",
+          "is_editorial": false,
+          "journal": "Strategic Management Journal",
+          "journal_short": "SMJ",
+          "method": "혼합방법론",
+          "method_detail": "기업자료·인터뷰",
+          "publication_date": "2026-11-26",
+          "stable_id": "doi:10.1002/smj.70140",
+          "summary_basis": "abstract",
+          "summary_ko": "미국에서 활동하는 29개국 486개 다국적기업과 숙련 발명가 인터뷰 자료를 활용해, 약한 지식재산권(IPR) 체제 출신 기업이 선진국 인재 채용으로 기술을 도약시키는 조건을 분석했다. 본국의 약한 IPR 평판은 인재 유치를 어렵게 하고 채용 뒤에도 본국에서 형성된 IPR 관행이 지식 이전을 제약해 점진적 개선에 그치게 했지만, 미국 특허침해 소송에 대한 기업별 노출은 이런 제약을 완화했다.",
+          "title": "Hiring talent in technologically advanced countries: The paradox of springboarding for firms from weak intellectual property rights ( IPR ) regimes",
+          "topic_area": "조직·인사",
+          "url": "https://doi.org/10.1002/smj.70140"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -32813,7 +33242,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -32828,7 +33257,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -32849,7 +33278,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1002/pam.70142": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -32864,7 +33293,22 @@
         "title": "Excellence in Refereeing Award Announcement",
         "url": "https://doi.org/10.1002/pam.70142"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+    },
+    "doi:10.1002/pam.70145": {
+      "first_seen_at": "2026-11-27T16:37:06.391953+00:00",
+      "item": {
+        "author_affiliations": {},
+        "authors": [],
+        "doi": "10.1002/pam.70145",
+        "journal": "Journal of Policy Analysis and Management",
+        "journal_short": "JPAM",
+        "publication_date": "2026-11-27",
+        "stable_id": "doi:10.1002/pam.70145",
+        "title": "APPAM Announcements",
+        "url": "https://doi.org/10.1002/pam.70145"
+      },
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1002/smj.70058": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32879,7 +33323,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70058"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1002/smj.70059": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -32894,7 +33338,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70059"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -32919,7 +33363,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1007/s11109-026-10222-y": {
       "first_seen_at": "2026-11-20T15:24:54.225756+00:00",
@@ -32940,7 +33384,7 @@
         "title": "Punishment for Being Posh? Politicians’ Lifestyle Cues, Class Signals, and Voter Evaluations",
         "url": "https://doi.org/10.1007/s11109-026-10222-y"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -32975,7 +33419,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -32996,7 +33440,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1037/apl0001426.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33011,7 +33455,7 @@
         "title": "Supplemental Material for On Criterion Weighting to Reduce Adverse Impact",
         "url": "https://doi.org/10.1037/apl0001426.supp"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1037/apl0001437.supp": {
       "first_seen_at": "2026-11-23T18:01:44.296307+00:00",
@@ -33026,7 +33470,7 @@
         "title": "Supplemental Material for Revisiting the Assumption of a Self-Regulatory Loop: A Cross-Lagged Study of the Relationship Between Role Ambiguity and Feedback Seeking",
         "url": "https://doi.org/10.1037/apl0001437.supp"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1037/apl0001442.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33041,7 +33485,7 @@
         "title": "Supplemental Material for A Meta-Analysis of Three Decades of Construct Measurement Research on Situational Judgment Tests: Toward a Balance Between Construct Clarity and Predictive Power",
         "url": "https://doi.org/10.1037/apl0001442.supp"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1037/apl0001446.supp": {
       "first_seen_at": "2026-11-19T15:42:45.728772+00:00",
@@ -33056,7 +33500,7 @@
         "title": "Supplemental Material for Are Situational Judgment Tests Really Less Fakable? A Meta-Analysis",
         "url": "https://doi.org/10.1037/apl0001446.supp"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1037/pspa0000505.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33071,7 +33515,7 @@
         "title": "Supplemental Material for A Systematic Investigation of Age–Gender Intersectional Stereotypes and Their Consequences",
         "url": "https://doi.org/10.1037/pspa0000505.supp"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1037/pspi0000537.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33086,7 +33530,7 @@
         "title": "Supplemental Material for Individual, Interpersonal, and Socioeconomic Predictors of Divorce: A 12-Year Prospective Study",
         "url": "https://doi.org/10.1037/pspi0000537.supp"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1037/pspi0000538.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33101,7 +33545,7 @@
         "title": "Supplemental Material for The More, the Better? Evidence of Parallel Growth in Intergroup Contact Quantity and Quality Over Time",
         "url": "https://doi.org/10.1037/pspi0000538.supp"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1037/pspp0000620.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33116,7 +33560,7 @@
         "title": "Supplemental Material for Navigating Divorce and Partner Bereavement: Personality and Trajectories of Change in Life Satisfaction and Mental Health",
         "url": "https://doi.org/10.1037/pspp0000620.supp"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1037/pspp0000623.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33131,7 +33575,7 @@
         "title": "Supplemental Material for Examining the Gender-Equality Paradox in Values Using a New Measure of Value-Based Gender Typicality",
         "url": "https://doi.org/10.1037/pspp0000623.supp"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1037/pspp0000627.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33146,7 +33590,7 @@
         "title": "Supplemental Material for The Structure and History of English Words That Describe People",
         "url": "https://doi.org/10.1037/pspp0000627.supp"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1038/d41586-026-03578-y": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -33163,7 +33607,7 @@
         "title": "The public trusts scientists with AI — more than it does anyone else",
         "url": "https://doi.org/10.1038/d41586-026-03578-y"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1038/s41562-026-02639-6": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -33216,12 +33660,16 @@
         "title": "AI ‘slop’ is a social judgement",
         "url": "https://doi.org/10.1038/s41562-026-02639-6"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1038/s41562-026-02644-9": {
       "first_seen_at": "2026-11-26T16:51:00.526607+00:00",
       "item": {
-        "author_affiliations": {},
+        "author_affiliations": {
+          "Ben M. Tappin": [
+            "London School of Economics and Political Science"
+          ]
+        },
         "authors": [
           "Ben M. Tappin"
         ],
@@ -33233,7 +33681,7 @@
         "title": "Exposure matters more than persuasiveness for digital mass persuasion",
         "url": "https://doi.org/10.1038/s41562-026-02644-9"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1038/s41562-026-02646-7": {
       "first_seen_at": "2026-11-26T16:51:00.526607+00:00",
@@ -33254,53 +33702,33 @@
         "title": "Deepfakes pollute digital space and need upstream safeguards",
         "url": "https://doi.org/10.1038/s41562-026-02646-7"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
-    "doi:10.1080/14719037.2026.2769357": {
-      "first_seen_at": "2026-11-26T16:51:00.526607+00:00",
+    "doi:10.1080/14719037.2026.2769027": {
+      "first_seen_at": "2026-11-27T16:37:06.391953+00:00",
       "item": {
         "author_affiliations": {
-          "Donald Moynihan": [
-            "University of Michigan"
+          "Adel Ben Youssef": [
+            "Université Côte d’Azur",
+            "Australian University, Kuwait"
           ],
-          "Xiaoyang Xu": [
-            "University of South Carolina"
+          "Adelina Zeqiri": [
+            "Université Côte d’Azur"
           ]
         },
         "authors": [
-          "Xiaoyang Xu",
-          "Donald Moynihan"
+          "Adel Ben Youssef",
+          "Adelina Zeqiri"
         ],
-        "doi": "10.1080/14719037.2026.2769357",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-11-25",
-        "stable_id": "doi:10.1080/14719037.2026.2769357",
-        "title": "‘ The tech is easy. It’s those other pieces ’: how civic tech builders of digital infrastructure collaborate with government and shape administrative burdens",
-        "url": "https://doi.org/10.1080/14719037.2026.2769357"
-      },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
-    },
-    "doi:10.1080/14719037.2026.2769358": {
-      "first_seen_at": "2026-11-26T16:51:00.526607+00:00",
-      "item": {
-        "author_affiliations": {
-          "David Moura": [
-            "Elon University"
-          ]
-        },
-        "authors": [
-          "David Moura"
-        ],
-        "doi": "10.1080/14719037.2026.2769358",
+        "doi": "10.1080/14719037.2026.2769027",
         "journal": "Public Management Review",
         "journal_short": "PMR",
         "publication_date": "2026-11-26",
-        "stable_id": "doi:10.1080/14719037.2026.2769358",
-        "title": "Government’s role in stigmatization: amplification, moderation, and collaboration",
-        "url": "https://doi.org/10.1080/14719037.2026.2769358"
+        "stable_id": "doi:10.1080/14719037.2026.2769027",
+        "title": "Strategic leadership as a root competency in municipal digital transformation: a grounded-theory and discourse-based DEMATEL study of Arab cities",
+        "url": "https://doi.org/10.1080/14719037.2026.2769027"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -33329,7 +33757,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -33349,7 +33777,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -33366,7 +33794,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -33383,7 +33811,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -33401,7 +33829,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -33418,7 +33846,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -33437,7 +33865,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -33455,7 +33883,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -33474,7 +33902,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -33492,7 +33920,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -33509,7 +33937,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -33528,7 +33956,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -33546,7 +33974,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1086/744871": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33563,7 +33991,7 @@
         "title": "Running in Context: Marginalization, Political Ambition, and Candidate Emergence",
         "url": "https://doi.org/10.1086/744871"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1086/744929": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -33610,7 +34038,7 @@
         "title": "Political Unfriending on Facebook: Evidence from over 180 Million Users",
         "url": "https://doi.org/10.1086/744929"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1086/744971": {
       "first_seen_at": "2026-11-17T15:57:19.481357+00:00",
@@ -33629,7 +34057,7 @@
         "title": "Breaking the Legal Stalemate: How Membership Changes and Position Uncertainty Shift Attorney Strategies at the U.S. Supreme Court",
         "url": "https://doi.org/10.1086/744971"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -33650,7 +34078,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -33665,7 +34093,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -33680,7 +34108,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -33701,7 +34129,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -33716,7 +34144,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -33731,7 +34159,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-26T16:51:00.526607+00:00"
+      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
     }
   },
   "skipped": {
