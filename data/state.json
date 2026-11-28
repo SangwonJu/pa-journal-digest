@@ -1040,6 +1040,14 @@
       "sent_at": "2026-11-18T15:45:48.433716+00:00",
       "title": "The sound of persuasion: Using generative AI to identify gender gaps in political influence"
     },
+    "doi:10.1073/pnas.2621340123": {
+      "batch_id": "2026-11-28-ec0f130ed16f3b8e",
+      "doi": "10.1073/pnas.2621340123",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "publication_date": "2026-11-23",
+      "sent_at": "2026-11-28T15:38:05.241504+00:00",
+      "title": "A chromatin biology assessment of AlphaFold3"
+    },
     "doi:10.1073/pnas.2622467123": {
       "batch_id": "2026-11-14-ed1aebfabf7f354f",
       "doi": "10.1073/pnas.2622467123",
@@ -2271,6 +2279,14 @@
       "publication_date": "2026-11-23",
       "sent_at": "2026-11-24T17:46:57.889605+00:00",
       "title": "How Does implicit debt shape local governments’ low-carbon governance? A public value conflict perspective"
+    },
+    "doi:10.1080/14719037.2026.2769027": {
+      "batch_id": "2026-11-28-ec0f130ed16f3b8e",
+      "doi": "10.1080/14719037.2026.2769027",
+      "journal": "Public Management Review",
+      "publication_date": "2026-11-26",
+      "sent_at": "2026-11-28T15:38:05.241504+00:00",
+      "title": "Strategic leadership as a root competency in municipal digital transformation: a grounded-theory and discourse-based DEMATEL study of Arab cities"
     },
     "doi:10.1080/14719037.2026.2769357": {
       "batch_id": "2026-11-27-63245898b429e59c",
@@ -33396,7 +33412,8 @@
           "url": "https://doi.org/10.1080/14719037.2026.2769027"
         }
       ],
-      "status": "prepared"
+      "sent_at": "2026-11-28T15:38:05.241504+00:00",
+      "status": "sent"
     }
   },
   "pending": {
