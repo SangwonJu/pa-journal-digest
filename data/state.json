@@ -33317,6 +33317,86 @@
       ],
       "sent_at": "2026-11-27T16:46:46.769125+00:00",
       "status": "sent"
+    },
+    "2026-11-28-ec0f130ed16f3b8e": {
+      "created_at": "2026-11-28T15:28:32.543694+00:00",
+      "idempotency_key": "pa-journal-digest-2026-11-28-ec0f130ed16f3b8e",
+      "items": [
+        {
+          "abstract": "Biomolecular structure prediction tools such as AlphaFold have achieved remarkable success in predicting structures of single proteins and multiprotein complexes. AlphaFold3 now incorporates the capability to model complexes containing nucleic acids and chemically modified side chains. Investigators can now predict structures of proteins bound to chromatin, where interactions with nucleosomal DNA and histone posttranslational modifications (PTMs) converge to control genome function. To evaluate its robustness in modeling chromatin complexes, we benchmarked AlphaFold3 on 115 structures containing nucleosomes whose coordinates were released by the Protein Data Bank after the training set cutoff date. We find that AlphaFold3 excels at predicting interactions with the histone octamer core and with PTMs. By contrast, AlphaFold3 struggles to predict structures of chromatin factors that primarily engage nucleosomal DNA, notably transcription factors and chromatin remodelers. We also show that AlphaFold3 can faithfully recapitulate known PTM recognition patterns, matching experimentally determined specificity profiles. This assessment of the capabilities and limitations of AlphaFold3 in chromatin structural biology provides a roadmap for its effective application to studies of chromatin regulation and PTM readout, while identifying key areas for future refinement of algorithms for predicting interactions between proteins and nucleic acids.",
+          "abstract_source": "Crossref",
+          "ai_related": true,
+          "author_affiliations": {
+            "Cynthia Wolberger": [
+              "Department of Biophysics and Biophysical Chemistry, Johns Hopkins University School of Medicine"
+            ],
+            "Sanim Rahman": [
+              "Department of Biophysics and Biophysical Chemistry, Johns Hopkins University School of Medicine"
+            ],
+            "Yash Bhargava": [
+              "Department of Biophysics and Biophysical Chemistry, Johns Hopkins University School of Medicine"
+            ]
+          },
+          "authors": [
+            "Yash Bhargava",
+            "Sanim Rahman",
+            "Cynthia Wolberger"
+          ],
+          "constructs": [
+            "AlphaFold3",
+            "Chromatin Regulation"
+          ],
+          "doi": "10.1073/pnas.2621340123",
+          "is_editorial": false,
+          "journal": "Proceedings of the National Academy of Sciences",
+          "journal_short": "PNAS",
+          "method": "실험",
+          "method_detail": "구조 벤치마크",
+          "publication_date": "2026-11-23",
+          "stable_id": "doi:10.1073/pnas.2621340123",
+          "summary_basis": "abstract",
+          "summary_ko": "염색질 복합체 구조 예측에서 AlphaFold3의 견고성을 평가하기 위해 학습 데이터 컷오프 이후 Protein Data Bank에 공개된 뉴클레오솜 구조 115개를 벤치마크했다. AlphaFold3는 히스톤 옥타머 코어 및 히스톤 PTM과의 상호작용을 잘 예측했지만, 뉴클레오솜 DNA와 주로 결합하는 전사인자와 염색질 리모델러 구조 예측에는 어려움을 보였으며, 알려진 PTM 인식 패턴은 실험적으로 확인된 특이성 프로파일과 일치했다.",
+          "title": "A chromatin biology assessment of AlphaFold3",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1073/pnas.2621340123"
+        },
+        {
+          "abstract": "This article examines how actors directing municipal digital transformation understand interdependencies among digital competencies. Drawing on 36 semi-structured interviews concerning 20 Arab cities, it combines grounded-theory coding with discourse-based DEMATEL to model attributed influence among strategic leadership, technical-operational capacity, frontline service delivery, and citizen competencies. Informants describe a top-down structure where strategic leadership is the root competency, while citizen competencies, though prominent, are the most dependent outcome. Because these actors allocate capacity-building resources, their attributions matter regardless of accuracy. The article extends absorptive capacity and dynamic capabilities perspectives, showing organizational competencies are understood as one system, not independent maturity dimensions.",
+          "abstract_source": "OpenAlex",
+          "ai_related": false,
+          "author_affiliations": {
+            "Adel Ben Youssef": [
+              "Université Côte d’Azur",
+              "Australian University, Kuwait"
+            ],
+            "Adelina Zeqiri": [
+              "Université Côte d’Azur"
+            ]
+          },
+          "authors": [
+            "Adel Ben Youssef",
+            "Adelina Zeqiri"
+          ],
+          "constructs": [
+            "Absorptive Capacity",
+            "Dynamic Capabilities"
+          ],
+          "doi": "10.1080/14719037.2026.2769027",
+          "is_editorial": false,
+          "journal": "Public Management Review",
+          "journal_short": "PMR",
+          "method": "질적연구",
+          "method_detail": "반구조화 인터뷰",
+          "publication_date": "2026-11-26",
+          "stable_id": "doi:10.1080/14719037.2026.2769027",
+          "summary_basis": "abstract",
+          "summary_ko": "20개 아랍 도시의 지방정부 디지털 전환을 이끄는 행위자들이 디지털 역량 간 상호의존성을 어떻게 인식하는지 36건의 반구조화 인터뷰와 근거이론 코딩, 담론 기반 DEMATEL로 분석했다. 응답자들은 전략적 리더십을 기술·운영 역량과 일선 서비스 제공 역량을 좌우하는 근원 역량으로, 시민 역량을 가장 의존적인 결과로 인식했으며, 역량 강화 자원을 배분하는 행위자들의 인식은 그 정확성과 무관하게 중요하다고 나타났다.",
+          "title": "Strategic leadership as a root competency in municipal digital transformation: a grounded-theory and discourse-based DEMATEL study of Arab cities",
+          "topic_area": "디지털정부",
+          "url": "https://doi.org/10.1080/14719037.2026.2769027"
+        }
+      ],
+      "status": "prepared"
     }
   },
   "pending": {
@@ -33339,7 +33419,7 @@
         "title": "Titans of Industrial Agriculture: How a Few Giant Corporations Came to Dominate the Farm Sector and Why It Matters",
         "url": "https://doi.org/10.1002/pam.70127"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1002/pam.70138": {
       "first_seen_at": "2026-10-28T12:48:28.930203+00:00",
@@ -33354,7 +33434,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/pam.70138"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1002/pam.70141": {
       "first_seen_at": "2026-10-27T12:06:36.550371+00:00",
@@ -33375,7 +33455,7 @@
         "title": "Democracy in Power: A History of Electrification in the United States",
         "url": "https://doi.org/10.1002/pam.70141"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1002/pam.70142": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -33390,7 +33470,7 @@
         "title": "Excellence in Refereeing Award Announcement",
         "url": "https://doi.org/10.1002/pam.70142"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1002/pam.70145": {
       "first_seen_at": "2026-11-27T16:37:06.391953+00:00",
@@ -33405,7 +33485,7 @@
         "title": "APPAM Announcements",
         "url": "https://doi.org/10.1002/pam.70145"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1002/smj.70058": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33420,7 +33500,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70058"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1002/smj.70059": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33435,7 +33515,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1002/smj.70059"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1007/s11109-026-10212-0": {
       "first_seen_at": "2026-10-25T11:21:30.815109+00:00",
@@ -33460,7 +33540,7 @@
         "title": "Do Political Elites Evaluate Election Outcomes More Favourably than Citizens? Evidence from Parallel Surveys",
         "url": "https://doi.org/10.1007/s11109-026-10212-0"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1007/s11109-026-10222-y": {
       "first_seen_at": "2026-11-20T15:24:54.225756+00:00",
@@ -33481,7 +33561,7 @@
         "title": "Punishment for Being Posh? Politicians’ Lifestyle Cues, Class Signals, and Voter Evaluations",
         "url": "https://doi.org/10.1007/s11109-026-10222-y"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1016/j.giq.2026.102161": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -33516,7 +33596,7 @@
         "title": "Building trust through messaging and new e-government services in Kenya",
         "url": "https://doi.org/10.1016/j.giq.2026.102161"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1016/j.giq.2026.102172": {
       "first_seen_at": "2026-09-01T15:27:42.583028+00:00",
@@ -33537,7 +33617,7 @@
         "title": "Digital resilience in delivering public services. A conceptual model",
         "url": "https://doi.org/10.1016/j.giq.2026.102172"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1037/apl0001426.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33552,7 +33632,7 @@
         "title": "Supplemental Material for On Criterion Weighting to Reduce Adverse Impact",
         "url": "https://doi.org/10.1037/apl0001426.supp"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1037/apl0001437.supp": {
       "first_seen_at": "2026-11-23T18:01:44.296307+00:00",
@@ -33567,7 +33647,7 @@
         "title": "Supplemental Material for Revisiting the Assumption of a Self-Regulatory Loop: A Cross-Lagged Study of the Relationship Between Role Ambiguity and Feedback Seeking",
         "url": "https://doi.org/10.1037/apl0001437.supp"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1037/apl0001442.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33582,7 +33662,7 @@
         "title": "Supplemental Material for A Meta-Analysis of Three Decades of Construct Measurement Research on Situational Judgment Tests: Toward a Balance Between Construct Clarity and Predictive Power",
         "url": "https://doi.org/10.1037/apl0001442.supp"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1037/apl0001446.supp": {
       "first_seen_at": "2026-11-19T15:42:45.728772+00:00",
@@ -33597,7 +33677,7 @@
         "title": "Supplemental Material for Are Situational Judgment Tests Really Less Fakable? A Meta-Analysis",
         "url": "https://doi.org/10.1037/apl0001446.supp"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1037/pspa0000505.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33612,7 +33692,7 @@
         "title": "Supplemental Material for A Systematic Investigation of Age–Gender Intersectional Stereotypes and Their Consequences",
         "url": "https://doi.org/10.1037/pspa0000505.supp"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1037/pspi0000537.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33627,7 +33707,7 @@
         "title": "Supplemental Material for Individual, Interpersonal, and Socioeconomic Predictors of Divorce: A 12-Year Prospective Study",
         "url": "https://doi.org/10.1037/pspi0000537.supp"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1037/pspi0000538.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33642,7 +33722,7 @@
         "title": "Supplemental Material for The More, the Better? Evidence of Parallel Growth in Intergroup Contact Quantity and Quality Over Time",
         "url": "https://doi.org/10.1037/pspi0000538.supp"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1037/pspp0000620.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33657,7 +33737,7 @@
         "title": "Supplemental Material for Navigating Divorce and Partner Bereavement: Personality and Trajectories of Change in Life Satisfaction and Mental Health",
         "url": "https://doi.org/10.1037/pspp0000620.supp"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1037/pspp0000623.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33672,7 +33752,7 @@
         "title": "Supplemental Material for Examining the Gender-Equality Paradox in Values Using a New Measure of Value-Based Gender Typicality",
         "url": "https://doi.org/10.1037/pspp0000623.supp"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1037/pspp0000627.supp": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -33687,7 +33767,7 @@
         "title": "Supplemental Material for The Structure and History of English Words That Describe People",
         "url": "https://doi.org/10.1037/pspp0000627.supp"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1038/d41586-026-03578-y": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -33704,7 +33784,7 @@
         "title": "The public trusts scientists with AI — more than it does anyone else",
         "url": "https://doi.org/10.1038/d41586-026-03578-y"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1038/s41562-026-02639-6": {
       "first_seen_at": "2026-11-11T14:17:32.796666+00:00",
@@ -33757,7 +33837,7 @@
         "title": "AI ‘slop’ is a social judgement",
         "url": "https://doi.org/10.1038/s41562-026-02639-6"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1038/s41562-026-02644-9": {
       "first_seen_at": "2026-11-26T16:51:00.526607+00:00",
@@ -33778,7 +33858,7 @@
         "title": "Exposure matters more than persuasiveness for digital mass persuasion",
         "url": "https://doi.org/10.1038/s41562-026-02644-9"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1038/s41562-026-02646-7": {
       "first_seen_at": "2026-11-26T16:51:00.526607+00:00",
@@ -33799,33 +33879,7 @@
         "title": "Deepfakes pollute digital space and need upstream safeguards",
         "url": "https://doi.org/10.1038/s41562-026-02646-7"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
-    },
-    "doi:10.1080/14719037.2026.2769027": {
-      "first_seen_at": "2026-11-27T16:37:06.391953+00:00",
-      "item": {
-        "author_affiliations": {
-          "Adel Ben Youssef": [
-            "Université Côte d’Azur",
-            "Australian University, Kuwait"
-          ],
-          "Adelina Zeqiri": [
-            "Université Côte d’Azur"
-          ]
-        },
-        "authors": [
-          "Adel Ben Youssef",
-          "Adelina Zeqiri"
-        ],
-        "doi": "10.1080/14719037.2026.2769027",
-        "journal": "Public Management Review",
-        "journal_short": "PMR",
-        "publication_date": "2026-11-26",
-        "stable_id": "doi:10.1080/14719037.2026.2769027",
-        "title": "Strategic leadership as a root competency in municipal digital transformation: a grounded-theory and discourse-based DEMATEL study of Arab cities",
-        "url": "https://doi.org/10.1080/14719037.2026.2769027"
-      },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1086/736804": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -33854,7 +33908,7 @@
         "title": "Special Interest Trade-Offs: Campaign Finance Reforms and Religious Influence in Politics in Brazil",
         "url": "https://doi.org/10.1086/736804"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1086/743911": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -33874,7 +33928,7 @@
         "title": "Politicians and Daughters: A Large-Sample Preregistered Multiverse Test",
         "url": "https://doi.org/10.1086/743911"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1086/743912": {
       "first_seen_at": "2026-08-31T18:00:06.600986+00:00",
@@ -33891,7 +33945,7 @@
         "title": "On Republican Domination: Weibo as History and Concept",
         "url": "https://doi.org/10.1086/743912"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1086/744063": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -33908,7 +33962,7 @@
         "title": "The Politics of Criminalized Places: Aggressive Policing and Political Mobilization",
         "url": "https://doi.org/10.1086/744063"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1086/744064": {
       "first_seen_at": "2026-09-15T11:41:33.512995+00:00",
@@ -33926,7 +33980,7 @@
         "title": "What's in a name? Name recognition, place-based identities, and candidate success",
         "url": "https://doi.org/10.1086/744064"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1086/744128": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -33943,7 +33997,7 @@
         "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
         "url": "https://doi.org/10.1086/744128"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1086/744218": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -33962,7 +34016,7 @@
         "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
         "url": "https://doi.org/10.1086/744218"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1086/744219": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -33980,7 +34034,7 @@
         "title": "The Evolution of Collective Action: Evidence from Mexico",
         "url": "https://doi.org/10.1086/744219"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1086/744221": {
       "first_seen_at": "2026-09-30T12:30:45.555578+00:00",
@@ -33999,7 +34053,7 @@
         "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
         "url": "https://doi.org/10.1086/744221"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1086/744412": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -34017,7 +34071,7 @@
         "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
         "url": "https://doi.org/10.1086/744412"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1086/744414": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -34034,7 +34088,7 @@
         "title": "The Ground of Judgment",
         "url": "https://doi.org/10.1086/744414"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1086/744415": {
       "first_seen_at": "2026-10-14T11:47:57.221501+00:00",
@@ -34053,7 +34107,7 @@
         "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
         "url": "https://doi.org/10.1086/744415"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1086/744573": {
       "first_seen_at": "2026-10-21T11:44:33.182624+00:00",
@@ -34071,7 +34125,7 @@
         "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
         "url": "https://doi.org/10.1086/744573"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1086/744871": {
       "first_seen_at": "2026-11-11T02:29:12.970223+00:00",
@@ -34088,7 +34142,7 @@
         "title": "Running in Context: Marginalization, Political Ambition, and Candidate Emergence",
         "url": "https://doi.org/10.1086/744871"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1086/744929": {
       "first_seen_at": "2026-11-14T13:28:37.257982+00:00",
@@ -34135,7 +34189,7 @@
         "title": "Political Unfriending on Facebook: Evidence from over 180 Million Users",
         "url": "https://doi.org/10.1086/744929"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1086/744971": {
       "first_seen_at": "2026-11-17T15:57:19.481357+00:00",
@@ -34154,7 +34208,7 @@
         "title": "Breaking the Legal Stalemate: How Membership Changes and Position Uncertainty Shift Attorney Strategies at the U.S. Supreme Court",
         "url": "https://doi.org/10.1086/744971"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1093/poq/nfag065": {
       "first_seen_at": "2026-08-27T21:01:23.767507+00:00",
@@ -34175,7 +34229,7 @@
         "title": "Larry M. Bartels and Katherine J. Cramer. The Politics of Social Change: From the Sixties to the Present Through the Eyes of a Generation",
         "url": "https://doi.org/10.1093/poq/nfag065"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1111/pops.70156": {
       "first_seen_at": "2026-10-01T13:08:20.983834+00:00",
@@ -34190,7 +34244,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/pops.70156"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1111/psj.70163": {
       "first_seen_at": "2026-08-29T15:37:50.345702+00:00",
@@ -34205,7 +34259,7 @@
         "title": "Issue Information",
         "url": "https://doi.org/10.1111/psj.70163"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1111/puar.70170": {
       "first_seen_at": "2026-08-12T11:57:06.455809+00:00",
@@ -34226,7 +34280,7 @@
         "title": "Public Administration in the 21st Century: A Global South Perspective, 2nd ed. By RumkiBasu, London: Routledge, 2025. 182 pp.",
         "url": "https://doi.org/10.1111/puar.70170"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1111/puar.70182": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -34241,7 +34295,7 @@
         "title": "American Society for Public Administration Code of Ethics",
         "url": "https://doi.org/10.1111/puar.70182"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     },
     "doi:10.1111/puar.70183": {
       "first_seen_at": "2026-08-28T21:21:22.563180+00:00",
@@ -34256,7 +34310,7 @@
         "title": "Celebrating 86 Years",
         "url": "https://doi.org/10.1111/puar.70183"
       },
-      "last_checked_at": "2026-11-27T16:37:06.391953+00:00"
+      "last_checked_at": "2026-11-28T15:28:32.543694+00:00"
     }
   },
   "skipped": {
