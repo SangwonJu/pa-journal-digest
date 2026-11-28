@@ -41,7 +41,7 @@ def test_journals_are_ordered_by_field_then_tier() -> None:
 
 
 def test_journal_catalog_has_unique_valid_issns() -> None:
-    assert len(JOURNALS) == 42
+    assert len(JOURNALS) == 47
     issns = [issn for journal in JOURNALS for issn in journal.issns]
     assert len(issns) == len(set(issns))
     assert all(len(issn) == 9 and issn[4] == "-" for issn in issns)

@@ -160,7 +160,7 @@ class ArticleSummarizer:
         """Keep only the screened journals' articles that fit the reader's interests.
 
         AI-only journals (psychology, NHB, PNAS, Science, Nature) keep articles whose subject is AI as
-        it bears on politics or psychology. AI-or-PA journals (PolBeh, PolComm, POQ, JEPS) also keep
+        it bears on politics or psychology. AI-or-PA journals (PolBeh, PolComm, POQ, JEPS, PolPsych) also keep
         articles about public administration. Candidates are judged in batches on title and abstract,
         so one call covers a whole week of PNAS.
         """

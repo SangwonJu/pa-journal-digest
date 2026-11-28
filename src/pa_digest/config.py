@@ -77,6 +77,8 @@ JOURNALS: tuple[Journal, ...] = (
     Journal("POQ", "Public Opinion Quarterly", ("0033-362X", "1537-5331"), 2, ai_or_pa_only=True),
     # SJR 2.016; Sociology & Political Science #50/1513
     Journal("JEPS", "Journal of Experimental Political Science", ("2052-2630", "2052-2649"), 2, ai_or_pa_only=True),
+    # SJR 1.938; Political Science & IR #19/725 (Social Psychology #14/318)
+    Journal("PolPsych", "Political Psychology", ("0162-895X", "1467-9221"), 2, ai_or_pa_only=True),
     # SJR 14.367; Organizational Behavior & HRM #2/262
     Journal("AMA", "Academy of Management Annals", ("1941-6520", "1941-6067"), 1),
     # SJR 10.781; Strategy & Management #3/518
@@ -97,12 +99,20 @@ JOURNALS: tuple[Journal, ...] = (
     Journal("OBHDP", "Organizational Behavior and Human Decision Processes", ("0749-5978", "1095-9920"), 2),
     # SJR 8.496; Psychology (misc.) #2/347
     Journal("PsychBull", "Psychological Bulletin", ("0033-2909", "1939-1455"), 1, ai_social_only=True),
+    # SJR 6.292; Social Psychology #2/318
+    Journal("PSPR", "Personality and Social Psychology Review", ("1088-8683", "1532-7957"), 1, ai_social_only=True),
     # SJR 3.767; Social Psychology #4/318
     Journal("JPSP", "Journal of Personality and Social Psychology", ("0022-3514", "1939-1315"), 2, ai_social_only=True),
+    # SJR 3.072; Human-Computer Interaction #5/204, Psychology (misc.) #11/347
+    Journal("CHB", "Computers in Human Behavior", ("0747-5632",), 2, ai_social_only=True),
     # SJR 2.309; Psychology (misc.) #17/347
     Journal("PsychSci", "Psychological Science", ("0956-7976", "1467-9280"), 2, ai_social_only=True),
+    # SJR 2.179; Social Psychology #11/318
+    Journal("SPPS", "Social Psychological and Personality Science", ("1948-5506", "1948-5514"), 2, ai_social_only=True),
     # SJR 2.086; Social Psychology #13/318
     Journal("PSPB", "Personality and Social Psychology Bulletin", ("0146-1672", "1552-7433"), 2, ai_social_only=True),
+    # SJR 1.896; Social Psychology #15/318
+    Journal("JESP", "Journal of Experimental Social Psychology", ("0022-1031", "1096-0465"), 2, ai_social_only=True),
     # SJR 5.679; Management Information Systems #2/144
     Journal("ISR", "Information Systems Research", ("1047-7047", "1526-5536"), 1),
     # SJR 4.061; Management Information Systems #3/144
@@ -131,10 +141,12 @@ _FIELD_BY_SHORT = {
         "행정·정책",
     ),
     **dict.fromkeys(
-        ("AJPS", "APSR", "JOP", "PolAnalysis", "PolBeh", "POQ", "PolComm", "JEPS"), "정치학"
+        ("AJPS", "APSR", "JOP", "PolAnalysis", "PolBeh", "POQ", "PolComm", "JEPS", "PolPsych"), "정치학"
     ),
     **dict.fromkeys(("AMJ", "AMR", "AMA", "JOB", "JOM", "SMJ", "OrgSci", "OBHDP", "JAP"), "경영·조직"),
-    **dict.fromkeys(("JPSP", "PSPB", "PsychSci", "PsychBull"), "심리학"),
+    **dict.fromkeys(
+        ("JPSP", "PSPB", "PsychSci", "PsychBull", "PSPR", "JESP", "SPPS", "CHB"), "심리학"
+    ),
     **dict.fromkeys(("MISQ", "ISR"), "정보시스템"),
     **dict.fromkeys(("NHB", "PNAS", "Science", "Nature"), "AI·사회과학"),
 }

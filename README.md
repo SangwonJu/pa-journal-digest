@@ -47,6 +47,7 @@ The same numbers are recorded next to each journal in `src/pa_digest/config.py`.
 | | PolComm | Political Communication (AI or public administration articles only) | 2.907 | Sociology & Political Science #27/1513 | 2 |
 | | POQ | Public Opinion Quarterly (AI or public administration articles only) | 2.191 | Sociology & Political Science #43/1513 | 2 |
 | | JEPS | Journal of Experimental Political Science (AI or public administration articles only) | 2.016 | Sociology & Political Science #50/1513 | 2 |
+| | PolPsych | Political Psychology (AI or public administration articles only) | 1.938 | Political Science & IR #19/725 | 2 |
 | Management & organizations | AMA | Academy of Management Annals | 14.367 | Organizational Behavior & HRM #2/262 | 1 |
 | | AMJ | Academy of Management Journal | 10.781 | Strategy & Management #3/518 | 1 |
 | | SMJ | Strategic Management Journal | 10.154 | Strategy & Management #4/518 | 1 |
@@ -57,9 +58,13 @@ The same numbers are recorded next to each journal in `src/pa_digest/config.py`.
 | | JOB | Journal of Organizational Behavior | 3.999 | Organizational Behavior & HRM #12/262 | 2 |
 | | OBHDP | Organizational Behavior and Human Decision Processes | 3.152 | Organizational Behavior & HRM #15/262 | 2 |
 | Psychology (AI-related articles only) | PsychBull | Psychological Bulletin | 8.496 | Psychology (misc.) #2/347 | 1 |
+| | PSPR | Personality and Social Psychology Review | 6.292 | Social Psychology #2/318 | 1 |
 | | JPSP | Journal of Personality and Social Psychology | 3.767 | Social Psychology #4/318 | 2 |
+| | CHB | Computers in Human Behavior | 3.072 | Human-Computer Interaction #5/204 | 2 |
 | | PsychSci | Psychological Science | 2.309 | Psychology (misc.) #17/347 | 2 |
+| | SPPS | Social Psychological and Personality Science | 2.179 | Social Psychology #11/318 | 2 |
 | | PSPB | Personality and Social Psychology Bulletin | 2.086 | Social Psychology #13/318 | 2 |
+| | JESP | Journal of Experimental Social Psychology | 1.896 | Social Psychology #15/318 | 2 |
 | Information systems | ISR | Information Systems Research | 5.679 | Management Information Systems #2/144 | 1 |
 | | MISQ | MIS Quarterly | 4.061 | Management Information Systems #3/144 | 1 |
 | AI & social science (AI-related political and psychological articles only) | Nature | Nature | 19.713 | Multidisciplinary #1/233 | 1 |
@@ -67,8 +72,9 @@ The same numbers are recorded next to each journal in `src/pa_digest/config.py`.
 | | NHB | Nature Human Behaviour | 4.896 | Social Psychology #3/318 | 2 |
 | | PNAS | Proceedings of the National Academy of Sciences | 3.283 | Multidisciplinary #7/233 | 2 |
 
-NHB, PNAS, Science, and Nature cover very broad ground, and for the psychology journals (JPSP, PSPB,
-Psychological Science, Psychological Bulletin) only AI-related research is wanted, so these journals
+NHB, PNAS, Science, and Nature cover very broad ground, and for the psychology journals (Psychological
+Bulletin, PSPR, JPSP, Computers in Human Behavior, Psychological Science, SPPS, PSPB, JESP) only
+AI-related research is wanted, so these journals
 are not taken in full. Each day the titles and abstracts of the candidate articles are sent together
 to `OPENAI_MODEL`, which keeps only articles where AI is the central topic and the paper addresses a
 political science or psychology question such as politics, government, public opinion, persuasion,
@@ -84,7 +90,7 @@ four journals, news, commentary (Comment, Perspective, News & Views), replies (R
 editorials are also dropped, leaving only original research and review articles. Nature articles
 with `10.1038/d41586-` DOIs are all news or commentary and are excluded.
 
-PolBeh, PolComm, POQ, and JEPS are screened the same way, with a different rule: an article is kept when it studies AI in relation to people or society, or when public administration is a central subject (bureaucracy and civil servants, government agencies, public service delivery, policy implementation, administrative burden, or how citizens perceive and interact with public agencies). Articles on elections, voting, parties, campaigns, partisanship, or public opinion in general are dropped unless AI or public administration is central. Here too, the summary stage judges each article again, and it is sent only when that second check also says it is about AI or public administration.
+PolBeh, PolComm, POQ, JEPS, and Political Psychology are screened the same way, with a different rule: an article is kept when it studies AI in relation to people or society, or when public administration is a central subject (bureaucracy and civil servants, government agencies, public service delivery, policy implementation, administrative burden, or how citizens perceive and interact with public agencies). Articles on elections, voting, parties, campaigns, partisanship, or public opinion in general are dropped unless AI or public administration is central. Here too, the summary stage judges each article again, and it is sent only when that second check also says it is about AI or public administration.
 
 The newsletter groups sections by field and lists journals in the order of the table above. A
 journal with no new articles on a given day does not appear in that day's email. On days with no
