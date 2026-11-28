@@ -24,6 +24,7 @@ DEFAULT_OUTPUT = Path("build/batch.json")
 DEFAULT_ARCHIVE = Path("data/PA_Journal_Digest_Archive.xlsx")
 NEW_YORK = ZoneInfo("America/New_York")
 AI_ONLY_JOURNALS = {journal.short_name for journal in JOURNALS if journal.ai_social_only}
+AI_OR_PA_JOURNALS = {journal.short_name for journal in JOURNALS if journal.ai_or_pa_only}
 
 
 def _set_github_output(name: str, value: str) -> None:
@@ -127,12 +128,19 @@ def prepare(args: argparse.Namespace) -> int:
     for article in articles:
         summarizer.summarize(article)
     editorials = [article for article in articles if article.is_editorial]
-    # AI-only journals need a second yes from the per-paper read, so one loose screen call
-    # cannot let a sleep or fertility paper through.
+    # Screened journals need a second yes from the per-paper read, so one loose screen call
+    # cannot let a sleep or fertility paper through. AI-or-PA journals pass on either flag.
     not_ai = [
         article
         for article in articles
-        if not article.is_editorial and article.journal_short in AI_ONLY_JOURNALS and not article.ai_related
+        if not article.is_editorial
+        and (
+            (article.journal_short in AI_ONLY_JOURNALS and not article.ai_related)
+            or (
+                article.journal_short in AI_OR_PA_JOURNALS
+                and not (article.ai_related or article.pa_related)
+            )
+        )
     ]
     dropped = {article.stable_id for article in editorials + not_ai}
     articles = [article for article in articles if article.stable_id not in dropped]

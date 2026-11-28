@@ -257,3 +257,45 @@ def test_include_sent_rebuilds_papers_already_delivered(tmp_path, monkeypatch) -
     assert [item.title for item in batch.articles] == ["LLM persuasion"]
     assert "-resend-recent-" in batch.batch_id
     assert "재발송" in batch.subject
+
+
+def polbeh_article(title: str) -> Article:
+    from datetime import date
+
+    return Article(
+        doi=f"10.1007/{title.replace(' ', '-')}",
+        title=title,
+        journal="Political Behavior",
+        journal_short="PolBeh",
+        publication_date=date(2026, 8, 8),
+        url="https://example.test",
+        abstract="A sufficiently long abstract for the test.",
+    )
+
+
+class MixedPolBehMetadataClient(EmptyMetadataClient):
+    def discover(self, start, end, relevance_filter=None):
+        return [
+            polbeh_article("LLM persuasion"),
+            polbeh_article("Bureaucrats and citizen trust"),
+            polbeh_article("Campaign ads and turnout"),
+        ]
+
+
+class AiOrPaJudgingSummarizer(StubSummarizer):
+    def summarize(self, article) -> None:
+        super().summarize(article)
+        article.ai_related = article.title.startswith("LLM")
+        article.pa_related = article.title.startswith("Bureaucrats")
+
+
+def test_ai_or_pa_journal_keeps_ai_and_public_administration_papers(tmp_path, monkeypatch) -> None:
+    monkeypatch.setenv("CROSSREF_MAILTO", "researcher@example.edu")
+    monkeypatch.setattr(cli, "MetadataClient", MixedPolBehMetadataClient)
+    monkeypatch.setattr(cli, "ArticleSummarizer", AiOrPaJudgingSummarizer)
+    args = _prepare_args(tmp_path)
+
+    assert cli.prepare(args) == 0
+    batch = PreparedBatch.model_validate_json(args.output.read_text(encoding="utf-8"))
+    assert sorted(item.title for item in batch.articles) == ["Bureaucrats and citizen trust", "LLM persuasion"]
+    assert polbeh_article("Campaign ads and turnout").stable_id in StateStore(args.state).skipped_ids

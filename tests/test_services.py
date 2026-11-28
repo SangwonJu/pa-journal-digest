@@ -82,3 +82,33 @@ def test_select_ai_social_keeps_only_indices_the_model_returns() -> None:
     assert len(calls) == 1
     assert "Costello" in calls[0]["input"][0]["content"]
     assert "[1] Dialogues with AI reduce conspiracy beliefs" in calls[0]["input"][1]["content"]
+
+
+def test_ai_or_pa_journals_use_their_own_screen() -> None:
+    summarizer = ArticleSummarizer(api_key="test")
+    calls = []
+
+    def create(**kwargs):
+        calls.append(kwargs)
+        return SimpleNamespace(output_text=json.dumps({"relevant": [0]}))
+
+    summarizer.client = SimpleNamespace(responses=SimpleNamespace(create=create))
+    articles = [
+        Article(
+            title=title,
+            journal="Political Behavior",
+            journal_short="PolBeh",
+            publication_date=date(2026, 11, 5),
+            url=f"https://example.test/{index}",
+            abstract="An abstract.",
+        )
+        for index, title in enumerate(["Citizens' trust in street-level bureaucrats", "Campaign ads and turnout"])
+    ]
+
+    kept = summarizer.select_ai_social(articles)
+
+    assert [article.title for article in kept] == ["Citizens' trust in street-level bureaucrats"]
+    assert kept[0].ai_related is False
+    assert "Public administration" in calls[0]["input"][0]["content"]
+    assert "Costello" not in calls[0]["input"][0]["content"]
+    assert "pa_related" in SUMMARY_SCHEMA["required"]

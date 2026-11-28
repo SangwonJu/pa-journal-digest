@@ -13,6 +13,9 @@ class Journal:
     # context. Used for broad journals (NHB, PNAS, Science, Nature) and for the
     # psychology journals, where the reader follows AI-related work only.
     ai_social_only: bool = False
+    # When set, an LLM keeps only articles that are about AI or about public administration.
+    # Used for political behaviour, communication and opinion journals.
+    ai_or_pa_only: bool = False
 
     @property
     def primary_issn(self) -> str:
@@ -67,13 +70,13 @@ JOURNALS: tuple[Journal, ...] = (
     # SJR 3.492; Sociology & Political Science #15/1513
     Journal("JOP", "The Journal of Politics", ("0022-3816", "1468-2508"), 2),
     # SJR 2.955; Sociology & Political Science #26/1513
-    Journal("PolBeh", "Political Behavior", ("0190-9320", "1573-6687"), 2),
+    Journal("PolBeh", "Political Behavior", ("0190-9320", "1573-6687"), 2, ai_or_pa_only=True),
     # SJR 2.907; Sociology & Political Science #27/1513
-    Journal("PolComm", "Political Communication", ("1058-4609", "1091-7675"), 2),
+    Journal("PolComm", "Political Communication", ("1058-4609", "1091-7675"), 2, ai_or_pa_only=True),
     # SJR 2.191; Sociology & Political Science #43/1513
-    Journal("POQ", "Public Opinion Quarterly", ("0033-362X", "1537-5331"), 2),
+    Journal("POQ", "Public Opinion Quarterly", ("0033-362X", "1537-5331"), 2, ai_or_pa_only=True),
     # SJR 2.016; Sociology & Political Science #50/1513
-    Journal("JEPS", "Journal of Experimental Political Science", ("2052-2630", "2052-2649"), 2),
+    Journal("JEPS", "Journal of Experimental Political Science", ("2052-2630", "2052-2649"), 2, ai_or_pa_only=True),
     # SJR 14.367; Organizational Behavior & HRM #2/262
     Journal("AMA", "Academy of Management Annals", ("1941-6520", "1941-6067"), 1),
     # SJR 10.781; Strategy & Management #3/518

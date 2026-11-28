@@ -6,7 +6,10 @@ import os
 import httpx
 from openai import OpenAI
 
+from .config import JOURNALS
 from .models import Article
+
+AI_OR_PA_SHORT_NAMES = {journal.short_name for journal in JOURNALS if journal.ai_or_pa_only}
 
 
 SUMMARY_SCHEMA = {
@@ -52,6 +55,7 @@ SUMMARY_SCHEMA = {
             "maxItems": 2,
         },
         "ai_related": {"type": "boolean"},
+        "pa_related": {"type": "boolean"},
         "is_editorial": {"type": "boolean"},
     },
     "required": [
@@ -61,6 +65,7 @@ SUMMARY_SCHEMA = {
         "method_detail",
         "constructs",
         "ai_related",
+        "pa_related",
         "is_editorial",
     ],
     "additionalProperties": False,
@@ -89,6 +94,7 @@ class ArticleSummarizer:
                 "acronyms and use consistent title case for multiword terms. Do not use generic words such as public "
                 "administration or study. Use performance only when it is itself the focal theoretical construct. "
                 + AI_RELATED_RULE
+                + PA_RELATED_RULE
                 + EDITORIAL_RULE
                 + KOREAN_STYLE_RULES
             )
@@ -101,6 +107,7 @@ class ArticleSummarizer:
                 "topic and one or two constructs that are explicit in the title. Set method to '방법 미상' and "
                 "method_detail to an empty string. "
                 + AI_RELATED_RULE
+                + PA_RELATED_RULE
                 + EDITORIAL_RULE
                 + KOREAN_STYLE_RULES
             )
@@ -142,18 +149,23 @@ class ArticleSummarizer:
         article.method = parsed["method"]
         article.method_detail = " ".join(parsed["method_detail"].split()) or None
         article.constructs = [" ".join(item.split()) for item in parsed["constructs"] if item.strip()][:2]
-        # Independent of the batch screen: for AI-only journals the CLI drops papers that this
-        # second, per-paper read does not confirm as AI-related.
+        # Independent of the batch screen: for screened journals the CLI drops papers that this
+        # second, per-paper read does not confirm (AI-related, or for AI-or-PA journals either flag).
         article.ai_related = bool(parsed.get("ai_related", False))
+        article.pa_related = bool(parsed.get("pa_related", False))
         article.is_editorial = bool(parsed.get("is_editorial", False))
 
 
     def select_ai_social(self, articles: list[Article]) -> list[Article]:
-        """Keep only articles whose subject is AI as it bears on politics or psychology.
+        """Keep only the screened journals' articles that fit the reader's interests.
 
-        Used for broad journals (NHB, PNAS, Science, Nature). Candidates are judged in batches on title
-        and abstract, so one call covers a whole week of PNAS.
+        AI-only journals (psychology, NHB, PNAS, Science, Nature) keep articles whose subject is AI as
+        it bears on politics or psychology. AI-or-PA journals (PolBeh, PolComm, POQ, JEPS) also keep
+        articles about public administration. Candidates are judged in batches on title and abstract,
+        so one call covers a whole week of PNAS.
         """
+        ai_or_pa = bool(articles) and articles[0].journal_short in AI_OR_PA_SHORT_NAMES
+        instructions = AI_OR_PA_FILTER_INSTRUCTIONS if ai_or_pa else AI_FILTER_INSTRUCTIONS
         kept: list[Article] = []
         for start in range(0, len(articles), AI_FILTER_BATCH):
             chunk = articles[start : start + AI_FILTER_BATCH]
@@ -165,7 +177,7 @@ class ArticleSummarizer:
                 model=self.model,
                 reasoning={"effort": "low"},
                 input=[
-                    {"role": "system", "content": AI_FILTER_INSTRUCTIONS},
+                    {"role": "system", "content": instructions},
                     {"role": "user", "content": listing},
                 ],
                 text={
@@ -180,7 +192,8 @@ class ArticleSummarizer:
             selected = set(json.loads(response.output_text)["relevant"])
             for index, article in enumerate(chunk):
                 if index in selected:
-                    article.ai_related = True
+                    if not ai_or_pa:
+                        article.ai_related = True
                     kept.append(article)
         return kept
 
@@ -225,6 +238,16 @@ AI_RELATED_RULE = (
     "Set it to false for social-science papers whose subject is something else, such as sleep loss and "
     "phishing, cybersecurity, social media, the internet, digital government or bureaucratic incentives, "
     "unless AI itself is what is being studied."
+)
+PA_RELATED_RULE = (
+    " Set pa_related to true only when public administration or public management is a central "
+    "subject: bureaucracy and bureaucrats, civil servants and public employees, government agencies "
+    "and their performance, public service delivery, street-level or front-line work, policy "
+    "implementation by administrators, red tape and administrative burden, regulation as carried out by "
+    "agencies, representative bureaucracy, or how citizens perceive, trust or interact with public "
+    "agencies and services. Set it to false when the article is about elections, voting, parties, "
+    "candidates, legislatures, campaigns, partisanship, media coverage or public opinion in general and "
+    "public administration is only background."
 )
 EDITORIAL_RULE = (
     " Set is_editorial to true when the item is written by or for the journal's editors rather than "
@@ -277,6 +300,34 @@ AI_FILTER_INSTRUCTIONS = (
     "news stories, editorials, comments, perspectives, opinion and policy-forum pieces, News & Views, "
     "replies and letters, Q&As, research highlights, obituaries and book reviews. "
     "When unsure, exclude. Return an empty list when nothing qualifies."
+)
+AI_OR_PA_FILTER_INSTRUCTIONS = (
+    "You screen new articles from political behaviour, political communication and public opinion "
+    "journals for a public administration scholar who also studies AI from a social-science "
+    "perspective. Return the indices of articles that meet AT LEAST ONE condition:\n"
+    "A. AI: AI itself (large language models, chatbots, generative AI, AI agents, algorithms or "
+    "algorithmic decision-making, recommender systems, automation by AI) is what the article studies, "
+    "and people or society are studied in relation to it, for example AI-written persuasion, "
+    "AI-generated misinformation, public attitudes toward AI, or LLMs simulating survey respondents.\n"
+    "B. Public administration: bureaucracy and bureaucrats, civil servants and public employees, "
+    "government agencies and their performance, public service delivery, street-level or front-line "
+    "work, policy implementation, red tape and administrative burden, representative bureaucracy, or how "
+    "citizens perceive, trust or interact with public agencies and services.\n"
+    "Exclude articles about elections, voting, turnout, parties, candidates, legislatures, campaigns, "
+    "partisanship, polarization, media coverage or public opinion in general when neither AI nor public "
+    "administration is a central subject. Exclude articles that use machine learning or an LLM only as a "
+    "measurement tool, for example to code texts or survey answers.\n\n"
+    "Typical articles to keep:\n"
+    "- Citizens' trust in government agencies after a service failure (B).\n"
+    "- A survey experiment on how administrative burden shapes take-up of public benefits (B).\n"
+    "- Partisan bias in how voters judge bureaucrats' performance (B).\n"
+    "- AI-written political messages persuading voters (A).\n\n"
+    "Typical articles to exclude:\n"
+    "- Negative campaign ads and turnout in US House races.\n"
+    "- Affective polarization on social media.\n"
+    "- A topic model of party manifestos used to measure ideology.\n\n"
+    "Keep only original research articles and research reviews. When unsure, exclude. Return an empty "
+    "list when nothing qualifies."
 )
 
 

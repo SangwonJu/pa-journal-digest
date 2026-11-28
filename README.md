@@ -43,10 +43,10 @@ The same numbers are recorded next to each journal in `src/pa_digest/config.py`.
 | | APSR | American Political Science Review | 5.433 | Political Science & IR #2/725 | 1 |
 | | PolAnalysis | Political Analysis | 4.368 | Political Science & IR #3/725 | 1 |
 | | JOP | The Journal of Politics | 3.492 | Sociology & Political Science #15/1513 | 2 |
-| | PolBeh | Political Behavior | 2.955 | Sociology & Political Science #26/1513 | 2 |
-| | PolComm | Political Communication | 2.907 | Sociology & Political Science #27/1513 | 2 |
-| | POQ | Public Opinion Quarterly | 2.191 | Sociology & Political Science #43/1513 | 2 |
-| | JEPS | Journal of Experimental Political Science | 2.016 | Sociology & Political Science #50/1513 | 2 |
+| | PolBeh | Political Behavior (AI or public administration articles only) | 2.955 | Sociology & Political Science #26/1513 | 2 |
+| | PolComm | Political Communication (AI or public administration articles only) | 2.907 | Sociology & Political Science #27/1513 | 2 |
+| | POQ | Public Opinion Quarterly (AI or public administration articles only) | 2.191 | Sociology & Political Science #43/1513 | 2 |
+| | JEPS | Journal of Experimental Political Science (AI or public administration articles only) | 2.016 | Sociology & Political Science #50/1513 | 2 |
 | Management & organizations | AMA | Academy of Management Annals | 14.367 | Organizational Behavior & HRM #2/262 | 1 |
 | | AMJ | Academy of Management Journal | 10.781 | Strategy & Management #3/518 | 1 |
 | | SMJ | Strategic Management Journal | 10.154 | Strategy & Management #4/518 | 1 |
@@ -83,6 +83,8 @@ for AI relevance at the summary stage, and are sent only when both judgments are
 four journals, news, commentary (Comment, Perspective, News & Views), replies (Reply to), and
 editorials are also dropped, leaving only original research and review articles. Nature articles
 with `10.1038/d41586-` DOIs are all news or commentary and are excluded.
+
+PolBeh, PolComm, POQ, and JEPS are screened the same way, with a different rule: an article is kept when it studies AI in relation to people or society, or when public administration is a central subject (bureaucracy and civil servants, government agencies, public service delivery, policy implementation, administrative burden, or how citizens perceive and interact with public agencies). Articles on elections, voting, parties, campaigns, partisanship, or public opinion in general are dropped unless AI or public administration is central. Here too, the summary stage judges each article again, and it is sent only when that second check also says it is about AI or public administration.
 
 The newsletter groups sections by field and lists journals in the order of the table above. A
 journal with no new articles on a given day does not appear in that day's email. On days with no

@@ -217,7 +217,7 @@ class MetadataClient:
         found: dict[str, Article] = {}
         for journal in JOURNALS:
             articles = self._crossref_journal(journal, start, end)
-            if journal.ai_social_only:
+            if journal.ai_social_only or journal.ai_or_pa_only:
                 # Screen before metadata enrichment so off-topic PNAS papers cost no extra calls.
                 # Without a filter, broad journals are skipped rather than flooding the digest.
                 articles = relevance_filter(articles) if relevance_filter and articles else []
