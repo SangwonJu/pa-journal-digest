@@ -34,7 +34,11 @@ def test_render_includes_escaped_content_and_fallback_notice() -> None:
     assert "background:#ffffff" in html
     assert "#f6f4ef" not in html
     assert "border-left" not in html
-    assert "border:1px solid #1f5f8b" in html
+    # Field heading is a solid band in the field colour; the Korean summary sits on its tint.
+    assert "background:#1f5f8b;border-radius:6px" in html
+    assert "background:#e6eff6;border-radius:6px" in html
+    assert "PA Journal Daily Digest" in html
+    assert "&nbsp;&nbsp;&nbsp;&nbsp;</b>" not in html
     assert "text-transform:uppercase" not in html
     assert "text-align:justify" not in html
     assert ">시민·민주성</b>" in html
@@ -149,11 +153,11 @@ def test_render_groups_sections_by_field() -> None:
     ]
     _, html, text = render_newsletter(articles, date(2026, 8, 7))
 
-    fields = ["행정·정책", "정치학", "경영·조직", "심리학"]
+    fields = ["행정·정책", "정치학", "경영·조직", "AI 심리"]
     positions = [html.index(f">{field}</td>") for field in fields]
     assert positions == sorted(positions)
     assert "정보시스템" not in html
-    assert text.index("■ 행정·정책") < text.index("■ 심리학")
+    assert text.index("■ 행정·정책") < text.index("■ AI 심리")
 
 
 def test_render_marks_ai_related_papers() -> None:
@@ -174,5 +178,8 @@ def test_render_marks_ai_related_papers() -> None:
     assert html.count(">🤖 AI</b> ") == 1
     assert "🤖 AI 1편" in html
     assert "[🤖 AI] 한국어 요약" in text
-    assert "border:1px solid #8c3a5b;background:#f5e8ee" in html
+    assert "background:#8c3a5b;border-radius:6px" in html
+    assert "background:#f5e8ee;border-radius:6px" in html
+    # With papers there is no count sentence; the field index carries the numbers.
+    assert "들어왔습니다" not in html
     assert "border:3px solid" not in html

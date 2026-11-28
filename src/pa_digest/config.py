@@ -97,12 +97,20 @@ JOURNALS: tuple[Journal, ...] = (
     Journal("JOB", "Journal of Organizational Behavior", ("0894-3796", "1099-1379"), 2),
     # SJR 3.152; Organizational Behavior & HRM #15/262
     Journal("OBHDP", "Organizational Behavior and Human Decision Processes", ("0749-5978", "1095-9920"), 2),
+    # SJR 19.713; Multidisciplinary #1/233
+    Journal("Nature", "Nature", ("0028-0836", "1476-4687"), 1, ai_social_only=True),
+    # SJR 10.948; Multidisciplinary #2/233
+    Journal("Science", "Science", ("0036-8075", "1095-9203"), 1, ai_social_only=True),
     # SJR 8.496; Psychology (misc.) #2/347
     Journal("PsychBull", "Psychological Bulletin", ("0033-2909", "1939-1455"), 1, ai_social_only=True),
     # SJR 6.292; Social Psychology #2/318
     Journal("PSPR", "Personality and Social Psychology Review", ("1088-8683", "1532-7957"), 1, ai_social_only=True),
+    # SJR 4.896; Social Psychology #3/318
+    Journal("NHB", "Nature Human Behaviour", ("2397-3374",), 2, ai_social_only=True),
     # SJR 3.767; Social Psychology #4/318
     Journal("JPSP", "Journal of Personality and Social Psychology", ("0022-3514", "1939-1315"), 2, ai_social_only=True),
+    # SJR 3.283; Multidisciplinary #7/233
+    Journal("PNAS", "Proceedings of the National Academy of Sciences", ("0027-8424", "1091-6490"), 2, ai_social_only=True),
     # SJR 3.072; Human-Computer Interaction #5/204, Psychology (misc.) #11/347
     Journal("CHB", "Computers in Human Behavior", ("0747-5632",), 2, ai_social_only=True),
     # SJR 2.309; Psychology (misc.) #17/347
@@ -117,14 +125,6 @@ JOURNALS: tuple[Journal, ...] = (
     Journal("ISR", "Information Systems Research", ("1047-7047", "1526-5536"), 1),
     # SJR 4.061; Management Information Systems #3/144
     Journal("MISQ", "MIS Quarterly", ("0276-7783", "2162-9730"), 1),
-    # SJR 19.713; Multidisciplinary #1/233
-    Journal("Nature", "Nature", ("0028-0836", "1476-4687"), 1, ai_social_only=True),
-    # SJR 10.948; Multidisciplinary #2/233
-    Journal("Science", "Science", ("0036-8075", "1095-9203"), 1, ai_social_only=True),
-    # SJR 4.896; Social Psychology #3/318
-    Journal("NHB", "Nature Human Behaviour", ("2397-3374",), 2, ai_social_only=True),
-    # SJR 3.283; Multidisciplinary #7/233
-    Journal("PNAS", "Proceedings of the National Academy of Sciences", ("0027-8424", "1091-6490"), 2, ai_social_only=True),
 )
 
 JOURNAL_BY_NAME = {journal.name: journal for journal in JOURNALS}
@@ -133,7 +133,7 @@ JOURNAL_TIER = {journal.name: journal.tier for journal in JOURNALS}
 
 # Fields group the newsletter into the reader's disciplines. The order here is
 # the order of sections in the email; within a field, journals keep JOURNALS order.
-FIELDS: tuple[str, ...] = ("행정·정책", "정치학", "경영·조직", "심리학", "정보시스템", "AI·사회과학")
+FIELDS: tuple[str, ...] = ("행정·정책", "정치학", "경영·조직", "AI 심리", "정보시스템")
 _FIELD_BY_SHORT = {
     **dict.fromkeys(
         ("JPART", "PAR", "PPMG", "JPAM", "PMR", "PA", "ARPA", "PSJ", "IPMJ",
@@ -145,10 +145,10 @@ _FIELD_BY_SHORT = {
     ),
     **dict.fromkeys(("AMJ", "AMR", "AMA", "JOB", "JOM", "SMJ", "OrgSci", "OBHDP", "JAP"), "경영·조직"),
     **dict.fromkeys(
-        ("JPSP", "PSPB", "PsychSci", "PsychBull", "PSPR", "JESP", "SPPS", "CHB"), "심리학"
+        ("JPSP", "PSPB", "PsychSci", "PsychBull", "PSPR", "JESP", "SPPS", "CHB", "NHB", "PNAS", "Science", "Nature"),
+        "AI 심리",
     ),
     **dict.fromkeys(("MISQ", "ISR"), "정보시스템"),
-    **dict.fromkeys(("NHB", "PNAS", "Science", "Nature"), "AI·사회과학"),
 }
 JOURNAL_FIELD = {journal.name: _FIELD_BY_SHORT[journal.short_name] for journal in JOURNALS}
 

@@ -57,9 +57,13 @@ The same numbers are recorded next to each journal in `src/pa_digest/config.py`.
 | | JAP | Journal of Applied Psychology | 5.473 | Applied Psychology #3/270 | 2 |
 | | JOB | Journal of Organizational Behavior | 3.999 | Organizational Behavior & HRM #12/262 | 2 |
 | | OBHDP | Organizational Behavior and Human Decision Processes | 3.152 | Organizational Behavior & HRM #15/262 | 2 |
-| Psychology (AI-related articles only) | PsychBull | Psychological Bulletin | 8.496 | Psychology (misc.) #2/347 | 1 |
+| Psychology of AI (AI-related articles only) | Nature | Nature | 19.713 | Multidisciplinary #1/233 | 1 |
+| | Science | Science | 10.948 | Multidisciplinary #2/233 | 1 |
+| | PsychBull | Psychological Bulletin | 8.496 | Psychology (misc.) #2/347 | 1 |
 | | PSPR | Personality and Social Psychology Review | 6.292 | Social Psychology #2/318 | 1 |
+| | NHB | Nature Human Behaviour | 4.896 | Social Psychology #3/318 | 2 |
 | | JPSP | Journal of Personality and Social Psychology | 3.767 | Social Psychology #4/318 | 2 |
+| | PNAS | Proceedings of the National Academy of Sciences | 3.283 | Multidisciplinary #7/233 | 2 |
 | | CHB | Computers in Human Behavior | 3.072 | Human-Computer Interaction #5/204 | 2 |
 | | PsychSci | Psychological Science | 2.309 | Psychology (misc.) #17/347 | 2 |
 | | SPPS | Social Psychological and Personality Science | 2.179 | Social Psychology #11/318 | 2 |
@@ -67,10 +71,6 @@ The same numbers are recorded next to each journal in `src/pa_digest/config.py`.
 | | JESP | Journal of Experimental Social Psychology | 1.896 | Social Psychology #15/318 | 2 |
 | Information systems | ISR | Information Systems Research | 5.679 | Management Information Systems #2/144 | 1 |
 | | MISQ | MIS Quarterly | 4.061 | Management Information Systems #3/144 | 1 |
-| AI & social science (AI-related political and psychological articles only) | Nature | Nature | 19.713 | Multidisciplinary #1/233 | 1 |
-| | Science | Science | 10.948 | Multidisciplinary #2/233 | 1 |
-| | NHB | Nature Human Behaviour | 4.896 | Social Psychology #3/318 | 2 |
-| | PNAS | Proceedings of the National Academy of Sciences | 3.283 | Multidisciplinary #7/233 | 2 |
 
 NHB, PNAS, Science, and Nature cover very broad ground, and for the psychology journals (Psychological
 Bulletin, PSPR, JPSP, Computers in Human Behavior, Psychological Science, SPPS, PSPB, JESP) only
