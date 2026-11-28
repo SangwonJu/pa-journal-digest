@@ -117,7 +117,7 @@ def test_render_orders_journals_by_field_rank() -> None:
         "The American Review of Public Administration"
     )
     assert "Tier 1, 1편" in html
-    assert "Tier 2, 1편" in html
+    assert "Tier 3, 1편" in html
 
 
 def test_render_empty_digest_includes_daily_confirmation() -> None:

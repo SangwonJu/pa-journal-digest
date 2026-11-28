@@ -1,99 +1,127 @@
 # PA Journal Digest
 
-매일 미국 동부시간 오전 7:00 수신을 목표로 주요 행정학·정치학 저널의 최근 온라인 출간 논문을 확인하고,
-새 논문이 있을 때만 저자·공개 소속 정보, 영문 초록, 한국어 1–2문장 요약을 이메일로 보냅니다.
-각 논문에는 연구영역·연구방법·핵심 개념을 3–4개의 간결한 태그로 함께 표시합니다. 방법 태그는
-`서베이 (패널 설문)`, `준실험 (이중차분)`, `이론/개념 (개념적 모형)`처럼 표시합니다.
-신규 논문이 없는 날에도 확인 완료 안내 메일을 한 번 발송합니다.
+Every day, aiming for delivery by 7:00 a.m. US Eastern Time, this project checks major public
+administration and political science journals for recently published online articles. When there
+are new articles, it emails each one with its authors and their public affiliations, the English
+abstract, and a one- to two-sentence summary in Korean.
+Each article also carries three or four short tags for its research area, method, and key concepts.
+Method tags look like `서베이 (패널 설문)` (survey, panel), `준실험 (이중차분)` (quasi-experiment,
+difference-in-differences), or `이론/개념 (개념적 모형)` (theory/conceptual, conceptual model).
+On days with no new articles, it still sends one email confirming that the check ran.
 
 ## Monitored journals
 
-| Short name | Journal | Tier |
-|---|---|---:|
-| JPART | Journal of Public Administration Research and Theory | 1 |
-| PAR | Public Administration Review | 1 |
-| PPMG | Perspectives on Public Management and Governance | 1 |
-| JPAM | Journal of Policy Analysis and Management | 1 |
-| AJPS | American Journal of Political Science | 1 |
-| APSR | American Political Science Review | 1 |
-| JOP | The Journal of Politics | 1 |
-| PolAnalysis | Political Analysis | 1 |
-| PMR | Public Management Review | 2 |
-| PA | Public Administration | 2 |
-| ARPA | The American Review of Public Administration | 2 |
-| PSJ | Policy Studies Journal | 2 |
-| IPMJ | International Public Management Journal | 2 |
-| PolBeh | Political Behavior | 2 |
-| POQ | Public Opinion Quarterly | 2 |
-| PolComm | Political Communication | 2 |
-| PPMR | Public Performance & Management Review | 3 |
-| GIQ | Government Information Quarterly | 3 |
-| Governance | Governance | 3 |
-| A&S | Administration & Society | 3 |
-| ROPPA | Review of Public Personnel Administration | 3 |
-| JAP | Journal of Applied Psychology | 1 |
-| AMJ | Academy of Management Journal | 1 |
-| AMR | Academy of Management Review | 1 |
-| AMA | Academy of Management Annals | 1 |
-| JOB | Journal of Organizational Behavior | 2 |
-| JOM | Journal of Management | 1 |
-| JPSP | Journal of Personality and Social Psychology (AI 관련 논문만) | 1 |
-| PSPB | Personality and Social Psychology Bulletin (AI 관련 논문만) | 2 |
-| PsychSci | Psychological Science (AI 관련 논문만) | 1 |
-| PsychBull | Psychological Bulletin (AI 관련 논문만) | 1 |
-| MISQ | MIS Quarterly | 1 |
-| ISR | Information Systems Research | 1 |
-| SMJ | Strategic Management Journal | 1 |
-| OrgSci | Organization Science | 1 |
-| JBPA | Journal of Behavioral Public Administration | 2 |
-| JEPS | Journal of Experimental Political Science | 2 |
-| OBHDP | Organizational Behavior and Human Decision Processes | 1 |
-| NHB | Nature Human Behaviour (AI 관련 정치·심리 논문만) | 1 |
-| PNAS | Proceedings of the National Academy of Sciences (AI 관련 정치·심리 논문만) | 1 |
-| Science | Science (AI 관련 정치·심리 논문만) | 1 |
-| Nature | Nature (AI 관련 정치·심리 논문만) | 1 |
+Tiers follow SCImago Journal Rank (SJR) 2025, retrieved on 2026-11-28 from
+[scimagojr.com](https://www.scimagojr.com/) (Scopus data as of March 2026). The rank column is the
+journal's position in its main SCImago subject category. Within each field:
 
-NHB, PNAS, Science, Nature는 게재 범위가 넓어서, 심리학 저널(JPSP, PSPB, Psychological Science, Psychological Bulletin)은 AI 관련 연구만 보기 위해 전체를 받지 않습니다. 매일 후보 논문의 제목과 초록을
-`OPENAI_MODEL`에 묶어 보내, AI가 중심 주제이면서 정치·정부·여론·설득·신념·신뢰 등 정치학이나
-심리학 질문을 다루는 논문만 남깁니다. 판정 기준의 대표 사례는 Costello·Pennycook·Rand의 LLM 대화를
-통한 음모론 믿음 감소 연구와 Myra Cheng 등의 LLM 아첨(sycophancy) 연구입니다. 머신러닝을 측정 도구로만
-쓴 연구나 생물·의학·물리 분야 AI 연구는 제외합니다. AI를 다루지 않는 사회과학 논문(예: 수면 부족과 피싱,
-중국 한 자녀 정책의 관료 인센티브)도 제외합니다. 이 선별을 통과한 논문은 요약 단계에서 논문별로 한 번 더
-AI 관련 여부를 판정하고, 두 판정이 모두 '예'일 때만 보냅니다. 이 네 저널에서는 뉴스, 논평(Comment, Perspective,
-News & Views), 답글(Reply to), 편집자 글도 빼고 원저 연구와 리뷰 논문만 남깁니다. Nature의 `10.1038/d41586-`
-DOI 기사는 모두 뉴스·논평이라 제외합니다.
+- **Tier 1**: the top few journals of the field, cut where SJR drops sharply. Public administration
+  journals are ranked within SCImago's Public Administration category.
+- **Tier 2**: other Q1 journals with SJR ≥ 1.5.
+- **Tier 3**: SJR below 1.5, or not indexed in Scopus.
 
-뉴스레터에서는 위 표의 순서대로 섹션을 배치하며, 특정 날짜에 신규 논문이 없는 저널은
-해당 날짜의 메일에 표시하지 않습니다. 신규 논문이 전혀 없는 날에는 확인 완료 안내만 보냅니다.
+The same numbers are recorded next to each journal in `src/pa_digest/config.py`.
+
+| Field | Short name | Journal | SJR 2025 | Rank in SCImago category | Tier |
+|---|---|---|---:|---|---:|
+| Public administration & policy | PAR | Public Administration Review | 3.305 | Public Administration #2/246 | 1 |
+| | JPART | Journal of Public Administration Research and Theory | 3.301 | Public Administration #3/246 | 1 |
+| | PA | Public Administration | 2.723 | Public Administration #4/246 | 2 |
+| | PMR | Public Management Review | 2.540 | Public Administration #5/246 | 2 |
+| | GIQ | Government Information Quarterly | 3.575 | Sociology & Political Science #13/1513 (not in Public Administration) | 2 |
+| | PPMG | Perspectives on Public Management and Governance | 1.988 | Public Administration #8/246 | 2 |
+| | ROPPA | Review of Public Personnel Administration | 1.952 | Public Administration #9/246 | 2 |
+| | JPAM | Journal of Policy Analysis and Management | 1.741 | Public Administration #12/246 | 2 |
+| | Governance | Governance | 1.581 | Public Administration #13/246 | 2 |
+| | PSJ | Policy Studies Journal | 1.363 | Public Administration #20/246 | 3 |
+| | IPMJ | International Public Management Journal | 1.226 | Public Administration #27/246 | 3 |
+| | ARPA | The American Review of Public Administration | 1.221 | Public Administration #28/246 | 3 |
+| | PPMR | Public Performance & Management Review | 1.097 | Public Administration #34/246 | 3 |
+| | A&S | Administration & Society | 1.073 | Public Administration #37/246 | 3 |
+| | JBPA | Journal of Behavioral Public Administration | — | Not indexed in Scopus | 3 |
+| Political science | AJPS | American Journal of Political Science | 6.539 | Political Science & IR #1/725 | 1 |
+| | APSR | American Political Science Review | 5.433 | Political Science & IR #2/725 | 1 |
+| | PolAnalysis | Political Analysis | 4.368 | Political Science & IR #3/725 | 1 |
+| | JOP | The Journal of Politics | 3.492 | Sociology & Political Science #15/1513 | 2 |
+| | PolBeh | Political Behavior | 2.955 | Sociology & Political Science #26/1513 | 2 |
+| | PolComm | Political Communication | 2.907 | Sociology & Political Science #27/1513 | 2 |
+| | POQ | Public Opinion Quarterly | 2.191 | Sociology & Political Science #43/1513 | 2 |
+| | JEPS | Journal of Experimental Political Science | 2.016 | Sociology & Political Science #50/1513 | 2 |
+| Management & organizations | AMA | Academy of Management Annals | 14.367 | Organizational Behavior & HRM #2/262 | 1 |
+| | AMJ | Academy of Management Journal | 10.781 | Strategy & Management #3/518 | 1 |
+| | SMJ | Strategic Management Journal | 10.154 | Strategy & Management #4/518 | 1 |
+| | AMR | Academy of Management Review | 9.996 | Strategy & Management #5/518 | 1 |
+| | JOM | Journal of Management | 8.251 | Strategy & Management #6/518 | 2 |
+| | OrgSci | Organization Science | 7.929 | Organizational Behavior & HRM #3/262 | 2 |
+| | JAP | Journal of Applied Psychology | 5.473 | Applied Psychology #3/270 | 2 |
+| | JOB | Journal of Organizational Behavior | 3.999 | Organizational Behavior & HRM #12/262 | 2 |
+| | OBHDP | Organizational Behavior and Human Decision Processes | 3.152 | Organizational Behavior & HRM #15/262 | 2 |
+| Psychology (AI-related articles only) | PsychBull | Psychological Bulletin | 8.496 | Psychology (misc.) #2/347 | 1 |
+| | JPSP | Journal of Personality and Social Psychology | 3.767 | Social Psychology #4/318 | 2 |
+| | PsychSci | Psychological Science | 2.309 | Psychology (misc.) #17/347 | 2 |
+| | PSPB | Personality and Social Psychology Bulletin | 2.086 | Social Psychology #13/318 | 2 |
+| Information systems | ISR | Information Systems Research | 5.679 | Management Information Systems #2/144 | 1 |
+| | MISQ | MIS Quarterly | 4.061 | Management Information Systems #3/144 | 1 |
+| AI & social science (AI-related political and psychological articles only) | Nature | Nature | 19.713 | Multidisciplinary #1/233 | 1 |
+| | Science | Science | 10.948 | Multidisciplinary #2/233 | 1 |
+| | NHB | Nature Human Behaviour | 4.896 | Social Psychology #3/318 | 2 |
+| | PNAS | Proceedings of the National Academy of Sciences | 3.283 | Multidisciplinary #7/233 | 2 |
+
+NHB, PNAS, Science, and Nature cover very broad ground, and for the psychology journals (JPSP, PSPB,
+Psychological Science, Psychological Bulletin) only AI-related research is wanted, so these journals
+are not taken in full. Each day the titles and abstracts of the candidate articles are sent together
+to `OPENAI_MODEL`, which keeps only articles where AI is the central topic and the paper addresses a
+political science or psychology question such as politics, government, public opinion, persuasion,
+beliefs, or trust. Reference examples for this judgment are the study by Costello, Pennycook, and
+Rand on reducing conspiracy beliefs through conversations with an LLM, and the study by Myra Cheng
+and colleagues on LLM sycophancy. Studies that use machine learning only as a measurement tool, and
+AI research in biology, medicine, or physics (for example, a chromatin biology assessment of
+AlphaFold3), are excluded by both checks. Social science articles that are not
+about AI (for example, sleep deprivation and phishing, or bureaucratic incentives under China's
+one-child policy) are also excluded. Articles that pass this screen are judged again, one by one,
+for AI relevance at the summary stage, and are sent only when both judgments are "yes". For these
+four journals, news, commentary (Comment, Perspective, News & Views), replies (Reply to), and
+editorials are also dropped, leaving only original research and review articles. Nature articles
+with `10.1038/d41586-` DOIs are all news or commentary and are excluded.
+
+The newsletter groups sections by field and lists journals in the order of the table above. A
+journal with no new articles on a given day does not appear in that day's email. On days with no
+new articles at all, only the confirmation notice is sent.
 
 ## How it works
 
-1. Crossref에서 각 저널의 ISSN과 최근 7일 출간일을 기준으로 논문을 찾습니다.
-2. Crossref에 초록이나 저자 소속이 없으면 Semantic Scholar와 OpenAlex의 공개 메타데이터를 확인합니다.
-   초록이 불완전하면 없는 것으로 보고 다음 출처를 찾습니다. 50단어 미만, `...`로 잘린 스니펫, 문장 중간에서 시작하는
-   조각, 초록 대신 긁힌 이미지 주소가 여기에 해당합니다. 온전한 초록을 찾지 못한 논문은 보내지 않고 대기 목록에
-   두었다가 나중에 초록이 생기면 보냅니다.
-3. 명백한 서평, 정정, 철회, 목차는 제외합니다. 사설(editorial), 편집자 노트, 특집호·심포지엄 소개글도
-   제목으로 먼저 거르고, 제목으로 안 걸린 것은 요약 단계에서 OpenAI가 판정해 뺍니다. 이렇게 뺀 글은
-   `data/state.json`의 `skipped`에 기록해 다시 요약하지 않습니다.
-4. OpenAI가 초록에 근거한 한국어 요약과 분야·방법론·핵심 개념 태그를 생성합니다.
-5. Resend가 HTML 및 일반 텍스트 뉴스레터를 발송합니다.
-6. `data/state.json`에 DOI 기반 발송 원장을 기록하여 같은 논문을 다시 보내지 않습니다.
+1. Crossref is queried for each journal's articles by ISSN and a publication date within the last
+   seven days.
+2. If Crossref lacks an abstract or author affiliations, public metadata from Semantic Scholar and
+   OpenAlex is checked. An incomplete abstract is treated as missing and the next source is tried:
+   fewer than 50 words, a snippet cut off with `...`, a fragment starting mid-sentence, or an image
+   URL scraped in place of the abstract. Articles without a complete abstract are not sent; they are
+   held on a waiting list and sent later once an abstract becomes available.
+3. Obvious book reviews, corrections, retractions, and tables of contents are excluded. Editorials,
+   editor's notes, and special-issue or symposium introductions are first filtered by title; any
+   that the title filter misses are identified and dropped by OpenAI at the summary stage. Items
+   dropped this way are recorded under `skipped` in `data/state.json` so they are not summarized
+   again.
+4. OpenAI writes a Korean summary grounded in the abstract, plus field, method, and key-concept tags.
+5. Resend sends the newsletter as HTML and plain text.
+6. A DOI-based delivery ledger is written to `data/state.json` so the same article is never sent
+   twice.
 
 ## GitHub setup
 
-Repository **Settings → Secrets and variables → Actions**에서 다음 값을 등록합니다.
+Add the following under the repository's **Settings → Secrets and variables → Actions**.
 
 ### Secrets
 
 | Name | Value |
 |---|---|
-| `OPENAI_API_KEY` | 새로 발급한 OpenAI API 키 |
-| `RESEND_API_KEY` | Resend API 키 |
-| `CROSSREF_MAILTO` | Crossref polite-pool 연락처 이메일 |
-| `NEWSLETTER_TO` | 뉴스레터 수신 이메일 |
+| `OPENAI_API_KEY` | A newly issued OpenAI API key |
+| `RESEND_API_KEY` | Resend API key |
+| `CROSSREF_MAILTO` | Contact email for the Crossref polite pool |
+| `NEWSLETTER_TO` | Email address that receives the newsletter |
 
-API 키를 코드, 커밋, Issue, 채팅에 붙여 넣지 마세요. 노출된 키는 폐기하고 새 키를 발급해야 합니다.
+Never paste API keys into code, commits, issues, or chats. If a key is exposed, revoke it and issue
+a new one.
 
 ### Variables (optional)
 
@@ -102,48 +130,57 @@ API 키를 코드, 커밋, Issue, 채팅에 붙여 넣지 마세요. 노출된 �
 | `OPENAI_MODEL` | `gpt-6-luna` |
 | `NEWSLETTER_FROM` | `PA Journal Digest <onboarding@resend.dev>` |
 
-`onboarding@resend.dev`는 Resend 계정에 등록된 본인 이메일로만 보낼 수 있습니다. 다른 주소로
-발송하려면 Resend에서 소유 도메인을 인증하고 `NEWSLETTER_FROM`을 해당 도메인 주소로 변경하세요.
+`onboarding@resend.dev` can only send to your own email address registered with your Resend
+account. To send to other addresses, verify a domain you own in Resend and change `NEWSLETTER_FROM`
+to an address on that domain.
 
-저장소 **Settings → Actions → General → Workflow permissions**에서 **Read and write permissions**가
-허용되어야 Actions가 발송 원장을 커밋할 수 있습니다.
+Under the repository's **Settings → Actions → General → Workflow permissions**, **Read and write
+permissions** must be allowed so that Actions can commit the delivery ledger.
 
 ## First run
 
-1. Actions 탭에서 **Daily PA Journal Digest**를 선택합니다.
-2. **Run workflow**에서 `dry_run=true`로 실행합니다.
-3. 실행 artifact의 `newsletter.html`을 확인합니다.
-4. 문제가 없으면 `dry_run=false`로 다시 실행합니다. 최초 실발송에는 최근 7일 논문이 포함됩니다.
+1. In the Actions tab, select **Daily PA Journal Digest**.
+2. Under **Run workflow**, run it with `dry_run=true`.
+3. Check `newsletter.html` in the run's artifact.
+4. If everything looks right, run it again with `dry_run=false`. The first real delivery includes
+   articles from the last seven days.
 
-새 논문이 없으면 `오늘은 새로 확인된 논문이 없습니다`라는 안내 메일을 보냅니다. 예약 실행은 GitHub Actions 부하에 따라 다소 늦어질 수 있습니다.
+If there are no new articles, a notice email saying `오늘은 새로 확인된 논문이 없습니다` ("No new
+articles were found today") is sent. Scheduled runs can be delayed depending on GitHub Actions load.
 
-이미 발송한 최신 배치를 현재 디자인으로 다시 보내야 할 때만 수동 실행의 `resend_latest`를 켭니다.
-최근 기간(`lookback_days`)을 현재 필터로 처음부터 다시 정리해 보내려면 `include_sent`를 켭니다. 이미 보낸
-논문도 다시 선별하고 요약하며, 정기 발송 횟수에는 포함되지 않습니다.
-예약 실행에서는 이 옵션이 항상 꺼져 있어 일상적인 중복 발송에는 영향을 주지 않습니다.
+Turn on `resend_latest` in a manual run only when the latest batch that was already sent needs to be
+sent again with the current design. To rebuild and resend the recent window (`lookback_days`) from
+scratch with the current filters, turn on `include_sent`. This re-screens and re-summarizes articles
+that were already sent, and it does not count toward the regular daily delivery.
+Scheduled runs always have these options turned off, so they do not affect routine duplicate
+protection.
 
 ## Duplicate-safety recovery
 
-발송 요청 후 원장 커밋 전에 작업이 중단되면 배치가 `prepared` 상태로 남습니다. 24시간 안에는 같은
-Resend idempotency key로 안전하게 재시도합니다. 24시간이 지나면 자동 전송을 중단합니다.
+If a job stops after the send request but before the ledger commit, the batch is left in the
+`prepared` state. Within 24 hours it is retried safely with the same Resend idempotency key. After 24
+hours, automatic sending stops.
 
-최근 GitHub 예약 실행의 최대 지연 폭을 반영해 워크플로는 동부시간 1:15, 1:35, 1:55에
-세 번 예약됩니다. 새 예약이 시작되면 아직 실행 중인 이전 예약은 취소해 실행이 밀려 쌓이지
-않도록 합니다. 첫 성공만 발송하고 이후 실행은 하루 1회 가드로 종료됩니다.
+GitHub has been starting scheduled runs 7–12 hours late (in late November 2026, emails arrived
+between about 9:30 a.m. and 1:40 p.m. ET), so the workflow is scheduled three times, at 12:05,
+12:25, and 12:45 a.m. Eastern Time, just after midnight so that every run still falls on the same
+Eastern date. The cron entries use `timezone: "America/New_York"`, so they follow daylight saving
+time. When a new scheduled run starts, any earlier run still in progress is cancelled so runs do
+not pile up. Only the first successful run sends; later runs exit through the once-a-day guard.
 
-Resend 대시보드에서 배달되지 않았음을 확인한 경우:
+If you confirm in the Resend dashboard that the email was not delivered:
 
 ```bash
 pa-digest resolve-batch BATCH_ID retry --confirmed-not-delivered
 ```
 
-이미 배달된 것이 확인된 경우:
+If you confirm that it was delivered:
 
 ```bash
 pa-digest resolve-batch BATCH_ID mark-sent
 ```
 
-변경된 `data/state.json`을 커밋한 뒤 workflow를 다시 실행합니다.
+Then commit the changed `data/state.json` and run the workflow again.
 
 ## Local checks
 
@@ -152,7 +189,7 @@ python -m pip install -e ".[test]"
 pytest
 ```
 
-로컬 미리보기에는 실제 메타데이터 및 OpenAI API 키가 필요합니다.
+A local preview needs real metadata access and an OpenAI API key.
 
 ```bash
 pa-digest prepare --dry-run --lookback-days 7
